@@ -3,3 +3,7 @@ dist
 .vercel
 .env.local
 *.swp
+src/data/raw/*.csv
+src/data/raw/mlb/
+src/data/raw/__pycache__/
+*.pyc
