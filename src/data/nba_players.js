@@ -26,6 +26,18 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "A.J. Green",
+    "teams": [
+      "Milwaukee Bucks"
+    ],
+    "college": [
+      "University of Northern Iowa"
+    ],
+    "numbers": [
+      20
+    ]
+  },
+  {
     "name": "A.J. Guyton",
     "teams": [
       "Chicago Bulls",
@@ -41,7 +53,9 @@ export const NBA_PLAYERS = [
   {
     "name": "A.J. Lawson",
     "teams": [
-      "Dallas Mavericks"
+      "Dallas Mavericks",
+      "Minnesota Timberwolves",
+      "Toronto Raptors"
     ],
     "college": [
       "South Carolina"
@@ -82,6 +96,19 @@ export const NBA_PLAYERS = [
       "Purdue"
     ],
     "numbers": []
+  },
+  {
+    "name": "AJ Johnson",
+    "teams": [
+      "Dallas Mavericks",
+      "Milwaukee Bucks",
+      "Washington Wizards"
+    ],
+    "college": [],
+    "numbers": [
+      5,
+      77
+    ]
   },
   {
     "name": "AJ Price",
@@ -175,6 +202,7 @@ export const NBA_PLAYERS = [
     "name": "Aaron Holiday",
     "teams": [
       "Atlanta Hawks",
+      "Houston Rockets",
       "Indiana Pacers",
       "Phoenix Suns"
     ],
@@ -288,6 +316,18 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Ace Bailey",
+    "teams": [
+      "Utah Jazz"
+    ],
+    "college": [
+      "Rutgers University"
+    ],
+    "numbers": [
+      19
+    ]
+  },
+  {
     "name": "Acie Earl",
     "teams": [
       "Milwaukee Bucks"
@@ -313,6 +353,19 @@ export const NBA_PLAYERS = [
       0,
       2,
       4
+    ]
+  },
+  {
+    "name": "Adam Flagler",
+    "teams": [
+      "Oklahoma City Thunder"
+    ],
+    "college": [
+      "Baylor",
+      "Presbyterian College"
+    ],
+    "numbers": [
+      14
     ]
   },
   {
@@ -365,6 +418,18 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Adama Sanogo",
+    "teams": [
+      "Chicago Bulls"
+    ],
+    "college": [
+      "UConn"
+    ],
+    "numbers": [
+      21
+    ]
+  },
+  {
     "name": "Ade Murkey",
     "teams": [
       "Sacramento Kings"
@@ -374,6 +439,18 @@ export const NBA_PLAYERS = [
     ],
     "numbers": [
       31
+    ]
+  },
+  {
+    "name": "Adem Bona",
+    "teams": [
+      "Philadelphia 76ers"
+    ],
+    "college": [
+      "UCLA"
+    ],
+    "numbers": [
+      30
     ]
   },
   {
@@ -427,6 +504,19 @@ export const NBA_PLAYERS = [
     "numbers": [
       7,
       8
+    ]
+  },
+  {
+    "name": "Adou Thiero",
+    "teams": [
+      "Los Angeles Lakers"
+    ],
+    "college": [
+      "Arkansas",
+      "Kentucky"
+    ],
+    "numbers": [
+      1
     ]
   },
   {
@@ -488,6 +578,18 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Ajay Mitchell",
+    "teams": [
+      "Oklahoma City Thunder"
+    ],
+    "college": [
+      "UC Santa Barbara"
+    ],
+    "numbers": [
+      25
+    ]
+  },
+  {
     "name": "Al Harrington",
     "teams": [
       "Atlanta Hawks",
@@ -511,6 +613,7 @@ export const NBA_PLAYERS = [
     "teams": [
       "Atlanta Hawks",
       "Boston Celtics",
+      "Golden State Warriors",
       "Philadelphia 76ers"
     ],
     "college": [
@@ -640,6 +743,7 @@ export const NBA_PLAYERS = [
     "name": "Alec Burks",
     "teams": [
       "Detroit Pistons",
+      "Miami Heat",
       "New York Knicks",
       "Philadelphia 76ers",
       "Sacramento Kings",
@@ -713,6 +817,7 @@ export const NBA_PLAYERS = [
   {
     "name": "Aleksej Pokusevski",
     "teams": [
+      "Charlotte Hornets",
       "Oklahoma City Thunder"
     ],
     "college": [],
@@ -751,10 +856,21 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Alex Antetokounmpo (TW)",
+    "teams": [
+      "Milwaukee Bucks"
+    ],
+    "college": [],
+    "numbers": [
+      29
+    ]
+  },
+  {
     "name": "Alex Caruso",
     "teams": [
       "Chicago Bulls",
-      "Los Angeles Lakers"
+      "Los Angeles Lakers",
+      "Oklahoma City Thunder"
     ],
     "college": [
       "Texas A&M"
@@ -763,6 +879,33 @@ export const NBA_PLAYERS = [
       4,
       6,
       9
+    ]
+  },
+  {
+    "name": "Alex Ducas",
+    "teams": [
+      "Oklahoma City Thunder"
+    ],
+    "college": [
+      "Saint Mary's"
+    ],
+    "numbers": [
+      88
+    ]
+  },
+  {
+    "name": "Alex Fudge",
+    "teams": [
+      "Dallas Mavericks",
+      "Los Angeles Lakers"
+    ],
+    "college": [
+      "Florida",
+      "LSU"
+    ],
+    "numbers": [
+      3,
+      17
     ]
   },
   {
@@ -793,6 +936,7 @@ export const NBA_PLAYERS = [
     "name": "Alex Len",
     "teams": [
       "Atlanta Hawks",
+      "Los Angeles Lakers",
       "Phoenix Suns",
       "Sacramento Kings",
       "Washington Wizards"
@@ -804,6 +948,19 @@ export const NBA_PLAYERS = [
       21,
       25,
       27
+    ]
+  },
+  {
+    "name": "Alex Morales (TW)",
+    "teams": [
+      "Orlando Magic"
+    ],
+    "college": [
+      "Prince George Community College",
+      "Wagner College"
+    ],
+    "numbers": [
+      30
     ]
   },
   {
@@ -820,6 +977,30 @@ export const NBA_PLAYERS = [
       0,
       5,
       22
+    ]
+  },
+  {
+    "name": "Alex Reese",
+    "teams": [
+      "Oklahoma City Thunder",
+      "Philadelphia 76ers"
+    ],
+    "college": [
+      "Alabama"
+    ],
+    "numbers": [
+      15,
+      65
+    ]
+  },
+  {
+    "name": "Alex Sarr",
+    "teams": [
+      "Washington Wizards"
+    ],
+    "college": [],
+    "numbers": [
+      20
     ]
   },
   {
@@ -901,6 +1082,19 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Alijah Martin (TW)",
+    "teams": [
+      "Toronto Raptors"
+    ],
+    "college": [
+      "Florida",
+      "Florida Atlantic University"
+    ],
+    "numbers": [
+      55
+    ]
+  },
+  {
     "name": "Alize Johnson",
     "teams": [
       "Brooklyn Nets",
@@ -909,6 +1103,7 @@ export const NBA_PLAYERS = [
       "San Antonio Spurs"
     ],
     "college": [
+      "Frank Phillips College",
       "Missouri State"
     ],
     "numbers": [
@@ -988,9 +1183,14 @@ export const NBA_PLAYERS = [
   {
     "name": "Alondes Williams",
     "teams": [
-      "Brooklyn Nets"
+      "BRK",
+      "Brooklyn Nets",
+      "Detroit Pistons",
+      "Miami Heat"
     ],
     "college": [
+      "Oklahoma",
+      "Triton College",
       "Wake Forest"
     ],
     "numbers": [
@@ -1039,6 +1239,16 @@ export const NBA_PLAYERS = [
     ],
     "college": [],
     "numbers": []
+  },
+  {
+    "name": "Alperen \u015eeng\u00fcn",
+    "teams": [
+      "Houston Rockets"
+    ],
+    "college": [],
+    "numbers": [
+      28
+    ]
   },
   {
     "name": "Alton Ford",
@@ -1139,6 +1349,39 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Amari Bailey",
+    "teams": [
+      "Charlotte Hornets"
+    ],
+    "college": [
+      "UCLA"
+    ],
+    "numbers": []
+  },
+  {
+    "name": "Amari Williams",
+    "teams": [
+      "Boston Celtics"
+    ],
+    "college": [
+      "Drexel",
+      "Kentucky"
+    ],
+    "numbers": [
+      77
+    ]
+  },
+  {
+    "name": "Amen Thompson",
+    "teams": [
+      "Houston Rockets"
+    ],
+    "college": [],
+    "numbers": [
+      1
+    ]
+  },
+  {
     "name": "Amida Brimah",
     "teams": [
       "Indiana Pacers"
@@ -1165,7 +1408,8 @@ export const NBA_PLAYERS = [
   {
     "name": "Amir Coffey",
     "teams": [
-      "Los Angeles Clippers"
+      "Los Angeles Clippers",
+      "PHO"
     ],
     "college": [
       "Minnesota"
@@ -1275,10 +1519,12 @@ export const NBA_PLAYERS = [
       "Chicago Bulls",
       "Cleveland Cavaliers",
       "Detroit Pistons",
-      "Los Angeles Lakers"
+      "Los Angeles Lakers",
+      "Philadelphia 76ers"
     ],
     "college": [
-      "Connecticut"
+      "Connecticut",
+      "UConn"
     ],
     "numbers": [
       0,
@@ -1326,6 +1572,18 @@ export const NBA_PLAYERS = [
     ],
     "numbers": [
       20
+    ]
+  },
+  {
+    "name": "Andre Jackson Jr.",
+    "teams": [
+      "Milwaukee Bucks"
+    ],
+    "college": [
+      "UConn"
+    ],
+    "numbers": [
+      44
     ]
   },
   {
@@ -1469,6 +1727,19 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Andrew Funk",
+    "teams": [
+      "Chicago Bulls"
+    ],
+    "college": [
+      "Bucknell",
+      "Penn State"
+    ],
+    "numbers": [
+      30
+    ]
+  },
+  {
     "name": "Andrew Gaze",
     "teams": [
       "San Antonio Spurs"
@@ -1528,6 +1799,7 @@ export const NBA_PLAYERS = [
       "Indiana Pacers"
     ],
     "college": [
+      "Florida",
       "Gonzaga"
     ],
     "numbers": [
@@ -1561,6 +1833,7 @@ export const NBA_PLAYERS = [
     "name": "Andrew Wiggins",
     "teams": [
       "Golden State Warriors",
+      "Miami Heat",
       "Minnesota Timberwolves"
     ],
     "college": [
@@ -1622,6 +1895,7 @@ export const NBA_PLAYERS = [
   {
     "name": "Anfernee Simons",
     "teams": [
+      "Chicago Bulls",
       "Portland Trail Blazers"
     ],
     "college": [],
@@ -1712,6 +1986,18 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Anthony Black",
+    "teams": [
+      "Orlando Magic"
+    ],
+    "college": [
+      "Arkansas"
+    ],
+    "numbers": [
+      0
+    ]
+  },
+  {
     "name": "Anthony Bowie",
     "teams": [
       "New York Knicks"
@@ -1761,9 +2047,11 @@ export const NBA_PLAYERS = [
   {
     "name": "Anthony Davis",
     "teams": [
+      "Dallas Mavericks",
       "Los Angeles Lakers",
       "New Orleans Hornets",
-      "New Orleans Pelicans"
+      "New Orleans Pelicans",
+      "Washington Wizards"
     ],
     "college": [
       "Kentucky"
@@ -1792,6 +2080,7 @@ export const NBA_PLAYERS = [
       "Washington Wizards"
     ],
     "college": [
+      "South Carolina",
       "Virginia"
     ],
     "numbers": [
@@ -1858,6 +2147,7 @@ export const NBA_PLAYERS = [
       "Houston Rockets"
     ],
     "college": [
+      "University of Vermont",
       "Vermont"
     ],
     "numbers": [
@@ -2066,6 +2356,18 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Anton Watson",
+    "teams": [
+      "New York Knicks"
+    ],
+    "college": [
+      "Gonzaga"
+    ],
+    "numbers": [
+      21
+    ]
+  },
+  {
     "name": "Antonio Anderson",
     "teams": [
       "Oklahoma City Thunder"
@@ -2190,6 +2492,30 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Antonio Reeves",
+    "teams": [
+      "New Orleans Pelicans"
+    ],
+    "college": [
+      "Illinois State",
+      "Kentucky"
+    ],
+    "numbers": [
+      12
+    ]
+  },
+  {
+    "name": "Antonio Reeves (TW)",
+    "teams": [
+      "Charlotte Hornets"
+    ],
+    "college": [
+      "Illinois State",
+      "Kentucky"
+    ],
+    "numbers": []
+  },
+  {
     "name": "Antonis Fotsis",
     "teams": [
       "Memphis Grizzlies"
@@ -2238,6 +2564,16 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Ariel Hukporti",
+    "teams": [
+      "New York Knicks"
+    ],
+    "college": [],
+    "numbers": [
+      55
+    ]
+  },
+  {
     "name": "Arinze Onuaku",
     "teams": [
       "Cleveland Cavaliers",
@@ -2250,6 +2586,16 @@ export const NBA_PLAYERS = [
     "numbers": [
       21,
       50
+    ]
+  },
+  {
+    "name": "Armel Traor\u00e9",
+    "teams": [
+      "Los Angeles Lakers"
+    ],
+    "college": [],
+    "numbers": [
+      94
     ]
   },
   {
@@ -2284,6 +2630,7 @@ export const NBA_PLAYERS = [
   {
     "name": "Armoni Brooks",
     "teams": [
+      "BRK",
       "Houston Rockets",
       "Toronto Raptors"
     ],
@@ -2390,6 +2737,18 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Asa Newell",
+    "teams": [
+      "Atlanta Hawks"
+    ],
+    "college": [
+      "Georgia"
+    ],
+    "numbers": [
+      14
+    ]
+  },
+  {
     "name": "Ashraf Amaya",
     "teams": [
       "Washington Wizards"
@@ -2404,7 +2763,8 @@ export const NBA_PLAYERS = [
   {
     "name": "Ashton Hagans",
     "teams": [
-      "Minnesota Timberwolves"
+      "Minnesota Timberwolves",
+      "Portland Trail Blazers"
     ],
     "college": [
       "Kentucky"
@@ -2412,6 +2772,16 @@ export const NBA_PLAYERS = [
     "numbers": [
       19,
       22
+    ]
+  },
+  {
+    "name": "Ausar Thompson",
+    "teams": [
+      "Detroit Pistons"
+    ],
+    "college": [],
+    "numbers": [
+      9
     ]
   },
   {
@@ -2453,7 +2823,8 @@ export const NBA_PLAYERS = [
       "Los Angeles Lakers"
     ],
     "college": [
-      "Oklahoma"
+      "Oklahoma",
+      "Wichita State"
     ],
     "numbers": [
       15
@@ -2547,7 +2918,8 @@ export const NBA_PLAYERS = [
   {
     "name": "Ayo Dosunmu",
     "teams": [
-      "Chicago Bulls"
+      "Chicago Bulls",
+      "Minnesota Timberwolves"
     ],
     "college": [
       "Illinois"
@@ -2615,6 +2987,19 @@ export const NBA_PLAYERS = [
       1,
       5,
       85
+    ]
+  },
+  {
+    "name": "Baylor Scheierman",
+    "teams": [
+      "Boston Celtics"
+    ],
+    "college": [
+      "Creighton",
+      "South Dakota State"
+    ],
+    "numbers": [
+      55
     ]
   },
   {
@@ -2714,12 +3099,37 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Ben Saraf",
+    "teams": [
+      "BRK"
+    ],
+    "college": [],
+    "numbers": [
+      77
+    ]
+  },
+  {
+    "name": "Ben Sheppard",
+    "teams": [
+      "Indiana Pacers"
+    ],
+    "college": [
+      "Belmont"
+    ],
+    "numbers": [
+      26
+    ]
+  },
+  {
     "name": "Ben Simmons",
     "teams": [
+      "BRK",
       "Brooklyn Nets",
+      "Los Angeles Clippers",
       "Philadelphia 76ers"
     ],
     "college": [
+      "LSU",
       "Louisiana State"
     ],
     "numbers": [
@@ -2763,7 +3173,8 @@ export const NBA_PLAYERS = [
   {
     "name": "Bennedict Mathurin",
     "teams": [
-      "Indiana Pacers"
+      "Indiana Pacers",
+      "Los Angeles Clippers"
     ],
     "college": [
       "Arizona"
@@ -2829,6 +3240,28 @@ export const NBA_PLAYERS = [
     ],
     "numbers": [
       22
+    ]
+  },
+  {
+    "name": "Bez Mbeng",
+    "teams": [
+      "Utah Jazz"
+    ],
+    "college": [
+      "Yale"
+    ],
+    "numbers": [
+      21
+    ]
+  },
+  {
+    "name": "Bilal Coulibaly",
+    "teams": [
+      "Washington Wizards"
+    ],
+    "college": [],
+    "numbers": [
+      0
     ]
   },
   {
@@ -2926,8 +3359,12 @@ export const NBA_PLAYERS = [
     "name": "Bismack Biyombo",
     "teams": [
       "Charlotte Hornets",
+      "Memphis Grizzlies",
+      "Oklahoma City Thunder",
       "Orlando Magic",
+      "PHO",
       "Phoenix Suns",
+      "San Antonio Spurs",
       "Toronto Raptors"
     ],
     "college": [],
@@ -2987,8 +3424,23 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Blake Hinson (TW)",
+    "teams": [
+      "Utah Jazz"
+    ],
+    "college": [
+      "Iowa State",
+      "Ole Miss",
+      "Pitt"
+    ],
+    "numbers": [
+      2
+    ]
+  },
+  {
     "name": "Blake Wesley",
     "teams": [
+      "Portland Trail Blazers",
       "San Antonio Spurs"
     ],
     "college": [
@@ -3068,6 +3520,17 @@ export const NBA_PLAYERS = [
     ],
     "college": [],
     "numbers": []
+  },
+  {
+    "name": "Boban Marjanovi\u0107",
+    "teams": [
+      "Houston Rockets"
+    ],
+    "college": [],
+    "numbers": [
+      40,
+      51
+    ]
   },
   {
     "name": "Bobby Brown",
@@ -3185,6 +3648,18 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Bobi Klintman",
+    "teams": [
+      "Detroit Pistons"
+    ],
+    "college": [
+      "Wake Forest"
+    ],
+    "numbers": [
+      34
+    ]
+  },
+  {
     "name": "Bogdan Bogdanovic",
     "teams": [
       "Atlanta Hawks",
@@ -3192,6 +3667,19 @@ export const NBA_PLAYERS = [
     ],
     "college": [],
     "numbers": []
+  },
+  {
+    "name": "Bogdan Bogdanovi\u0107",
+    "teams": [
+      "Atlanta Hawks",
+      "Los Angeles Clippers"
+    ],
+    "college": [],
+    "numbers": [
+      8,
+      10,
+      13
+    ]
   },
   {
     "name": "Bojan Bogdanovic",
@@ -3206,10 +3694,22 @@ export const NBA_PLAYERS = [
     "numbers": []
   },
   {
+    "name": "Bojan Bogdanovi\u0107",
+    "teams": [
+      "Detroit Pistons",
+      "New York Knicks"
+    ],
+    "college": [],
+    "numbers": [
+      44
+    ]
+  },
+  {
     "name": "Bol Bol",
     "teams": [
       "Denver Nuggets",
-      "Orlando Magic"
+      "Orlando Magic",
+      "PHO"
     ],
     "college": [
       "Oregon"
@@ -3223,9 +3723,11 @@ export const NBA_PLAYERS = [
     "name": "Bones Hyland",
     "teams": [
       "Denver Nuggets",
-      "Los Angeles Clippers"
+      "Los Angeles Clippers",
+      "Minnesota Timberwolves"
     ],
     "college": [
+      "VCU",
       "Virginia Commonwealth"
     ],
     "numbers": [
@@ -3363,6 +3865,8 @@ export const NBA_PLAYERS = [
   {
     "name": "Bradley Beal",
     "teams": [
+      "Los Angeles Clippers",
+      "PHO",
       "Washington Wizards"
     ],
     "college": [
@@ -3392,6 +3896,28 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Branden Carlson",
+    "teams": [
+      "Oklahoma City Thunder"
+    ],
+    "college": [
+      "Utah"
+    ],
+    "numbers": [
+      15
+    ]
+  },
+  {
+    "name": "Branden Carlson (TW)",
+    "teams": [
+      "Oklahoma City Thunder"
+    ],
+    "college": [
+      "Utah"
+    ],
+    "numbers": []
+  },
+  {
     "name": "Branden Dawson",
     "teams": [
       "Los Angeles Clippers"
@@ -3413,6 +3939,19 @@ export const NBA_PLAYERS = [
     ],
     "numbers": [
       10
+    ]
+  },
+  {
+    "name": "Brandin Podziemski",
+    "teams": [
+      "Golden State Warriors"
+    ],
+    "college": [
+      "Illinois",
+      "Santa Clara"
+    ],
+    "numbers": [
+      2
     ]
   },
   {
@@ -3459,7 +3998,8 @@ export const NBA_PLAYERS = [
   {
     "name": "Brandon Boston Jr.",
     "teams": [
-      "Los Angeles Clippers"
+      "Los Angeles Clippers",
+      "New Orleans Pelicans"
     ],
     "college": [
       "Kentucky"
@@ -3475,7 +4015,8 @@ export const NBA_PLAYERS = [
       "Memphis Grizzlies"
     ],
     "college": [
-      "Gonzaga"
+      "Gonzaga",
+      "San Jose State"
     ],
     "numbers": [
       15
@@ -3527,7 +4068,8 @@ export const NBA_PLAYERS = [
     "name": "Brandon Ingram",
     "teams": [
       "Los Angeles Lakers",
-      "New Orleans Pelicans"
+      "New Orleans Pelicans",
+      "Toronto Raptors"
     ],
     "college": [
       "Duke"
@@ -3572,6 +4114,16 @@ export const NBA_PLAYERS = [
       11,
       20
     ]
+  },
+  {
+    "name": "Brandon Miller",
+    "teams": [
+      "Charlotte Hornets"
+    ],
+    "college": [
+      "Alabama"
+    ],
+    "numbers": []
   },
   {
     "name": "Brandon Paul",
@@ -3627,6 +4179,7 @@ export const NBA_PLAYERS = [
     "name": "Brandon Williams",
     "teams": [
       "Atlanta Hawks",
+      "Dallas Mavericks",
       "Golden State Warriors",
       "Portland Trail Blazers",
       "San Antonio Spurs"
@@ -3645,9 +4198,12 @@ export const NBA_PLAYERS = [
   {
     "name": "Braxton Key",
     "teams": [
-      "Detroit Pistons"
+      "Denver Nuggets",
+      "Detroit Pistons",
+      "Golden State Warriors"
     ],
     "college": [
+      "Alabama",
       "Virginia"
     ],
     "numbers": [
@@ -3944,6 +4500,19 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Brice Sensabaugh",
+    "teams": [
+      "Utah Jazz"
+    ],
+    "college": [
+      "Ohio State"
+    ],
+    "numbers": [
+      8,
+      28
+    ]
+  },
+  {
     "name": "Britton Johnsen",
     "teams": [
       "Indiana Pacers",
@@ -3972,9 +4541,22 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Bronny James",
+    "teams": [
+      "Los Angeles Lakers"
+    ],
+    "college": [
+      "USC"
+    ],
+    "numbers": [
+      9
+    ]
+  },
+  {
     "name": "Brook Lopez",
     "teams": [
       "Brooklyn Nets",
+      "Los Angeles Clippers",
       "Los Angeles Lakers",
       "Milwaukee Bucks",
       "New Jersey Nets"
@@ -3985,6 +4567,16 @@ export const NBA_PLAYERS = [
     "numbers": [
       11
     ]
+  },
+  {
+    "name": "Brooks Barnhizer (TW)",
+    "teams": [
+      "Oklahoma City Thunder"
+    ],
+    "college": [
+      "Northwestern"
+    ],
+    "numbers": []
   },
   {
     "name": "Brooks Thompson",
@@ -4021,10 +4613,14 @@ export const NBA_PLAYERS = [
     "teams": [
       "Brooklyn Nets",
       "Denver Nuggets",
-      "Detroit Pistons"
+      "Detroit Pistons",
+      "Indiana Pacers",
+      "New Orleans Pelicans",
+      "Toronto Raptors"
     ],
     "college": [
-      "Miami"
+      "Miami",
+      "Miami (FL)"
     ],
     "numbers": [
       0,
@@ -4052,7 +4648,8 @@ export const NBA_PLAYERS = [
     "name": "Bruno Fernando",
     "teams": [
       "Atlanta Hawks",
-      "Houston Rockets"
+      "Houston Rockets",
+      "Toronto Raptors"
     ],
     "college": [
       "Maryland"
@@ -4146,7 +4743,9 @@ export const NBA_PLAYERS = [
   {
     "name": "Bryce McGowens",
     "teams": [
-      "Charlotte Hornets"
+      "Charlotte Hornets",
+      "New Orleans Pelicans",
+      "Portland Trail Blazers"
     ],
     "college": [
       "Nebraska"
@@ -4192,6 +4791,18 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Bub Carrington",
+    "teams": [
+      "Washington Wizards"
+    ],
+    "college": [
+      "Pitt"
+    ],
+    "numbers": [
+      8
+    ]
+  },
+  {
     "name": "Bubba Wells",
     "teams": [
       "Dallas Mavericks"
@@ -4231,7 +4842,10 @@ export const NBA_PLAYERS = [
   {
     "name": "Buddy Hield",
     "teams": [
+      "Atlanta Hawks",
+      "Golden State Warriors",
       "Indiana Pacers",
+      "Philadelphia 76ers",
       "Sacramento Kings"
     ],
     "college": [
@@ -4318,8 +4932,21 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "CJ Huntley (TW)",
+    "teams": [
+      "PHO"
+    ],
+    "college": [
+      "Appalachian State University"
+    ],
+    "numbers": [
+      22
+    ]
+  },
+  {
     "name": "CJ McCollum",
     "teams": [
+      "Atlanta Hawks",
       "New Orleans Pelicans",
       "Portland Trail Blazers"
     ],
@@ -4412,12 +5039,26 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Caleb Love (TW)",
+    "teams": [
+      "Portland Trail Blazers"
+    ],
+    "college": [
+      "Arizona",
+      "UNC"
+    ],
+    "numbers": []
+  },
+  {
     "name": "Caleb Martin",
     "teams": [
       "Charlotte Hornets",
-      "Miami Heat"
+      "Dallas Mavericks",
+      "Miami Heat",
+      "Philadelphia 76ers"
     ],
     "college": [
+      "NC State",
       "Nevada",
       "Nevada-Reno"
     ],
@@ -4456,9 +5097,22 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Cam Christie",
+    "teams": [
+      "Los Angeles Clippers"
+    ],
+    "college": [
+      "Minnesota"
+    ],
+    "numbers": [
+      12
+    ]
+  },
+  {
     "name": "Cam Reddish",
     "teams": [
       "Atlanta Hawks",
+      "Los Angeles Lakers",
       "New York Knicks",
       "Portland Trail Blazers"
     ],
@@ -4473,15 +5127,44 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Cam Spencer",
+    "teams": [
+      "Memphis Grizzlies"
+    ],
+    "college": [
+      "Loyola (MD)",
+      "Rutgers University",
+      "UConn"
+    ],
+    "numbers": [
+      24
+    ]
+  },
+  {
     "name": "Cam Thomas",
     "teams": [
+      "BRK",
       "Brooklyn Nets"
     ],
     "college": [
+      "LSU",
       "Louisiana State"
     ],
     "numbers": [
       24
+    ]
+  },
+  {
+    "name": "Cam Whitmore",
+    "teams": [
+      "Houston Rockets",
+      "Washington Wizards"
+    ],
+    "college": [
+      "Villanova"
+    ],
+    "numbers": [
+      7
     ]
   },
   {
@@ -4500,11 +5183,16 @@ export const NBA_PLAYERS = [
   {
     "name": "Cameron Johnson",
     "teams": [
+      "BRK",
       "Brooklyn Nets",
+      "Denver Nuggets",
+      "PHO",
       "Phoenix Suns"
     ],
     "college": [
-      "North Carolina"
+      "North Carolina",
+      "Pitt",
+      "UNC"
     ],
     "numbers": [
       2,
@@ -4542,7 +5230,11 @@ export const NBA_PLAYERS = [
     "teams": [
       "Chicago Bulls",
       "Cleveland Cavaliers",
+      "Milwaukee Bucks",
+      "New York Knicks",
       "Oklahoma City Thunder",
+      "PHO",
+      "Philadelphia 76ers",
       "Phoenix Suns"
     ],
     "college": [
@@ -4573,8 +5265,10 @@ export const NBA_PLAYERS = [
   {
     "name": "Caris LeVert",
     "teams": [
+      "Atlanta Hawks",
       "Brooklyn Nets",
       "Cleveland Cavaliers",
+      "Detroit Pistons",
       "Indiana Pacers"
     ],
     "college": [
@@ -4653,6 +5347,7 @@ export const NBA_PLAYERS = [
     ],
     "college": [
       "Louisville",
+      "Radford",
       "Texas Legends"
     ],
     "numbers": [
@@ -4798,6 +5493,16 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Carter Bryant",
+    "teams": [
+      "San Antonio Spurs"
+    ],
+    "college": [
+      "Arizona"
+    ],
+    "numbers": []
+  },
+  {
     "name": "Cartier Martin",
     "teams": [
       "Atlanta Hawks",
@@ -4839,6 +5544,18 @@ export const NBA_PLAYERS = [
     ],
     "numbers": [
       30
+    ]
+  },
+  {
+    "name": "Cason Wallace",
+    "teams": [
+      "Oklahoma City Thunder"
+    ],
+    "college": [
+      "Kentucky"
+    ],
+    "numbers": [
+      22
     ]
   },
   {
@@ -4894,7 +5611,8 @@ export const NBA_PLAYERS = [
   {
     "name": "Cedi Osman",
     "teams": [
-      "Cleveland Cavaliers"
+      "Cleveland Cavaliers",
+      "San Antonio Spurs"
     ],
     "college": [],
     "numbers": [
@@ -4925,6 +5643,20 @@ export const NBA_PLAYERS = [
     ],
     "numbers": [
       1,
+      23
+    ]
+  },
+  {
+    "name": "Cedric Coward",
+    "teams": [
+      "Memphis Grizzlies"
+    ],
+    "college": [
+      "Eastern Washington",
+      "Washington State",
+      "Willamette University"
+    ],
+    "numbers": [
       23
     ]
   },
@@ -5022,6 +5754,18 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Chaney Johnson (TW)",
+    "teams": [
+      "BRK"
+    ],
+    "college": [
+      "Auburn"
+    ],
+    "numbers": [
+      31
+    ]
+  },
+  {
     "name": "Channing Frye",
     "teams": [
       "Cleveland Cavaliers",
@@ -5058,6 +5802,7 @@ export const NBA_PLAYERS = [
   {
     "name": "Charles Bassey",
     "teams": [
+      "Golden State Warriors",
       "Philadelphia 76ers",
       "San Antonio Spurs"
     ],
@@ -5203,10 +5948,12 @@ export const NBA_PLAYERS = [
     "name": "Charlie Brown Jr.",
     "teams": [
       "Atlanta Hawks",
+      "New York Knicks",
       "Oklahoma City Thunder",
       "Philadelphia 76ers"
     ],
     "college": [
+      "Saint Joseph's",
       "St. Joseph's (PA)"
     ],
     "numbers": [
@@ -5312,6 +6059,19 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Chaz Lanier",
+    "teams": [
+      "Detroit Pistons"
+    ],
+    "college": [
+      "Tennessee",
+      "University of North Florida"
+    ],
+    "numbers": [
+      20
+    ]
+  },
+  {
     "name": "Cheick Diallo",
     "teams": [
       "Detroit Pistons",
@@ -5360,12 +6120,26 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Chet Holmgren",
+    "teams": [
+      "Oklahoma City Thunder"
+    ],
+    "college": [
+      "Gonzaga"
+    ],
+    "numbers": [
+      7
+    ]
+  },
+  {
     "name": "Chima Moneke",
     "teams": [
       "Sacramento Kings"
     ],
     "college": [
-      "Cal-Davis"
+      "Cal-Davis",
+      "Northeast Community College",
+      "UC-Davis"
     ],
     "numbers": [
       19
@@ -5374,6 +6148,8 @@ export const NBA_PLAYERS = [
   {
     "name": "Chimezie Metu",
     "teams": [
+      "Detroit Pistons",
+      "PHO",
       "Sacramento Kings",
       "San Antonio Spurs"
     ],
@@ -5467,6 +6243,8 @@ export const NBA_PLAYERS = [
       "Toronto Raptors"
     ],
     "college": [
+      "New Mexico Junior College",
+      "Northwest College",
       "Oregon"
     ],
     "numbers": [
@@ -5579,7 +6357,9 @@ export const NBA_PLAYERS = [
   {
     "name": "Chris Duarte",
     "teams": [
-      "Indiana Pacers"
+      "Chicago Bulls",
+      "Indiana Pacers",
+      "Sacramento Kings"
     ],
     "college": [
       "Oregon"
@@ -5761,6 +6541,31 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Chris Livingston",
+    "teams": [
+      "Milwaukee Bucks"
+    ],
+    "college": [
+      "Kentucky"
+    ],
+    "numbers": [
+      7
+    ]
+  },
+  {
+    "name": "Chris Ma\u00f1on (TW)",
+    "teams": [
+      "Los Angeles Lakers"
+    ],
+    "college": [
+      "Cornell",
+      "Vanderbilt"
+    ],
+    "numbers": [
+      30
+    ]
+  },
+  {
     "name": "Chris McCray",
     "teams": [
       "Milwaukee Bucks"
@@ -5858,12 +6663,15 @@ export const NBA_PLAYERS = [
   {
     "name": "Chris Paul",
     "teams": [
+      "Golden State Warriors",
       "Houston Rockets",
       "Los Angeles Clippers",
       "NOK",
       "New Orleans Hornets",
       "Oklahoma City Thunder",
-      "Phoenix Suns"
+      "PHO",
+      "Phoenix Suns",
+      "San Antonio Spurs"
     ],
     "college": [
       "Wake Forest"
@@ -6044,6 +6852,18 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Chris Youngblood (TW)",
+    "teams": [
+      "Portland Trail Blazers"
+    ],
+    "college": [
+      "Alabama",
+      "Kennesaw State University",
+      "South Florida"
+    ],
+    "numbers": []
+  },
+  {
     "name": "Christian Braun",
     "teams": [
       "Denver Nuggets"
@@ -6070,6 +6890,7 @@ export const NBA_PLAYERS = [
   {
     "name": "Christian Koloko",
     "teams": [
+      "Los Angeles Lakers",
       "Toronto Raptors"
     ],
     "college": [
@@ -6077,6 +6898,18 @@ export const NBA_PLAYERS = [
     ],
     "numbers": [
       10,
+      35
+    ]
+  },
+  {
+    "name": "Christian Koloko (TW)",
+    "teams": [
+      "Atlanta Hawks"
+    ],
+    "college": [
+      "Arizona"
+    ],
+    "numbers": [
       35
     ]
   },
@@ -6103,6 +6936,7 @@ export const NBA_PLAYERS = [
       "Dallas Mavericks",
       "Detroit Pistons",
       "Houston Rockets",
+      "Los Angeles Lakers",
       "New Orleans Pelicans",
       "Philadelphia 76ers"
     ],
@@ -6187,9 +7021,24 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Chucky Hepburn (TW)",
+    "teams": [
+      "Toronto Raptors"
+    ],
+    "college": [
+      "Louisville",
+      "Wisconsin"
+    ],
+    "numbers": [
+      24
+    ]
+  },
+  {
     "name": "Chuma Okeke",
     "teams": [
-      "Orlando Magic"
+      "Cleveland Cavaliers",
+      "Orlando Magic",
+      "Philadelphia 76ers"
     ],
     "college": [
       "Auburn"
@@ -6311,10 +7160,12 @@ export const NBA_PLAYERS = [
   {
     "name": "Coby White",
     "teams": [
+      "Charlotte Hornets",
       "Chicago Bulls"
     ],
     "college": [
-      "North Carolina"
+      "North Carolina",
+      "UNC"
     ],
     "numbers": [
       0
@@ -6323,9 +7174,11 @@ export const NBA_PLAYERS = [
   {
     "name": "Cody Martin",
     "teams": [
-      "Charlotte Hornets"
+      "Charlotte Hornets",
+      "PHO"
     ],
     "college": [
+      "NC State",
       "Nevada",
       "Nevada-Reno"
     ],
@@ -6334,10 +7187,23 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Cody Williams",
+    "teams": [
+      "Utah Jazz"
+    ],
+    "college": [
+      "Colorado"
+    ],
+    "numbers": [
+      5
+    ]
+  },
+  {
     "name": "Cody Zeller",
     "teams": [
       "Charlotte Hornets",
       "Miami Heat",
+      "New Orleans Pelicans",
       "Portland Trail Blazers"
     ],
     "college": [
@@ -6346,6 +7212,20 @@ export const NBA_PLAYERS = [
     "numbers": [
       40,
       44
+    ]
+  },
+  {
+    "name": "Colby Jones",
+    "teams": [
+      "Sacramento Kings",
+      "Washington Wizards"
+    ],
+    "college": [
+      "Xavier"
+    ],
+    "numbers": [
+      1,
+      20
     ]
   },
   {
@@ -6371,7 +7251,8 @@ export const NBA_PLAYERS = [
       "Orlando Magic"
     ],
     "college": [
-      "North Carolina"
+      "North Carolina",
+      "UNC"
     ],
     "numbers": [
       50
@@ -6380,10 +7261,14 @@ export const NBA_PLAYERS = [
   {
     "name": "Cole Swider",
     "teams": [
-      "Los Angeles Lakers"
+      "Detroit Pistons",
+      "Los Angeles Lakers",
+      "Miami Heat",
+      "Toronto Raptors"
     ],
     "college": [
-      "Syracuse"
+      "Syracuse",
+      "Villanova"
     ],
     "numbers": [
       12,
@@ -6393,8 +7278,67 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Colin Castleton",
+    "teams": [
+      "Los Angeles Lakers",
+      "Memphis Grizzlies",
+      "Philadelphia 76ers",
+      "Toronto Raptors"
+    ],
+    "college": [
+      "Florida",
+      "Michigan"
+    ],
+    "numbers": [
+      8,
+      11,
+      14,
+      18
+    ]
+  },
+  {
+    "name": "Colin Castleton (TW)",
+    "teams": [
+      "Orlando Magic"
+    ],
+    "college": [
+      "Florida",
+      "Michigan"
+    ],
+    "numbers": [
+      14
+    ]
+  },
+  {
+    "name": "Collin Gillespie",
+    "teams": [
+      "Denver Nuggets",
+      "PHO"
+    ],
+    "college": [
+      "Villanova"
+    ],
+    "numbers": [
+      12,
+      21
+    ]
+  },
+  {
+    "name": "Collin Murray-Boyles",
+    "teams": [
+      "Toronto Raptors"
+    ],
+    "college": [
+      "South Carolina"
+    ],
+    "numbers": [
+      12
+    ]
+  },
+  {
     "name": "Collin Sexton",
     "teams": [
+      "Chicago Bulls",
       "Cleveland Cavaliers",
       "Utah Jazz"
     ],
@@ -6404,6 +7348,16 @@ export const NBA_PLAYERS = [
     "numbers": [
       2
     ]
+  },
+  {
+    "name": "Cooper Flagg",
+    "teams": [
+      "Dallas Mavericks"
+    ],
+    "college": [
+      "Duke"
+    ],
+    "numbers": []
   },
   {
     "name": "Corey Beck",
@@ -6457,6 +7411,7 @@ export const NBA_PLAYERS = [
   {
     "name": "Corey Kispert",
     "teams": [
+      "Atlanta Hawks",
       "Washington Wizards"
     ],
     "college": [
@@ -6518,6 +7473,20 @@ export const NBA_PLAYERS = [
       14,
       34,
       35
+    ]
+  },
+  {
+    "name": "Cormac Ryan (TW)",
+    "teams": [
+      "Milwaukee Bucks"
+    ],
+    "college": [
+      "Notre Dame",
+      "Stanford",
+      "UNC"
+    ],
+    "numbers": [
+      30
     ]
   },
   {
@@ -6589,7 +7558,9 @@ export const NBA_PLAYERS = [
     "name": "Cory Joseph",
     "teams": [
       "Detroit Pistons",
+      "Golden State Warriors",
       "Indiana Pacers",
+      "Orlando Magic",
       "Sacramento Kings",
       "San Antonio Spurs",
       "Toronto Raptors"
@@ -6707,6 +7678,19 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Craig Porter Jr.",
+    "teams": [
+      "Cleveland Cavaliers"
+    ],
+    "college": [
+      "Vincennes University",
+      "Wichita State"
+    ],
+    "numbers": [
+      9
+    ]
+  },
+  {
     "name": "Craig Smith",
     "teams": [
       "Los Angeles Clippers",
@@ -6743,6 +7727,16 @@ export const NBA_PLAYERS = [
     "numbers": []
   },
   {
+    "name": "Cui Yongxi",
+    "teams": [
+      "BRK"
+    ],
+    "college": [],
+    "numbers": [
+      8
+    ]
+  },
+  {
     "name": "Cuonzo Martin",
     "teams": [
       "Milwaukee Bucks"
@@ -6768,6 +7762,20 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Curtis Jones (TW)",
+    "teams": [
+      "Denver Nuggets"
+    ],
+    "college": [
+      "Buffalo",
+      "Indian Hills Community College",
+      "Iowa State"
+    ],
+    "numbers": [
+      1
+    ]
+  },
+  {
     "name": "Cuttino Mobley",
     "teams": [
       "Houston Rockets",
@@ -6785,9 +7793,11 @@ export const NBA_PLAYERS = [
   {
     "name": "D'Angelo Russell",
     "teams": [
+      "BRK",
       "Brooklyn Nets",
       "Los Angeles Lakers",
-      "Minnesota Timberwolves"
+      "Minnesota Timberwolves",
+      "Washington Wizards"
     ],
     "college": [
       "Ohio State"
@@ -6795,6 +7805,21 @@ export const NBA_PLAYERS = [
     "numbers": [
       0,
       1
+    ]
+  },
+  {
+    "name": "D'Moi Hodge",
+    "teams": [
+      "Los Angeles Lakers"
+    ],
+    "college": [
+      "Cleveland State University",
+      "Manatee-Sarasota",
+      "Missouri",
+      "State College of Florida"
+    ],
+    "numbers": [
+      55
     ]
   },
   {
@@ -6820,6 +7845,19 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "D.J. Carton",
+    "teams": [
+      "Toronto Raptors"
+    ],
+    "college": [
+      "Marquette",
+      "Ohio State"
+    ],
+    "numbers": [
+      3
+    ]
+  },
+  {
     "name": "D.J. Kennedy",
     "teams": [
       "Cleveland Cavaliers"
@@ -6836,6 +7874,7 @@ export const NBA_PLAYERS = [
     "teams": [
       "Houston Rockets",
       "Milwaukee Bucks",
+      "Philadelphia 76ers",
       "Toronto Raptors"
     ],
     "college": [
@@ -6909,17 +7948,32 @@ export const NBA_PLAYERS = [
   {
     "name": "DaQuan Jeffries",
     "teams": [
+      "Charlotte Hornets",
       "Memphis Grizzlies",
+      "New York Knicks",
       "Sacramento Kings",
       "San Antonio Spurs"
     ],
     "college": [
+      "Oral Roberts",
       "Tulsa"
     ],
     "numbers": [
       8,
       19,
       55
+    ]
+  },
+  {
+    "name": "DaRon Holmes",
+    "teams": [
+      "Denver Nuggets"
+    ],
+    "college": [
+      "Dayton"
+    ],
+    "numbers": [
+      14
     ]
   },
   {
@@ -6934,6 +7988,30 @@ export const NBA_PLAYERS = [
     ],
     "numbers": [
       14
+    ]
+  },
+  {
+    "name": "Daeqwon Plowden",
+    "teams": [
+      "Atlanta Hawks"
+    ],
+    "college": [
+      "Bowling Green"
+    ],
+    "numbers": [
+      29
+    ]
+  },
+  {
+    "name": "Daeqwon Plowden (TW)",
+    "teams": [
+      "Sacramento Kings"
+    ],
+    "college": [
+      "Bowling Green"
+    ],
+    "numbers": [
+      29
     ]
   },
   {
@@ -6968,7 +8046,8 @@ export const NBA_PLAYERS = [
   {
     "name": "Daishen Nix",
     "teams": [
-      "Houston Rockets"
+      "Houston Rockets",
+      "Minnesota Timberwolves"
     ],
     "college": [],
     "numbers": [
@@ -7020,6 +8099,8 @@ export const NBA_PLAYERS = [
   {
     "name": "Dalano Banton",
     "teams": [
+      "Boston Celtics",
+      "Portland Trail Blazers",
       "Toronto Raptors"
     ],
     "college": [
@@ -7063,7 +8144,8 @@ export const NBA_PLAYERS = [
   {
     "name": "Dalen Terry",
     "teams": [
-      "Chicago Bulls"
+      "Chicago Bulls",
+      "Philadelphia 76ers"
     ],
     "college": [
       "Arizona"
@@ -7082,10 +8164,26 @@ export const NBA_PLAYERS = [
     "numbers": []
   },
   {
+    "name": "Dalton Knecht",
+    "teams": [
+      "Los Angeles Lakers"
+    ],
+    "college": [
+      "Northeastern Junior College",
+      "Tennessee",
+      "University of Northern Colorado"
+    ],
+    "numbers": [
+      4
+    ]
+  },
+  {
     "name": "Damian Jones",
     "teams": [
       "Atlanta Hawks",
+      "Cleveland Cavaliers",
       "Golden State Warriors",
+      "Los Angeles Lakers",
       "Sacramento Kings",
       "Utah Jazz"
     ],
@@ -7100,6 +8198,7 @@ export const NBA_PLAYERS = [
   {
     "name": "Damian Lillard",
     "teams": [
+      "Milwaukee Bucks",
       "Portland Trail Blazers"
     ],
     "college": [
@@ -7142,6 +8241,17 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Damion Baugh",
+    "teams": [
+      "Charlotte Hornets"
+    ],
+    "college": [
+      "Memphis",
+      "TCU"
+    ],
+    "numbers": []
+  },
+  {
     "name": "Damion James",
     "teams": [
       "Brooklyn Nets",
@@ -7162,6 +8272,7 @@ export const NBA_PLAYERS = [
     "teams": [
       "Atlanta Hawks",
       "Golden State Warriors",
+      "PHO",
       "Phoenix Suns"
     ],
     "college": [
@@ -7381,6 +8492,7 @@ export const NBA_PLAYERS = [
     "name": "Daniel Gafford",
     "teams": [
       "Chicago Bulls",
+      "Dallas Mavericks",
       "Washington Wizards"
     ],
     "college": [
@@ -7477,7 +8589,9 @@ export const NBA_PLAYERS = [
     "teams": [
       "Boston Celtics",
       "Chicago Bulls",
-      "Indiana Pacers"
+      "Indiana Pacers",
+      "Los Angeles Clippers",
+      "New Orleans Pelicans"
     ],
     "college": [],
     "numbers": [
@@ -7490,15 +8604,33 @@ export const NBA_PLAYERS = [
     "teams": [
       "Atlanta Hawks",
       "Denver Nuggets",
+      "Detroit Pistons",
       "Los Angeles Clippers",
+      "Milwaukee Bucks",
       "New York Knicks",
-      "Oklahoma City Thunder"
+      "Oklahoma City Thunder",
+      "Washington Wizards"
     ],
     "college": [],
     "numbers": [
       8,
       12,
       88
+    ]
+  },
+  {
+    "name": "Daniss Jenkins",
+    "teams": [
+      "Detroit Pistons"
+    ],
+    "college": [
+      "Iona College",
+      "Odessa College",
+      "St. John's",
+      "University of the Pacific"
+    ],
+    "numbers": [
+      24
     ]
   },
   {
@@ -7552,12 +8684,14 @@ export const NBA_PLAYERS = [
     "teams": [
       "Cleveland Cavaliers",
       "Los Angeles Lakers",
+      "Memphis Grizzlies",
       "Philadelphia 76ers",
       "San Antonio Spurs",
       "Toronto Raptors"
     ],
     "college": [
-      "North Carolina"
+      "North Carolina",
+      "UNC"
     ],
     "numbers": [
       4,
@@ -7581,6 +8715,19 @@ export const NBA_PLAYERS = [
       6,
       15,
       25
+    ]
+  },
+  {
+    "name": "Danny Wolf",
+    "teams": [
+      "BRK"
+    ],
+    "college": [
+      "Michigan",
+      "Yale"
+    ],
+    "numbers": [
+      2
     ]
   },
   {
@@ -7611,6 +8758,18 @@ export const NBA_PLAYERS = [
     ],
     "college": [],
     "numbers": []
+  },
+  {
+    "name": "Dant\u00e9 Exum",
+    "teams": [
+      "Dallas Mavericks"
+    ],
+    "college": [],
+    "numbers": [
+      0,
+      1,
+      11
+    ]
   },
   {
     "name": "Danuel House",
@@ -7664,10 +8823,40 @@ export const NBA_PLAYERS = [
     "numbers": []
   },
   {
+    "name": "Dario \u0160ari\u0107",
+    "teams": [
+      "Denver Nuggets",
+      "Golden State Warriors",
+      "Oklahoma City Thunder",
+      "PHO"
+    ],
+    "college": [],
+    "numbers": [
+      9,
+      20,
+      36
+    ]
+  },
+  {
+    "name": "Dariq Whitehead",
+    "teams": [
+      "BRK"
+    ],
+    "college": [
+      "Duke"
+    ],
+    "numbers": [
+      0
+    ]
+  },
+  {
     "name": "Darius Bazley",
     "teams": [
       "Oklahoma City Thunder",
-      "Phoenix Suns"
+      "PHO",
+      "Philadelphia 76ers",
+      "Phoenix Suns",
+      "Utah Jazz"
     ],
     "college": [],
     "numbers": [
@@ -7683,6 +8872,7 @@ export const NBA_PLAYERS = [
       "Houston Rockets"
     ],
     "college": [
+      "LSU",
       "Louisiana State"
     ],
     "numbers": [
@@ -7692,7 +8882,8 @@ export const NBA_PLAYERS = [
   {
     "name": "Darius Garland",
     "teams": [
-      "Cleveland Cavaliers"
+      "Cleveland Cavaliers",
+      "Los Angeles Clippers"
     ],
     "college": [
       "Vanderbilt"
@@ -7992,7 +9183,9 @@ export const NBA_PLAYERS = [
   {
     "name": "David Duke Jr.",
     "teams": [
-      "Brooklyn Nets"
+      "BRK",
+      "Brooklyn Nets",
+      "San Antonio Spurs"
     ],
     "college": [
       "Providence"
@@ -8025,6 +9218,18 @@ export const NBA_PLAYERS = [
     "numbers": [
       13
     ]
+  },
+  {
+    "name": "David Jones Garc\u00eda (TW)",
+    "teams": [
+      "San Antonio Spurs"
+    ],
+    "college": [
+      "DePaul",
+      "Memphis",
+      "St. John's"
+    ],
+    "numbers": []
   },
   {
     "name": "David Lee",
@@ -8088,7 +9293,11 @@ export const NBA_PLAYERS = [
   {
     "name": "David Roddy",
     "teams": [
-      "Memphis Grizzlies"
+      "Atlanta Hawks",
+      "Houston Rockets",
+      "Memphis Grizzlies",
+      "PHO",
+      "Philadelphia 76ers"
     ],
     "college": [
       "Colorado State"
@@ -8097,6 +9306,18 @@ export const NBA_PLAYERS = [
       8,
       21,
       27,
+      45
+    ]
+  },
+  {
+    "name": "David Roddy (TW)",
+    "teams": [
+      "Denver Nuggets"
+    ],
+    "college": [
+      "Colorado State"
+    ],
+    "numbers": [
       45
     ]
   },
@@ -8219,9 +9440,12 @@ export const NBA_PLAYERS = [
   {
     "name": "Davion Mitchell",
     "teams": [
-      "Sacramento Kings"
+      "Miami Heat",
+      "Sacramento Kings",
+      "Toronto Raptors"
     ],
     "college": [
+      "Auburn",
       "Baylor"
     ],
     "numbers": [
@@ -8248,7 +9472,8 @@ export const NBA_PLAYERS = [
       "Phoenix Suns"
     ],
     "college": [
-      "Miami"
+      "Miami",
+      "Miami (FL)"
     ],
     "numbers": [
       9,
@@ -8259,10 +9484,12 @@ export const NBA_PLAYERS = [
   {
     "name": "Day'Ron Sharpe",
     "teams": [
+      "BRK",
       "Brooklyn Nets"
     ],
     "college": [
-      "North Carolina"
+      "North Carolina",
+      "UNC"
     ],
     "numbers": [
       20
@@ -8271,7 +9498,8 @@ export const NBA_PLAYERS = [
   {
     "name": "De'Aaron Fox",
     "teams": [
-      "Sacramento Kings"
+      "Sacramento Kings",
+      "San Antonio Spurs"
     ],
     "college": [
       "Kentucky"
@@ -8284,7 +9512,9 @@ export const NBA_PLAYERS = [
   {
     "name": "De'Andre Hunter",
     "teams": [
-      "Atlanta Hawks"
+      "Atlanta Hawks",
+      "Cleveland Cavaliers",
+      "Sacramento Kings"
     ],
     "college": [
       "Virginia"
@@ -8297,6 +9527,7 @@ export const NBA_PLAYERS = [
   {
     "name": "De'Anthony Melton",
     "teams": [
+      "Golden State Warriors",
       "Memphis Grizzlies",
       "Philadelphia 76ers",
       "Phoenix Suns"
@@ -8317,6 +9548,7 @@ export const NBA_PLAYERS = [
       "Brooklyn Nets",
       "Denver Nuggets",
       "Los Angeles Clippers",
+      "New Orleans Pelicans",
       "New York Knicks",
       "Philadelphia 76ers"
     ],
@@ -8365,10 +9597,12 @@ export const NBA_PLAYERS = [
   {
     "name": "DeJon Jarreau",
     "teams": [
-      "Indiana Pacers"
+      "Indiana Pacers",
+      "Memphis Grizzlies"
     ],
     "college": [
-      "Houston"
+      "Houston",
+      "UMass"
     ],
     "numbers": [
       17,
@@ -8407,6 +9641,7 @@ export const NBA_PLAYERS = [
     "name": "DeMar DeRozan",
     "teams": [
       "Chicago Bulls",
+      "Sacramento Kings",
       "San Antonio Spurs",
       "Toronto Raptors"
     ],
@@ -8581,7 +9816,10 @@ export const NBA_PLAYERS = [
   {
     "name": "Deandre Ayton",
     "teams": [
-      "Phoenix Suns"
+      "Los Angeles Lakers",
+      "PHO",
+      "Phoenix Suns",
+      "Portland Trail Blazers"
     ],
     "college": [
       "Arizona"
@@ -8637,6 +9875,7 @@ export const NBA_PLAYERS = [
     "name": "Dejounte Murray",
     "teams": [
       "Atlanta Hawks",
+      "New Orleans Pelicans",
       "San Antonio Spurs"
     ],
     "college": [
@@ -8678,6 +9917,9 @@ export const NBA_PLAYERS = [
       "Atlanta Hawks",
       "Dallas Mavericks",
       "Memphis Grizzlies",
+      "Miami Heat",
+      "Milwaukee Bucks",
+      "New York Knicks",
       "Sacramento Kings",
       "Toronto Raptors",
       "Washington Wizards"
@@ -8760,6 +10002,7 @@ export const NBA_PLAYERS = [
   {
     "name": "Deni Avdija",
     "teams": [
+      "Portland Trail Blazers",
       "Washington Wizards"
     ],
     "college": [],
@@ -8808,6 +10051,23 @@ export const NBA_PLAYERS = [
     "numbers": []
   },
   {
+    "name": "Dennis Schr\u00f6der",
+    "teams": [
+      "BRK",
+      "Cleveland Cavaliers",
+      "Detroit Pistons",
+      "Golden State Warriors",
+      "Los Angeles Lakers",
+      "Toronto Raptors"
+    ],
+    "college": [],
+    "numbers": [
+      8,
+      17,
+      71
+    ]
+  },
+  {
     "name": "Dennis Scott",
     "teams": [
       "Minnesota Timberwolves",
@@ -8827,6 +10087,7 @@ export const NBA_PLAYERS = [
   {
     "name": "Dennis Smith Jr.",
     "teams": [
+      "BRK",
       "Charlotte Hornets",
       "Dallas Mavericks",
       "Detroit Pistons",
@@ -8834,6 +10095,7 @@ export const NBA_PLAYERS = [
       "Portland Trail Blazers"
     ],
     "college": [
+      "NC State",
       "North Carolina State"
     ],
     "numbers": [
@@ -8865,7 +10127,8 @@ export const NBA_PLAYERS = [
       "Sacramento Kings"
     ],
     "college": [
-      "Iowa State"
+      "Iowa State",
+      "Marquette"
     ],
     "numbers": [
       24,
@@ -8887,6 +10150,18 @@ export const NBA_PLAYERS = [
       1,
       3,
       4
+    ]
+  },
+  {
+    "name": "Dereck Lively II",
+    "teams": [
+      "Dallas Mavericks"
+    ],
+    "college": [
+      "Duke"
+    ],
+    "numbers": [
+      2
     ]
   },
   {
@@ -8987,10 +10262,23 @@ export const NBA_PLAYERS = [
       "New Orleans Pelicans"
     ],
     "college": [
+      "NC State",
       "North Carolina State"
     ],
     "numbers": [
       0
+    ]
+  },
+  {
+    "name": "Derik Queen",
+    "teams": [
+      "New Orleans Pelicans"
+    ],
+    "college": [
+      "Maryland"
+    ],
+    "numbers": [
+      22
     ]
   },
   {
@@ -9111,6 +10399,8 @@ export const NBA_PLAYERS = [
     "name": "Derrick Jones Jr.",
     "teams": [
       "Chicago Bulls",
+      "Dallas Mavericks",
+      "Los Angeles Clippers",
       "Miami Heat",
       "Phoenix Suns",
       "Portland Trail Blazers"
@@ -9143,6 +10433,7 @@ export const NBA_PLAYERS = [
     "teams": [
       "Chicago Bulls",
       "Detroit Pistons",
+      "Memphis Grizzlies",
       "Minnesota Timberwolves",
       "New York Knicks"
     ],
@@ -9174,7 +10465,8 @@ export const NBA_PLAYERS = [
       "San Antonio Spurs"
     ],
     "college": [
-      "Colorado"
+      "Colorado",
+      "Colorado-Colorado Springs"
     ],
     "numbers": [
       4,
@@ -9229,7 +10521,8 @@ export const NBA_PLAYERS = [
   {
     "name": "Desmond Bane",
     "teams": [
-      "Memphis Grizzlies"
+      "Memphis Grizzlies",
+      "Orlando Magic"
     ],
     "college": [
       "TCU"
@@ -9313,6 +10606,7 @@ export const NBA_PLAYERS = [
   {
     "name": "Devin Booker",
     "teams": [
+      "PHO",
       "Phoenix Suns"
     ],
     "college": [
@@ -9353,6 +10647,19 @@ export const NBA_PLAYERS = [
     ],
     "numbers": [
       30
+    ]
+  },
+  {
+    "name": "Devin Carter",
+    "teams": [
+      "Sacramento Kings"
+    ],
+    "college": [
+      "Providence",
+      "South Carolina"
+    ],
+    "numbers": [
+      22
     ]
   },
   {
@@ -9546,6 +10853,19 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Dexter Dennis",
+    "teams": [
+      "Dallas Mavericks"
+    ],
+    "college": [
+      "Texas A&M",
+      "Wichita State"
+    ],
+    "numbers": [
+      17
+    ]
+  },
+  {
     "name": "Dexter Pittman",
     "teams": [
       "Atlanta Hawks",
@@ -9659,7 +10979,9 @@ export const NBA_PLAYERS = [
   {
     "name": "Dillon Brooks",
     "teams": [
-      "Memphis Grizzlies"
+      "Houston Rockets",
+      "Memphis Grizzlies",
+      "PHO"
     ],
     "college": [
       "Oregon"
@@ -9668,6 +10990,30 @@ export const NBA_PLAYERS = [
       3,
       9,
       24
+    ]
+  },
+  {
+    "name": "Dillon Jones",
+    "teams": [
+      "Oklahoma City Thunder"
+    ],
+    "college": [
+      "Weber State"
+    ],
+    "numbers": [
+      3
+    ]
+  },
+  {
+    "name": "Dillon Jones (TW)",
+    "teams": [
+      "New York Knicks"
+    ],
+    "college": [
+      "Weber State"
+    ],
+    "numbers": [
+      1
     ]
   },
   {
@@ -9737,6 +11083,18 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Dmytro Skapintsev",
+    "teams": [
+      "New York Knicks"
+    ],
+    "college": [
+      "Cal State Northridge"
+    ],
+    "numbers": [
+      14
+    ]
+  },
+  {
     "name": "Domantas Sabonis",
     "teams": [
       "Indiana Pacers",
@@ -9773,6 +11131,8 @@ export const NBA_PLAYERS = [
   {
     "name": "Dominick Barlow",
     "teams": [
+      "Atlanta Hawks",
+      "Philadelphia 76ers",
       "San Antonio Spurs"
     ],
     "college": [],
@@ -9949,6 +11309,18 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Donovan Clingan",
+    "teams": [
+      "Portland Trail Blazers"
+    ],
+    "college": [
+      "UConn"
+    ],
+    "numbers": [
+      23
+    ]
+  },
+  {
     "name": "Donovan Mitchell",
     "teams": [
       "Cleveland Cavaliers",
@@ -9967,6 +11339,7 @@ export const NBA_PLAYERS = [
       "Atlanta Hawks"
     ],
     "college": [
+      "Texas",
       "UNLV"
     ],
     "numbers": [
@@ -10016,6 +11389,8 @@ export const NBA_PLAYERS = [
     "teams": [
       "Golden State Warriors",
       "Milwaukee Bucks",
+      "Minnesota Timberwolves",
+      "New York Knicks",
       "Sacramento Kings"
     ],
     "college": [
@@ -10109,8 +11484,11 @@ export const NBA_PLAYERS = [
   {
     "name": "Dorian Finney-Smith",
     "teams": [
+      "BRK",
       "Brooklyn Nets",
-      "Dallas Mavericks"
+      "Dallas Mavericks",
+      "Houston Rockets",
+      "Los Angeles Lakers"
     ],
     "college": [
       "Florida"
@@ -10160,6 +11538,7 @@ export const NBA_PLAYERS = [
       "Dallas Mavericks",
       "Indiana Pacers",
       "Oklahoma City Thunder",
+      "Sacramento Kings",
       "San Antonio Spurs"
     ],
     "college": [
@@ -10229,6 +11608,18 @@ export const NBA_PLAYERS = [
     "numbers": []
   },
   {
+    "name": "Drake Powell",
+    "teams": [
+      "BRK"
+    ],
+    "college": [
+      "UNC"
+    ],
+    "numbers": [
+      4
+    ]
+  },
+  {
     "name": "Draymond Green",
     "teams": [
       "Golden State Warriors"
@@ -10259,8 +11650,12 @@ export const NBA_PLAYERS = [
   {
     "name": "Drew Eubanks",
     "teams": [
+      "Los Angeles Clippers",
+      "PHO",
       "Portland Trail Blazers",
-      "San Antonio Spurs"
+      "Sacramento Kings",
+      "San Antonio Spurs",
+      "Utah Jazz"
     ],
     "college": [
       "Oregon State"
@@ -10305,12 +11700,52 @@ export const NBA_PLAYERS = [
     ]
   },
   {
-    "name": "Dru Smith",
+    "name": "Drew Peterson",
     "teams": [
-      "Brooklyn Nets"
+      "Boston Celtics"
     ],
     "college": [
-      "Missouri"
+      "Rice University",
+      "USC"
+    ],
+    "numbers": [
+      13
+    ]
+  },
+  {
+    "name": "Drew Timme",
+    "teams": [
+      "BRK"
+    ],
+    "college": [
+      "Gonzaga"
+    ],
+    "numbers": [
+      26
+    ]
+  },
+  {
+    "name": "Drew Timme (TW)",
+    "teams": [
+      "Los Angeles Lakers"
+    ],
+    "college": [
+      "Gonzaga"
+    ],
+    "numbers": [
+      17
+    ]
+  },
+  {
+    "name": "Dru Smith",
+    "teams": [
+      "BRK",
+      "Brooklyn Nets",
+      "Miami Heat"
+    ],
+    "college": [
+      "Missouri",
+      "University of Evansville"
     ],
     "numbers": [
       9,
@@ -10349,7 +11784,8 @@ export const NBA_PLAYERS = [
     "name": "Duane Washington Jr.",
     "teams": [
       "Indiana Pacers",
-      "New York Knicks"
+      "New York Knicks",
+      "PHO"
     ],
     "college": [
       "Ohio State"
@@ -10373,13 +11809,28 @@ export const NBA_PLAYERS = [
   {
     "name": "Duncan Robinson",
     "teams": [
+      "Detroit Pistons",
       "Miami Heat"
     ],
     "college": [
-      "Michigan"
+      "Michigan",
+      "Williams"
     ],
     "numbers": [
       55
+    ]
+  },
+  {
+    "name": "Duop Reath",
+    "teams": [
+      "Portland Trail Blazers"
+    ],
+    "college": [
+      "LSU",
+      "Lee College"
+    ],
+    "numbers": [
+      26
     ]
   },
   {
@@ -10501,9 +11952,34 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Dylan Cardwell (TW)",
+    "teams": [
+      "Sacramento Kings"
+    ],
+    "college": [
+      "Auburn"
+    ],
+    "numbers": [
+      32
+    ]
+  },
+  {
+    "name": "Dylan Harper",
+    "teams": [
+      "San Antonio Spurs"
+    ],
+    "college": [
+      "Rutgers University"
+    ],
+    "numbers": []
+  },
+  {
     "name": "Dylan Windler",
     "teams": [
-      "Cleveland Cavaliers"
+      "Atlanta Hawks",
+      "Cleveland Cavaliers",
+      "Los Angeles Lakers",
+      "New York Knicks"
     ],
     "college": [
       "Belmont"
@@ -10516,6 +11992,7 @@ export const NBA_PLAYERS = [
   {
     "name": "Dyson Daniels",
     "teams": [
+      "Atlanta Hawks",
       "New Orleans Pelicans"
     ],
     "college": [],
@@ -10533,6 +12010,20 @@ export const NBA_PLAYERS = [
     "numbers": []
   },
   {
+    "name": "D\u0101vis Bert\u0101ns",
+    "teams": [
+      "Charlotte Hornets",
+      "Dallas Mavericks",
+      "Oklahoma City Thunder"
+    ],
+    "college": [],
+    "numbers": [
+      9,
+      42,
+      44
+    ]
+  },
+  {
     "name": "E'Twaun Moore",
     "teams": [
       "Boston Celtics",
@@ -10546,6 +12037,31 @@ export const NBA_PLAYERS = [
     ],
     "numbers": [
       55
+    ]
+  },
+  {
+    "name": "E.J. Liddell",
+    "teams": [
+      "Chicago Bulls",
+      "New Orleans Pelicans"
+    ],
+    "college": [
+      "Ohio State"
+    ],
+    "numbers": [
+      32
+    ]
+  },
+  {
+    "name": "E.J. Liddell (TW)",
+    "teams": [
+      "BRK"
+    ],
+    "college": [
+      "Ohio State"
+    ],
+    "numbers": [
+      9
     ]
   },
   {
@@ -10836,6 +12352,7 @@ export const NBA_PLAYERS = [
   {
     "name": "Edmond Sumner",
     "teams": [
+      "BRK",
       "Brooklyn Nets",
       "Indiana Pacers"
     ],
@@ -10895,6 +12412,18 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Egor D\u0451min",
+    "teams": [
+      "BRK"
+    ],
+    "college": [
+      "BYU"
+    ],
+    "numbers": [
+      8
+    ]
+  },
+  {
     "name": "Ekpe Udoh",
     "teams": [
       "Golden State Warriors",
@@ -10947,6 +12476,7 @@ export const NBA_PLAYERS = [
   {
     "name": "Elfrid Payton",
     "teams": [
+      "Charlotte Hornets",
       "New Orleans Pelicans",
       "New York Knicks",
       "Orlando Magic",
@@ -10954,6 +12484,7 @@ export const NBA_PLAYERS = [
     ],
     "college": [
       "Louisana-Lafayette",
+      "Louisiana",
       "Louisiana-Lafayette"
     ],
     "numbers": [
@@ -10994,6 +12525,34 @@ export const NBA_PLAYERS = [
     ],
     "numbers": [
       3
+    ]
+  },
+  {
+    "name": "Elijah Harkless",
+    "teams": [
+      "Utah Jazz"
+    ],
+    "college": [
+      "Cal State Northridge",
+      "Oklahoma",
+      "UNLV"
+    ],
+    "numbers": [
+      16
+    ]
+  },
+  {
+    "name": "Elijah Harkless (TW)",
+    "teams": [
+      "Utah Jazz"
+    ],
+    "college": [
+      "Cal State Northridge",
+      "Oklahoma",
+      "UNLV"
+    ],
+    "numbers": [
+      16
     ]
   },
   {
@@ -11115,6 +12674,30 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Emanuel Miller",
+    "teams": [
+      "Chicago Bulls"
+    ],
+    "college": [
+      "TCU",
+      "Texas A&M"
+    ],
+    "numbers": [
+      20
+    ]
+  },
+  {
+    "name": "Emanuel Miller (TW)",
+    "teams": [
+      "San Antonio Spurs"
+    ],
+    "college": [
+      "TCU",
+      "Texas A&M"
+    ],
+    "numbers": []
+  },
+  {
     "name": "Emanuel Terry",
     "teams": [
       "Miami Heat",
@@ -11160,6 +12743,19 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Emoni Bates",
+    "teams": [
+      "Cleveland Cavaliers"
+    ],
+    "college": [
+      "Eastern Michigan",
+      "Memphis"
+    ],
+    "numbers": [
+      21
+    ]
+  },
+  {
     "name": "Enes Freedom",
     "teams": [
       "Boston Celtics"
@@ -11199,6 +12795,30 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Enrique Freeman",
+    "teams": [
+      "Indiana Pacers"
+    ],
+    "college": [
+      "University of Akron"
+    ],
+    "numbers": [
+      8
+    ]
+  },
+  {
+    "name": "Enrique Freeman (TW)",
+    "teams": [
+      "Minnesota Timberwolves"
+    ],
+    "college": [
+      "University of Akron"
+    ],
+    "numbers": [
+      25
+    ]
+  },
+  {
     "name": "Eric Bledsoe",
     "teams": [
       "Los Angeles Clippers",
@@ -11235,7 +12855,9 @@ export const NBA_PLAYERS = [
       "Houston Rockets",
       "Los Angeles Clippers",
       "New Orleans Hornets",
-      "New Orleans Pelicans"
+      "New Orleans Pelicans",
+      "PHO",
+      "Philadelphia 76ers"
     ],
     "college": [
       "Indiana"
@@ -11614,13 +13236,26 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Ethan Thompson (TW)",
+    "teams": [
+      "Indiana Pacers"
+    ],
+    "college": [
+      "Oregon State"
+    ],
+    "numbers": []
+  },
+  {
     "name": "Eugene Omoruyi",
     "teams": [
       "Dallas Mavericks",
-      "Detroit Pistons"
+      "Detroit Pistons",
+      "Oklahoma City Thunder",
+      "Washington Wizards"
     ],
     "college": [
-      "Oregon"
+      "Oregon",
+      "Rutgers University"
     ],
     "numbers": [
       2,
@@ -11646,6 +13281,7 @@ export const NBA_PLAYERS = [
     "teams": [
       "Boston Celtics",
       "Denver Nuggets",
+      "Detroit Pistons",
       "New York Knicks",
       "Orlando Magic"
     ],
@@ -11663,7 +13299,8 @@ export const NBA_PLAYERS = [
       "Cleveland Cavaliers"
     ],
     "college": [
-      "Southern California"
+      "Southern California",
+      "USC"
     ],
     "numbers": [
       4
@@ -11787,6 +13424,19 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Filip Petru\u0161ev",
+    "teams": [
+      "Philadelphia 76ers",
+      "Sacramento Kings"
+    ],
+    "college": [
+      "Gonzaga"
+    ],
+    "numbers": [
+      33
+    ]
+  },
+  {
     "name": "Flip Murray",
     "teams": [
       "Atlanta Hawks",
@@ -11863,6 +13513,7 @@ export const NBA_PLAYERS = [
   {
     "name": "Frank Kaminsky",
     "teams": [
+      "Atlanta Hawks",
       "Charlotte Hornets",
       "Houston Rockets",
       "Phoenix Suns"
@@ -11891,6 +13542,7 @@ export const NBA_PLAYERS = [
   {
     "name": "Frank Ntilikina",
     "teams": [
+      "Charlotte Hornets",
       "Dallas Mavericks",
       "New York Knicks"
     ],
@@ -11986,6 +13638,7 @@ export const NBA_PLAYERS = [
   {
     "name": "Fred VanVleet",
     "teams": [
+      "Houston Rockets",
       "Toronto Raptors"
     ],
     "college": [
@@ -12043,6 +13696,18 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "GG Jackson II",
+    "teams": [
+      "Memphis Grizzlies"
+    ],
+    "college": [
+      "South Carolina"
+    ],
+    "numbers": [
+      45
+    ]
+  },
+  {
     "name": "Gabe Pruitt",
     "teams": [
       "Boston Celtics"
@@ -12057,10 +13722,13 @@ export const NBA_PLAYERS = [
   {
     "name": "Gabe Vincent",
     "teams": [
+      "Atlanta Hawks",
+      "Los Angeles Lakers",
       "Miami Heat"
     ],
     "college": [
-      "California-Santa Barbara"
+      "California-Santa Barbara",
+      "UC Santa Barbara"
     ],
     "numbers": [
       2,
@@ -12148,9 +13816,11 @@ export const NBA_PLAYERS = [
       "New Orleans Pelicans",
       "Sacramento Kings",
       "San Antonio Spurs",
+      "Toronto Raptors",
       "Washington Wizards"
     ],
     "college": [
+      "LSU",
       "Louisiana State"
     ],
     "numbers": [
@@ -12235,6 +13905,7 @@ export const NBA_PLAYERS = [
     "name": "Gary Harris",
     "teams": [
       "Denver Nuggets",
+      "Milwaukee Bucks",
       "Orlando Magic"
     ],
     "college": [
@@ -12284,6 +13955,7 @@ export const NBA_PLAYERS = [
       "Golden State Warriors",
       "Los Angeles Lakers",
       "Milwaukee Bucks",
+      "Portland Trail Blazers",
       "Washington Wizards"
     ],
     "college": [
@@ -12316,6 +13988,7 @@ export const NBA_PLAYERS = [
   {
     "name": "Gary Trent Jr.",
     "teams": [
+      "Milwaukee Bucks",
       "Portland Trail Blazers",
       "Toronto Raptors"
     ],
@@ -12364,6 +14037,7 @@ export const NBA_PLAYERS = [
       "Utah Jazz"
     ],
     "college": [
+      "IUPUI",
       "Indiana Purdue-Indianapolis",
       "Indiana-Purdue Indianapolis"
     ],
@@ -12433,6 +14107,8 @@ export const NBA_PLAYERS = [
   {
     "name": "Georges Niang",
     "teams": [
+      "Atlanta Hawks",
+      "Cleveland Cavaliers",
       "Indiana Pacers",
       "Philadelphia 76ers",
       "Utah Jazz"
@@ -12751,6 +14427,22 @@ export const NBA_PLAYERS = [
     "numbers": []
   },
   {
+    "name": "Goran Dragi\u0107",
+    "teams": [
+      "Chicago Bulls",
+      "Milwaukee Bucks"
+    ],
+    "college": [],
+    "numbers": [
+      1,
+      2,
+      3,
+      7,
+      9,
+      31
+    ]
+  },
+  {
     "name": "Gordan Giricek",
     "teams": [
       "Orlando Magic",
@@ -12765,6 +14457,7 @@ export const NBA_PLAYERS = [
     "teams": [
       "Boston Celtics",
       "Charlotte Hornets",
+      "Oklahoma City Thunder",
       "Utah Jazz"
     ],
     "college": [
@@ -12792,6 +14485,18 @@ export const NBA_PLAYERS = [
       10,
       14,
       41
+    ]
+  },
+  {
+    "name": "Gradey Dick",
+    "teams": [
+      "Toronto Raptors"
+    ],
+    "college": [
+      "Kansas"
+    ],
+    "numbers": [
+      1
     ]
   },
   {
@@ -12851,7 +14556,9 @@ export const NBA_PLAYERS = [
   {
     "name": "Grant Williams",
     "teams": [
-      "Boston Celtics"
+      "Boston Celtics",
+      "Charlotte Hornets",
+      "Dallas Mavericks"
     ],
     "college": [
       "Tennessee"
@@ -12866,6 +14573,7 @@ export const NBA_PLAYERS = [
     "teams": [
       "Memphis Grizzlies",
       "Milwaukee Bucks",
+      "PHO",
       "Utah Jazz"
     ],
     "college": [
@@ -12912,6 +14620,7 @@ export const NBA_PLAYERS = [
   {
     "name": "Greg Brown III",
     "teams": [
+      "Dallas Mavericks",
       "Portland Trail Blazers"
     ],
     "college": [
@@ -13103,12 +14812,24 @@ export const NBA_PLAYERS = [
   {
     "name": "Guerschon Yabusele",
     "teams": [
-      "Boston Celtics"
+      "Boston Celtics",
+      "Chicago Bulls",
+      "Philadelphia 76ers"
     ],
     "college": [],
     "numbers": [
       28,
       30
+    ]
+  },
+  {
+    "name": "Gui Santos",
+    "teams": [
+      "Golden State Warriors"
+    ],
+    "college": [],
+    "numbers": [
+      15
     ]
   },
   {
@@ -13209,7 +14930,8 @@ export const NBA_PLAYERS = [
     "name": "Hamidou Diallo",
     "teams": [
       "Detroit Pistons",
-      "Oklahoma City Thunder"
+      "Oklahoma City Thunder",
+      "Washington Wizards"
     ],
     "college": [
       "Kentucky"
@@ -13260,13 +14982,54 @@ export const NBA_PLAYERS = [
     "teams": [
       "Dallas Mavericks",
       "Golden State Warriors",
-      "Sacramento Kings"
+      "Sacramento Kings",
+      "San Antonio Spurs"
     ],
     "college": [
-      "North Carolina"
+      "North Carolina",
+      "UNC"
     ],
     "numbers": [
       40
+    ]
+  },
+  {
+    "name": "Harrison Ingram",
+    "teams": [
+      "San Antonio Spurs"
+    ],
+    "college": [
+      "Stanford",
+      "UNC"
+    ],
+    "numbers": [
+      55
+    ]
+  },
+  {
+    "name": "Harrison Ingram (TW)",
+    "teams": [
+      "San Antonio Spurs"
+    ],
+    "college": [
+      "Stanford",
+      "UNC"
+    ],
+    "numbers": []
+  },
+  {
+    "name": "Harry Giles",
+    "teams": [
+      "BRK",
+      "Los Angeles Lakers"
+    ],
+    "college": [
+      "Duke"
+    ],
+    "numbers": [
+      4,
+      14,
+      20
     ]
   },
   {
@@ -13353,13 +15116,27 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Hayden Gray",
+    "teams": [
+      "Utah Jazz"
+    ],
+    "college": [
+      "UC San Diego"
+    ],
+    "numbers": [
+      33
+    ]
+  },
+  {
     "name": "Haywood Highsmith",
     "teams": [
       "Miami Heat",
+      "PHO",
       "Philadelphia 76ers"
     ],
     "college": [
-      "Wheeling Jesuit"
+      "Wheeling Jesuit",
+      "Wheeling University"
     ],
     "numbers": [
       7,
@@ -13392,6 +15169,16 @@ export const NBA_PLAYERS = [
     ],
     "college": [],
     "numbers": []
+  },
+  {
+    "name": "Henri Drell",
+    "teams": [
+      "Chicago Bulls"
+    ],
+    "college": [],
+    "numbers": [
+      77
+    ]
   },
   {
     "name": "Henry Ellenson",
@@ -13633,6 +15420,42 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Hugo Gonz\u00e1lez",
+    "teams": [
+      "Boston Celtics"
+    ],
+    "college": [],
+    "numbers": [
+      28
+    ]
+  },
+  {
+    "name": "Hunter Dickinson (TW)",
+    "teams": [
+      "New Orleans Pelicans"
+    ],
+    "college": [
+      "Kansas",
+      "Michigan"
+    ],
+    "numbers": [
+      4
+    ]
+  },
+  {
+    "name": "Hunter Tyson",
+    "teams": [
+      "Denver Nuggets"
+    ],
+    "college": [
+      "Clemson"
+    ],
+    "numbers": [
+      4,
+      5
+    ]
+  },
+  {
     "name": "Ian Clark",
     "teams": [
       "Denver Nuggets",
@@ -13660,6 +15483,16 @@ export const NBA_PLAYERS = [
     "college": [],
     "numbers": [
       28
+    ]
+  },
+  {
+    "name": "Ibou Badji",
+    "teams": [
+      "Portland Trail Blazers"
+    ],
+    "college": [],
+    "numbers": [
+      41
     ]
   },
   {
@@ -13788,7 +15621,8 @@ export const NBA_PLAYERS = [
   {
     "name": "Immanuel Quickley",
     "teams": [
-      "New York Knicks"
+      "New York Knicks",
+      "Toronto Raptors"
     ],
     "college": [
       "Kentucky"
@@ -13853,8 +15687,35 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Isaac Jones",
+    "teams": [
+      "Sacramento Kings"
+    ],
+    "college": [
+      "Idaho",
+      "Washington State",
+      "Wenatchee Valley College"
+    ],
+    "numbers": []
+  },
+  {
+    "name": "Isaac Jones (TW)",
+    "teams": [
+      "Detroit Pistons"
+    ],
+    "college": [
+      "Idaho",
+      "Washington State",
+      "Wenatchee Valley College"
+    ],
+    "numbers": [
+      13
+    ]
+  },
+  {
     "name": "Isaac Okoro",
     "teams": [
+      "Chicago Bulls",
       "Cleveland Cavaliers"
     ],
     "college": [
@@ -13894,12 +15755,48 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Isaiah Collier",
+    "teams": [
+      "Utah Jazz"
+    ],
+    "college": [
+      "USC"
+    ],
+    "numbers": [
+      8,
+      13
+    ]
+  },
+  {
+    "name": "Isaiah Crawford",
+    "teams": [
+      "Sacramento Kings"
+    ],
+    "college": [
+      "Louisiana Tech"
+    ],
+    "numbers": [
+      24
+    ]
+  },
+  {
+    "name": "Isaiah Crawford (TW)",
+    "teams": [
+      "Houston Rockets"
+    ],
+    "college": [
+      "Louisiana Tech"
+    ],
+    "numbers": []
+  },
+  {
     "name": "Isaiah Hartenstein",
     "teams": [
       "Cleveland Cavaliers",
       "Houston Rockets",
       "Los Angeles Clippers",
-      "New York Knicks"
+      "New York Knicks",
+      "Oklahoma City Thunder"
     ],
     "college": [],
     "numbers": [
@@ -13922,7 +15819,8 @@ export const NBA_PLAYERS = [
   {
     "name": "Isaiah Jackson",
     "teams": [
-      "Indiana Pacers"
+      "Indiana Pacers",
+      "Los Angeles Clippers"
     ],
     "college": [
       "Kentucky"
@@ -13959,12 +15857,26 @@ export const NBA_PLAYERS = [
     ]
   },
   {
-    "name": "Isaiah Mobley",
+    "name": "Isaiah Livers (TW)",
     "teams": [
-      "Cleveland Cavaliers"
+      "PHO"
     ],
     "college": [
-      "Southern California"
+      "Michigan"
+    ],
+    "numbers": [
+      18
+    ]
+  },
+  {
+    "name": "Isaiah Mobley",
+    "teams": [
+      "Cleveland Cavaliers",
+      "Philadelphia 76ers"
+    ],
+    "college": [
+      "Southern California",
+      "USC"
     ],
     "numbers": [
       15,
@@ -13991,7 +15903,8 @@ export const NBA_PLAYERS = [
     "name": "Isaiah Roby",
     "teams": [
       "New York Knicks",
-      "Oklahoma City Thunder"
+      "Oklahoma City Thunder",
+      "San Antonio Spurs"
     ],
     "college": [
       "Nebraska",
@@ -14000,6 +15913,30 @@ export const NBA_PLAYERS = [
     "numbers": [
       18,
       22
+    ]
+  },
+  {
+    "name": "Isaiah Stevens",
+    "teams": [
+      "Miami Heat"
+    ],
+    "college": [
+      "Colorado State"
+    ],
+    "numbers": [
+      4
+    ]
+  },
+  {
+    "name": "Isaiah Stevens (TW)",
+    "teams": [
+      "Sacramento Kings"
+    ],
+    "college": [
+      "Colorado State"
+    ],
+    "numbers": [
+      24
     ]
   },
   {
@@ -14036,6 +15973,7 @@ export const NBA_PLAYERS = [
       "Denver Nuggets",
       "Los Angeles Lakers",
       "New Orleans Pelicans",
+      "PHO",
       "Sacramento Kings",
       "Washington Wizards"
     ],
@@ -14075,8 +16013,22 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Isaiah Wong",
+    "teams": [
+      "Charlotte Hornets",
+      "Indiana Pacers"
+    ],
+    "college": [
+      "Miami (FL)"
+    ],
+    "numbers": [
+      21
+    ]
+  },
+  {
     "name": "Ish Smith",
     "teams": [
+      "Charlotte Hornets",
       "Denver Nuggets",
       "Detroit Pistons",
       "Memphis Grizzlies",
@@ -14105,7 +16057,9 @@ export const NBA_PLAYERS = [
   {
     "name": "Ish Wainright",
     "teams": [
-      "Phoenix Suns"
+      "PHO",
+      "Phoenix Suns",
+      "Portland Trail Blazers"
     ],
     "college": [
       "Baylor"
@@ -14168,12 +16122,27 @@ export const NBA_PLAYERS = [
   {
     "name": "Ivica Zubac",
     "teams": [
+      "Indiana Pacers",
       "Los Angeles Clippers",
       "Los Angeles Lakers"
     ],
     "college": [],
     "numbers": [
       40
+    ]
+  },
+  {
+    "name": "Izaiah Brockington",
+    "teams": [
+      "New Orleans Pelicans"
+    ],
+    "college": [
+      "Iowa State",
+      "Penn State",
+      "St. Bonaventure"
+    ],
+    "numbers": [
+      21
     ]
   },
   {
@@ -14262,7 +16231,8 @@ export const NBA_PLAYERS = [
   {
     "name": "JD Davison",
     "teams": [
-      "Boston Celtics"
+      "Boston Celtics",
+      "Houston Rockets"
     ],
     "college": [
       "Alabama"
@@ -14332,7 +16302,9 @@ export const NBA_PLAYERS = [
   {
     "name": "JT Thor",
     "teams": [
-      "Charlotte Hornets"
+      "Charlotte Hornets",
+      "Cleveland Cavaliers",
+      "Washington Wizards"
     ],
     "college": [
       "Auburn"
@@ -14352,6 +16324,18 @@ export const NBA_PLAYERS = [
     ],
     "numbers": [
       12
+    ]
+  },
+  {
+    "name": "Ja'Kobe Walter",
+    "teams": [
+      "Toronto Raptors"
+    ],
+    "college": [
+      "Baylor"
+    ],
+    "numbers": [
+      14
     ]
   },
   {
@@ -14425,6 +16409,7 @@ export const NBA_PLAYERS = [
       "Golden State Warriors",
       "Los Angeles Lakers",
       "Phoenix Suns",
+      "Sacramento Kings",
       "Washington Wizards"
     ],
     "college": [
@@ -14515,6 +16500,7 @@ export const NBA_PLAYERS = [
   {
     "name": "Jabari Walker",
     "teams": [
+      "Philadelphia 76ers",
       "Portland Trail Blazers"
     ],
     "college": [
@@ -14551,9 +16537,22 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Jack McVeigh",
+    "teams": [
+      "Houston Rockets"
+    ],
+    "college": [
+      "Nebraska"
+    ],
+    "numbers": [
+      58
+    ]
+  },
+  {
     "name": "Jack White",
     "teams": [
-      "Denver Nuggets"
+      "Denver Nuggets",
+      "Memphis Grizzlies"
     ],
     "college": [
       "Duke"
@@ -14574,6 +16573,18 @@ export const NBA_PLAYERS = [
     ],
     "numbers": [
       45
+    ]
+  },
+  {
+    "name": "Jackson Rowe",
+    "teams": [
+      "Golden State Warriors"
+    ],
+    "college": [
+      "Cal State Fullerton"
+    ],
+    "numbers": [
+      44
     ]
   },
   {
@@ -14606,6 +16617,7 @@ export const NBA_PLAYERS = [
   {
     "name": "Jacob Gilyard",
     "teams": [
+      "BRK",
       "Memphis Grizzlies"
     ],
     "college": [
@@ -14623,6 +16635,20 @@ export const NBA_PLAYERS = [
     ],
     "college": [
       "Kansas State"
+    ],
+    "numbers": [
+      0
+    ]
+  },
+  {
+    "name": "Jacob Toppin",
+    "teams": [
+      "Atlanta Hawks",
+      "New York Knicks"
+    ],
+    "college": [
+      "Kentucky",
+      "Rhode Island"
     ],
     "numbers": [
       0
@@ -14659,7 +16685,8 @@ export const NBA_PLAYERS = [
   {
     "name": "Jaden Hardy",
     "teams": [
-      "Dallas Mavericks"
+      "Dallas Mavericks",
+      "Washington Wizards"
     ],
     "college": [],
     "numbers": [
@@ -14694,7 +16721,9 @@ export const NBA_PLAYERS = [
   {
     "name": "Jaden Springer",
     "teams": [
-      "Philadelphia 76ers"
+      "Boston Celtics",
+      "Philadelphia 76ers",
+      "Utah Jazz"
     ],
     "college": [
       "Tennessee"
@@ -14712,6 +16741,7 @@ export const NBA_PLAYERS = [
       "Miami Heat",
       "Milwaukee Bucks",
       "Phoenix Suns",
+      "Sacramento Kings",
       "Utah Jazz"
     ],
     "college": [
@@ -14753,6 +16783,7 @@ export const NBA_PLAYERS = [
     "teams": [
       "Brooklyn Nets",
       "Detroit Pistons",
+      "Indiana Pacers",
       "New Orleans Pelicans",
       "Philadelphia 76ers"
     ],
@@ -14767,9 +16798,22 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Jahmai Mashack (TW)",
+    "teams": [
+      "Memphis Grizzlies"
+    ],
+    "college": [
+      "Tennessee"
+    ],
+    "numbers": [
+      21
+    ]
+  },
+  {
     "name": "Jahmi'us Ramsey",
     "teams": [
-      "Sacramento Kings"
+      "Sacramento Kings",
+      "Toronto Raptors"
     ],
     "college": [
       "Texas Tech"
@@ -14778,6 +16822,20 @@ export const NBA_PLAYERS = [
       3,
       20,
       37
+    ]
+  },
+  {
+    "name": "Jahmir Young",
+    "teams": [
+      "Chicago Bulls",
+      "Miami Heat"
+    ],
+    "college": [
+      "Maryland",
+      "UNC Charlotte"
+    ],
+    "numbers": [
+      17
     ]
   },
   {
@@ -14793,11 +16851,26 @@ export const NBA_PLAYERS = [
     ]
   },
   {
-    "name": "Jake LaRavia",
+    "name": "Jaime Jaquez Jr.",
     "teams": [
-      "Memphis Grizzlies"
+      "Miami Heat"
     ],
     "college": [
+      "UCLA"
+    ],
+    "numbers": [
+      11
+    ]
+  },
+  {
+    "name": "Jake LaRavia",
+    "teams": [
+      "Los Angeles Lakers",
+      "Memphis Grizzlies",
+      "Sacramento Kings"
+    ],
+    "college": [
+      "Indiana State University",
       "Wake Forest"
     ],
     "numbers": [
@@ -14865,6 +16938,19 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Jalen Bridges",
+    "teams": [
+      "PHO"
+    ],
+    "college": [
+      "Baylor",
+      "West Virginia"
+    ],
+    "numbers": [
+      15
+    ]
+  },
+  {
     "name": "Jalen Brunson",
     "teams": [
       "Dallas Mavericks",
@@ -14876,6 +16962,18 @@ export const NBA_PLAYERS = [
     "numbers": [
       11,
       13
+    ]
+  },
+  {
+    "name": "Jalen Crutcher",
+    "teams": [
+      "New Orleans Pelicans"
+    ],
+    "college": [
+      "Dayton"
+    ],
+    "numbers": [
+      10
     ]
   },
   {
@@ -14893,7 +16991,8 @@ export const NBA_PLAYERS = [
   {
     "name": "Jalen Green",
     "teams": [
-      "Houston Rockets"
+      "Houston Rockets",
+      "PHO"
     ],
     "college": [],
     "numbers": [
@@ -14911,6 +17010,20 @@ export const NBA_PLAYERS = [
     ],
     "numbers": [
       2
+    ]
+  },
+  {
+    "name": "Jalen Hood-Schifino",
+    "teams": [
+      "Los Angeles Lakers",
+      "Philadelphia 76ers"
+    ],
+    "college": [
+      "Indiana"
+    ],
+    "numbers": [
+      0,
+      17
     ]
   },
   {
@@ -14954,7 +17067,9 @@ export const NBA_PLAYERS = [
     "name": "Jalen McDaniels",
     "teams": [
       "Charlotte Hornets",
-      "Philadelphia 76ers"
+      "Philadelphia 76ers",
+      "Toronto Raptors",
+      "Washington Wizards"
     ],
     "college": [
       "San Diego State"
@@ -14963,6 +17078,19 @@ export const NBA_PLAYERS = [
       2,
       7,
       26
+    ]
+  },
+  {
+    "name": "Jalen Pickett",
+    "teams": [
+      "Denver Nuggets"
+    ],
+    "college": [
+      "Penn State",
+      "Siena College"
+    ],
+    "numbers": [
+      24
     ]
   },
   {
@@ -14983,8 +17111,31 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Jalen Slawson",
+    "teams": [
+      "Sacramento Kings"
+    ],
+    "college": [
+      "Furman University"
+    ],
+    "numbers": [
+      18
+    ]
+  },
+  {
+    "name": "Jalen Slawson (TW)",
+    "teams": [
+      "Indiana Pacers"
+    ],
+    "college": [
+      "Furman University"
+    ],
+    "numbers": []
+  },
+  {
     "name": "Jalen Smith",
     "teams": [
+      "Chicago Bulls",
       "Indiana Pacers",
       "Phoenix Suns"
     ],
@@ -15019,6 +17170,18 @@ export const NBA_PLAYERS = [
     ],
     "numbers": [
       8
+    ]
+  },
+  {
+    "name": "Jalen Wilson",
+    "teams": [
+      "BRK"
+    ],
+    "college": [
+      "Kansas"
+    ],
+    "numbers": [
+      22
     ]
   },
   {
@@ -15072,9 +17235,12 @@ export const NBA_PLAYERS = [
   {
     "name": "Jamal Cain",
     "teams": [
-      "Miami Heat"
+      "Miami Heat",
+      "New Orleans Pelicans",
+      "Orlando Magic"
     ],
     "college": [
+      "Marquette",
       "Oakland"
     ],
     "numbers": [
@@ -15160,8 +17326,25 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Jamal Shead",
+    "teams": [
+      "Toronto Raptors"
+    ],
+    "college": [
+      "Houston"
+    ],
+    "numbers": [
+      23
+    ]
+  },
+  {
     "name": "Jamaree Bouyea",
     "teams": [
+      "Miami Heat",
+      "Milwaukee Bucks",
+      "PHO",
+      "Portland Trail Blazers",
+      "San Antonio Spurs",
       "Washington Wizards"
     ],
     "college": [
@@ -15283,7 +17466,8 @@ export const NBA_PLAYERS = [
       "Charlotte Hornets"
     ],
     "college": [
-      "Connecticut"
+      "Connecticut",
+      "UConn"
     ],
     "numbers": []
   },
@@ -15340,7 +17524,9 @@ export const NBA_PLAYERS = [
     "name": "James Harden",
     "teams": [
       "Brooklyn Nets",
+      "Cleveland Cavaliers",
       "Houston Rockets",
+      "Los Angeles Clippers",
       "Oklahoma City Thunder",
       "Philadelphia 76ers"
     ],
@@ -15558,7 +17744,8 @@ export const NBA_PLAYERS = [
     "name": "James Wiseman",
     "teams": [
       "Detroit Pistons",
-      "Golden State Warriors"
+      "Golden State Warriors",
+      "Indiana Pacers"
     ],
     "college": [
       "Memphis"
@@ -15638,6 +17825,31 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Jamir Watkins",
+    "teams": [
+      "Washington Wizards"
+    ],
+    "college": [
+      "Florida State",
+      "VCU"
+    ],
+    "numbers": []
+  },
+  {
+    "name": "Jamison Battle",
+    "teams": [
+      "Toronto Raptors"
+    ],
+    "college": [
+      "George Washington",
+      "Minnesota",
+      "Ohio State"
+    ],
+    "numbers": [
+      77
+    ]
+  },
+  {
     "name": "Jamison Brewer",
     "teams": [
       "Indiana Pacers",
@@ -15692,10 +17904,24 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Jarace Walker",
+    "teams": [
+      "Indiana Pacers"
+    ],
+    "college": [
+      "Houston"
+    ],
+    "numbers": [
+      5
+    ]
+  },
+  {
     "name": "Jared Butler",
     "teams": [
       "Oklahoma City Thunder",
-      "Utah Jazz"
+      "Philadelphia 76ers",
+      "Utah Jazz",
+      "Washington Wizards"
     ],
     "college": [
       "Baylor"
@@ -15779,6 +18005,19 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Jared McCain",
+    "teams": [
+      "Oklahoma City Thunder",
+      "Philadelphia 76ers"
+    ],
+    "college": [
+      "Duke"
+    ],
+    "numbers": [
+      20
+    ]
+  },
+  {
     "name": "Jared Reiner",
     "teams": [
       "Chicago Bulls",
@@ -15795,7 +18034,9 @@ export const NBA_PLAYERS = [
   {
     "name": "Jared Rhoden",
     "teams": [
-      "Detroit Pistons"
+      "Charlotte Hornets",
+      "Detroit Pistons",
+      "Toronto Raptors"
     ],
     "college": [
       "Seton Hall"
@@ -15879,7 +18120,8 @@ export const NBA_PLAYERS = [
   {
     "name": "Jaren Jackson Jr.",
     "teams": [
-      "Memphis Grizzlies"
+      "Memphis Grizzlies",
+      "Utah Jazz"
     ],
     "college": [
       "Michigan State"
@@ -15920,7 +18162,8 @@ export const NBA_PLAYERS = [
     "teams": [
       "Denver Nuggets",
       "Los Angeles Lakers",
-      "Minnesota Timberwolves"
+      "Minnesota Timberwolves",
+      "Utah Jazz"
     ],
     "college": [
       "Kentucky"
@@ -16068,6 +18311,18 @@ export const NBA_PLAYERS = [
       32,
       40,
       41
+    ]
+  },
+  {
+    "name": "Jase Richardson",
+    "teams": [
+      "Orlando Magic"
+    ],
+    "college": [
+      "Michigan State"
+    ],
+    "numbers": [
+      11
     ]
   },
   {
@@ -16219,10 +18474,12 @@ export const NBA_PLAYERS = [
   {
     "name": "Jason Preston",
     "teams": [
-      "Los Angeles Clippers"
+      "Los Angeles Clippers",
+      "Utah Jazz"
     ],
     "college": [
-      "Ohio"
+      "Ohio",
+      "Ohio University"
     ],
     "numbers": [
       10
@@ -16356,10 +18613,40 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Javon Freeman-Liberty",
+    "teams": [
+      "Toronto Raptors"
+    ],
+    "college": [
+      "DePaul",
+      "Valparaiso"
+    ],
+    "numbers": [
+      0
+    ]
+  },
+  {
+    "name": "Javon Small (TW)",
+    "teams": [
+      "Memphis Grizzlies"
+    ],
+    "college": [
+      "East Carolina University",
+      "Oklahoma State",
+      "West Virginia"
+    ],
+    "numbers": [
+      10
+    ]
+  },
+  {
     "name": "Javonte Green",
     "teams": [
       "Boston Celtics",
-      "Chicago Bulls"
+      "Chicago Bulls",
+      "Cleveland Cavaliers",
+      "Detroit Pistons",
+      "New Orleans Pelicans"
     ],
     "college": [
       "Radford"
@@ -16376,9 +18663,11 @@ export const NBA_PLAYERS = [
   {
     "name": "Javonte Smart",
     "teams": [
-      "Miami Heat"
+      "Miami Heat",
+      "Philadelphia 76ers"
     ],
     "college": [
+      "LSU",
       "Louisiana State"
     ],
     "numbers": [
@@ -16417,6 +18706,7 @@ export const NBA_PLAYERS = [
   {
     "name": "Jaxson Hayes",
     "teams": [
+      "Los Angeles Lakers",
       "New Orleans Pelicans"
     ],
     "college": [
@@ -16431,7 +18721,10 @@ export const NBA_PLAYERS = [
   {
     "name": "Jay Huff",
     "teams": [
+      "Denver Nuggets",
+      "Indiana Pacers",
       "Los Angeles Lakers",
+      "Memphis Grizzlies",
       "Washington Wizards"
     ],
     "college": [
@@ -16449,7 +18742,8 @@ export const NBA_PLAYERS = [
       "Orlando Magic"
     ],
     "college": [
-      "John A. Logan"
+      "John A. Logan",
+      "John A. Logan College"
     ],
     "numbers": [
       0
@@ -16494,6 +18788,18 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Jaylen Clark",
+    "teams": [
+      "Minnesota Timberwolves"
+    ],
+    "college": [
+      "UCLA"
+    ],
+    "numbers": [
+      22
+    ]
+  },
+  {
     "name": "Jaylen Hoard",
     "teams": [
       "Oklahoma City Thunder",
@@ -16506,6 +18812,18 @@ export const NBA_PLAYERS = [
       6,
       8,
       14
+    ]
+  },
+  {
+    "name": "Jaylen Martin",
+    "teams": [
+      "BRK",
+      "Washington Wizards"
+    ],
+    "college": [],
+    "numbers": [
+      4,
+      16
     ]
   },
   {
@@ -16527,7 +18845,10 @@ export const NBA_PLAYERS = [
   {
     "name": "Jaylen Nowell",
     "teams": [
-      "Minnesota Timberwolves"
+      "Detroit Pistons",
+      "Memphis Grizzlies",
+      "Minnesota Timberwolves",
+      "New Orleans Pelicans"
     ],
     "college": [
       "Washington"
@@ -16536,6 +18857,29 @@ export const NBA_PLAYERS = [
       4,
       20,
       24
+    ]
+  },
+  {
+    "name": "Jaylen Sims",
+    "teams": [
+      "Charlotte Hornets"
+    ],
+    "college": [
+      "UNC Wilmington"
+    ],
+    "numbers": []
+  },
+  {
+    "name": "Jaylen Wells",
+    "teams": [
+      "Memphis Grizzlies"
+    ],
+    "college": [
+      "Sonoma State University",
+      "Washington State"
+    ],
+    "numbers": [
+      0
     ]
   },
   {
@@ -16551,6 +18895,21 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Jaylon Tyson",
+    "teams": [
+      "Cleveland Cavaliers"
+    ],
+    "college": [
+      "California",
+      "Texas",
+      "Texas Tech"
+    ],
+    "numbers": [
+      20,
+      24
+    ]
+  },
+  {
     "name": "Jaysean Paige",
     "teams": [
       "Detroit Pistons"
@@ -16561,6 +18920,18 @@ export const NBA_PLAYERS = [
     "numbers": [
       42
     ]
+  },
+  {
+    "name": "Jayson Kent (TW)",
+    "teams": [
+      "Portland Trail Blazers"
+    ],
+    "college": [
+      "Bradley",
+      "Indiana State University",
+      "Texas"
+    ],
+    "numbers": []
   },
   {
     "name": "Jayson Tatum",
@@ -16584,6 +18955,16 @@ export const NBA_PLAYERS = [
     ],
     "numbers": [
       55
+    ]
+  },
+  {
+    "name": "Jazian Gortman",
+    "teams": [
+      "Dallas Mavericks"
+    ],
+    "college": [],
+    "numbers": [
+      0
     ]
   },
   {
@@ -16644,6 +19025,7 @@ export const NBA_PLAYERS = [
   {
     "name": "Jeff Dowtin Jr.",
     "teams": [
+      "Philadelphia 76ers",
       "Toronto Raptors"
     ],
     "college": [
@@ -16909,6 +19291,18 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Jeremiah Fears",
+    "teams": [
+      "New Orleans Pelicans"
+    ],
+    "college": [
+      "Oklahoma"
+    ],
+    "numbers": [
+      0
+    ]
+  },
+  {
     "name": "Jeremiah Martin",
     "teams": [
       "Brooklyn Nets",
@@ -16925,6 +19319,7 @@ export const NBA_PLAYERS = [
   {
     "name": "Jeremiah Robinson-Earl",
     "teams": [
+      "New Orleans Pelicans",
       "Oklahoma City Thunder"
     ],
     "college": [
@@ -17021,6 +19416,7 @@ export const NBA_PLAYERS = [
   {
     "name": "Jeremy Sochan",
     "teams": [
+      "New York Knicks",
       "San Antonio Spurs"
     ],
     "college": [
@@ -17065,6 +19461,7 @@ export const NBA_PLAYERS = [
   {
     "name": "Jericho Sims",
     "teams": [
+      "Milwaukee Bucks",
       "New York Knicks"
     ],
     "college": [
@@ -17111,6 +19508,18 @@ export const NBA_PLAYERS = [
       6,
       7,
       20
+    ]
+  },
+  {
+    "name": "Jermaine Samuels",
+    "teams": [
+      "Houston Rockets"
+    ],
+    "college": [
+      "Villanova"
+    ],
+    "numbers": [
+      0
     ]
   },
   {
@@ -17241,6 +19650,7 @@ export const NBA_PLAYERS = [
   {
     "name": "Jerome Robinson",
     "teams": [
+      "Golden State Warriors",
       "Los Angeles Clippers",
       "Washington Wizards"
     ],
@@ -17351,10 +19761,37 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Jesse Edwards",
+    "teams": [
+      "Minnesota Timberwolves"
+    ],
+    "college": [
+      "Syracuse",
+      "West Virginia"
+    ],
+    "numbers": [
+      14
+    ]
+  },
+  {
+    "name": "Jett Howard",
+    "teams": [
+      "Orlando Magic"
+    ],
+    "college": [
+      "Michigan"
+    ],
+    "numbers": [
+      13
+    ]
+  },
+  {
     "name": "Jevon Carter",
     "teams": [
+      "Chicago Bulls",
       "Memphis Grizzlies",
       "Milwaukee Bucks",
+      "Orlando Magic",
       "Phoenix Suns"
     ],
     "college": [
@@ -17427,12 +19864,14 @@ export const NBA_PLAYERS = [
     "name": "Jimmy Butler",
     "teams": [
       "Chicago Bulls",
+      "Golden State Warriors",
       "Miami Heat",
       "Minnesota Timberwolves",
       "Philadelphia 76ers"
     ],
     "college": [
-      "Marquette"
+      "Marquette",
+      "Tyler Junior College"
     ],
     "numbers": [
       10,
@@ -17510,12 +19949,26 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Joan Beringer",
+    "teams": [
+      "Minnesota Timberwolves"
+    ],
+    "college": [],
+    "numbers": [
+      19
+    ]
+  },
+  {
     "name": "Jock Landale",
     "teams": [
+      "Atlanta Hawks",
+      "Houston Rockets",
+      "PHO",
       "Phoenix Suns",
       "San Antonio Spurs"
     ],
     "college": [
+      "Saint Mary's",
       "St. Mary's"
     ],
     "numbers": [
@@ -17619,8 +20072,10 @@ export const NBA_PLAYERS = [
   {
     "name": "Joe Harris",
     "teams": [
+      "BRK",
       "Brooklyn Nets",
-      "Cleveland Cavaliers"
+      "Cleveland Cavaliers",
+      "Detroit Pistons"
     ],
     "college": [
       "Virginia"
@@ -17634,6 +20089,8 @@ export const NBA_PLAYERS = [
     "name": "Joe Ingles",
     "teams": [
       "Milwaukee Bucks",
+      "Minnesota Timberwolves",
+      "Orlando Magic",
       "Portland Trail Blazers",
       "Utah Jazz"
     ],
@@ -17914,6 +20371,18 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "John Butler",
+    "teams": [
+      "Portland Trail Blazers"
+    ],
+    "college": [
+      "Florida State"
+    ],
+    "numbers": [
+      21
+    ]
+  },
+  {
     "name": "John Butler Jr.",
     "teams": [
       "Portland Trail Blazers"
@@ -17952,7 +20421,9 @@ export const NBA_PLAYERS = [
   {
     "name": "John Collins",
     "teams": [
-      "Atlanta Hawks"
+      "Atlanta Hawks",
+      "Los Angeles Clippers",
+      "Utah Jazz"
     ],
     "college": [
       "Wake Forest"
@@ -18041,10 +20512,12 @@ export const NBA_PLAYERS = [
   {
     "name": "John Konchar",
     "teams": [
-      "Memphis Grizzlies"
+      "Memphis Grizzlies",
+      "Utah Jazz"
     ],
     "college": [
-      "Indiana-Purdue Fort Wayne"
+      "Indiana-Purdue Fort Wayne",
+      "Purdue-Fort Wayne"
     ],
     "numbers": [
       46,
@@ -18082,6 +20555,16 @@ export const NBA_PLAYERS = [
       11,
       15
     ]
+  },
+  {
+    "name": "John Poulakidas (TW)",
+    "teams": [
+      "Dallas Mavericks"
+    ],
+    "college": [
+      "Yale"
+    ],
+    "numbers": []
   },
   {
     "name": "John Salley",
@@ -18162,6 +20645,20 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "John Tonje (TW)",
+    "teams": [
+      "Boston Celtics"
+    ],
+    "college": [
+      "Colorado State",
+      "Missouri",
+      "Wisconsin"
+    ],
+    "numbers": [
+      8
+    ]
+  },
+  {
     "name": "John Wall",
     "teams": [
       "Houston Rockets",
@@ -18222,6 +20719,19 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Johni Broome",
+    "teams": [
+      "Philadelphia 76ers"
+    ],
+    "college": [
+      "Auburn",
+      "Morehead State University"
+    ],
+    "numbers": [
+      22
+    ]
+  },
+  {
     "name": "Johnny Davis",
     "teams": [
       "Washington Wizards"
@@ -18234,11 +20744,24 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Johnny Furphy",
+    "teams": [
+      "Indiana Pacers"
+    ],
+    "college": [
+      "Kansas"
+    ],
+    "numbers": [
+      12
+    ]
+  },
+  {
     "name": "Johnny Juzang",
     "teams": [
       "Utah Jazz"
     ],
     "college": [
+      "Kentucky",
       "UCLA"
     ],
     "numbers": [
@@ -18385,6 +20908,19 @@ export const NBA_PLAYERS = [
     "numbers": []
   },
   {
+    "name": "Jonas Valan\u010di\u016bnas",
+    "teams": [
+      "Denver Nuggets",
+      "New Orleans Pelicans",
+      "Sacramento Kings",
+      "Washington Wizards"
+    ],
+    "college": [],
+    "numbers": [
+      17
+    ]
+  },
+  {
     "name": "Jonathan Bender",
     "teams": [
       "Indiana Pacers",
@@ -18437,11 +20973,25 @@ export const NBA_PLAYERS = [
   {
     "name": "Jonathan Kuminga",
     "teams": [
+      "Atlanta Hawks",
       "Golden State Warriors"
     ],
     "college": [],
     "numbers": [
       0
+    ]
+  },
+  {
+    "name": "Jonathan Mogbo",
+    "teams": [
+      "Toronto Raptors"
+    ],
+    "college": [
+      "Missouri State",
+      "San Francisco"
+    ],
+    "numbers": [
+      2
     ]
   },
   {
@@ -18477,7 +21027,8 @@ export const NBA_PLAYERS = [
   {
     "name": "Jontay Porter",
     "teams": [
-      "Memphis Grizzlies"
+      "Memphis Grizzlies",
+      "Toronto Raptors"
     ],
     "college": [
       "Missouri"
@@ -18533,10 +21084,12 @@ export const NBA_PLAYERS = [
     "teams": [
       "Cleveland Cavaliers",
       "Los Angeles Lakers",
+      "New York Knicks",
       "Utah Jazz"
     ],
     "college": [
-      "Missouri"
+      "Missouri",
+      "Tulsa"
     ],
     "numbers": [
       0,
@@ -18583,11 +21136,27 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Jordan Ford",
+    "teams": [
+      "Sacramento Kings"
+    ],
+    "college": [
+      "Saint Mary's"
+    ],
+    "numbers": [
+      31
+    ]
+  },
+  {
     "name": "Jordan Goodwin",
     "teams": [
+      "Los Angeles Lakers",
+      "Memphis Grizzlies",
+      "PHO",
       "Washington Wizards"
     ],
     "college": [
+      "Saint Louis",
       "St. Louis"
     ],
     "numbers": [
@@ -18604,6 +21173,7 @@ export const NBA_PLAYERS = [
       "San Antonio Spurs"
     ],
     "college": [
+      "Saint Joseph's",
       "St. Joseph's (PA)"
     ],
     "numbers": [
@@ -18625,6 +21195,18 @@ export const NBA_PLAYERS = [
       1,
       5,
       25
+    ]
+  },
+  {
+    "name": "Jordan Hawkins",
+    "teams": [
+      "New Orleans Pelicans"
+    ],
+    "college": [
+      "UConn"
+    ],
+    "numbers": [
+      24
     ]
   },
   {
@@ -18656,10 +21238,13 @@ export const NBA_PLAYERS = [
   {
     "name": "Jordan McLaughlin",
     "teams": [
-      "Minnesota Timberwolves"
+      "Minnesota Timberwolves",
+      "Sacramento Kings",
+      "San Antonio Spurs"
     ],
     "college": [
-      "Southern California"
+      "Southern California",
+      "USC"
     ],
     "numbers": [
       3,
@@ -18697,10 +21282,25 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Jordan Miller",
+    "teams": [
+      "Los Angeles Clippers"
+    ],
+    "college": [
+      "George Mason",
+      "Miami (FL)"
+    ],
+    "numbers": [
+      11,
+      22
+    ]
+  },
+  {
     "name": "Jordan Nwora",
     "teams": [
       "Indiana Pacers",
-      "Milwaukee Bucks"
+      "Milwaukee Bucks",
+      "Toronto Raptors"
     ],
     "college": [
       "Louisville"
@@ -18712,7 +21312,9 @@ export const NBA_PLAYERS = [
   {
     "name": "Jordan Poole",
     "teams": [
-      "Golden State Warriors"
+      "Golden State Warriors",
+      "New Orleans Pelicans",
+      "Washington Wizards"
     ],
     "college": [
       "Michigan"
@@ -18744,6 +21346,18 @@ export const NBA_PLAYERS = [
     ],
     "numbers": [
       8
+    ]
+  },
+  {
+    "name": "Jordan Walsh",
+    "teams": [
+      "Boston Celtics"
+    ],
+    "college": [
+      "Arkansas"
+    ],
+    "numbers": [
+      27
     ]
   },
   {
@@ -18783,7 +21397,8 @@ export const NBA_PLAYERS = [
   {
     "name": "Jose Alvarado",
     "teams": [
-      "New Orleans Pelicans"
+      "New Orleans Pelicans",
+      "New York Knicks"
     ],
     "college": [
       "Georgia Tech"
@@ -18863,7 +21478,8 @@ export const NBA_PLAYERS = [
   {
     "name": "Josh Christopher",
     "teams": [
-      "Houston Rockets"
+      "Houston Rockets",
+      "Miami Heat"
     ],
     "college": [
       "Arizona State"
@@ -18894,6 +21510,7 @@ export const NBA_PLAYERS = [
   {
     "name": "Josh Giddey",
     "teams": [
+      "Chicago Bulls",
       "Oklahoma City Thunder"
     ],
     "college": [],
@@ -18918,6 +21535,7 @@ export const NBA_PLAYERS = [
   {
     "name": "Josh Green",
     "teams": [
+      "Charlotte Hornets",
       "Dallas Mavericks"
     ],
     "college": [
@@ -19050,6 +21668,7 @@ export const NBA_PLAYERS = [
   {
     "name": "Josh Minott",
     "teams": [
+      "BRK",
       "Minnesota Timberwolves"
     ],
     "college": [
@@ -19061,9 +21680,25 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Josh Oduro (TW)",
+    "teams": [
+      "New Orleans Pelicans"
+    ],
+    "college": [
+      "George Mason",
+      "Providence"
+    ],
+    "numbers": [
+      13
+    ]
+  },
+  {
     "name": "Josh Okogie",
     "teams": [
+      "Charlotte Hornets",
+      "Houston Rockets",
       "Minnesota Timberwolves",
+      "PHO",
       "Phoenix Suns"
     ],
     "college": [
@@ -19155,6 +21790,7 @@ export const NBA_PLAYERS = [
   {
     "name": "Joshua Primo",
     "teams": [
+      "Los Angeles Clippers",
       "San Antonio Spurs"
     ],
     "college": [
@@ -19168,9 +21804,11 @@ export const NBA_PLAYERS = [
   {
     "name": "Jrue Holiday",
     "teams": [
+      "Boston Celtics",
       "Milwaukee Bucks",
       "New Orleans Pelicans",
-      "Philadelphia 76ers"
+      "Philadelphia 76ers",
+      "Portland Trail Blazers"
     ],
     "college": [
       "UCLA"
@@ -19212,6 +21850,8 @@ export const NBA_PLAYERS = [
     "name": "Juan Toscano-Anderson",
     "teams": [
       "Golden State Warriors",
+      "Los Angeles Lakers",
+      "Sacramento Kings",
       "Utah Jazz"
     ],
     "college": [
@@ -19231,6 +21871,16 @@ export const NBA_PLAYERS = [
     ],
     "college": [],
     "numbers": []
+  },
+  {
+    "name": "Juancho Hernang\u00f3mez",
+    "teams": [
+      "Toronto Raptors"
+    ],
+    "college": [],
+    "numbers": [
+      41
+    ]
   },
   {
     "name": "Juaquin Hawkins",
@@ -19260,8 +21910,21 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Jules Bernard",
+    "teams": [
+      "Washington Wizards"
+    ],
+    "college": [
+      "UCLA"
+    ],
+    "numbers": [
+      14
+    ]
+  },
+  {
     "name": "Julian Champagnie",
     "teams": [
+      "Philadelphia 76ers",
       "San Antonio Spurs"
     ],
     "college": [
@@ -19270,6 +21933,42 @@ export const NBA_PLAYERS = [
     "numbers": [
       30,
       55
+    ]
+  },
+  {
+    "name": "Julian Phillips",
+    "teams": [
+      "Chicago Bulls",
+      "Minnesota Timberwolves"
+    ],
+    "college": [
+      "Tennessee"
+    ],
+    "numbers": [
+      4,
+      15
+    ]
+  },
+  {
+    "name": "Julian Reese (TW)",
+    "teams": [
+      "Washington Wizards"
+    ],
+    "college": [
+      "Maryland"
+    ],
+    "numbers": []
+  },
+  {
+    "name": "Julian Strawther",
+    "teams": [
+      "Denver Nuggets"
+    ],
+    "college": [
+      "Gonzaga"
+    ],
+    "numbers": [
+      3
     ]
   },
   {
@@ -19316,6 +22015,7 @@ export const NBA_PLAYERS = [
     "name": "Julius Randle",
     "teams": [
       "Los Angeles Lakers",
+      "Minnesota Timberwolves",
       "New Orleans Pelicans",
       "New York Knicks"
     ],
@@ -19396,9 +22096,11 @@ export const NBA_PLAYERS = [
     "name": "Justin Champagnie",
     "teams": [
       "Boston Celtics",
-      "Toronto Raptors"
+      "Toronto Raptors",
+      "Washington Wizards"
     ],
     "college": [
+      "Pitt",
       "Pittsburgh"
     ],
     "numbers": [
@@ -19419,6 +22121,19 @@ export const NBA_PLAYERS = [
     "numbers": [
       1,
       7
+    ]
+  },
+  {
+    "name": "Justin Edwards",
+    "teams": [
+      "Philadelphia 76ers"
+    ],
+    "college": [
+      "Kentucky"
+    ],
+    "numbers": [
+      11,
+      19
     ]
   },
   {
@@ -19454,8 +22169,10 @@ export const NBA_PLAYERS = [
   {
     "name": "Justin Holiday",
     "teams": [
+      "Atlanta Hawks",
       "Chicago Bulls",
       "Dallas Mavericks",
+      "Denver Nuggets",
       "Golden State Warriors",
       "Indiana Pacers",
       "Memphis Grizzlies",
@@ -19480,6 +22197,7 @@ export const NBA_PLAYERS = [
       "Boston Celtics",
       "Dallas Mavericks",
       "Milwaukee Bucks",
+      "Minnesota Timberwolves",
       "Phoenix Suns",
       "Sacramento Kings"
     ],
@@ -19512,7 +22230,8 @@ export const NBA_PLAYERS = [
       "Portland Trail Blazers"
     ],
     "college": [
-      "Providence"
+      "Providence",
+      "South Carolina"
     ],
     "numbers": [
       10,
@@ -19620,6 +22339,22 @@ export const NBA_PLAYERS = [
     "numbers": []
   },
   {
+    "name": "Jusuf Nurki\u0107",
+    "teams": [
+      "Charlotte Hornets",
+      "PHO",
+      "Portland Trail Blazers",
+      "Utah Jazz"
+    ],
+    "college": [],
+    "numbers": [
+      20,
+      23,
+      27,
+      30
+    ]
+  },
+  {
     "name": "Juwan Howard",
     "teams": [
       "Charlotte Hornets",
@@ -19656,6 +22391,21 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "KJ Martin",
+    "teams": [
+      "Houston Rockets",
+      "Los Angeles Clippers",
+      "Philadelphia 76ers",
+      "Utah Jazz"
+    ],
+    "college": [],
+    "numbers": [
+      1,
+      6,
+      99
+    ]
+  },
+  {
     "name": "KJ McDaniels",
     "teams": [
       "Brooklyn Nets",
@@ -19665,6 +22415,28 @@ export const NBA_PLAYERS = [
       "Clemson"
     ],
     "numbers": []
+  },
+  {
+    "name": "KJ Simpson",
+    "teams": [
+      "Charlotte Hornets"
+    ],
+    "college": [
+      "Colorado"
+    ],
+    "numbers": []
+  },
+  {
+    "name": "KJ Simpson (TW)",
+    "teams": [
+      "Denver Nuggets"
+    ],
+    "college": [
+      "Colorado"
+    ],
+    "numbers": [
+      25
+    ]
   },
   {
     "name": "KZ Okpala",
@@ -19698,7 +22470,9 @@ export const NBA_PLAYERS = [
   {
     "name": "Kai Jones",
     "teams": [
-      "Charlotte Hornets"
+      "Charlotte Hornets",
+      "Dallas Mavericks",
+      "Los Angeles Clippers"
     ],
     "college": [
       "Texas",
@@ -19706,6 +22480,18 @@ export const NBA_PLAYERS = [
     ],
     "numbers": [
       23
+    ]
+  },
+  {
+    "name": "Kaiser Gates",
+    "teams": [
+      "New Orleans Pelicans"
+    ],
+    "college": [
+      "Xavier"
+    ],
+    "numbers": [
+      12
     ]
   },
   {
@@ -19721,6 +22507,16 @@ export const NBA_PLAYERS = [
       24,
       27
     ]
+  },
+  {
+    "name": "Kam Jones",
+    "teams": [
+      "Indiana Pacers"
+    ],
+    "college": [
+      "Marquette"
+    ],
+    "numbers": []
   },
   {
     "name": "Kaniel Dickens",
@@ -19779,13 +22575,24 @@ export const NBA_PLAYERS = [
   {
     "name": "Karl-Anthony Towns",
     "teams": [
-      "Minnesota Timberwolves"
+      "Minnesota Timberwolves",
+      "New York Knicks"
     ],
     "college": [
       "Kentucky"
     ],
     "numbers": [
       32
+    ]
+  },
+  {
+    "name": "Karlo Matkovi\u0107",
+    "teams": [
+      "New Orleans Pelicans"
+    ],
+    "college": [],
+    "numbers": [
+      17
     ]
   },
   {
@@ -19798,6 +22605,18 @@ export const NBA_PLAYERS = [
     ],
     "numbers": [
       12
+    ]
+  },
+  {
+    "name": "Kasparas Jaku\u010dionis",
+    "teams": [
+      "Miami Heat"
+    ],
+    "college": [
+      "Illinois"
+    ],
+    "numbers": [
+      25
     ]
   },
   {
@@ -19825,6 +22644,18 @@ export const NBA_PLAYERS = [
       3,
       20,
       22
+    ]
+  },
+  {
+    "name": "Keaton Wallace",
+    "teams": [
+      "Atlanta Hawks"
+    ],
+    "college": [
+      "Texas-San Antonio"
+    ],
+    "numbers": [
+      2
     ]
   },
   {
@@ -19879,10 +22710,25 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Keion Brooks Jr.",
+    "teams": [
+      "New Orleans Pelicans"
+    ],
+    "college": [
+      "Kentucky",
+      "Washington"
+    ],
+    "numbers": [
+      0
+    ]
+  },
+  {
     "name": "Keita Bates-Diop",
     "teams": [
+      "BRK",
       "Denver Nuggets",
       "Minnesota Timberwolves",
+      "PHO",
       "San Antonio Spurs"
     ],
     "college": [
@@ -20036,6 +22882,19 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Kel'el Ware",
+    "teams": [
+      "Miami Heat"
+    ],
+    "college": [
+      "Indiana",
+      "Oregon"
+    ],
+    "numbers": [
+      7
+    ]
+  },
+  {
     "name": "Kelan Martin",
     "teams": [
       "Boston Celtics",
@@ -20109,6 +22968,9 @@ export const NBA_PLAYERS = [
       "Detroit Pistons",
       "Houston Rockets",
       "Miami Heat",
+      "New Orleans Pelicans",
+      "San Antonio Spurs",
+      "Toronto Raptors",
       "Utah Jazz"
     ],
     "college": [
@@ -20125,6 +22987,7 @@ export const NBA_PLAYERS = [
     "teams": [
       "Charlotte Hornets",
       "Golden State Warriors",
+      "Philadelphia 76ers",
       "Phoenix Suns",
       "Washington Wizards"
     ],
@@ -20165,7 +23028,8 @@ export const NBA_PLAYERS = [
       "Oklahoma City Thunder"
     ],
     "college": [
-      "Connecticut"
+      "Connecticut",
+      "UConn"
     ],
     "numbers": [
       8,
@@ -20246,10 +23110,12 @@ export const NBA_PLAYERS = [
   {
     "name": "Kendrick Nunn",
     "teams": [
+      "Los Angeles Lakers",
       "Miami Heat",
       "Washington Wizards"
     ],
     "college": [
+      "Illinois",
       "Oakland"
     ],
     "numbers": [
@@ -20302,7 +23168,9 @@ export const NBA_PLAYERS = [
   {
     "name": "Kenneth Lofton Jr.",
     "teams": [
-      "Memphis Grizzlies"
+      "Memphis Grizzlies",
+      "Philadelphia 76ers",
+      "Utah Jazz"
     ],
     "college": [
       "Louisiana Tech"
@@ -20411,6 +23279,8 @@ export const NBA_PLAYERS = [
       "Denver Nuggets",
       "Detroit Pistons",
       "Los Angeles Lakers",
+      "Memphis Grizzlies",
+      "Orlando Magic",
       "Washington Wizards"
     ],
     "college": [
@@ -20469,10 +23339,12 @@ export const NBA_PLAYERS = [
   {
     "name": "Keon Ellis",
     "teams": [
+      "Cleveland Cavaliers",
       "Sacramento Kings"
     ],
     "college": [
-      "Alabama"
+      "Alabama",
+      "Florida SouthWestern State College"
     ],
     "numbers": [
       14,
@@ -20482,6 +23354,7 @@ export const NBA_PLAYERS = [
   {
     "name": "Keon Johnson",
     "teams": [
+      "BRK",
       "Portland Trail Blazers"
     ],
     "college": [
@@ -20506,9 +23379,37 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Keshad Johnson",
+    "teams": [
+      "Miami Heat"
+    ],
+    "college": [
+      "Arizona",
+      "San Diego State"
+    ],
+    "numbers": [
+      16
+    ]
+  },
+  {
+    "name": "Keshon Gilbert (TW)",
+    "teams": [
+      "Atlanta Hawks"
+    ],
+    "college": [
+      "Iowa State",
+      "UNLV"
+    ],
+    "numbers": [
+      51
+    ]
+  },
+  {
     "name": "Kessler Edwards",
     "teams": [
+      "BRK",
       "Brooklyn Nets",
+      "Dallas Mavericks",
       "Sacramento Kings"
     ],
     "college": [
@@ -20545,9 +23446,12 @@ export const NBA_PLAYERS = [
   {
     "name": "Kevin Durant",
     "teams": [
+      "BRK",
       "Brooklyn Nets",
       "Golden State Warriors",
+      "Houston Rockets",
       "Oklahoma City Thunder",
+      "PHO",
       "Phoenix Suns",
       "Seattle SuperSonics"
     ],
@@ -20618,6 +23522,8 @@ export const NBA_PLAYERS = [
     "name": "Kevin Huerter",
     "teams": [
       "Atlanta Hawks",
+      "Chicago Bulls",
+      "Detroit Pistons",
       "Sacramento Kings"
     ],
     "college": [
@@ -20655,6 +23561,24 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Kevin Knox",
+    "teams": [
+      "Detroit Pistons",
+      "Golden State Warriors",
+      "Portland Trail Blazers"
+    ],
+    "college": [
+      "Kentucky"
+    ],
+    "numbers": [
+      5,
+      11,
+      20,
+      24,
+      31
+    ]
+  },
+  {
     "name": "Kevin Knox II",
     "teams": [
       "Atlanta Hawks",
@@ -20671,7 +23595,8 @@ export const NBA_PLAYERS = [
     "teams": [
       "Cleveland Cavaliers",
       "Miami Heat",
-      "Minnesota Timberwolves"
+      "Minnesota Timberwolves",
+      "Utah Jazz"
     ],
     "college": [
       "UCLA"
@@ -20696,6 +23621,32 @@ export const NBA_PLAYERS = [
     "numbers": [
       12,
       23
+    ]
+  },
+  {
+    "name": "Kevin McCullar Jr.",
+    "teams": [
+      "New York Knicks"
+    ],
+    "college": [
+      "Kansas",
+      "Texas Tech"
+    ],
+    "numbers": [
+      9
+    ]
+  },
+  {
+    "name": "Kevin McCullar Jr. (TW)",
+    "teams": [
+      "New York Knicks"
+    ],
+    "college": [
+      "Kansas",
+      "Texas Tech"
+    ],
+    "numbers": [
+      9
     ]
   },
   {
@@ -20750,10 +23701,13 @@ export const NBA_PLAYERS = [
     "name": "Kevin Porter Jr.",
     "teams": [
       "Cleveland Cavaliers",
-      "Houston Rockets"
+      "Houston Rockets",
+      "Los Angeles Clippers",
+      "Milwaukee Bucks"
     ],
     "college": [
-      "Southern California"
+      "Southern California",
+      "USC"
     ],
     "numbers": [
       3,
@@ -20834,7 +23788,8 @@ export const NBA_PLAYERS = [
   {
     "name": "Kevon Looney",
     "teams": [
-      "Golden State Warriors"
+      "Golden State Warriors",
+      "New Orleans Pelicans"
     ],
     "college": [
       "UCLA"
@@ -20867,6 +23822,31 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Keyontae Johnson",
+    "teams": [
+      "Oklahoma City Thunder"
+    ],
+    "college": [
+      "Florida",
+      "Kansas State"
+    ],
+    "numbers": [
+      18
+    ]
+  },
+  {
+    "name": "Keyonte George",
+    "teams": [
+      "Utah Jazz"
+    ],
+    "college": [
+      "Baylor"
+    ],
+    "numbers": [
+      3
+    ]
+  },
+  {
     "name": "Khalid El-Amin",
     "teams": [
       "Chicago Bulls"
@@ -20895,6 +23875,18 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Khaman Maluach",
+    "teams": [
+      "PHO"
+    ],
+    "college": [
+      "Duke"
+    ],
+    "numbers": [
+      10
+    ]
+  },
+  {
     "name": "Khem Birch",
     "teams": [
       "Orlando Magic",
@@ -20902,6 +23894,7 @@ export const NBA_PLAYERS = [
       "Toronto Raptors"
     ],
     "college": [
+      "Pitt",
       "UNLV"
     ],
     "numbers": [
@@ -20911,8 +23904,10 @@ export const NBA_PLAYERS = [
   {
     "name": "Khris Middleton",
     "teams": [
+      "Dallas Mavericks",
       "Detroit Pistons",
-      "Milwaukee Bucks"
+      "Milwaukee Bucks",
+      "Washington Wizards"
     ],
     "college": [
       "Texas A&M"
@@ -20939,7 +23934,9 @@ export const NBA_PLAYERS = [
   {
     "name": "Killian Hayes",
     "teams": [
-      "Detroit Pistons"
+      "BRK",
+      "Detroit Pistons",
+      "Sacramento Kings"
     ],
     "college": [],
     "numbers": [
@@ -20974,7 +23971,9 @@ export const NBA_PLAYERS = [
   {
     "name": "Kira Lewis Jr.",
     "teams": [
-      "New Orleans Pelicans"
+      "New Orleans Pelicans",
+      "Toronto Raptors",
+      "Utah Jazz"
     ],
     "college": [
       "Alabama"
@@ -21056,6 +24055,7 @@ export const NBA_PLAYERS = [
   {
     "name": "Klay Thompson",
     "teams": [
+      "Dallas Mavericks",
       "Golden State Warriors"
     ],
     "college": [
@@ -21064,6 +24064,19 @@ export const NBA_PLAYERS = [
     "numbers": [
       11,
       31
+    ]
+  },
+  {
+    "name": "Kobe Brown",
+    "teams": [
+      "Indiana Pacers",
+      "Los Angeles Clippers"
+    ],
+    "college": [
+      "Missouri"
+    ],
+    "numbers": [
+      21
     ]
   },
   {
@@ -21078,11 +24091,37 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Kobe Bufkin",
+    "teams": [
+      "Atlanta Hawks"
+    ],
+    "college": [
+      "Michigan"
+    ],
+    "numbers": [
+      4
+    ]
+  },
+  {
+    "name": "Kobe Sanders",
+    "teams": [
+      "Los Angeles Clippers"
+    ],
+    "college": [
+      "Cal Poly",
+      "Nevada"
+    ],
+    "numbers": [
+      4
+    ]
+  },
+  {
     "name": "Kobi Simmons",
     "teams": [
       "Charlotte Hornets",
       "Cleveland Cavaliers",
-      "Memphis Grizzlies"
+      "Memphis Grizzlies",
+      "Toronto Raptors"
     ],
     "college": [
       "Arizona"
@@ -21092,6 +24131,29 @@ export const NBA_PLAYERS = [
       3,
       8
     ]
+  },
+  {
+    "name": "Koby Brea (TW)",
+    "teams": [
+      "PHO"
+    ],
+    "college": [
+      "Dayton",
+      "Kentucky"
+    ],
+    "numbers": [
+      14
+    ]
+  },
+  {
+    "name": "Kon Knueppel",
+    "teams": [
+      "Charlotte Hornets"
+    ],
+    "college": [
+      "Duke"
+    ],
+    "numbers": []
   },
   {
     "name": "Korleone Young",
@@ -21166,6 +24228,7 @@ export const NBA_PLAYERS = [
     "teams": [
       "Atlanta Hawks",
       "Chicago Bulls",
+      "Los Angeles Clippers",
       "Minnesota Timberwolves",
       "Portland Trail Blazers",
       "Utah Jazz"
@@ -21213,6 +24276,19 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Kris Murray",
+    "teams": [
+      "Portland Trail Blazers"
+    ],
+    "college": [
+      "Iowa"
+    ],
+    "numbers": [
+      8,
+      24
+    ]
+  },
+  {
     "name": "Kristaps Porzingis",
     "teams": [
       "Dallas Mavericks",
@@ -21221,6 +24297,20 @@ export const NBA_PLAYERS = [
     ],
     "college": [],
     "numbers": []
+  },
+  {
+    "name": "Kristaps Porzi\u0146\u0123is",
+    "teams": [
+      "Boston Celtics",
+      "Golden State Warriors",
+      "Washington Wizards"
+    ],
+    "college": [],
+    "numbers": [
+      6,
+      7,
+      8
+    ]
   },
   {
     "name": "Kurt Thomas",
@@ -21287,7 +24377,9 @@ export const NBA_PLAYERS = [
   {
     "name": "Kyle Anderson",
     "teams": [
+      "Golden State Warriors",
       "Memphis Grizzlies",
+      "Miami Heat",
       "Minnesota Timberwolves",
       "San Antonio Spurs"
     ],
@@ -21311,6 +24403,18 @@ export const NBA_PLAYERS = [
     ],
     "numbers": [
       8
+    ]
+  },
+  {
+    "name": "Kyle Filipowski",
+    "teams": [
+      "Utah Jazz"
+    ],
+    "college": [
+      "Duke"
+    ],
+    "numbers": [
+      22
     ]
   },
   {
@@ -21348,6 +24452,7 @@ export const NBA_PLAYERS = [
     "name": "Kyle Kuzma",
     "teams": [
       "Los Angeles Lakers",
+      "Milwaukee Bucks",
       "Washington Wizards"
     ],
     "college": [
@@ -21365,6 +24470,7 @@ export const NBA_PLAYERS = [
       "Houston Rockets",
       "Memphis Grizzlies",
       "Miami Heat",
+      "Philadelphia 76ers",
       "Toronto Raptors"
     ],
     "college": [
@@ -21435,8 +24541,23 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Kylor Kelley",
+    "teams": [
+      "Dallas Mavericks",
+      "New Orleans Pelicans"
+    ],
+    "college": [
+      "Oregon State"
+    ],
+    "numbers": [
+      35,
+      50
+    ]
+  },
+  {
     "name": "Kyrie Irving",
     "teams": [
+      "BRK",
       "Boston Celtics",
       "Brooklyn Nets",
       "Cleveland Cavaliers",
@@ -21459,6 +24580,31 @@ export const NBA_PLAYERS = [
     "college": [],
     "numbers": [
       44
+    ]
+  },
+  {
+    "name": "Kyshawn George",
+    "teams": [
+      "Washington Wizards"
+    ],
+    "college": [
+      "Miami (FL)"
+    ],
+    "numbers": [
+      18
+    ]
+  },
+  {
+    "name": "LJ Cryer (TW)",
+    "teams": [
+      "Golden State Warriors"
+    ],
+    "college": [
+      "Baylor",
+      "Houston"
+    ],
+    "numbers": [
+      18
     ]
   },
   {
@@ -21515,6 +24661,19 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Lachlan Olbrich (TW)",
+    "teams": [
+      "Chicago Bulls"
+    ],
+    "college": [
+      "Riverside",
+      "University of California"
+    ],
+    "numbers": [
+      47
+    ]
+  },
+  {
     "name": "Lamar Odom",
     "teams": [
       "Dallas Mavericks",
@@ -21544,7 +24703,9 @@ export const NBA_PLAYERS = [
   {
     "name": "Lamar Stevens",
     "teams": [
-      "Cleveland Cavaliers"
+      "Boston Celtics",
+      "Cleveland Cavaliers",
+      "Memphis Grizzlies"
     ],
     "college": [
       "Penn State"
@@ -21638,7 +24799,10 @@ export const NBA_PLAYERS = [
     "teams": [
       "Brooklyn Nets",
       "Los Angeles Clippers",
-      "Phoenix Suns"
+      "New York Knicks",
+      "PHO",
+      "Phoenix Suns",
+      "Washington Wizards"
     ],
     "college": [
       "Wichita State"
@@ -21763,6 +24927,7 @@ export const NBA_PLAYERS = [
   {
     "name": "Larry Nance Jr.",
     "teams": [
+      "Atlanta Hawks",
       "Cleveland Cavaliers",
       "Los Angeles Lakers",
       "New Orleans Pelicans"
@@ -21967,6 +25132,26 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Leaky Black",
+    "teams": [
+      "Charlotte Hornets"
+    ],
+    "college": [
+      "UNC"
+    ],
+    "numbers": []
+  },
+  {
+    "name": "Leaky Black (TW)",
+    "teams": [
+      "Washington Wizards"
+    ],
+    "college": [
+      "UNC"
+    ],
+    "numbers": []
+  },
+  {
     "name": "Leandro Barbosa",
     "teams": [
       "Boston Celtics",
@@ -22067,6 +25252,18 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Leonard Miller",
+    "teams": [
+      "Chicago Bulls",
+      "Minnesota Timberwolves"
+    ],
+    "college": [],
+    "numbers": [
+      11,
+      33
+    ]
+  },
+  {
     "name": "Lester Hudson",
     "teams": [
       "Los Angeles Clippers",
@@ -22092,6 +25289,45 @@ export const NBA_PLAYERS = [
       "Memphis"
     ],
     "numbers": []
+  },
+  {
+    "name": "Lester Qui\u00f1ones",
+    "teams": [
+      "Golden State Warriors",
+      "New Orleans Pelicans",
+      "Philadelphia 76ers"
+    ],
+    "college": [
+      "Memphis"
+    ],
+    "numbers": [
+      22,
+      25
+    ]
+  },
+  {
+    "name": "Liam McNeeley",
+    "teams": [
+      "Charlotte Hornets"
+    ],
+    "college": [
+      "UConn"
+    ],
+    "numbers": []
+  },
+  {
+    "name": "Liam Robbins",
+    "teams": [
+      "Milwaukee Bucks"
+    ],
+    "college": [
+      "Drake University",
+      "Minnesota",
+      "Vanderbilt"
+    ],
+    "numbers": [
+      15
+    ]
   },
   {
     "name": "Linas Kleiza",
@@ -22140,7 +25376,10 @@ export const NBA_PLAYERS = [
   {
     "name": "Lindy Waters III",
     "teams": [
-      "Oklahoma City Thunder"
+      "Detroit Pistons",
+      "Golden State Warriors",
+      "Oklahoma City Thunder",
+      "San Antonio Spurs"
     ],
     "college": [
       "Oklahoma State"
@@ -22236,11 +25475,14 @@ export const NBA_PLAYERS = [
   {
     "name": "Lonnie Walker IV",
     "teams": [
+      "BRK",
       "Los Angeles Lakers",
+      "Philadelphia 76ers",
       "San Antonio Spurs"
     ],
     "college": [
-      "Miami"
+      "Miami",
+      "Miami (FL)"
     ],
     "numbers": [
       1,
@@ -22559,8 +25801,20 @@ export const NBA_PLAYERS = [
     "numbers": []
   },
   {
+    "name": "Luka Don\u010di\u0107",
+    "teams": [
+      "Dallas Mavericks",
+      "Los Angeles Lakers"
+    ],
+    "college": [],
+    "numbers": [
+      77
+    ]
+  },
+  {
     "name": "Luka Garza",
     "teams": [
+      "Boston Celtics",
       "Detroit Pistons",
       "Minnesota Timberwolves"
     ],
@@ -22580,6 +25834,16 @@ export const NBA_PLAYERS = [
     ],
     "college": [],
     "numbers": []
+  },
+  {
+    "name": "Luka \u0160amani\u0107",
+    "teams": [
+      "Utah Jazz"
+    ],
+    "college": [],
+    "numbers": [
+      19
+    ]
   },
   {
     "name": "Luke Babbitt",
@@ -22633,6 +25897,7 @@ export const NBA_PLAYERS = [
     "teams": [
       "Detroit Pistons",
       "Los Angeles Clippers",
+      "Los Angeles Lakers",
       "Memphis Grizzlies"
     ],
     "college": [
@@ -22648,7 +25913,8 @@ export const NBA_PLAYERS = [
     "teams": [
       "Boston Celtics",
       "Chicago Bulls",
-      "New York Knicks"
+      "New York Knicks",
+      "San Antonio Spurs"
     ],
     "college": [
       "Vanderbilt"
@@ -22689,6 +25955,16 @@ export const NBA_PLAYERS = [
     "numbers": [
       24,
       45
+    ]
+  },
+  {
+    "name": "Luke Travers",
+    "teams": [
+      "Cleveland Cavaliers"
+    ],
+    "college": [],
+    "numbers": [
+      33
     ]
   },
   {
@@ -22792,9 +26068,11 @@ export const NBA_PLAYERS = [
     "name": "Mac McClung",
     "teams": [
       "Los Angeles Lakers",
+      "Orlando Magic",
       "Philadelphia 76ers"
     ],
     "college": [
+      "Georgetown",
       "Texas Tech"
     ],
     "numbers": [
@@ -22802,6 +26080,19 @@ export const NBA_PLAYERS = [
       8,
       9,
       37
+    ]
+  },
+  {
+    "name": "Mac McClung (TW)",
+    "teams": [
+      "Chicago Bulls"
+    ],
+    "college": [
+      "Georgetown",
+      "Texas Tech"
+    ],
+    "numbers": [
+      5
     ]
   },
   {
@@ -22848,10 +26139,14 @@ export const NBA_PLAYERS = [
   {
     "name": "Malachi Flynn",
     "teams": [
+      "Charlotte Hornets",
+      "Detroit Pistons",
+      "New York Knicks",
       "Toronto Raptors"
     ],
     "college": [
-      "San Diego State"
+      "San Diego State",
+      "Washington State"
     ],
     "numbers": [
       4,
@@ -22876,6 +26171,20 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Malachi Smith",
+    "teams": [
+      "BRK"
+    ],
+    "college": [
+      "Chattanooga",
+      "Gonzaga",
+      "Wright State University"
+    ],
+    "numbers": [
+      18
+    ]
+  },
+  {
     "name": "Malaki Branham",
     "teams": [
       "San Antonio Spurs"
@@ -22892,7 +26201,9 @@ export const NBA_PLAYERS = [
     "teams": [
       "Boston Celtics",
       "Indiana Pacers",
-      "Milwaukee Bucks"
+      "Milwaukee Bucks",
+      "Portland Trail Blazers",
+      "Washington Wizards"
     ],
     "college": [
       "Virginia"
@@ -22902,6 +26213,16 @@ export const NBA_PLAYERS = [
       11,
       13,
       15
+    ]
+  },
+  {
+    "name": "Malcolm Cazalon",
+    "teams": [
+      "Detroit Pistons"
+    ],
+    "college": [],
+    "numbers": [
+      20
     ]
   },
   {
@@ -22976,6 +26297,32 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Malevy Leons",
+    "teams": [
+      "Oklahoma City Thunder"
+    ],
+    "college": [
+      "Bradley",
+      "Mineral Area College"
+    ],
+    "numbers": [
+      17
+    ]
+  },
+  {
+    "name": "Malevy Leons (TW)",
+    "teams": [
+      "Golden State Warriors"
+    ],
+    "college": [
+      "Bradley",
+      "Mineral Area College"
+    ],
+    "numbers": [
+      33
+    ]
+  },
+  {
     "name": "Malik Allen",
     "teams": [
       "Charlotte Hornets",
@@ -22998,8 +26345,11 @@ export const NBA_PLAYERS = [
     "name": "Malik Beasley",
     "teams": [
       "Denver Nuggets",
+      "Detroit Pistons",
       "Los Angeles Lakers",
-      "Minnesota Timberwolves"
+      "Milwaukee Bucks",
+      "Minnesota Timberwolves",
+      "Utah Jazz"
     ],
     "college": [
       "Florida State"
@@ -23094,11 +26444,25 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Malik Williams",
+    "teams": [
+      "Toronto Raptors"
+    ],
+    "college": [
+      "Louisville"
+    ],
+    "numbers": [
+      35
+    ]
+  },
+  {
     "name": "Mamadi Diakite",
     "teams": [
       "Cleveland Cavaliers",
       "Milwaukee Bucks",
-      "Oklahoma City Thunder"
+      "New York Knicks",
+      "Oklahoma City Thunder",
+      "San Antonio Spurs"
     ],
     "college": [
       "Virginia"
@@ -23158,13 +26522,29 @@ export const NBA_PLAYERS = [
   {
     "name": "MarJon Beauchamp",
     "teams": [
-      "Milwaukee Bucks"
+      "Los Angeles Clippers",
+      "Milwaukee Bucks",
+      "New York Knicks"
     ],
-    "college": [],
+    "college": [
+      "Yakima Valley Community College"
+    ],
     "numbers": [
       0,
       3,
       14
+    ]
+  },
+  {
+    "name": "MarJon Beauchamp (TW)",
+    "teams": [
+      "Philadelphia 76ers"
+    ],
+    "college": [
+      "Yakima Valley Community College"
+    ],
+    "numbers": [
+      16
     ]
   },
   {
@@ -23260,6 +26640,18 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Marcus Bagley",
+    "teams": [
+      "Philadelphia 76ers"
+    ],
+    "college": [
+      "Arizona State"
+    ],
+    "numbers": [
+      35
+    ]
+  },
+  {
     "name": "Marcus Banks",
     "teams": [
       "Boston Celtics",
@@ -23350,6 +26742,7 @@ export const NBA_PLAYERS = [
   {
     "name": "Marcus Garrett",
     "teams": [
+      "Charlotte Hornets",
       "Miami Heat"
     ],
     "college": [
@@ -23404,8 +26797,11 @@ export const NBA_PLAYERS = [
   {
     "name": "Marcus Morris",
     "teams": [
+      "Cleveland Cavaliers",
       "Detroit Pistons",
       "Houston Rockets",
+      "Los Angeles Clippers",
+      "Philadelphia 76ers",
       "Phoenix Suns"
     ],
     "college": [
@@ -23443,9 +26839,24 @@ export const NBA_PLAYERS = [
     "numbers": []
   },
   {
+    "name": "Marcus Sasser",
+    "teams": [
+      "Detroit Pistons"
+    ],
+    "college": [
+      "Houston"
+    ],
+    "numbers": [
+      25
+    ]
+  },
+  {
     "name": "Marcus Smart",
     "teams": [
-      "Boston Celtics"
+      "Boston Celtics",
+      "Los Angeles Lakers",
+      "Memphis Grizzlies",
+      "Washington Wizards"
     ],
     "college": [
       "Oklahoma State"
@@ -23816,7 +27227,8 @@ export const NBA_PLAYERS = [
   {
     "name": "Mark Williams",
     "teams": [
-      "Charlotte Hornets"
+      "Charlotte Hornets",
+      "PHO"
     ],
     "college": [
       "Duke"
@@ -23843,7 +27255,8 @@ export const NBA_PLAYERS = [
     "name": "Markelle Fultz",
     "teams": [
       "Orlando Magic",
-      "Philadelphia 76ers"
+      "Philadelphia 76ers",
+      "Sacramento Kings"
     ],
     "college": [
       "Washington"
@@ -23855,6 +27268,7 @@ export const NBA_PLAYERS = [
   {
     "name": "Markieff Morris",
     "teams": [
+      "BRK",
       "Dallas Mavericks",
       "Los Angeles Lakers",
       "Miami Heat",
@@ -23910,6 +27324,19 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Markquis Nowell",
+    "teams": [
+      "Toronto Raptors"
+    ],
+    "college": [
+      "Kansas State",
+      "Little Rock"
+    ],
+    "numbers": [
+      24
+    ]
+  },
+  {
     "name": "Markus Howard",
     "teams": [
       "Denver Nuggets"
@@ -23936,7 +27363,9 @@ export const NBA_PLAYERS = [
   {
     "name": "Marques Bolden",
     "teams": [
-      "Cleveland Cavaliers"
+      "Charlotte Hornets",
+      "Cleveland Cavaliers",
+      "Milwaukee Bucks"
     ],
     "college": [
       "Duke"
@@ -24093,8 +27522,11 @@ export const NBA_PLAYERS = [
   {
     "name": "Marvin Bagley III",
     "teams": [
+      "Dallas Mavericks",
       "Detroit Pistons",
-      "Sacramento Kings"
+      "Memphis Grizzlies",
+      "Sacramento Kings",
+      "Washington Wizards"
     ],
     "college": [
       "Duke"
@@ -24124,10 +27556,12 @@ export const NBA_PLAYERS = [
     "name": "Mason Jones",
     "teams": [
       "Los Angeles Lakers",
-      "Philadelphia 76ers"
+      "Philadelphia 76ers",
+      "Sacramento Kings"
     ],
     "college": [
-      "Arkansas"
+      "Arkansas",
+      "Connors State College"
     ],
     "numbers": [
       5,
@@ -24145,7 +27579,9 @@ export const NBA_PLAYERS = [
       "Denver Nuggets",
       "Detroit Pistons",
       "Los Angeles Clippers",
-      "Portland Trail Blazers"
+      "PHO",
+      "Portland Trail Blazers",
+      "San Antonio Spurs"
     ],
     "college": [
       "Duke"
@@ -24155,6 +27591,16 @@ export const NBA_PLAYERS = [
       22,
       24,
       44
+    ]
+  },
+  {
+    "name": "Matas Buzelis",
+    "teams": [
+      "Chicago Bulls"
+    ],
+    "college": [],
+    "numbers": [
+      14
     ]
   },
   {
@@ -24352,10 +27798,16 @@ export const NBA_PLAYERS = [
     "name": "Matt Ryan",
     "teams": [
       "Boston Celtics",
-      "Minnesota Timberwolves"
+      "Los Angeles Lakers",
+      "Minnesota Timberwolves",
+      "New Orleans Pelicans",
+      "New York Knicks"
     ],
     "college": [
-      "Tennessee-Chattanooga"
+      "Chattanooga",
+      "Notre Dame",
+      "Tennessee-Chattanooga",
+      "Vanderbilt"
     ],
     "numbers": [
       37
@@ -24417,6 +27869,7 @@ export const NBA_PLAYERS = [
       "Sacramento Kings"
     ],
     "college": [
+      "Saint Mary's",
       "Saint Mary's (CA)",
       "St. Mary's (CA)",
       "St.Mary's College of California"
@@ -24424,6 +27877,18 @@ export const NBA_PLAYERS = [
     "numbers": [
       8,
       18
+    ]
+  },
+  {
+    "name": "Matthew Hurt",
+    "teams": [
+      "Memphis Grizzlies"
+    ],
+    "college": [
+      "Duke"
+    ],
+    "numbers": [
+      20
     ]
   },
   {
@@ -24538,6 +28003,7 @@ export const NBA_PLAYERS = [
   {
     "name": "Max Christie",
     "teams": [
+      "Dallas Mavericks",
       "Los Angeles Lakers"
     ],
     "college": [
@@ -24550,13 +28016,28 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Max Shulga",
+    "teams": [
+      "Boston Celtics"
+    ],
+    "college": [
+      "Utah State University",
+      "VCU"
+    ],
+    "numbers": [
+      44
+    ]
+  },
+  {
     "name": "Max Strus",
     "teams": [
       "Chicago Bulls",
+      "Cleveland Cavaliers",
       "Miami Heat"
     ],
     "college": [
-      "DePaul"
+      "DePaul",
+      "Lewis (IL)"
     ],
     "numbers": [
       1,
@@ -24568,12 +28049,40 @@ export const NBA_PLAYERS = [
   {
     "name": "Maxi Kleber",
     "teams": [
-      "Dallas Mavericks"
+      "Dallas Mavericks",
+      "Los Angeles Lakers"
     ],
     "college": [],
     "numbers": [
       14,
       42
+    ]
+  },
+  {
+    "name": "Maxime Raynaud",
+    "teams": [
+      "Sacramento Kings"
+    ],
+    "college": [
+      "Stanford"
+    ],
+    "numbers": [
+      42
+    ]
+  },
+  {
+    "name": "Maxwell Lewis",
+    "teams": [
+      "BRK",
+      "Los Angeles Lakers"
+    ],
+    "college": [
+      "Pepperdine"
+    ],
+    "numbers": [
+      20,
+      21,
+      27
     ]
   },
   {
@@ -24728,12 +28237,28 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Micah Peavy",
+    "teams": [
+      "New Orleans Pelicans"
+    ],
+    "college": [
+      "Georgetown",
+      "TCU",
+      "Texas Tech"
+    ],
+    "numbers": [
+      14
+    ]
+  },
+  {
     "name": "Micah Potter",
     "teams": [
       "Detroit Pistons",
+      "Indiana Pacers",
       "Utah Jazz"
     ],
     "college": [
+      "Ohio State",
       "Wisconsin"
     ],
     "numbers": [
@@ -24981,6 +28506,7 @@ export const NBA_PLAYERS = [
   {
     "name": "Michael Porter Jr.",
     "teams": [
+      "BRK",
       "Denver Nuggets"
     ],
     "college": [
@@ -25115,7 +28641,10 @@ export const NBA_PLAYERS = [
   {
     "name": "Mikal Bridges",
     "teams": [
+      "BRK",
       "Brooklyn Nets",
+      "New York Knicks",
+      "PHO",
       "Phoenix Suns"
     ],
     "college": [
@@ -25285,8 +28814,10 @@ export const NBA_PLAYERS = [
     "teams": [
       "Atlanta Hawks",
       "Boston Celtics",
+      "Detroit Pistons",
       "Los Angeles Lakers",
-      "Oklahoma City Thunder"
+      "Oklahoma City Thunder",
+      "Washington Wizards"
     ],
     "college": [
       "Bucknell"
@@ -25432,6 +28963,20 @@ export const NBA_PLAYERS = [
     ],
     "numbers": [
       2
+    ]
+  },
+  {
+    "name": "Miles Norris",
+    "teams": [
+      "Boston Celtics"
+    ],
+    "college": [
+      "City College of San Francisco",
+      "Oregon",
+      "UC Santa Barbara"
+    ],
+    "numbers": [
+      44
     ]
   },
   {
@@ -25624,8 +29169,11 @@ export const NBA_PLAYERS = [
   {
     "name": "Mo Bamba",
     "teams": [
+      "Los Angeles Clippers",
       "Los Angeles Lakers",
-      "Orlando Magic"
+      "New Orleans Pelicans",
+      "Orlando Magic",
+      "Philadelphia 76ers"
     ],
     "college": [
       "Texas",
@@ -25660,6 +29208,16 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Mohamed Diawara",
+    "teams": [
+      "New York Knicks"
+    ],
+    "college": [],
+    "numbers": [
+      51
+    ]
+  },
+  {
     "name": "Monta Ellis",
     "teams": [
       "Dallas Mavericks",
@@ -25677,6 +29235,9 @@ export const NBA_PLAYERS = [
     "name": "Monte Morris",
     "teams": [
       "Denver Nuggets",
+      "Detroit Pistons",
+      "Minnesota Timberwolves",
+      "PHO",
       "Washington Wizards"
     ],
     "college": [
@@ -25806,9 +29367,13 @@ export const NBA_PLAYERS = [
   {
     "name": "Moses Brown",
     "teams": [
+      "BRK",
       "Boston Celtics",
       "Brooklyn Nets",
       "Cleveland Cavaliers",
+      "Dallas Mavericks",
+      "Indiana Pacers",
+      "Los Angeles Clippers",
       "Portland Trail Blazers"
     ],
     "college": [
@@ -25849,6 +29414,33 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Mouhamadou Gueye",
+    "teams": [
+      "Chicago Bulls",
+      "Toronto Raptors"
+    ],
+    "college": [
+      "Monroe Community College",
+      "Pitt",
+      "Stony Brook University"
+    ],
+    "numbers": [
+      16
+    ]
+  },
+  {
+    "name": "Mouhamed Gueye",
+    "teams": [
+      "Atlanta Hawks"
+    ],
+    "college": [
+      "Washington State"
+    ],
+    "numbers": [
+      18
+    ]
+  },
+  {
     "name": "Mouhamed Sene",
     "teams": [
       "New York Knicks",
@@ -25860,6 +29452,18 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Moussa Cisse (TW)",
+    "teams": [
+      "Dallas Mavericks"
+    ],
+    "college": [
+      "Memphis",
+      "Oklahoma State",
+      "Ole Miss"
+    ],
+    "numbers": []
+  },
+  {
     "name": "Moussa Diabate",
     "teams": [
       "Los Angeles Clippers"
@@ -25868,6 +29472,19 @@ export const NBA_PLAYERS = [
       "Michigan"
     ],
     "numbers": []
+  },
+  {
+    "name": "Moussa Diabat\u00e9",
+    "teams": [
+      "Charlotte Hornets",
+      "Los Angeles Clippers"
+    ],
+    "college": [
+      "Michigan"
+    ],
+    "numbers": [
+      25
+    ]
   },
   {
     "name": "Muggsy Bogues",
@@ -25949,7 +29566,8 @@ export const NBA_PLAYERS = [
   {
     "name": "Myles Turner",
     "teams": [
-      "Indiana Pacers"
+      "Indiana Pacers",
+      "Milwaukee Bucks"
     ],
     "college": [
       "Texas",
@@ -25961,8 +29579,61 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Myron Gardner",
+    "teams": [
+      "Miami Heat"
+    ],
+    "college": [
+      "Georgetown",
+      "Little Rock",
+      "South Plains College"
+    ],
+    "numbers": [
+      15
+    ]
+  },
+  {
+    "name": "M\u00e3ozinha Pereira",
+    "teams": [
+      "Memphis Grizzlies"
+    ],
+    "college": [],
+    "numbers": [
+      25
+    ]
+  },
+  {
+    "name": "N'Faly Dante",
+    "teams": [
+      "Houston Rockets"
+    ],
+    "college": [
+      "Oregon"
+    ],
+    "numbers": [
+      3
+    ]
+  },
+  {
+    "name": "Nae'Qwan Tomlin",
+    "teams": [
+      "Cleveland Cavaliers"
+    ],
+    "college": [
+      "Chipola College",
+      "Kansas State",
+      "Memphis",
+      "Monroe Community College"
+    ],
+    "numbers": [
+      30,
+      35
+    ]
+  },
+  {
     "name": "Naji Marshall",
     "teams": [
+      "Dallas Mavericks",
       "New Orleans Pelicans"
     ],
     "college": [
@@ -25988,10 +29659,12 @@ export const NBA_PLAYERS = [
   {
     "name": "Nassir Little",
     "teams": [
+      "PHO",
       "Portland Trail Blazers"
     ],
     "college": [
-      "North Carolina"
+      "North Carolina",
+      "UNC"
     ],
     "numbers": [
       9,
@@ -26025,6 +29698,7 @@ export const NBA_PLAYERS = [
     "name": "Nate Hinton",
     "teams": [
       "Dallas Mavericks",
+      "Houston Rockets",
       "Indiana Pacers"
     ],
     "college": [
@@ -26082,6 +29756,32 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Nate Williams",
+    "teams": [
+      "Houston Rockets",
+      "Portland Trail Blazers"
+    ],
+    "college": [
+      "Buffalo"
+    ],
+    "numbers": [
+      19,
+      23
+    ]
+  },
+  {
+    "name": "Nate Williams (TW)",
+    "teams": [
+      "Golden State Warriors"
+    ],
+    "college": [
+      "Buffalo"
+    ],
+    "numbers": [
+      19
+    ]
+  },
+  {
     "name": "Nate Wolters",
     "teams": [
       "Milwaukee Bucks",
@@ -26125,6 +29825,16 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Nathan Mensah",
+    "teams": [
+      "Charlotte Hornets"
+    ],
+    "college": [
+      "San Diego State"
+    ],
+    "numbers": []
+  },
+  {
     "name": "Naz Mitrou-Long",
     "teams": [
       "Indiana Pacers",
@@ -26144,6 +29854,7 @@ export const NBA_PLAYERS = [
       "Minnesota Timberwolves"
     ],
     "college": [
+      "LSU",
       "Louisiana State"
     ],
     "numbers": [
@@ -26186,10 +29897,12 @@ export const NBA_PLAYERS = [
   {
     "name": "Neemias Queta",
     "teams": [
+      "Boston Celtics",
       "Sacramento Kings"
     ],
     "college": [
-      "Utah State"
+      "Utah State",
+      "Utah State University"
     ],
     "numbers": [
       88
@@ -26253,8 +29966,10 @@ export const NBA_PLAYERS = [
   {
     "name": "Nerlens Noel",
     "teams": [
+      "BRK",
       "Brooklyn Nets",
       "Dallas Mavericks",
+      "Detroit Pistons",
       "New York Knicks",
       "Oklahoma City Thunder",
       "Philadelphia 76ers"
@@ -26272,6 +29987,7 @@ export const NBA_PLAYERS = [
   {
     "name": "Nic Claxton",
     "teams": [
+      "BRK",
       "Brooklyn Nets"
     ],
     "college": [
@@ -26347,7 +30063,9 @@ export const NBA_PLAYERS = [
   {
     "name": "Nick Richards",
     "teams": [
-      "Charlotte Hornets"
+      "Charlotte Hornets",
+      "Chicago Bulls",
+      "PHO"
     ],
     "college": [
       "Kentucky"
@@ -26355,6 +30073,19 @@ export const NBA_PLAYERS = [
     "numbers": [
       2,
       13
+    ]
+  },
+  {
+    "name": "Nick Smith Jr.",
+    "teams": [
+      "Charlotte Hornets",
+      "Los Angeles Lakers"
+    ],
+    "college": [
+      "Arkansas"
+    ],
+    "numbers": [
+      20
     ]
   },
   {
@@ -26402,6 +30133,7 @@ export const NBA_PLAYERS = [
   {
     "name": "Nickeil Alexander-Walker",
     "teams": [
+      "Atlanta Hawks",
       "Minnesota Timberwolves",
       "New Orleans Pelicans",
       "Utah Jazz"
@@ -26433,6 +30165,7 @@ export const NBA_PLAYERS = [
     "teams": [
       "Charlotte Hornets",
       "Los Angeles Clippers",
+      "Philadelphia 76ers",
       "Portland Trail Blazers"
     ],
     "college": [],
@@ -26531,12 +30264,32 @@ export const NBA_PLAYERS = [
     "numbers": []
   },
   {
+    "name": "Nikola Joki\u0107",
+    "teams": [
+      "Denver Nuggets"
+    ],
+    "college": [],
+    "numbers": [
+      15
+    ]
+  },
+  {
     "name": "Nikola Jovic",
     "teams": [
       "Miami Heat"
     ],
     "college": [],
     "numbers": []
+  },
+  {
+    "name": "Nikola Jovi\u0107",
+    "teams": [
+      "Miami Heat"
+    ],
+    "college": [],
+    "numbers": [
+      5
+    ]
   },
   {
     "name": "Nikola Mirotic",
@@ -26557,6 +30310,14 @@ export const NBA_PLAYERS = [
     "numbers": []
   },
   {
+    "name": "Nikola Topi\u0107",
+    "teams": [
+      "Oklahoma City Thunder"
+    ],
+    "college": [],
+    "numbers": []
+  },
+  {
     "name": "Nikola Vucevic",
     "teams": [
       "Chicago Bulls",
@@ -26568,6 +30329,21 @@ export const NBA_PLAYERS = [
       "USC"
     ],
     "numbers": []
+  },
+  {
+    "name": "Nikola Vu\u010devi\u0107",
+    "teams": [
+      "Boston Celtics",
+      "Chicago Bulls"
+    ],
+    "college": [
+      "USC"
+    ],
+    "numbers": [
+      4,
+      8,
+      9
+    ]
   },
   {
     "name": "Nikoloz Tskitishvili",
@@ -26582,6 +30358,51 @@ export const NBA_PLAYERS = [
       17,
       20,
       22
+    ]
+  },
+  {
+    "name": "Nique Clifford",
+    "teams": [
+      "Sacramento Kings"
+    ],
+    "college": [
+      "Colorado",
+      "Colorado State"
+    ],
+    "numbers": [
+      5
+    ]
+  },
+  {
+    "name": "Noa Essengue",
+    "teams": [
+      "Chicago Bulls"
+    ],
+    "college": [],
+    "numbers": [
+      24
+    ]
+  },
+  {
+    "name": "Noah Clowney",
+    "teams": [
+      "BRK"
+    ],
+    "college": [
+      "Alabama"
+    ],
+    "numbers": [
+      21
+    ]
+  },
+  {
+    "name": "Noah Penda",
+    "teams": [
+      "Orlando Magic"
+    ],
+    "college": [],
+    "numbers": [
+      93
     ]
   },
   {
@@ -26632,9 +30453,34 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Nolan Traor\u00e9",
+    "teams": [
+      "BRK"
+    ],
+    "college": [],
+    "numbers": [
+      88
+    ]
+  },
+  {
+    "name": "Norchad Omier (TW)",
+    "teams": [
+      "Los Angeles Clippers"
+    ],
+    "college": [
+      "Arkansas State University",
+      "Baylor",
+      "Miami (FL)"
+    ],
+    "numbers": [
+      55
+    ]
+  },
+  {
     "name": "Norman Powell",
     "teams": [
       "Los Angeles Clippers",
+      "Miami Heat",
       "Portland Trail Blazers",
       "Toronto Raptors"
     ],
@@ -26714,6 +30560,7 @@ export const NBA_PLAYERS = [
   {
     "name": "OG Anunoby",
     "teams": [
+      "New York Knicks",
       "Toronto Raptors"
     ],
     "college": [
@@ -26727,6 +30574,7 @@ export const NBA_PLAYERS = [
   {
     "name": "Obi Toppin",
     "teams": [
+      "Indiana Pacers",
       "New York Knicks"
     ],
     "college": [
@@ -26754,6 +30602,8 @@ export const NBA_PLAYERS = [
   {
     "name": "Ochai Agbaji",
     "teams": [
+      "BRK",
+      "Toronto Raptors",
       "Utah Jazz"
     ],
     "college": [
@@ -26849,10 +30699,39 @@ export const NBA_PLAYERS = [
       "Oklahoma City Thunder"
     ],
     "college": [
-      "Kentucky"
+      "Kentucky",
+      "Wake Forest"
     ],
     "numbers": [
       30
+    ]
+  },
+  {
+    "name": "Olivier Sarr (TW)",
+    "teams": [
+      "Cleveland Cavaliers"
+    ],
+    "college": [
+      "Kentucky",
+      "Wake Forest"
+    ],
+    "numbers": [
+      33
+    ]
+  },
+  {
+    "name": "Olivier-Maxence Prosper",
+    "teams": [
+      "Dallas Mavericks",
+      "Memphis Grizzlies"
+    ],
+    "college": [
+      "Clemson",
+      "Marquette"
+    ],
+    "numbers": [
+      8,
+      18
     ]
   },
   {
@@ -26919,10 +30798,12 @@ export const NBA_PLAYERS = [
   {
     "name": "Omer Yurtseven",
     "teams": [
-      "Miami Heat"
+      "Miami Heat",
+      "Utah Jazz"
     ],
     "college": [
-      "Georgetown"
+      "Georgetown",
+      "NC State"
     ],
     "numbers": [
       77
@@ -26945,12 +30826,23 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Onuralp Bitim",
+    "teams": [
+      "Chicago Bulls"
+    ],
+    "college": [],
+    "numbers": [
+      17
+    ]
+  },
+  {
     "name": "Onyeka Okongwu",
     "teams": [
       "Atlanta Hawks"
     ],
     "college": [
-      "Southern California"
+      "Southern California",
+      "USC"
     ],
     "numbers": [
       17
@@ -26990,7 +30882,9 @@ export const NBA_PLAYERS = [
   {
     "name": "Orlando Robinson",
     "teams": [
-      "Miami Heat"
+      "Miami Heat",
+      "Sacramento Kings",
+      "Toronto Raptors"
     ],
     "college": [
       "Fresno State"
@@ -27013,9 +30907,39 @@ export const NBA_PLAYERS = [
     "numbers": []
   },
   {
-    "name": "Oshae Brissett",
+    "name": "Oscar Tshiebwe",
     "teams": [
       "Indiana Pacers",
+      "Utah Jazz"
+    ],
+    "college": [
+      "Kentucky",
+      "West Virginia"
+    ],
+    "numbers": [
+      34,
+      44
+    ]
+  },
+  {
+    "name": "Oscar Tshiebwe (TW)",
+    "teams": [
+      "Utah Jazz"
+    ],
+    "college": [
+      "Kentucky",
+      "West Virginia"
+    ],
+    "numbers": [
+      34
+    ]
+  },
+  {
+    "name": "Oshae Brissett",
+    "teams": [
+      "Boston Celtics",
+      "Indiana Pacers",
+      "Philadelphia 76ers",
       "Toronto Raptors"
     ],
     "college": [
@@ -27024,6 +30948,19 @@ export const NBA_PLAYERS = [
     "numbers": [
       12,
       22
+    ]
+  },
+  {
+    "name": "Oso Ighodaro",
+    "teams": [
+      "PHO"
+    ],
+    "college": [
+      "Marquette"
+    ],
+    "numbers": [
+      4,
+      11
     ]
   },
   {
@@ -27111,6 +31048,7 @@ export const NBA_PLAYERS = [
   {
     "name": "Ousmane Dieng",
     "teams": [
+      "Milwaukee Bucks",
       "Oklahoma City Thunder"
     ],
     "college": [],
@@ -27151,8 +31089,10 @@ export const NBA_PLAYERS = [
     "name": "P.J. Tucker",
     "teams": [
       "Houston Rockets",
+      "Los Angeles Clippers",
       "Miami Heat",
       "Milwaukee Bucks",
+      "New York Knicks",
       "Philadelphia 76ers"
     ],
     "college": [
@@ -27169,7 +31109,8 @@ export const NBA_PLAYERS = [
   {
     "name": "P.J. Washington",
     "teams": [
-      "Charlotte Hornets"
+      "Charlotte Hornets",
+      "Dallas Mavericks"
     ],
     "college": [
       "Kentucky"
@@ -27183,6 +31124,7 @@ export const NBA_PLAYERS = [
     "teams": [
       "Boston Celtics",
       "Denver Nuggets",
+      "Minnesota Timberwolves",
       "Oklahoma City Thunder",
       "Sacramento Kings"
     ],
@@ -27202,6 +31144,28 @@ export const NBA_PLAYERS = [
     ],
     "college": [
       "North Carolina"
+    ],
+    "numbers": []
+  },
+  {
+    "name": "PJ Hall",
+    "teams": [
+      "Denver Nuggets"
+    ],
+    "college": [
+      "Clemson"
+    ],
+    "numbers": [
+      13
+    ]
+  },
+  {
+    "name": "PJ Hall (TW)",
+    "teams": [
+      "Charlotte Hornets"
+    ],
+    "college": [
+      "Clemson"
     ],
     "numbers": []
   },
@@ -27226,6 +31190,16 @@ export const NBA_PLAYERS = [
     "college": [],
     "numbers": [
       9
+    ]
+  },
+  {
+    "name": "Pac\u00f4me Dadiet",
+    "teams": [
+      "New York Knicks"
+    ],
+    "college": [],
+    "numbers": [
+      4
     ]
   },
   {
@@ -27277,6 +31251,7 @@ export const NBA_PLAYERS = [
   {
     "name": "Pascal Siakam",
     "teams": [
+      "Indiana Pacers",
       "Toronto Raptors"
     ],
     "college": [
@@ -27303,6 +31278,7 @@ export const NBA_PLAYERS = [
   {
     "name": "Pat Connaughton",
     "teams": [
+      "Charlotte Hornets",
       "Milwaukee Bucks",
       "Portland Trail Blazers"
     ],
@@ -27328,6 +31304,19 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Pat Spencer",
+    "teams": [
+      "Golden State Warriors"
+    ],
+    "college": [
+      "Loyola (MD)",
+      "Northwestern"
+    ],
+    "numbers": [
+      61
+    ]
+  },
+  {
     "name": "Patricio Garino",
     "teams": [
       "Orlando Magic"
@@ -27350,12 +31339,42 @@ export const NBA_PLAYERS = [
     "numbers": []
   },
   {
+    "name": "Patrick Baldwin Jr.",
+    "teams": [
+      "Golden State Warriors",
+      "Los Angeles Clippers",
+      "Washington Wizards"
+    ],
+    "college": [
+      "UW-Milwaukee"
+    ],
+    "numbers": [
+      7,
+      23
+    ]
+  },
+  {
+    "name": "Patrick Baldwin Jr. (TW)",
+    "teams": [
+      "Sacramento Kings"
+    ],
+    "college": [
+      "UW-Milwaukee"
+    ],
+    "numbers": [
+      23
+    ]
+  },
+  {
     "name": "Patrick Beverley",
     "teams": [
       "Chicago Bulls",
       "Houston Rockets",
       "Los Angeles Clippers",
-      "Minnesota Timberwolves"
+      "Los Angeles Lakers",
+      "Milwaukee Bucks",
+      "Minnesota Timberwolves",
+      "Philadelphia 76ers"
     ],
     "college": [
       "Arkansas"
@@ -27459,11 +31478,17 @@ export const NBA_PLAYERS = [
   {
     "name": "Patty Mills",
     "teams": [
+      "Atlanta Hawks",
+      "BRK",
       "Brooklyn Nets",
+      "Los Angeles Clippers",
+      "Miami Heat",
       "Portland Trail Blazers",
-      "San Antonio Spurs"
+      "San Antonio Spurs",
+      "Utah Jazz"
     ],
     "college": [
+      "Saint Mary's",
       "Saint Mary's (CA)",
       "St. Mary's",
       "St. Mary's (CA)",
@@ -27508,7 +31533,8 @@ export const NBA_PLAYERS = [
     "teams": [
       "Indiana Pacers",
       "Los Angeles Clippers",
-      "Oklahoma City Thunder"
+      "Oklahoma City Thunder",
+      "Philadelphia 76ers"
     ],
     "college": [
       "Fresno State"
@@ -27582,6 +31608,7 @@ export const NBA_PLAYERS = [
   {
     "name": "Paul Reed",
     "teams": [
+      "Detroit Pistons",
       "Philadelphia 76ers"
     ],
     "college": [
@@ -27655,6 +31682,16 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Payton Sandfort (TW)",
+    "teams": [
+      "Oklahoma City Thunder"
+    ],
+    "college": [
+      "Iowa"
+    ],
+    "numbers": []
+  },
+  {
     "name": "Peja Stojakovic",
     "teams": [
       "Dallas Mavericks",
@@ -27665,6 +31702,19 @@ export const NBA_PLAYERS = [
     ],
     "college": [],
     "numbers": []
+  },
+  {
+    "name": "Pelle Larsson",
+    "teams": [
+      "Miami Heat"
+    ],
+    "college": [
+      "Arizona",
+      "Utah"
+    ],
+    "numbers": [
+      9
+    ]
   },
   {
     "name": "Pepe Sanchez",
@@ -27738,6 +31788,23 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Pete Nance",
+    "teams": [
+      "Cleveland Cavaliers",
+      "Milwaukee Bucks",
+      "Philadelphia 76ers"
+    ],
+    "college": [
+      "Northwestern",
+      "UNC"
+    ],
+    "numbers": [
+      8,
+      22,
+      35
+    ]
+  },
+  {
     "name": "Peter Aluma",
     "teams": [
       "Sacramento Kings"
@@ -27805,6 +31872,16 @@ export const NBA_PLAYERS = [
     "numbers": [
       25,
       26
+    ]
+  },
+  {
+    "name": "Phillip Wheeler",
+    "teams": [
+      "Philadelphia 76ers"
+    ],
+    "college": [],
+    "numbers": [
+      36
     ]
   },
   {
@@ -27881,6 +31958,8 @@ export const NBA_PLAYERS = [
     "name": "Precious Achiuwa",
     "teams": [
       "Miami Heat",
+      "New York Knicks",
+      "Sacramento Kings",
       "Toronto Raptors"
     ],
     "college": [
@@ -27941,10 +32020,14 @@ export const NBA_PLAYERS = [
   {
     "name": "Quentin Grimes",
     "teams": [
-      "New York Knicks"
+      "Dallas Mavericks",
+      "Detroit Pistons",
+      "New York Knicks",
+      "Philadelphia 76ers"
     ],
     "college": [
-      "Houston"
+      "Houston",
+      "Kansas"
     ],
     "numbers": [
       5,
@@ -27974,6 +32057,7 @@ export const NBA_PLAYERS = [
   {
     "name": "Quenton Jackson",
     "teams": [
+      "Indiana Pacers",
       "Washington Wizards"
     ],
     "college": [
@@ -28044,6 +32128,19 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Quincy Olivari",
+    "teams": [
+      "Los Angeles Lakers"
+    ],
+    "college": [
+      "Rice University",
+      "Xavier"
+    ],
+    "numbers": [
+      41
+    ]
+  },
+  {
     "name": "Quincy Pondexter",
     "teams": [
       "Chicago Bulls",
@@ -28093,6 +32190,19 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Quinten Post",
+    "teams": [
+      "Golden State Warriors"
+    ],
+    "college": [
+      "Boston College",
+      "Mississippi State"
+    ],
+    "numbers": [
+      21
+    ]
+  },
+  {
     "name": "Quinton Ross",
     "teams": [
       "Los Angeles Clippers",
@@ -28128,6 +32238,7 @@ export const NBA_PLAYERS = [
     "name": "R.J. Hampton",
     "teams": [
       "Detroit Pistons",
+      "Miami Heat",
       "Orlando Magic"
     ],
     "college": [],
@@ -28140,7 +32251,8 @@ export const NBA_PLAYERS = [
   {
     "name": "RJ Barrett",
     "teams": [
-      "New York Knicks"
+      "New York Knicks",
+      "Toronto Raptors"
     ],
     "college": [
       "Duke"
@@ -28234,7 +32346,9 @@ export const NBA_PLAYERS = [
   {
     "name": "RaiQuan Gray",
     "teams": [
-      "Brooklyn Nets"
+      "BRK",
+      "Brooklyn Nets",
+      "San Antonio Spurs"
     ],
     "college": [
       "Florida State"
@@ -28494,6 +32608,18 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Rasheer Fleming",
+    "teams": [
+      "PHO"
+    ],
+    "college": [
+      "Saint Joseph's"
+    ],
+    "numbers": [
+      20
+    ]
+  },
+  {
     "name": "Rasho Nesterovic",
     "teams": [
       "Indiana Pacers",
@@ -28640,6 +32766,53 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "RayJ Dennis",
+    "teams": [
+      "Indiana Pacers"
+    ],
+    "college": [
+      "Baylor",
+      "Boise State",
+      "Toledo"
+    ],
+    "numbers": [
+      10
+    ]
+  },
+  {
+    "name": "RayJ Dennis (TW)",
+    "teams": [
+      "Atlanta Hawks"
+    ],
+    "college": [
+      "Baylor",
+      "Boise State",
+      "Toledo"
+    ],
+    "numbers": []
+  },
+  {
+    "name": "Rayan Rupert",
+    "teams": [
+      "Portland Trail Blazers"
+    ],
+    "college": [],
+    "numbers": [
+      21,
+      72
+    ]
+  },
+  {
+    "name": "Rayan Rupert (TW)",
+    "teams": [
+      "Memphis Grizzlies"
+    ],
+    "college": [],
+    "numbers": [
+      32
+    ]
+  },
+  {
     "name": "Rayjon Tucker",
     "teams": [
       "Milwaukee Bucks",
@@ -28676,6 +32849,20 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Reece Beekman",
+    "teams": [
+      "BRK",
+      "Golden State Warriors"
+    ],
+    "college": [
+      "Virginia"
+    ],
+    "numbers": [
+      3,
+      4
+    ]
+  },
+  {
     "name": "Reece Gaines",
     "teams": [
       "Milwaukee Bucks",
@@ -28691,17 +32878,31 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Reed Sheppard",
+    "teams": [
+      "Houston Rockets"
+    ],
+    "college": [
+      "Kentucky"
+    ],
+    "numbers": [
+      15
+    ]
+  },
+  {
     "name": "Reggie Bullock",
     "teams": [
       "Dallas Mavericks",
       "Detroit Pistons",
+      "Houston Rockets",
       "Los Angeles Clippers",
       "Los Angeles Lakers",
       "New York Knicks",
       "Phoenix Suns"
     ],
     "college": [
-      "North Carolina"
+      "North Carolina",
+      "UNC"
     ],
     "numbers": [
       25,
@@ -28771,7 +32972,8 @@ export const NBA_PLAYERS = [
       "Denver Nuggets",
       "Detroit Pistons",
       "Los Angeles Clippers",
-      "Oklahoma City Thunder"
+      "Oklahoma City Thunder",
+      "Philadelphia 76ers"
     ],
     "college": [
       "Boston College"
@@ -28962,9 +33164,11 @@ export const NBA_PLAYERS = [
   {
     "name": "Richaun Holmes",
     "teams": [
+      "Dallas Mavericks",
       "Philadelphia 76ers",
       "Phoenix Suns",
-      "Sacramento Kings"
+      "Sacramento Kings",
+      "Washington Wizards"
     ],
     "college": [
       "Bowling Green"
@@ -29050,6 +33254,20 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Ricky Council IV",
+    "teams": [
+      "Philadelphia 76ers"
+    ],
+    "college": [
+      "Arkansas",
+      "Wichita State"
+    ],
+    "numbers": [
+      14,
+      16
+    ]
+  },
+  {
     "name": "Ricky Davis",
     "teams": [
       "Boston Celtics",
@@ -29124,6 +33342,46 @@ export const NBA_PLAYERS = [
     ],
     "numbers": [
       45
+    ]
+  },
+  {
+    "name": "Riley Minix",
+    "teams": [
+      "San Antonio Spurs"
+    ],
+    "college": [
+      "Morehead State University",
+      "Southeastern University"
+    ],
+    "numbers": [
+      27
+    ]
+  },
+  {
+    "name": "Riley Minix (TW)",
+    "teams": [
+      "Cleveland Cavaliers"
+    ],
+    "college": [
+      "Morehead State University",
+      "Southeastern University"
+    ],
+    "numbers": [
+      12
+    ]
+  },
+  {
+    "name": "Rob Dillingham",
+    "teams": [
+      "Chicago Bulls",
+      "Minnesota Timberwolves"
+    ],
+    "college": [
+      "Kentucky"
+    ],
+    "numbers": [
+      4,
+      7
     ]
   },
   {
@@ -29326,6 +33584,20 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Robert Williams",
+    "teams": [
+      "Boston Celtics",
+      "Portland Trail Blazers"
+    ],
+    "college": [
+      "Texas A&M"
+    ],
+    "numbers": [
+      35,
+      44
+    ]
+  },
+  {
     "name": "Robert Williams III",
     "teams": [
       "Boston Celtics"
@@ -29370,6 +33642,16 @@ export const NBA_PLAYERS = [
       15,
       33,
       42
+    ]
+  },
+  {
+    "name": "Rocco Zikarsky (TW)",
+    "teams": [
+      "Minnesota Timberwolves"
+    ],
+    "college": [],
+    "numbers": [
+      44
     ]
   },
   {
@@ -29635,14 +33917,28 @@ export const NBA_PLAYERS = [
   {
     "name": "Ron Harper Jr.",
     "teams": [
+      "Boston Celtics",
+      "Detroit Pistons",
       "Toronto Raptors"
     ],
     "college": [
-      "Rutgers"
+      "Rutgers",
+      "Rutgers University"
     ],
     "numbers": [
       8,
       13
+    ]
+  },
+  {
+    "name": "Ron Holland",
+    "teams": [
+      "Detroit Pistons"
+    ],
+    "college": [],
+    "numbers": [
+      0,
+      5
     ]
   },
   {
@@ -29838,11 +34134,14 @@ export const NBA_PLAYERS = [
   {
     "name": "Royce O'Neale",
     "teams": [
+      "BRK",
       "Brooklyn Nets",
+      "PHO",
       "Utah Jazz"
     ],
     "college": [
-      "Baylor"
+      "Baylor",
+      "Denver"
     ],
     "numbers": [
       0,
@@ -29943,7 +34242,8 @@ export const NBA_PLAYERS = [
       "Utah Jazz"
     ],
     "college": [
-      "Connecticut"
+      "Connecticut",
+      "UConn"
     ],
     "numbers": [
       8,
@@ -30004,10 +34304,12 @@ export const NBA_PLAYERS = [
   {
     "name": "Russell Westbrook",
     "teams": [
+      "Denver Nuggets",
       "Houston Rockets",
       "Los Angeles Clippers",
       "Los Angeles Lakers",
       "Oklahoma City Thunder",
+      "Sacramento Kings",
       "Washington Wizards"
     ],
     "college": [
@@ -30100,6 +34402,18 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Ryan Dunn",
+    "teams": [
+      "PHO"
+    ],
+    "college": [
+      "Virginia"
+    ],
+    "numbers": [
+      0
+    ]
+  },
+  {
     "name": "Ryan Gomes",
     "teams": [
       "Boston Celtics",
@@ -30153,6 +34467,16 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Ryan Kalkbrenner",
+    "teams": [
+      "Charlotte Hornets"
+    ],
+    "college": [
+      "Creighton"
+    ],
+    "numbers": []
+  },
+  {
     "name": "Ryan Kelly",
     "teams": [
       "Atlanta Hawks",
@@ -30165,6 +34489,17 @@ export const NBA_PLAYERS = [
       4,
       30
     ]
+  },
+  {
+    "name": "Ryan Nembhard",
+    "teams": [
+      "Dallas Mavericks"
+    ],
+    "college": [
+      "Creighton",
+      "Gonzaga"
+    ],
+    "numbers": []
   },
   {
     "name": "Ryan Reid",
@@ -30193,7 +34528,9 @@ export const NBA_PLAYERS = [
   {
     "name": "Ryan Rollins",
     "teams": [
-      "Golden State Warriors"
+      "Golden State Warriors",
+      "Milwaukee Bucks",
+      "Washington Wizards"
     ],
     "college": [
       "Toledo"
@@ -30221,6 +34558,8 @@ export const NBA_PLAYERS = [
     "name": "Saben Lee",
     "teams": [
       "Detroit Pistons",
+      "PHO",
+      "Philadelphia 76ers",
       "Phoenix Suns"
     ],
     "college": [
@@ -30235,7 +34574,8 @@ export const NBA_PLAYERS = [
     "name": "Saddiq Bey",
     "teams": [
       "Atlanta Hawks",
-      "Detroit Pistons"
+      "Detroit Pistons",
+      "New Orleans Pelicans"
     ],
     "college": [
       "Villanova"
@@ -30308,6 +34648,7 @@ export const NBA_PLAYERS = [
       "Boston Celtics"
     ],
     "college": [
+      "Marquette",
       "Virginia"
     ],
     "numbers": [
@@ -30354,7 +34695,8 @@ export const NBA_PLAYERS = [
       "Milwaukee Bucks"
     ],
     "college": [
-      "Utah State"
+      "Utah State",
+      "Utah State University"
     ],
     "numbers": [
       5,
@@ -30456,7 +34798,8 @@ export const NBA_PLAYERS = [
     "name": "Sandro Mamukelashvili",
     "teams": [
       "Milwaukee Bucks",
-      "San Antonio Spurs"
+      "San Antonio Spurs",
+      "Toronto Raptors"
     ],
     "college": [
       "Seton Hall"
@@ -30471,6 +34814,7 @@ export const NBA_PLAYERS = [
       "Memphis Grizzlies"
     ],
     "college": [
+      "Loyola (MD)",
       "Loyola-Maryland"
     ],
     "numbers": [
@@ -30529,6 +34873,16 @@ export const NBA_PLAYERS = [
     "numbers": []
   },
   {
+    "name": "Sasha Vezenkov",
+    "teams": [
+      "Sacramento Kings"
+    ],
+    "college": [],
+    "numbers": [
+      7
+    ]
+  },
+  {
     "name": "Sasha Vujacic",
     "teams": [
       "Los Angeles Clippers",
@@ -30538,6 +34892,16 @@ export const NBA_PLAYERS = [
     ],
     "college": [],
     "numbers": []
+  },
+  {
+    "name": "Scoot Henderson",
+    "teams": [
+      "Portland Trail Blazers"
+    ],
+    "college": [],
+    "numbers": [
+      0
+    ]
   },
   {
     "name": "Scot Pollard",
@@ -30693,7 +35057,8 @@ export const NBA_PLAYERS = [
   {
     "name": "Scotty Pippen Jr.",
     "teams": [
-      "Los Angeles Lakers"
+      "Los Angeles Lakers",
+      "Memphis Grizzlies"
     ],
     "college": [
       "Vanderbilt"
@@ -30814,6 +35179,19 @@ export const NBA_PLAYERS = [
     ],
     "numbers": [
       30
+    ]
+  },
+  {
+    "name": "Sean Pedulla (TW)",
+    "teams": [
+      "Los Angeles Clippers"
+    ],
+    "college": [
+      "Ole Miss",
+      "Virginia Tech"
+    ],
+    "numbers": [
+      0
     ]
   },
   {
@@ -30987,22 +35365,38 @@ export const NBA_PLAYERS = [
   {
     "name": "Seth Curry",
     "teams": [
+      "BRK",
       "Brooklyn Nets",
+      "Charlotte Hornets",
       "Cleveland Cavaliers",
       "Dallas Mavericks",
+      "Golden State Warriors",
       "Philadelphia 76ers",
       "Phoenix Suns",
       "Portland Trail Blazers",
       "Sacramento Kings"
     ],
     "college": [
-      "Duke"
+      "Duke",
+      "Liberty"
     ],
     "numbers": [
       1,
       10,
       30,
       31
+    ]
+  },
+  {
+    "name": "Seth Lundy",
+    "teams": [
+      "Atlanta Hawks"
+    ],
+    "college": [
+      "Penn State"
+    ],
+    "numbers": [
+      3
     ]
   },
   {
@@ -31065,9 +35459,15 @@ export const NBA_PLAYERS = [
   {
     "name": "Shake Milton",
     "teams": [
+      "BRK",
+      "Detroit Pistons",
+      "Los Angeles Lakers",
+      "Minnesota Timberwolves",
+      "New York Knicks",
       "Philadelphia 76ers"
     ],
     "college": [
+      "SMU",
       "Southern Methodist"
     ],
     "numbers": [
@@ -31219,7 +35619,9 @@ export const NBA_PLAYERS = [
       "Chicago Bulls",
       "Denver Nuggets",
       "Los Angeles Lakers",
-      "Phoenix Suns"
+      "Memphis Grizzlies",
+      "Phoenix Suns",
+      "Portland Trail Blazers"
     ],
     "college": [
       "Tulsa"
@@ -31279,6 +35681,16 @@ export const NBA_PLAYERS = [
     "numbers": [
       2
     ]
+  },
+  {
+    "name": "Sharife Cooper (TW)",
+    "teams": [
+      "Washington Wizards"
+    ],
+    "college": [
+      "Auburn"
+    ],
+    "numbers": []
   },
   {
     "name": "Sharone Wright",
@@ -31558,6 +35970,18 @@ export const NBA_PLAYERS = [
     "numbers": []
   },
   {
+    "name": "Sidy Cissoko",
+    "teams": [
+      "Portland Trail Blazers",
+      "San Antonio Spurs"
+    ],
+    "college": [],
+    "numbers": [
+      25,
+      91
+    ]
+  },
+  {
     "name": "Sim Bhullar",
     "teams": [
       "Sacramento Kings"
@@ -31572,6 +35996,8 @@ export const NBA_PLAYERS = [
   {
     "name": "Simone Fontecchio",
     "teams": [
+      "Detroit Pistons",
+      "Miami Heat",
       "Utah Jazz"
     ],
     "college": [],
@@ -31598,6 +36024,17 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Sion James",
+    "teams": [
+      "Charlotte Hornets"
+    ],
+    "college": [
+      "Duke",
+      "Tulane"
+    ],
+    "numbers": []
+  },
+  {
     "name": "Skal Labissiere",
     "teams": [
       "Atlanta Hawks",
@@ -31610,12 +36047,29 @@ export const NBA_PLAYERS = [
     "numbers": []
   },
   {
+    "name": "Skal Labissi\u00e8re",
+    "teams": [
+      "Sacramento Kings"
+    ],
+    "college": [
+      "Kentucky"
+    ],
+    "numbers": [
+      3,
+      7,
+      17,
+      25
+    ]
+  },
+  {
     "name": "Skylar Mays",
     "teams": [
       "Atlanta Hawks",
+      "Los Angeles Lakers",
       "Portland Trail Blazers"
     ],
     "college": [
+      "LSU",
       "Louisiana State"
     ],
     "numbers": [
@@ -31759,10 +36213,12 @@ export const NBA_PLAYERS = [
   {
     "name": "Spencer Dinwiddie",
     "teams": [
+      "BRK",
       "Brooklyn Nets",
       "Chicago Bulls",
       "Dallas Mavericks",
-      "Detroit Pistons"
+      "Detroit Pistons",
+      "Los Angeles Lakers"
     ],
     "college": [
       "Colorado"
@@ -31790,6 +36246,18 @@ export const NBA_PLAYERS = [
       10,
       31,
       32
+    ]
+  },
+  {
+    "name": "Spencer Jones",
+    "teams": [
+      "Denver Nuggets"
+    ],
+    "college": [
+      "Stanford"
+    ],
+    "numbers": [
+      21
     ]
   },
   {
@@ -31871,10 +36339,12 @@ export const NBA_PLAYERS = [
   {
     "name": "Stanley Umude",
     "teams": [
-      "Detroit Pistons"
+      "Detroit Pistons",
+      "Milwaukee Bucks"
     ],
     "college": [
-      "Arkansas"
+      "Arkansas",
+      "South Dakota"
     ],
     "numbers": [
       14,
@@ -31984,6 +36454,18 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Stephon Castle",
+    "teams": [
+      "San Antonio Spurs"
+    ],
+    "college": [
+      "UConn"
+    ],
+    "numbers": [
+      5
+    ]
+  },
+  {
     "name": "Stephon Marbury",
     "teams": [
       "Boston Celtics",
@@ -32010,6 +36492,7 @@ export const NBA_PLAYERS = [
       "Milwaukee Bucks"
     ],
     "college": [
+      "SMU",
       "Southern Methodist"
     ],
     "numbers": [
@@ -32159,11 +36642,13 @@ export const NBA_PLAYERS = [
   {
     "name": "Steven Adams",
     "teams": [
+      "Houston Rockets",
       "Memphis Grizzlies",
       "New Orleans Pelicans",
       "Oklahoma City Thunder"
     ],
     "college": [
+      "Pitt",
       "Pittsburgh"
     ],
     "numbers": [
@@ -32283,10 +36768,13 @@ export const NBA_PLAYERS = [
   {
     "name": "Svi Mykhailiuk",
     "teams": [
+      "Boston Celtics",
       "Charlotte Hornets",
       "Detroit Pistons",
+      "New York Knicks",
       "Oklahoma City Thunder",
-      "Toronto Raptors"
+      "Toronto Raptors",
+      "Utah Jazz"
     ],
     "college": [
       "Kansas"
@@ -32336,7 +36824,8 @@ export const NBA_PLAYERS = [
       "Philadelphia 76ers"
     ],
     "college": [
-      "Arizona"
+      "Arizona",
+      "Duquesne"
     ],
     "numbers": [
       1,
@@ -32347,10 +36836,14 @@ export const NBA_PLAYERS = [
   {
     "name": "T.J. Warren",
     "teams": [
+      "BRK",
       "Indiana Pacers",
+      "Minnesota Timberwolves",
+      "PHO",
       "Phoenix Suns"
     ],
     "college": [
+      "NC State",
       "North Carolina State"
     ],
     "numbers": [
@@ -32395,6 +36888,18 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Taelon Peter (TW)",
+    "teams": [
+      "Indiana Pacers"
+    ],
+    "college": [
+      "Arkansas Tech University",
+      "Liberty",
+      "Tennessee Technological University"
+    ],
+    "numbers": []
+  },
+  {
     "name": "Tahjere McCall",
     "teams": [
       "Brooklyn Nets"
@@ -32409,7 +36914,10 @@ export const NBA_PLAYERS = [
   {
     "name": "Taj Gibson",
     "teams": [
+      "Charlotte Hornets",
       "Chicago Bulls",
+      "Detroit Pistons",
+      "Memphis Grizzlies",
       "Minnesota Timberwolves",
       "New York Knicks",
       "Oklahoma City Thunder",
@@ -32427,6 +36935,7 @@ export const NBA_PLAYERS = [
   {
     "name": "Talen Horton-Tucker",
     "teams": [
+      "Chicago Bulls",
       "Los Angeles Lakers",
       "Utah Jazz"
     ],
@@ -32484,6 +36993,8 @@ export const NBA_PLAYERS = [
       "Houston Rockets"
     ],
     "college": [
+      "Cincinnati",
+      "LSU",
       "Louisiana State"
     ],
     "numbers": [
@@ -32548,6 +37059,8 @@ export const NBA_PLAYERS = [
       "Atlanta Hawks",
       "Brooklyn Nets",
       "Cleveland Cavaliers",
+      "Los Angeles Lakers",
+      "Milwaukee Bucks",
       "Minnesota Timberwolves"
     ],
     "college": [
@@ -32571,6 +37084,20 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Taylor Hendricks",
+    "teams": [
+      "Memphis Grizzlies",
+      "Utah Jazz"
+    ],
+    "college": [
+      "Central Florida"
+    ],
+    "numbers": [
+      0,
+      22
+    ]
+  },
+  {
     "name": "Tayshaun Prince",
     "teams": [
       "Detroit Pistons",
@@ -32587,8 +37114,23 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Taze Moore",
+    "teams": [
+      "Portland Trail Blazers"
+    ],
+    "college": [
+      "Cal State-Bakersfield",
+      "Houston"
+    ],
+    "numbers": [
+      76
+    ]
+  },
+  {
     "name": "Terance Mann",
     "teams": [
+      "Atlanta Hawks",
+      "BRK",
       "Los Angeles Clippers"
     ],
     "college": [
@@ -32605,7 +37147,8 @@ export const NBA_PLAYERS = [
       "Toronto Raptors"
     ],
     "college": [
-      "Mississippi"
+      "Mississippi",
+      "Ole Miss"
     ],
     "numbers": [
       0,
@@ -32625,6 +37168,18 @@ export const NBA_PLAYERS = [
     "numbers": [
       40,
       44
+    ]
+  },
+  {
+    "name": "Terquavion Smith",
+    "teams": [
+      "Philadelphia 76ers"
+    ],
+    "college": [
+      "NC State"
+    ],
+    "numbers": [
+      23
     ]
   },
   {
@@ -32697,6 +37252,7 @@ export const NBA_PLAYERS = [
     "name": "Terrence Ross",
     "teams": [
       "Orlando Magic",
+      "PHO",
       "Phoenix Suns",
       "Toronto Raptors"
     ],
@@ -32706,6 +37262,20 @@ export const NBA_PLAYERS = [
     "numbers": [
       8,
       31
+    ]
+  },
+  {
+    "name": "Terrence Shannon Jr.",
+    "teams": [
+      "Minnesota Timberwolves"
+    ],
+    "college": [
+      "Illinois",
+      "Texas Tech"
+    ],
+    "numbers": [
+      0,
+      1
     ]
   },
   {
@@ -32800,7 +37370,8 @@ export const NBA_PLAYERS = [
     "name": "Terry Rozier",
     "teams": [
       "Boston Celtics",
-      "Charlotte Hornets"
+      "Charlotte Hornets",
+      "Miami Heat"
     ],
     "college": [
       "Louisville"
@@ -32814,10 +37385,12 @@ export const NBA_PLAYERS = [
     "name": "Terry Taylor",
     "teams": [
       "Chicago Bulls",
-      "Indiana Pacers"
+      "Indiana Pacers",
+      "Sacramento Kings"
     ],
     "college": [
-      "Austin Peay"
+      "Austin Peay",
+      "Austin Peay State University"
     ],
     "numbers": [
       21,
@@ -32847,6 +37420,7 @@ export const NBA_PLAYERS = [
       "Brooklyn Nets",
       "Chicago Bulls",
       "Indiana Pacers",
+      "PHO",
       "Philadelphia 76ers",
       "Toronto Raptors"
     ],
@@ -32887,7 +37461,8 @@ export const NBA_PLAYERS = [
       "New York Knicks"
     ],
     "college": [
-      "North Carolina"
+      "North Carolina",
+      "UNC"
     ],
     "numbers": [
       1,
@@ -32930,8 +37505,11 @@ export const NBA_PLAYERS = [
   {
     "name": "Thomas Bryant",
     "teams": [
+      "Cleveland Cavaliers",
       "Denver Nuggets",
+      "Indiana Pacers",
       "Los Angeles Lakers",
+      "Miami Heat",
       "Washington Wizards"
     ],
     "college": [
@@ -32988,6 +37566,16 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Thomas Sorber",
+    "teams": [
+      "Oklahoma City Thunder"
+    ],
+    "college": [
+      "Georgetown"
+    ],
+    "numbers": []
+  },
+  {
     "name": "Thomas Welsh",
     "teams": [
       "Denver Nuggets"
@@ -33025,6 +37613,18 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Th\u00e9o Maledon",
+    "teams": [
+      "Charlotte Hornets",
+      "PHO"
+    ],
+    "college": [],
+    "numbers": [
+      11,
+      12
+    ]
+  },
+  {
     "name": "Tiago Splitter",
     "teams": [
       "Atlanta Hawks",
@@ -33042,6 +37642,14 @@ export const NBA_PLAYERS = [
     "name": "Tibor Pleiss",
     "teams": [
       "Utah Jazz"
+    ],
+    "college": [],
+    "numbers": []
+  },
+  {
+    "name": "Tidjane Sala\u00fcn",
+    "teams": [
+      "Charlotte Hornets"
     ],
     "college": [],
     "numbers": []
@@ -33131,6 +37739,8 @@ export const NBA_PLAYERS = [
     "teams": [
       "Atlanta Hawks",
       "Dallas Mavericks",
+      "Denver Nuggets",
+      "Detroit Pistons",
       "New York Knicks"
     ],
     "college": [
@@ -33246,6 +37856,19 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Timmy Allen",
+    "teams": [
+      "Memphis Grizzlies"
+    ],
+    "college": [
+      "Texas",
+      "Utah"
+    ],
+    "numbers": [
+      0
+    ]
+  },
+  {
     "name": "Timofey Mozgov",
     "teams": [
       "Brooklyn Nets",
@@ -33358,6 +37981,19 @@ export const NBA_PLAYERS = [
     "numbers": [
       11,
       50
+    ]
+  },
+  {
+    "name": "Tolu Smith",
+    "teams": [
+      "Detroit Pistons"
+    ],
+    "college": [
+      "Mississippi State",
+      "Western Kentucky"
+    ],
+    "numbers": [
+      35
     ]
   },
   {
@@ -33494,12 +38130,15 @@ export const NBA_PLAYERS = [
   {
     "name": "Tony Bradley",
     "teams": [
+      "Atlanta Hawks",
       "Chicago Bulls",
+      "Indiana Pacers",
       "Oklahoma City Thunder",
       "Utah Jazz"
     ],
     "college": [
-      "North Carolina"
+      "North Carolina",
+      "UNC"
     ],
     "numbers": [
       11,
@@ -33680,17 +38319,59 @@ export const NBA_PLAYERS = [
   {
     "name": "Torrey Craig",
     "teams": [
+      "Boston Celtics",
+      "Chicago Bulls",
       "Denver Nuggets",
+      "PHO",
       "Phoenix Suns"
     ],
     "college": [
-      "South Carolina Upstate"
+      "South Carolina Upstate",
+      "USC Upstate"
     ],
     "numbers": [
       0,
       3,
       12,
       13
+    ]
+  },
+  {
+    "name": "Tosan Evbuomwan",
+    "teams": [
+      "BRK",
+      "Detroit Pistons",
+      "Memphis Grizzlies"
+    ],
+    "college": [
+      "Princeton"
+    ],
+    "numbers": [
+      12,
+      18
+    ]
+  },
+  {
+    "name": "Tosan Evbuomwan (TW)",
+    "teams": [
+      "Charlotte Hornets"
+    ],
+    "college": [
+      "Princeton"
+    ],
+    "numbers": []
+  },
+  {
+    "name": "Toumani Camara",
+    "teams": [
+      "Portland Trail Blazers"
+    ],
+    "college": [
+      "Dayton",
+      "Georgia"
+    ],
+    "numbers": [
+      33
     ]
   },
   {
@@ -33756,7 +38437,8 @@ export const NBA_PLAYERS = [
   {
     "name": "Trae Young",
     "teams": [
-      "Atlanta Hawks"
+      "Atlanta Hawks",
+      "Washington Wizards"
     ],
     "college": [
       "Oklahoma"
@@ -33893,6 +38575,19 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Trayce Jackson-Davis",
+    "teams": [
+      "Golden State Warriors",
+      "Toronto Raptors"
+    ],
+    "college": [
+      "Indiana"
+    ],
+    "numbers": [
+      32
+    ]
+  },
+  {
     "name": "Trayvon Palmer",
     "teams": [
       "Detroit Pistons"
@@ -33905,8 +38600,19 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Tre Johnson",
+    "teams": [
+      "Washington Wizards"
+    ],
+    "college": [
+      "Texas"
+    ],
+    "numbers": []
+  },
+  {
     "name": "Tre Jones",
     "teams": [
+      "Chicago Bulls",
       "San Antonio Spurs"
     ],
     "college": [
@@ -33920,6 +38626,7 @@ export const NBA_PLAYERS = [
   {
     "name": "Tre Mann",
     "teams": [
+      "Charlotte Hornets",
       "Oklahoma City Thunder"
     ],
     "college": [
@@ -33962,9 +38669,12 @@ export const NBA_PLAYERS = [
   {
     "name": "Trendon Watford",
     "teams": [
+      "BRK",
+      "Philadelphia 76ers",
       "Portland Trail Blazers"
     ],
     "college": [
+      "LSU",
       "Louisiana State"
     ],
     "numbers": [
@@ -34004,12 +38714,25 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Trentyn Flowers",
+    "teams": [
+      "Los Angeles Clippers"
+    ],
+    "college": [],
+    "numbers": [
+      9
+    ]
+  },
+  {
     "name": "Trevelin Queen",
     "teams": [
       "Houston Rockets",
-      "Indiana Pacers"
+      "Indiana Pacers",
+      "Orlando Magic"
     ],
     "college": [
+      "College of Marin",
+      "New Mexico Military Institute",
       "New Mexico State"
     ],
     "numbers": [
@@ -34101,7 +38824,8 @@ export const NBA_PLAYERS = [
       "Houston Rockets"
     ],
     "college": [
-      "Northwest Missouri State"
+      "Northwest Missouri State",
+      "Northwest Missouri State University"
     ],
     "numbers": [
       12
@@ -34118,6 +38842,18 @@ export const NBA_PLAYERS = [
     "numbers": []
   },
   {
+    "name": "Trevor Keels (TW)",
+    "teams": [
+      "Miami Heat"
+    ],
+    "college": [
+      "Duke"
+    ],
+    "numbers": [
+      8
+    ]
+  },
+  {
     "name": "Trevor Winter",
     "teams": [
       "Minnesota Timberwolves"
@@ -34127,6 +38863,30 @@ export const NBA_PLAYERS = [
     ],
     "numbers": [
       50
+    ]
+  },
+  {
+    "name": "Trey Alexander",
+    "teams": [
+      "Denver Nuggets"
+    ],
+    "college": [
+      "Creighton"
+    ],
+    "numbers": [
+      23
+    ]
+  },
+  {
+    "name": "Trey Alexander (TW)",
+    "teams": [
+      "New Orleans Pelicans"
+    ],
+    "college": [
+      "Creighton"
+    ],
+    "numbers": [
+      23
     ]
   },
   {
@@ -34157,6 +38917,36 @@ export const NBA_PLAYERS = [
     ],
     "numbers": [
       2
+    ]
+  },
+  {
+    "name": "Trey Jemison",
+    "teams": [
+      "Los Angeles Lakers",
+      "Memphis Grizzlies",
+      "New Orleans Pelicans",
+      "Washington Wizards"
+    ],
+    "college": [
+      "Clemson",
+      "UAB"
+    ],
+    "numbers": [
+      50,
+      55
+    ]
+  },
+  {
+    "name": "Trey Jemison (TW)",
+    "teams": [
+      "New York Knicks"
+    ],
+    "college": [
+      "Clemson",
+      "UAB"
+    ],
+    "numbers": [
+      50
     ]
   },
   {
@@ -34210,6 +39000,7 @@ export const NBA_PLAYERS = [
       "New Orleans Pelicans"
     ],
     "college": [
+      "Rice University",
       "Virginia"
     ],
     "numbers": [
@@ -34229,11 +39020,38 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Tristan Da Silva",
+    "teams": [
+      "Orlando Magic"
+    ],
+    "college": [
+      "Colorado"
+    ],
+    "numbers": [
+      23
+    ]
+  },
+  {
+    "name": "Tristan Enaruna (TW)",
+    "teams": [
+      "Cleveland Cavaliers"
+    ],
+    "college": [
+      "Cleveland State University",
+      "Iowa State",
+      "Kansas"
+    ],
+    "numbers": [
+      21
+    ]
+  },
+  {
     "name": "Tristan Thompson",
     "teams": [
       "Boston Celtics",
       "Chicago Bulls",
-      "Cleveland Cavaliers"
+      "Cleveland Cavaliers",
+      "Los Angeles Lakers"
     ],
     "college": [
       "Texas",
@@ -34245,6 +39063,42 @@ export const NBA_PLAYERS = [
       11,
       13
     ]
+  },
+  {
+    "name": "Tristan Vukcevic",
+    "teams": [
+      "Washington Wizards"
+    ],
+    "college": [],
+    "numbers": [
+      0
+    ]
+  },
+  {
+    "name": "Tristen Newton",
+    "teams": [
+      "Indiana Pacers",
+      "Minnesota Timberwolves"
+    ],
+    "college": [
+      "East Carolina University",
+      "UConn"
+    ],
+    "numbers": [
+      4,
+      13
+    ]
+  },
+  {
+    "name": "Tristen Newton (TW)",
+    "teams": [
+      "Houston Rockets"
+    ],
+    "college": [
+      "East Carolina University",
+      "UConn"
+    ],
+    "numbers": []
   },
   {
     "name": "Troy Bell",
@@ -34262,7 +39116,9 @@ export const NBA_PLAYERS = [
     "name": "Troy Brown Jr.",
     "teams": [
       "Chicago Bulls",
+      "Detroit Pistons",
       "Los Angeles Lakers",
+      "Minnesota Timberwolves",
       "Washington Wizards"
     ],
     "college": [
@@ -34364,7 +39220,9 @@ export const NBA_PLAYERS = [
   {
     "name": "Ty Jerome",
     "teams": [
+      "Cleveland Cavaliers",
       "Golden State Warriors",
+      "Memphis Grizzlies",
       "Oklahoma City Thunder",
       "Phoenix Suns"
     ],
@@ -34408,7 +39266,9 @@ export const NBA_PLAYERS = [
   {
     "name": "TyTy Washington Jr.",
     "teams": [
-      "Houston Rockets"
+      "Houston Rockets",
+      "Milwaukee Bucks",
+      "PHO"
     ],
     "college": [
       "Kentucky"
@@ -34417,6 +39277,18 @@ export const NBA_PLAYERS = [
       0,
       14,
       23
+    ]
+  },
+  {
+    "name": "TyTy Washington Jr. (TW)",
+    "teams": [
+      "Los Angeles Clippers"
+    ],
+    "college": [
+      "Kentucky"
+    ],
+    "numbers": [
+      15
     ]
   },
   {
@@ -34572,6 +39444,19 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Tyler Kolek",
+    "teams": [
+      "New York Knicks"
+    ],
+    "college": [
+      "George Mason",
+      "Marquette"
+    ],
+    "numbers": [
+      13
+    ]
+  },
+  {
     "name": "Tyler Lydon",
     "teams": [
       "Denver Nuggets"
@@ -34582,6 +39467,24 @@ export const NBA_PLAYERS = [
     "numbers": [
       20
     ]
+  },
+  {
+    "name": "Tyler Smith",
+    "teams": [
+      "Milwaukee Bucks"
+    ],
+    "college": [],
+    "numbers": [
+      21
+    ]
+  },
+  {
+    "name": "Tyler Smith (TW)",
+    "teams": [
+      "Dallas Mavericks"
+    ],
+    "college": [],
+    "numbers": []
   },
   {
     "name": "Tyler Ulis",
@@ -34663,14 +39566,30 @@ export const NBA_PLAYERS = [
   {
     "name": "Tyrese Martin",
     "teams": [
-      "Atlanta Hawks"
+      "Atlanta Hawks",
+      "BRK"
     ],
     "college": [
-      "Connecticut"
+      "Connecticut",
+      "Rhode Island",
+      "UConn"
     ],
     "numbers": [
       13,
       22
+    ]
+  },
+  {
+    "name": "Tyrese Martin (TW)",
+    "teams": [
+      "Philadelphia 76ers"
+    ],
+    "college": [
+      "Rhode Island",
+      "UConn"
+    ],
+    "numbers": [
+      23
     ]
   },
   {
@@ -34683,6 +39602,18 @@ export const NBA_PLAYERS = [
     ],
     "numbers": [
       0
+    ]
+  },
+  {
+    "name": "Tyrese Proctor",
+    "teams": [
+      "Cleveland Cavaliers"
+    ],
+    "college": [
+      "Duke"
+    ],
+    "numbers": [
+      24
     ]
   },
   {
@@ -34814,6 +39745,30 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Tyson Etienne",
+    "teams": [
+      "BRK"
+    ],
+    "college": [
+      "Wichita State"
+    ],
+    "numbers": [
+      10
+    ]
+  },
+  {
+    "name": "Tyson Etienne (TW)",
+    "teams": [
+      "BRK"
+    ],
+    "college": [
+      "Wichita State"
+    ],
+    "numbers": [
+      10
+    ]
+  },
+  {
     "name": "Tyson Wheeler",
     "teams": [
       "Denver Nuggets"
@@ -34844,8 +39799,11 @@ export const NBA_PLAYERS = [
   {
     "name": "Tyus Jones",
     "teams": [
+      "Denver Nuggets",
       "Memphis Grizzlies",
-      "Minnesota Timberwolves"
+      "Minnesota Timberwolves",
+      "PHO",
+      "Washington Wizards"
     ],
     "college": [
       "Duke"
@@ -34859,6 +39817,7 @@ export const NBA_PLAYERS = [
   {
     "name": "Udoka Azubuike",
     "teams": [
+      "PHO",
       "Utah Jazz"
     ],
     "college": [
@@ -34882,6 +39841,16 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Ulrich Chomche",
+    "teams": [
+      "Toronto Raptors"
+    ],
+    "college": [],
+    "numbers": [
+      22
+    ]
+  },
+  {
     "name": "Uros Slokar",
     "teams": [
       "Toronto Raptors"
@@ -34892,12 +39861,25 @@ export const NBA_PLAYERS = [
   {
     "name": "Usman Garuba",
     "teams": [
+      "Golden State Warriors",
       "Houston Rockets"
     ],
     "college": [],
     "numbers": [
       12,
       16
+    ]
+  },
+  {
+    "name": "VJ Edgecombe",
+    "teams": [
+      "Philadelphia 76ers"
+    ],
+    "college": [
+      "Baylor"
+    ],
+    "numbers": [
+      77
     ]
   },
   {
@@ -34913,6 +39895,19 @@ export const NBA_PLAYERS = [
       12,
       13,
       17
+    ]
+  },
+  {
+    "name": "Vasilije Mici\u0107",
+    "teams": [
+      "Charlotte Hornets",
+      "Oklahoma City Thunder",
+      "PHO"
+    ],
+    "college": [],
+    "numbers": [
+      18,
+      29
     ]
   },
   {
@@ -35033,6 +40028,16 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Victor Wembanyama",
+    "teams": [
+      "San Antonio Spurs"
+    ],
+    "college": [],
+    "numbers": [
+      1
+    ]
+  },
+  {
     "name": "Viktor Khryapa",
     "teams": [
       "Chicago Bulls",
@@ -35087,6 +40092,7 @@ export const NBA_PLAYERS = [
       "Memphis Grizzlies"
     ],
     "college": [
+      "VCU",
       "Virginia Commonwealth"
     ],
     "numbers": [
@@ -35243,12 +40249,36 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Vladislav Goldin (TW)",
+    "teams": [
+      "Miami Heat"
+    ],
+    "college": [
+      "Florida Atlantic University",
+      "Michigan",
+      "Texas Tech"
+    ],
+    "numbers": [
+      50
+    ]
+  },
+  {
     "name": "Vlatko Cancar",
     "teams": [
       "Denver Nuggets"
     ],
     "college": [],
     "numbers": []
+  },
+  {
+    "name": "Vlatko \u010can\u010dar",
+    "teams": [
+      "Denver Nuggets"
+    ],
+    "college": [],
+    "numbers": [
+      31
+    ]
   },
   {
     "name": "Von Wafer",
@@ -35306,6 +40336,17 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "V\u00edt Krej\u010d\u00ed",
+    "teams": [
+      "Atlanta Hawks",
+      "Portland Trail Blazers"
+    ],
+    "college": [],
+    "numbers": [
+      27
+    ]
+  },
+  {
     "name": "Wade Baldwin IV",
     "teams": [
       "Memphis Grizzlies",
@@ -35322,7 +40363,8 @@ export const NBA_PLAYERS = [
       "Utah Jazz"
     ],
     "college": [
-      "Auburn"
+      "Auburn",
+      "UNC"
     ],
     "numbers": [
       24
@@ -35381,6 +40423,19 @@ export const NBA_PLAYERS = [
     "numbers": [
       42,
       43
+    ]
+  },
+  {
+    "name": "Walter Clayton",
+    "teams": [
+      "Memphis Grizzlies"
+    ],
+    "college": [
+      "Florida",
+      "Iona College"
+    ],
+    "numbers": [
+      4
     ]
   },
   {
@@ -35526,6 +40581,8 @@ export const NBA_PLAYERS = [
   {
     "name": "Wendell Moore Jr.",
     "teams": [
+      "Charlotte Hornets",
+      "Detroit Pistons",
       "Minnesota Timberwolves"
     ],
     "college": [
@@ -35537,9 +40594,22 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Wendell Moore Jr. (TW)",
+    "teams": [
+      "Detroit Pistons"
+    ],
+    "college": [
+      "Duke"
+    ],
+    "numbers": [
+      14
+    ]
+  },
+  {
     "name": "Wenyen Gabriel",
     "teams": [
       "Los Angeles Lakers",
+      "Memphis Grizzlies",
       "New Orleans Pelicans",
       "Portland Trail Blazers"
     ],
@@ -35590,6 +40660,7 @@ export const NBA_PLAYERS = [
   {
     "name": "Wesley Matthews",
     "teams": [
+      "Atlanta Hawks",
       "Dallas Mavericks",
       "Indiana Pacers",
       "Los Angeles Lakers",
@@ -35631,7 +40702,8 @@ export const NBA_PLAYERS = [
     "teams": [
       "Denver Nuggets",
       "Portland Trail Blazers",
-      "Toronto Raptors"
+      "Toronto Raptors",
+      "Washington Wizards"
     ],
     "college": [
       "Memphis"
@@ -35721,6 +40793,29 @@ export const NBA_PLAYERS = [
       41,
       55
     ]
+  },
+  {
+    "name": "Will Richard",
+    "teams": [
+      "Golden State Warriors"
+    ],
+    "college": [
+      "Belmont",
+      "Florida"
+    ],
+    "numbers": [
+      3
+    ]
+  },
+  {
+    "name": "Will Riley",
+    "teams": [
+      "Washington Wizards"
+    ],
+    "college": [
+      "Illinois"
+    ],
+    "numbers": []
   },
   {
     "name": "Will Solomon",
@@ -35875,6 +40970,17 @@ export const NBA_PLAYERS = [
     "numbers": []
   },
   {
+    "name": "Willy Hernang\u00f3mez",
+    "teams": [
+      "New Orleans Pelicans"
+    ],
+    "college": [],
+    "numbers": [
+      9,
+      14
+    ]
+  },
+  {
     "name": "Wilson Chandler",
     "teams": [
       "Brooklyn Nets",
@@ -35896,7 +41002,8 @@ export const NBA_PLAYERS = [
       "Washington Wizards"
     ],
     "college": [
-      "Winthrop"
+      "Winthrop",
+      "Winthrop University"
     ],
     "numbers": [
       12
@@ -35936,7 +41043,9 @@ export const NBA_PLAYERS = [
       "Los Angeles Clippers"
     ],
     "college": [
-      "Morehead State"
+      "Morehead State",
+      "Morehead State University",
+      "Northwest Florida State College"
     ],
     "numbers": [
       15,
@@ -36010,6 +41119,8 @@ export const NBA_PLAYERS = [
   {
     "name": "Xavier Tillman Sr.",
     "teams": [
+      "Boston Celtics",
+      "Charlotte Hornets",
       "Memphis Grizzlies"
     ],
     "college": [
@@ -36032,6 +41143,27 @@ export const NBA_PLAYERS = [
     "numbers": [
       5,
       9
+    ]
+  },
+  {
+    "name": "Yang Hansen",
+    "teams": [
+      "Portland Trail Blazers"
+    ],
+    "college": [],
+    "numbers": []
+  },
+  {
+    "name": "Yanic Konan Niederh\u00e4user",
+    "teams": [
+      "Los Angeles Clippers"
+    ],
+    "college": [
+      "Northern Illinois",
+      "Penn State"
+    ],
+    "numbers": [
+      14
     ]
   },
   {
@@ -36108,6 +41240,38 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Yuki Kawamura",
+    "teams": [
+      "Memphis Grizzlies"
+    ],
+    "college": [],
+    "numbers": [
+      17
+    ]
+  },
+  {
+    "name": "Yuki Kawamura (TW)",
+    "teams": [
+      "Chicago Bulls"
+    ],
+    "college": [],
+    "numbers": [
+      8
+    ]
+  },
+  {
+    "name": "Yuri Collins",
+    "teams": [
+      "Golden State Warriors"
+    ],
+    "college": [
+      "Saint Louis"
+    ],
+    "numbers": [
+      99
+    ]
+  },
+  {
     "name": "Yuta Tabuse",
     "teams": [
       "Phoenix Suns"
@@ -36122,8 +41286,10 @@ export const NBA_PLAYERS = [
   {
     "name": "Yuta Watanabe",
     "teams": [
+      "BRK",
       "Brooklyn Nets",
       "Memphis Grizzlies",
+      "PHO",
       "Toronto Raptors"
     ],
     "college": [
@@ -36132,6 +41298,18 @@ export const NBA_PLAYERS = [
     "numbers": [
       12,
       18
+    ]
+  },
+  {
+    "name": "Yves Missi",
+    "teams": [
+      "New Orleans Pelicans"
+    ],
+    "college": [
+      "Baylor"
+    ],
+    "numbers": [
+      21
     ]
   },
   {
@@ -36159,8 +41337,19 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Zaccharie Risacher",
+    "teams": [
+      "Atlanta Hawks"
+    ],
+    "college": [],
+    "numbers": [
+      10
+    ]
+  },
+  {
     "name": "Zach Collins",
     "teams": [
+      "Chicago Bulls",
       "Portland Trail Blazers",
       "San Antonio Spurs"
     ],
@@ -36174,10 +41363,23 @@ export const NBA_PLAYERS = [
     ]
   },
   {
+    "name": "Zach Edey",
+    "teams": [
+      "Memphis Grizzlies"
+    ],
+    "college": [
+      "Purdue"
+    ],
+    "numbers": [
+      14
+    ]
+  },
+  {
     "name": "Zach LaVine",
     "teams": [
       "Chicago Bulls",
-      "Minnesota Timberwolves"
+      "Minnesota Timberwolves",
+      "Sacramento Kings"
     ],
     "college": [
       "UCLA"
@@ -36246,6 +41448,7 @@ export const NBA_PLAYERS = [
   {
     "name": "Zavier Simpson",
     "teams": [
+      "Memphis Grizzlies",
       "Oklahoma City Thunder"
     ],
     "college": [
@@ -36338,6 +41541,7 @@ export const NBA_PLAYERS = [
   {
     "name": "Ziaire Williams",
     "teams": [
+      "BRK",
       "Memphis Grizzlies"
     ],
     "college": [
@@ -36400,6 +41604,34 @@ export const NBA_PLAYERS = [
     "numbers": [
       6,
       45
+    ]
+  },
+  {
+    "name": "Zyon Pullin",
+    "teams": [
+      "Memphis Grizzlies"
+    ],
+    "college": [
+      "Florida",
+      "Riverside",
+      "University of California"
+    ],
+    "numbers": [
+      2
+    ]
+  },
+  {
+    "name": "Zyon Pullin (TW)",
+    "teams": [
+      "Minnesota Timberwolves"
+    ],
+    "college": [
+      "Florida",
+      "Riverside",
+      "University of California"
+    ],
+    "numbers": [
+      15
     ]
   }
 ];
