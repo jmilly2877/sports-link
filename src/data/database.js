@@ -4,7 +4,8 @@
 //  Fields: name, teams[], college (null if none), numbers[], league
 // ============================================================
 
-export const PLAYERS = [
+import { NBA_PLAYERS } from "./nba_players.js";
+const MANUAL_PLAYERS = [
   // ======================== NFL — QUARTERBACKS ========================
   { name: "Tom Brady", teams: ["New England Patriots", "Tampa Bay Buccaneers"], college: "Michigan", numbers: [12], league: "NFL" },
   { name: "Peyton Manning", teams: ["Indianapolis Colts", "Denver Broncos"], college: "Tennessee", numbers: [18], league: "NFL" },
@@ -846,3 +847,4 @@ export const COLLEGE_ALIASES = {
   "alabama a&m": "Alabama A&M",
   "alabama am": "Alabama A&M",
 };
+export const PLAYERS = [...MANUAL_PLAYERS, ...NBA_PLAYERS];
