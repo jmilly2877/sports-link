@@ -16183,23 +16183,23 @@ season_end_year,team_abbreviation,player_name,number
 2026,NYK,Jeremy Sochan,20
 2026,NYK,Trey Jemison (TW),50
 2026,NYK,Dillon Jones (TW),1
-2026,OKC,Cason Wallace,22.0
-2026,OKC,Isaiah Joe,11.0
-2026,OKC,Chet Holmgren,7.0
-2026,OKC,Luguentz Dort,5.0
-2026,OKC,Shai Gilgeous-Alexander,2.0
-2026,OKC,Aaron Wiggins,21.0
-2026,OKC,Jaylin Williams,6.0
+2026,OKC,Cason Wallace,22
+2026,OKC,Isaiah Joe,11
+2026,OKC,Chet Holmgren,7
+2026,OKC,Luguentz Dort,5
+2026,OKC,Shai Gilgeous-Alexander,2
+2026,OKC,Aaron Wiggins,21
+2026,OKC,Jaylin Williams,6
 2026,OKC,Ajay Mitchell,25.0
-2026,OKC,Kenrich Williams,34.0
-2026,OKC,Alex Caruso,9.0
-2026,OKC,Isaiah Hartenstein,55.0
-2026,OKC,Branden Carlson (TW),15.0
-2026,OKC,Brooks Barnhizer (TW),23.0
-2026,OKC,Jalen Williams,8.0
-2026,OKC,Jared McCain,3.0
-2026,OKC,Nikola Topić,44.0
-2026,OKC,Payton Sandfort (TW),14.0
+2026,OKC,Kenrich Williams,34
+2026,OKC,Alex Caruso,9
+2026,OKC,Isaiah Hartenstein,55
+2026,OKC,Branden Carlson (TW),15
+2026,OKC,Brooks Barnhizer (TW),23
+2026,OKC,Jalen Williams,8
+2026,OKC,Jared McCain,3
+2026,OKC,Nikola Topić,44
+2026,OKC,Payton Sandfort (TW),14
 2026,OKC,Thomas Sorber,nan
 2026,ORL,Desmond Bane,3
 2026,ORL,Wendell Carter Jr.,34
@@ -16253,23 +16253,23 @@ season_end_year,team_abbreviation,player_name,number
 2026,PHO,Koby Brea (TW),14
 2026,PHO,Haywood Highsmith,19
 2026,PHO,CJ Huntley (TW),22
-2026,POR,Toumani Camara,33.0
-2026,POR,Donovan Clingan,23.0
-2026,POR,Sidy Cissoko,91.0
-2026,POR,Deni Avdija,8.0
-2026,POR,Robert Williams,35.0
-2026,POR,Jerami Grant,9.0
-2026,POR,Kris Murray,24.0
-2026,POR,Jrue Holiday,5.0
-2026,POR,Shaedon Sharpe,17.0
-2026,POR,Caleb Love (TW),2.0
-2026,POR,Yang Hansen,16.0
-2026,POR,Blake Wesley,1.0
-2026,POR,Scoot Henderson,0.0
-2026,POR,Matisse Thybulle,4.0
-2026,POR,Vít Krejčí,27.0
-2026,POR,Jayson Kent (TW),29.0
-2026,POR,Chris Youngblood (TW),11.0
+2026,POR,Toumani Camara,33
+2026,POR,Donovan Clingan,23
+2026,POR,Sidy Cissoko,91
+2026,POR,Deni Avdija,8
+2026,POR,Robert Williams,35
+2026,POR,Jerami Grant,9
+2026,POR,Kris Murray,24
+2026,POR,Jrue Holiday,5
+2026,POR,Shaedon Sharpe,17
+2026,POR,Caleb Love (TW),2
+2026,POR,Yang Hansen,16
+2026,POR,Blake Wesley,1
+2026,POR,Scoot Henderson,0
+2026,POR,Matisse Thybulle,4
+2026,POR,Vít Krejčí,27
+2026,POR,Jayson Kent (TW),29
+2026,POR,Chris Youngblood (TW),11
 2026,POR,Damian Lillard,nan
 2026,SAC,DeMar DeRozan,10
 2026,SAC,Nique Clifford,5
@@ -16289,23 +16289,23 @@ season_end_year,team_abbreviation,player_name,number
 2026,SAC,Patrick Baldwin Jr. (TW),23
 2026,SAC,Isaiah Stevens (TW),24
 2026,SAC,De'Andre Hunter,15
-2026,SAS,Keldon Johnson,3.0
-2026,SAS,Julian Champagnie,30.0
-2026,SAS,Harrison Barnes,40.0
-2026,SAS,De'Aaron Fox,4.0
-2026,SAS,Carter Bryant,11.0
+2026,SAS,Keldon Johnson,3
+2026,SAS,Julian Champagnie,30
+2026,SAS,Harrison Barnes,40
+2026,SAS,De'Aaron Fox,4
+2026,SAS,Carter Bryant,11
 2026,SAS,Dylan Harper,2.0
-2026,SAS,Stephon Castle,5.0
+2026,SAS,Stephon Castle,5
 2026,SAS,Luke Kornet,7.0
-2026,SAS,Devin Vassell,24.0
-2026,SAS,Victor Wembanyama,1.0
-2026,SAS,Jordan McLaughlin,0.0
+2026,SAS,Devin Vassell,24
+2026,SAS,Victor Wembanyama,1
+2026,SAS,Jordan McLaughlin,0
 2026,SAS,Kelly Olynyk,8.0
-2026,SAS,Lindy Waters III,43.0
-2026,SAS,Bismack Biyombo,18.0
-2026,SAS,David Jones García (TW),25.0
-2026,SAS,Harrison Ingram (TW),55.0
-2026,SAS,Mason Plumlee,45.0
+2026,SAS,Lindy Waters III,43
+2026,SAS,Bismack Biyombo,18
+2026,SAS,David Jones García (TW),25
+2026,SAS,Harrison Ingram (TW),55
+2026,SAS,Mason Plumlee,45
 2026,SAS,Emanuel Miller (TW),nan
 2026,TOR,Jamal Shead,23
 2026,TOR,Scottie Barnes,4
@@ -16342,21 +16342,21 @@ season_end_year,team_abbreviation,player_name,number
 2026,UTA,Walker Kessler,24
 2026,UTA,Jaren Jackson Jr.,20
 2026,UTA,Hayden Gray,33
-2026,WAS,Bub Carrington,7.0
-2026,WAS,Will Riley,27.0
-2026,WAS,Justin Champagnie,9.0
-2026,WAS,Tre Johnson,12.0
-2026,WAS,Bilal Coulibaly,0.0
-2026,WAS,Anthony Gill,16.0
-2026,WAS,Jamir Watkins,5.0
-2026,WAS,Tristan Vukcevic,0.0
-2026,WAS,Alex Sarr,20.0
-2026,WAS,Kyshawn George,18.0
-2026,WAS,Sharife Cooper (TW),13.0
-2026,WAS,Jaden Hardy,8.0
-2026,WAS,Cam Whitmore,1.0
-2026,WAS,Leaky Black (TW),14.0
-2026,WAS,Julian Reese (TW),15.0
-2026,WAS,Trae Young,3.0
+2026,WAS,Bub Carrington,7
+2026,WAS,Will Riley,27
+2026,WAS,Justin Champagnie,9
+2026,WAS,Tre Johnson,12
+2026,WAS,Bilal Coulibaly,0
+2026,WAS,Anthony Gill,16
+2026,WAS,Jamir Watkins,5
+2026,WAS,Tristan Vukcevic,0
+2026,WAS,Alex Sarr,20
+2026,WAS,Kyshawn George,18
+2026,WAS,Sharife Cooper (TW),13
+2026,WAS,Jaden Hardy,8
+2026,WAS,Cam Whitmore,1
+2026,WAS,Leaky Black (TW),14
+2026,WAS,Julian Reese (TW),15
+2026,WAS,Trae Young,3
 2026,WAS,D'Angelo Russell,nan
 2026,WAS,Anthony Davis,nan
