@@ -3,6 +3,8 @@ NBA_TEAM_MAP = {
     "BOS": "Boston Celtics",
     "BKN": "Brooklyn Nets",
     "CHA": "Charlotte Hornets",
+    "CHO": "Charlotte Hornets",
+    "CHH": "Charlotte Hornets",
     "CHI": "Chicago Bulls",
     "CLE": "Cleveland Cavaliers",
     "DAL": "Dallas Mavericks",
