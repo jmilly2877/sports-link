@@ -5,6 +5,7 @@
 // ============================================================
 
 import { NBA_PLAYERS } from "./nba_players.js";
+import { NFL_PLAYERS } from "./nfl_players.js";
 const MANUAL_PLAYERS = [
   // ======================== NFL — QUARTERBACKS ========================
   { name: "Tom Brady", teams: ["New England Patriots", "Tampa Bay Buccaneers"], college: "Michigan", numbers: [12], league: "NFL" },
@@ -847,4 +848,4 @@ export const COLLEGE_ALIASES = {
   "alabama a&m": "Alabama A&M",
   "alabama am": "Alabama A&M",
 };
-export const PLAYERS = [...MANUAL_PLAYERS, ...NBA_PLAYERS];
+export const PLAYERS = [...MANUAL_PLAYERS, ...NBA_PLAYERS, ...NFL_PLAYERS];
