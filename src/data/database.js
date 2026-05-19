@@ -846,8 +846,41 @@ export const COLLEGE_ALIASES = {
   "beavers": "Oregon State",
   "western colorado": "Western Colorado",
   "south carolina state": "South Carolina State",
-  "alabama a&m": "Alabama A&M",
-  "alabama am": "Alabama A&M",
+  "florida state": "Florida State University",
+"fsu": "Florida State University",
+
+"usc": "University of Southern California",
+"southern cal": "University of Southern California",
+
+"lsu": "Louisiana State University",
+"louisiana state": "Louisiana State University",
+
+"ole miss": "University of Mississippi",
+"mississippi": "University of Mississippi",
+
+"texas": "University of Texas at Austin",
+"ut": "University of Texas at Austin",
+
+"miami": "University of Miami",
+"miami fl": "University of Miami",
+"the u": "University of Miami",
+
+"cal": "University of California, Berkeley",
+"california": "University of California, Berkeley",
+
+"unc": "University of North Carolina",
+"north carolina": "University of North Carolina",
+
+"uva": "University of Virginia",
+"virginia": "University of Virginia",
+
+"uconn": "University of Connecticut",
+"connecticut": "University of Connecticut",
+
+"penn state": "Pennsylvania State University",
+"psu": "Pennsylvania State University", 
+"alabama a&m": "Alabama A&M",
+"alabama am": "Alabama A&M" ,
 }
 
 export const PLAYERS = [...MANUAL_PLAYERS, ...NBA_PLAYERS, ...NFL_PLAYERS, ...MLB_PLAYERS];
