@@ -7,3 +7,9 @@ src/data/raw/*.csv
 src/data/raw/mlb/
 src/data/raw/__pycache__/
 *.pyc
+# Raw/generated sports data - keep local only
+src/data/raw/*.csv
+src/data/raw/mlb/*.csv
+src/data/raw/__pycache__/
+src/data/raw/mlb/__pycache__/
+*.pyc
