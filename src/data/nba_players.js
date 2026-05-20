@@ -9,7 +9,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Oregon State"
     ],
-    "numbers": []
+    "numbers": [
+      45
+    ]
   },
   {
     "name": "A.J. Bramlett",
@@ -19,7 +21,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Arizona"
     ],
-    "numbers": []
+    "numbers": [
+      47
+    ]
   },
   {
     "name": "A.J. Guyton",
@@ -30,7 +34,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Indiana"
     ],
-    "numbers": []
+    "numbers": [
+      11
+    ]
   },
   {
     "name": "A.J. Lawson",
@@ -40,7 +46,10 @@ export const NBA_PLAYERS = [
     "college": [
       "South Carolina"
     ],
-    "numbers": []
+    "numbers": [
+      0,
+      9
+    ]
   },
   {
     "name": "AJ Green",
@@ -60,7 +69,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Duke"
     ],
-    "numbers": []
+    "numbers": [
+      14
+    ]
   },
   {
     "name": "AJ Hammons",
@@ -98,7 +109,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Oregon"
     ],
-    "numbers": []
+    "numbers": [
+      0,
+      3,
+      30
+    ]
   },
   {
     "name": "Aaron Gordon",
@@ -111,6 +126,7 @@ export const NBA_PLAYERS = [
     ],
     "numbers": [
       0,
+      32,
       50
     ]
   },
@@ -125,7 +141,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Pittsburgh"
     ],
-    "numbers": []
+    "numbers": [
+      33,
+      34
+    ]
   },
   {
     "name": "Aaron Harrison",
@@ -136,7 +155,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Kentucky"
     ],
-    "numbers": []
+    "numbers": [
+      9
+    ]
   },
   {
     "name": "Aaron Henry",
@@ -161,6 +182,7 @@ export const NBA_PLAYERS = [
       "UCLA"
     ],
     "numbers": [
+      0,
       3,
       4
     ]
@@ -171,7 +193,9 @@ export const NBA_PLAYERS = [
       "Houston Rockets"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      5
+    ]
   },
   {
     "name": "Aaron McKie",
@@ -183,7 +207,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Temple"
     ],
-    "numbers": []
+    "numbers": [
+      2,
+      8,
+      23
+    ]
   },
   {
     "name": "Aaron Miles",
@@ -193,7 +221,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Kansas"
     ],
-    "numbers": []
+    "numbers": [
+      0
+    ]
   },
   {
     "name": "Aaron Nesmith",
@@ -205,6 +235,7 @@ export const NBA_PLAYERS = [
       "Vanderbilt"
     ],
     "numbers": [
+      23,
       26
     ]
   },
@@ -234,7 +265,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Xavier"
     ],
-    "numbers": []
+    "numbers": [
+      15,
+      34,
+      44,
+      55
+    ]
   },
   {
     "name": "Abdel Nader",
@@ -247,7 +283,8 @@ export const NBA_PLAYERS = [
       "Iowa State"
     ],
     "numbers": [
-      11
+      11,
+      28
     ]
   },
   {
@@ -258,7 +295,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Iowa"
     ],
-    "numbers": []
+    "numbers": [
+      55
+    ]
   },
   {
     "name": "Acie Law",
@@ -270,7 +309,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Texas A&M"
     ],
-    "numbers": []
+    "numbers": [
+      0,
+      2,
+      4
+    ]
   },
   {
     "name": "Adam Harrington",
@@ -280,7 +323,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Auburn"
     ],
-    "numbers": []
+    "numbers": [
+      21
+    ]
   },
   {
     "name": "Adam Keefe",
@@ -291,7 +336,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Stanford"
     ],
-    "numbers": []
+    "numbers": [
+      31,
+      32
+    ]
   },
   {
     "name": "Adam Mokoka",
@@ -312,7 +360,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Gonzaga"
     ],
-    "numbers": []
+    "numbers": [
+      6
+    ]
   },
   {
     "name": "Ade Murkey",
@@ -336,6 +386,7 @@ export const NBA_PLAYERS = [
       "Tennessee"
     ],
     "numbers": [
+      1,
       25
     ]
   },
@@ -348,7 +399,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Colgate"
     ],
-    "numbers": []
+    "numbers": [
+      30,
+      31
+    ]
   },
   {
     "name": "Adonis Jordan",
@@ -358,7 +412,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Kansas"
     ],
-    "numbers": []
+    "numbers": [
+      11
+    ]
   },
   {
     "name": "Adonis Thomas",
@@ -368,7 +424,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Memphis"
     ],
-    "numbers": []
+    "numbers": [
+      7,
+      8
+    ]
   },
   {
     "name": "Adreian Payne",
@@ -379,7 +438,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Michigan State"
     ],
-    "numbers": []
+    "numbers": [
+      3,
+      33
+    ]
   },
   {
     "name": "Adrian Caldwell",
@@ -390,7 +452,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Lamar"
     ],
-    "numbers": []
+    "numbers": [
+      45,
+      50,
+      51
+    ]
   },
   {
     "name": "Adrian Griffin",
@@ -404,7 +470,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Seton Hall"
     ],
-    "numbers": []
+    "numbers": [
+      7,
+      44
+    ]
   },
   {
     "name": "Ahmad Caver",
@@ -430,7 +499,12 @@ export const NBA_PLAYERS = [
       "Washington Wizards"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      3,
+      7,
+      25,
+      32
+    ]
   },
   {
     "name": "Al Horford",
@@ -443,6 +517,8 @@ export const NBA_PLAYERS = [
       "Florida"
     ],
     "numbers": [
+      15,
+      20,
       42
     ]
   },
@@ -456,7 +532,10 @@ export const NBA_PLAYERS = [
       "Utah Jazz"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      7,
+      25
+    ]
   },
   {
     "name": "Al Thornton",
@@ -468,7 +547,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Florida State"
     ],
-    "numbers": []
+    "numbers": [
+      12,
+      14,
+      23
+    ]
   },
   {
     "name": "Al-Farouq Aminu",
@@ -485,8 +568,12 @@ export const NBA_PLAYERS = [
       "Wake Forest"
     ],
     "numbers": [
+      0,
       2,
-      5
+      3,
+      5,
+      7,
+      8
     ]
   },
   {
@@ -501,7 +588,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Michigan State"
     ],
-    "numbers": []
+    "numbers": [
+      6,
+      9
+    ]
   },
   {
     "name": "Alan Henderson",
@@ -514,7 +604,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Indiana"
     ],
-    "numbers": []
+    "numbers": [
+      44,
+      50
+    ]
   },
   {
     "name": "Alan Williams",
@@ -526,7 +619,9 @@ export const NBA_PLAYERS = [
       "Cal-Santa Barbara",
       "California-Santa Barbara"
     ],
-    "numbers": []
+    "numbers": [
+      15
+    ]
   },
   {
     "name": "Alando Tucker",
@@ -537,7 +632,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Wisconsin"
     ],
-    "numbers": []
+    "numbers": [
+      29
+    ]
   },
   {
     "name": "Alec Burks",
@@ -552,7 +649,12 @@ export const NBA_PLAYERS = [
       "Colorado"
     ],
     "numbers": [
-      18
+      5,
+      10,
+      13,
+      14,
+      18,
+      20
     ]
   },
   {
@@ -563,7 +665,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Valparaiso"
     ],
-    "numbers": []
+    "numbers": [
+      25
+    ]
   },
   {
     "name": "Aleem Ford",
@@ -591,7 +695,9 @@ export const NBA_PLAYERS = [
       "Portland Trail Blazers"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      19
+    ]
   },
   {
     "name": "Aleksandar Radojevic",
@@ -639,7 +745,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Pepperdine"
     ],
-    "numbers": []
+    "numbers": [
+      3,
+      6
+    ]
   },
   {
     "name": "Alex Caruso",
@@ -652,7 +761,8 @@ export const NBA_PLAYERS = [
     ],
     "numbers": [
       4,
-      6
+      6,
+      9
     ]
   },
   {
@@ -662,7 +772,10 @@ export const NBA_PLAYERS = [
       "San Antonio Spurs"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      10,
+      20
+    ]
   },
   {
     "name": "Alex Kirk",
@@ -672,7 +785,9 @@ export const NBA_PLAYERS = [
     "college": [
       "New Mexico"
     ],
-    "numbers": []
+    "numbers": [
+      53
+    ]
   },
   {
     "name": "Alex Len",
@@ -686,6 +801,7 @@ export const NBA_PLAYERS = [
       "Maryland"
     ],
     "numbers": [
+      21,
       25,
       27
     ]
@@ -700,7 +816,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Kentucky"
     ],
-    "numbers": []
+    "numbers": [
+      0,
+      5,
+      22
+    ]
   },
   {
     "name": "Alex Scales",
@@ -710,7 +830,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Oregon"
     ],
-    "numbers": []
+    "numbers": [
+      25
+    ]
   },
   {
     "name": "Alex Stepheson",
@@ -720,7 +842,9 @@ export const NBA_PLAYERS = [
     "college": [
       "USC"
     ],
-    "numbers": []
+    "numbers": [
+      35
+    ]
   },
   {
     "name": "Alexander Johnson",
@@ -731,7 +855,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Florida State"
     ],
-    "numbers": []
+    "numbers": [
+      13,
+      32
+    ]
   },
   {
     "name": "Alexey Shved",
@@ -740,7 +867,10 @@ export const NBA_PLAYERS = [
       "New York Knicks"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      1,
+      88
+    ]
   },
   {
     "name": "Alexis Ajinca",
@@ -766,7 +896,8 @@ export const NBA_PLAYERS = [
       "Wisconsin-Green Bay"
     ],
     "numbers": [
-      28
+      28,
+      34
     ]
   },
   {
@@ -781,6 +912,7 @@ export const NBA_PLAYERS = [
       "Missouri State"
     ],
     "numbers": [
+      19,
       22,
       24,
       27
@@ -794,7 +926,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Tennessee"
     ],
-    "numbers": []
+    "numbers": [
+      20
+    ]
   },
   {
     "name": "Allan Ray",
@@ -804,7 +938,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Villanova"
     ],
-    "numbers": []
+    "numbers": [
+      12
+    ]
   },
   {
     "name": "Allen Crabbe",
@@ -816,7 +952,11 @@ export const NBA_PLAYERS = [
     "college": [
       "California"
     ],
-    "numbers": []
+    "numbers": [
+      9,
+      23,
+      33
+    ]
   },
   {
     "name": "Allen Iverson",
@@ -828,7 +968,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Georgetown"
     ],
-    "numbers": []
+    "numbers": [
+      1,
+      3
+    ]
   },
   {
     "name": "Allonzo Trier",
@@ -838,7 +981,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Arizona"
     ],
-    "numbers": []
+    "numbers": [
+      14
+    ]
   },
   {
     "name": "Alondes Williams",
@@ -848,7 +993,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Wake Forest"
     ],
-    "numbers": []
+    "numbers": [
+      15,
+      31
+    ]
   },
   {
     "name": "Alonzo Gee",
@@ -862,7 +1010,14 @@ export const NBA_PLAYERS = [
     "college": [
       "Alabama"
     ],
-    "numbers": []
+    "numbers": [
+      1,
+      7,
+      15,
+      23,
+      24,
+      33
+    ]
   },
   {
     "name": "Alonzo Mourning",
@@ -873,7 +1028,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Georgetown"
     ],
-    "numbers": []
+    "numbers": [
+      33
+    ]
   },
   {
     "name": "Alperen Sengun",
@@ -892,7 +1049,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Houston"
     ],
-    "numbers": []
+    "numbers": [
+      1,
+      4
+    ]
   },
   {
     "name": "Alton Lister",
@@ -903,7 +1063,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Arizona State"
     ],
-    "numbers": []
+    "numbers": [
+      53
+    ]
   },
   {
     "name": "Alvin Jones",
@@ -913,7 +1075,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Georgia Tech"
     ],
-    "numbers": []
+    "numbers": [
+      0
+    ]
   },
   {
     "name": "Alvin Sims",
@@ -923,7 +1087,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Louisville"
     ],
-    "numbers": []
+    "numbers": [
+      19
+    ]
   },
   {
     "name": "Alvin Williams",
@@ -934,7 +1100,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Villanova"
     ],
-    "numbers": []
+    "numbers": [
+      20,
+      21,
+      22,
+      24
+    ]
   },
   {
     "name": "Amal McCaskill",
@@ -947,7 +1118,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Marquette"
     ],
-    "numbers": []
+    "numbers": [
+      0,
+      15
+    ]
   },
   {
     "name": "Amar'e Stoudemire",
@@ -958,7 +1132,11 @@ export const NBA_PLAYERS = [
       "Phoenix Suns"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      1,
+      5,
+      32
+    ]
   },
   {
     "name": "Amida Brimah",
@@ -980,7 +1158,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Duke"
     ],
-    "numbers": []
+    "numbers": [
+      11
+    ]
   },
   {
     "name": "Amir Coffey",
@@ -991,6 +1171,7 @@ export const NBA_PLAYERS = [
       "Minnesota"
     ],
     "numbers": [
+      2,
       7
     ]
   },
@@ -1003,7 +1184,12 @@ export const NBA_PLAYERS = [
       "Toronto Raptors"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      5,
+      15,
+      25,
+      90
+    ]
   },
   {
     "name": "Anderson Varejao",
@@ -1022,7 +1208,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Indiana"
     ],
-    "numbers": []
+    "numbers": [
+      45
+    ]
   },
   {
     "name": "Andray Blatche",
@@ -1031,7 +1219,11 @@ export const NBA_PLAYERS = [
       "Washington Wizards"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      0,
+      7,
+      32
+    ]
   },
   {
     "name": "Andre Barrett",
@@ -1044,7 +1236,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Seton Hall"
     ],
-    "numbers": []
+    "numbers": [
+      1,
+      11,
+      12
+    ]
   },
   {
     "name": "Andre Brown",
@@ -1056,7 +1252,9 @@ export const NBA_PLAYERS = [
     "college": [
       "DePaul"
     ],
-    "numbers": []
+    "numbers": [
+      44
+    ]
   },
   {
     "name": "Andre Dawkins",
@@ -1066,7 +1264,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Duke"
     ],
-    "numbers": []
+    "numbers": [
+      24
+    ]
   },
   {
     "name": "Andre Drummond",
@@ -1081,6 +1281,7 @@ export const NBA_PLAYERS = [
       "Connecticut"
     ],
     "numbers": [
+      0,
       1,
       2,
       3
@@ -1095,7 +1296,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Texas Tech"
     ],
-    "numbers": []
+    "numbers": [
+      14
+    ]
   },
   {
     "name": "Andre Iguodala",
@@ -1121,7 +1324,9 @@ export const NBA_PLAYERS = [
     "college": [
       "American University"
     ],
-    "numbers": []
+    "numbers": [
+      20
+    ]
   },
   {
     "name": "Andre Miller",
@@ -1138,7 +1343,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Utah"
     ],
-    "numbers": []
+    "numbers": [
+      7,
+      22,
+      24
+    ]
   },
   {
     "name": "Andre Owens",
@@ -1149,7 +1358,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Houston"
     ],
-    "numbers": []
+    "numbers": [
+      20,
+      30
+    ]
   },
   {
     "name": "Andre Roberson",
@@ -1161,6 +1373,7 @@ export const NBA_PLAYERS = [
       "Colorado"
     ],
     "numbers": [
+      21,
       22
     ]
   },
@@ -1172,7 +1385,11 @@ export const NBA_PLAYERS = [
       "Toronto Raptors"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      7,
+      9,
+      77
+    ]
   },
   {
     "name": "Andreas Glyniadakis",
@@ -1180,7 +1397,9 @@ export const NBA_PLAYERS = [
       "Seattle SuperSonics"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      11
+    ]
   },
   {
     "name": "Andrei Kirilenko",
@@ -1190,7 +1409,9 @@ export const NBA_PLAYERS = [
       "Utah Jazz"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      47
+    ]
   },
   {
     "name": "Andres Nocioni",
@@ -1213,7 +1434,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Utah"
     ],
-    "numbers": []
+    "numbers": [
+      6,
+      12,
+      66
+    ]
   },
   {
     "name": "Andrew Bynum",
@@ -1222,7 +1447,10 @@ export const NBA_PLAYERS = [
       "Los Angeles Lakers"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      17,
+      21
+    ]
   },
   {
     "name": "Andrew DeClercq",
@@ -1235,7 +1463,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Florida"
     ],
-    "numbers": []
+    "numbers": [
+      45,
+      55
+    ]
   },
   {
     "name": "Andrew Gaze",
@@ -1245,7 +1476,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Seton Hall"
     ],
-    "numbers": []
+    "numbers": [
+      10
+    ]
   },
   {
     "name": "Andrew Goudelock",
@@ -1256,7 +1489,9 @@ export const NBA_PLAYERS = [
     "college": [
       "College of Charleston"
     ],
-    "numbers": []
+    "numbers": [
+      0
+    ]
   },
   {
     "name": "Andrew Harrison",
@@ -1267,7 +1502,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Kentucky"
     ],
-    "numbers": []
+    "numbers": [
+      1,
+      5,
+      55
+    ]
   },
   {
     "name": "Andrew Lang",
@@ -1279,7 +1518,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Arkansas"
     ],
-    "numbers": []
+    "numbers": [
+      28
+    ]
   },
   {
     "name": "Andrew Nembhard",
@@ -1289,7 +1530,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Gonzaga"
     ],
-    "numbers": []
+    "numbers": [
+      2
+    ]
   },
   {
     "name": "Andrew Nicholson",
@@ -1300,7 +1543,9 @@ export const NBA_PLAYERS = [
     "college": [
       "St. Bonaventure"
     ],
-    "numbers": []
+    "numbers": [
+      44
+    ]
   },
   {
     "name": "Andrew White III",
@@ -1342,7 +1587,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Lebanon Valley"
     ],
-    "numbers": []
+    "numbers": [
+      24
+    ]
   },
   {
     "name": "Andy Rautins",
@@ -1352,7 +1599,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Syracuse"
     ],
-    "numbers": []
+    "numbers": [
+      11
+    ]
   },
   {
     "name": "Anfernee Hardaway",
@@ -1365,7 +1614,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Memphis"
     ],
-    "numbers": []
+    "numbers": [
+      1,
+      7
+    ]
   },
   {
     "name": "Anfernee Simons",
@@ -1374,7 +1626,8 @@ export const NBA_PLAYERS = [
     ],
     "college": [],
     "numbers": [
-      1
+      1,
+      24
     ]
   },
   {
@@ -1394,7 +1647,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Mississippi"
     ],
-    "numbers": []
+    "numbers": [
+      5,
+      45
+    ]
   },
   {
     "name": "Antawn Jamison",
@@ -1409,7 +1665,11 @@ export const NBA_PLAYERS = [
     "college": [
       "North Carolina"
     ],
-    "numbers": []
+    "numbers": [
+      4,
+      7,
+      33
+    ]
   },
   {
     "name": "Ante Zizic",
@@ -1428,7 +1688,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Seton Hall"
     ],
-    "numbers": []
+    "numbers": [
+      30,
+      34,
+      54
+    ]
   },
   {
     "name": "Anthony Bennett",
@@ -1441,7 +1705,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Nevada-Las Vegas"
     ],
-    "numbers": []
+    "numbers": [
+      13,
+      15,
+      24
+    ]
   },
   {
     "name": "Anthony Bowie",
@@ -1451,7 +1719,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Oklahoma"
     ],
-    "numbers": []
+    "numbers": [
+      13,
+      14
+    ]
   },
   {
     "name": "Anthony Brown",
@@ -1463,7 +1734,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Stanford"
     ],
-    "numbers": []
+    "numbers": [
+      3,
+      21
+    ]
   },
   {
     "name": "Anthony Carter",
@@ -1478,7 +1752,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Hawaii"
     ],
-    "numbers": []
+    "numbers": [
+      4,
+      7,
+      25
+    ]
   },
   {
     "name": "Anthony Davis",
@@ -1491,7 +1769,8 @@ export const NBA_PLAYERS = [
       "Kentucky"
     ],
     "numbers": [
-      3
+      3,
+      23
     ]
   },
   {
@@ -1503,7 +1782,8 @@ export const NBA_PLAYERS = [
       "Georgia"
     ],
     "numbers": [
-      1
+      1,
+      5
     ]
   },
   {
@@ -1530,7 +1810,13 @@ export const NBA_PLAYERS = [
     "college": [
       "Houston"
     ],
-    "numbers": []
+    "numbers": [
+      4,
+      5,
+      7,
+      9,
+      15
+    ]
   },
   {
     "name": "Anthony Grundy",
@@ -1540,7 +1826,9 @@ export const NBA_PLAYERS = [
     "college": [
       "North Carolina State"
     ],
-    "numbers": []
+    "numbers": [
+      16
+    ]
   },
   {
     "name": "Anthony Johnson",
@@ -1555,7 +1843,13 @@ export const NBA_PLAYERS = [
     "college": [
       "College of Charleston"
     ],
-    "numbers": []
+    "numbers": [
+      2,
+      5,
+      8,
+      10,
+      24
+    ]
   },
   {
     "name": "Anthony Lamb",
@@ -1568,7 +1862,8 @@ export const NBA_PLAYERS = [
     ],
     "numbers": [
       33,
-      35
+      35,
+      40
     ]
   },
   {
@@ -1581,7 +1876,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Tennessee State"
     ],
-    "numbers": []
+    "numbers": [
+      14,
+      17
+    ]
   },
   {
     "name": "Anthony Miller",
@@ -1593,7 +1891,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Michigan State"
     ],
-    "numbers": []
+    "numbers": [
+      2,
+      9,
+      34,
+      41
+    ]
   },
   {
     "name": "Anthony Morrow",
@@ -1608,7 +1911,13 @@ export const NBA_PLAYERS = [
     "college": [
       "Georgia Tech"
     ],
-    "numbers": []
+    "numbers": [
+      2,
+      3,
+      11,
+      22,
+      23
+    ]
   },
   {
     "name": "Anthony Parker",
@@ -1621,7 +1930,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Bradley"
     ],
-    "numbers": []
+    "numbers": [
+      12,
+      18,
+      24
+    ]
   },
   {
     "name": "Anthony Peeler",
@@ -1634,7 +1947,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Missouri"
     ],
-    "numbers": []
+    "numbers": [
+      1,
+      7,
+      8,
+      44
+    ]
   },
   {
     "name": "Anthony Randolph",
@@ -1646,7 +1964,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Louisiana State"
     ],
-    "numbers": []
+    "numbers": [
+      4,
+      15
+    ]
   },
   {
     "name": "Anthony Roberson",
@@ -1658,7 +1979,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Florida"
     ],
-    "numbers": []
+    "numbers": [
+      3,
+      5
+    ]
   },
   {
     "name": "Anthony Tolliver",
@@ -1677,7 +2001,11 @@ export const NBA_PLAYERS = [
       "Creighton"
     ],
     "numbers": [
-      43
+      4,
+      35,
+      40,
+      43,
+      44
     ]
   },
   {
@@ -1690,7 +2018,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Wichita State"
     ],
-    "numbers": []
+    "numbers": [
+      55
+    ]
   },
   {
     "name": "Antoine Rigaudeau",
@@ -1698,7 +2028,9 @@ export const NBA_PLAYERS = [
       "Dallas Mavericks"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      17
+    ]
   },
   {
     "name": "Antoine Walker",
@@ -1711,7 +2043,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Kentucky"
     ],
-    "numbers": []
+    "numbers": [
+      8,
+      24,
+      88
+    ]
   },
   {
     "name": "Antoine Wright",
@@ -1724,7 +2060,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Texas A&M"
     ],
-    "numbers": []
+    "numbers": [
+      3,
+      21
+    ]
   },
   {
     "name": "Antonio Anderson",
@@ -1734,7 +2073,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Memphis"
     ],
-    "numbers": []
+    "numbers": [
+      8
+    ]
   },
   {
     "name": "Antonio Blakeney",
@@ -1744,7 +2085,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Louisiana State"
     ],
-    "numbers": []
+    "numbers": [
+      9
+    ]
   },
   {
     "name": "Antonio Burks",
@@ -1754,7 +2097,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Memphis"
     ],
-    "numbers": []
+    "numbers": [
+      1
+    ]
   },
   {
     "name": "Antonio Daniels",
@@ -1770,7 +2115,13 @@ export const NBA_PLAYERS = [
     "college": [
       "Bowling Green"
     ],
-    "numbers": []
+    "numbers": [
+      6,
+      10,
+      22,
+      33,
+      50
+    ]
   },
   {
     "name": "Antonio Davis",
@@ -1782,7 +2133,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Texas-El Paso"
     ],
-    "numbers": []
+    "numbers": [
+      32,
+      33,
+      34
+    ]
   },
   {
     "name": "Antonio Harvey",
@@ -1794,7 +2149,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Pfeiffer"
     ],
-    "numbers": []
+    "numbers": [
+      4,
+      24,
+      34,
+      40
+    ]
   },
   {
     "name": "Antonio Lang",
@@ -1806,7 +2166,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Duke"
     ],
-    "numbers": []
+    "numbers": [
+      21,
+      22,
+      41
+    ]
   },
   {
     "name": "Antonio McDyess",
@@ -1819,7 +2183,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Alabama"
     ],
-    "numbers": []
+    "numbers": [
+      14,
+      24,
+      34
+    ]
   },
   {
     "name": "Antonis Fotsis",
@@ -1827,7 +2195,9 @@ export const NBA_PLAYERS = [
       "Memphis Grizzlies"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      6
+    ]
   },
   {
     "name": "Antonius Cleveland",
@@ -1838,7 +2208,11 @@ export const NBA_PLAYERS = [
     "college": [
       "S.E. Missouri"
     ],
-    "numbers": []
+    "numbers": [
+      0,
+      3,
+      44
+    ]
   },
   {
     "name": "Anzejs Pasecniks",
@@ -1857,7 +2231,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Kentucky"
     ],
-    "numbers": []
+    "numbers": [
+      8,
+      10,
+      20
+    ]
   },
   {
     "name": "Arinze Onuaku",
@@ -1869,7 +2247,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Syracuse"
     ],
-    "numbers": []
+    "numbers": [
+      21,
+      50
+    ]
   },
   {
     "name": "Armen Gilliam",
@@ -1880,7 +2261,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Nevada-Las Vegas"
     ],
-    "numbers": []
+    "numbers": [
+      5,
+      10,
+      43
+    ]
   },
   {
     "name": "Armon Johnson",
@@ -1891,7 +2276,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Nevada"
     ],
-    "numbers": []
+    "numbers": [
+      1,
+      7
+    ]
   },
   {
     "name": "Armoni Brooks",
@@ -1904,7 +2292,8 @@ export const NBA_PLAYERS = [
     ],
     "numbers": [
       1,
-      7
+      7,
+      13
     ]
   },
   {
@@ -1915,7 +2304,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Mississippi State"
     ],
-    "numbers": []
+    "numbers": [
+      5
+    ]
   },
   {
     "name": "Arnoldas Kulboka",
@@ -1938,6 +2329,8 @@ export const NBA_PLAYERS = [
       "Washington State"
     ],
     "numbers": [
+      12,
+      16,
       46
     ]
   },
@@ -1954,7 +2347,13 @@ export const NBA_PLAYERS = [
     "college": [
       "UCLA"
     ],
-    "numbers": []
+    "numbers": [
+      4,
+      6,
+      10,
+      28,
+      40
+    ]
   },
   {
     "name": "Art Long",
@@ -1966,7 +2365,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Cincinnati"
     ],
-    "numbers": []
+    "numbers": [
+      0,
+      35,
+      42
+    ]
   },
   {
     "name": "Arvydas Macijauskas",
@@ -1982,7 +2385,9 @@ export const NBA_PLAYERS = [
       "Portland Trail Blazers"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      11
+    ]
   },
   {
     "name": "Ashraf Amaya",
@@ -1992,7 +2397,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Southern Illinois"
     ],
-    "numbers": []
+    "numbers": [
+      18
+    ]
   },
   {
     "name": "Ashton Hagans",
@@ -2003,6 +2410,7 @@ export const NBA_PLAYERS = [
       "Kentucky"
     ],
     "numbers": [
+      19,
       22
     ]
   },
@@ -2017,7 +2425,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Providence"
     ],
-    "numbers": []
+    "numbers": [
+      22,
+      44
+    ]
   },
   {
     "name": "Austin Daye",
@@ -2030,7 +2441,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Gonzaga"
     ],
-    "numbers": []
+    "numbers": [
+      3,
+      5,
+      23
+    ]
   },
   {
     "name": "Austin Reaves",
@@ -2058,6 +2473,7 @@ export const NBA_PLAYERS = [
       "Duke"
     ],
     "numbers": [
+      1,
       8,
       25
     ]
@@ -2076,9 +2492,11 @@ export const NBA_PLAYERS = [
       "Texas-Austin"
     ],
     "numbers": [
+      0,
       9,
       11,
-      20
+      20,
+      22
     ]
   },
   {
@@ -2091,7 +2509,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Southern"
     ],
-    "numbers": []
+    "numbers": [
+      5,
+      6
+    ]
   },
   {
     "name": "Awvee Storey",
@@ -2103,7 +2524,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Arizona State"
     ],
-    "numbers": []
+    "numbers": [
+      20,
+      26,
+      35
+    ]
   },
   {
     "name": "Axel Toupane",
@@ -2114,6 +2539,8 @@ export const NBA_PLAYERS = [
     ],
     "college": [],
     "numbers": [
+      6,
+      10,
       66
     ]
   },
@@ -2126,7 +2553,9 @@ export const NBA_PLAYERS = [
       "Illinois"
     ],
     "numbers": [
-      12
+      11,
+      12,
+      13
     ]
   },
   {
@@ -2140,7 +2569,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Iowa"
     ],
-    "numbers": []
+    "numbers": [
+      2,
+      10,
+      11
+    ]
   },
   {
     "name": "BJ Johnson",
@@ -2178,7 +2611,11 @@ export const NBA_PLAYERS = [
     "college": [
       "UCLA"
     ],
-    "numbers": []
+    "numbers": [
+      1,
+      5,
+      85
+    ]
   },
   {
     "name": "Ben Bentil",
@@ -2188,7 +2625,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Providence"
     ],
-    "numbers": []
+    "numbers": [
+      42
+    ]
   },
   {
     "name": "Ben Davis",
@@ -2199,7 +2638,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Arizona"
     ],
-    "numbers": []
+    "numbers": [
+      4,
+      43
+    ]
   },
   {
     "name": "Ben Gordon",
@@ -2212,7 +2654,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Connecticut"
     ],
-    "numbers": []
+    "numbers": [
+      7,
+      8
+    ]
   },
   {
     "name": "Ben Handlogten",
@@ -2222,7 +2667,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Western Michigan"
     ],
-    "numbers": []
+    "numbers": [
+      44
+    ]
   },
   {
     "name": "Ben Hansbrough",
@@ -2232,7 +2679,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Notre Dame"
     ],
-    "numbers": []
+    "numbers": [
+      23
+    ]
   },
   {
     "name": "Ben McLemore",
@@ -2260,7 +2709,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Southern Methodist"
     ],
-    "numbers": []
+    "numbers": [
+      26
+    ]
   },
   {
     "name": "Ben Simmons",
@@ -2272,6 +2723,7 @@ export const NBA_PLAYERS = [
       "Louisiana State"
     ],
     "numbers": [
+      10,
       25
     ]
   },
@@ -2284,7 +2736,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Tulsa"
     ],
-    "numbers": []
+    "numbers": [
+      6,
+      18
+    ]
   },
   {
     "name": "Ben Wallace",
@@ -2298,7 +2753,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Virginia Union"
     ],
-    "numbers": []
+    "numbers": [
+      3,
+      4,
+      6,
+      30
+    ]
   },
   {
     "name": "Bennedict Mathurin",
@@ -2308,7 +2768,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Arizona"
     ],
-    "numbers": []
+    "numbers": [
+      0,
+      9
+    ]
   },
   {
     "name": "Beno Udrih",
@@ -2321,7 +2784,11 @@ export const NBA_PLAYERS = [
       "San Antonio Spurs"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      14,
+      18,
+      19
+    ]
   },
   {
     "name": "Benoit Benjamin",
@@ -2333,7 +2800,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Creighton"
     ],
-    "numbers": []
+    "numbers": [
+      0,
+      7
+    ]
   },
   {
     "name": "Bernard James",
@@ -2343,7 +2813,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Florida State"
     ],
-    "numbers": []
+    "numbers": [
+      5,
+      55
+    ]
   },
   {
     "name": "Bernard Robinson",
@@ -2354,7 +2827,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Michigan"
     ],
-    "numbers": []
+    "numbers": [
+      22
+    ]
   },
   {
     "name": "Bill Curley",
@@ -2365,7 +2840,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Boston College"
     ],
-    "numbers": []
+    "numbers": [
+      15,
+      17,
+      30,
+      31
+    ]
   },
   {
     "name": "Bill Wennington",
@@ -2376,7 +2856,10 @@ export const NBA_PLAYERS = [
     "college": [
       "St. John's (NY)"
     ],
-    "numbers": []
+    "numbers": [
+      7,
+      34
+    ]
   },
   {
     "name": "Billy Garrett",
@@ -2386,7 +2869,9 @@ export const NBA_PLAYERS = [
     "college": [
       "DePaul"
     ],
-    "numbers": []
+    "numbers": [
+      3
+    ]
   },
   {
     "name": "Billy Owens",
@@ -2399,7 +2884,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Syracuse"
     ],
-    "numbers": []
+    "numbers": [
+      5,
+      30
+    ]
   },
   {
     "name": "Billy Thomas",
@@ -2411,7 +2899,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Kansas"
     ],
-    "numbers": []
+    "numbers": [
+      12,
+      20,
+      22
+    ]
   },
   {
     "name": "Bimbo Coles",
@@ -2425,7 +2917,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Virginia Tech"
     ],
-    "numbers": []
+    "numbers": [
+      12,
+      50
+    ]
   },
   {
     "name": "Bismack Biyombo",
@@ -2437,6 +2932,9 @@ export const NBA_PLAYERS = [
     ],
     "college": [],
     "numbers": [
+      8,
+      11,
+      15,
       18
     ]
   },
@@ -2449,7 +2947,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Arizona"
     ],
-    "numbers": []
+    "numbers": [
+      8,
+      18
+    ]
   },
   {
     "name": "Blake Ahearn",
@@ -2461,7 +2962,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Missouri State"
     ],
-    "numbers": []
+    "numbers": [
+      2,
+      6,
+      19
+    ]
   },
   {
     "name": "Blake Griffin",
@@ -2476,7 +2981,9 @@ export const NBA_PLAYERS = [
     ],
     "numbers": [
       2,
-      23
+      23,
+      32,
+      91
     ]
   },
   {
@@ -2487,7 +2994,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Notre Dame"
     ],
-    "numbers": []
+    "numbers": [
+      14
+    ]
   },
   {
     "name": "Blue Edwards",
@@ -2498,7 +3007,10 @@ export const NBA_PLAYERS = [
     "college": [
       "East Carolina"
     ],
-    "numbers": []
+    "numbers": [
+      30,
+      32
+    ]
   },
   {
     "name": "Bo Outlaw",
@@ -2511,7 +3023,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Houston"
     ],
-    "numbers": []
+    "numbers": [
+      45,
+      46
+    ]
   },
   {
     "name": "Bob McCann",
@@ -2521,7 +3036,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Morehead State"
     ],
-    "numbers": []
+    "numbers": [
+      55
+    ]
   },
   {
     "name": "Bob Sura",
@@ -2534,7 +3051,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Florida State"
     ],
-    "numbers": []
+    "numbers": [
+      3,
+      5
+    ]
   },
   {
     "name": "Boban Marjanovic",
@@ -2559,7 +3079,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Cal State-Fullerton"
     ],
-    "numbers": []
+    "numbers": [
+      1,
+      5,
+      6,
+      8
+    ]
   },
   {
     "name": "Bobby Hurley",
@@ -2570,7 +3095,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Duke"
     ],
-    "numbers": []
+    "numbers": [
+      7,
+      12
+    ]
   },
   {
     "name": "Bobby Jackson",
@@ -2585,7 +3113,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Minnesota"
     ],
-    "numbers": []
+    "numbers": [
+      8,
+      13,
+      24
+    ]
   },
   {
     "name": "Bobby Jones",
@@ -2596,7 +3128,13 @@ export const NBA_PLAYERS = [
     "college": [
       "Washington"
     ],
-    "numbers": []
+    "numbers": [
+      0,
+      6,
+      11,
+      21,
+      42
+    ]
   },
   {
     "name": "Bobby Phills",
@@ -2607,7 +3145,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Southern"
     ],
-    "numbers": []
+    "numbers": [
+      13,
+      14
+    ]
   },
   {
     "name": "Bobby Portis",
@@ -2621,6 +3162,8 @@ export const NBA_PLAYERS = [
       "Arkansas"
     ],
     "numbers": [
+      1,
+      5,
       9
     ]
   },
@@ -2636,7 +3179,10 @@ export const NBA_PLAYERS = [
     "college": [
       "DePaul"
     ],
-    "numbers": []
+    "numbers": [
+      1,
+      21
+    ]
   },
   {
     "name": "Bogdan Bogdanovic",
@@ -2669,7 +3215,8 @@ export const NBA_PLAYERS = [
       "Oregon"
     ],
     "numbers": [
-      10
+      10,
+      11
     ]
   },
   {
@@ -2682,7 +3229,10 @@ export const NBA_PLAYERS = [
       "Virginia Commonwealth"
     ],
     "numbers": [
-      3
+      3,
+      5,
+      8,
+      77
     ]
   },
   {
@@ -2705,7 +3255,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Ball State"
     ],
-    "numbers": []
+    "numbers": [
+      6,
+      24,
+      42
+    ]
   },
   {
     "name": "Bonzie Colson",
@@ -2715,7 +3269,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Notre Dame"
     ],
-    "numbers": []
+    "numbers": [
+      50
+    ]
   },
   {
     "name": "Boris Diaw",
@@ -2727,7 +3283,12 @@ export const NBA_PLAYERS = [
       "Utah Jazz"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      3,
+      13,
+      32,
+      33
+    ]
   },
   {
     "name": "Bostjan Nachbar",
@@ -2747,7 +3308,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Indiana"
     ],
-    "numbers": []
+    "numbers": [
+      6
+    ]
   },
   {
     "name": "Brad Lohaus",
@@ -2758,7 +3321,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Iowa"
     ],
-    "numbers": []
+    "numbers": [
+      33,
+      54
+    ]
   },
   {
     "name": "Brad Miller",
@@ -2773,7 +3339,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Purdue"
     ],
-    "numbers": []
+    "numbers": [
+      40,
+      52
+    ]
   },
   {
     "name": "Brad Wanamaker",
@@ -2786,6 +3355,7 @@ export const NBA_PLAYERS = [
       "Pittsburgh"
     ],
     "numbers": [
+      9,
       10,
       22
     ]
@@ -2799,6 +3369,7 @@ export const NBA_PLAYERS = [
       "Florida"
     ],
     "numbers": [
+      0,
       3
     ]
   },
@@ -2814,7 +3385,11 @@ export const NBA_PLAYERS = [
     "college": [
       "North Carolina"
     ],
-    "numbers": []
+    "numbers": [
+      12,
+      32,
+      34
+    ]
   },
   {
     "name": "Branden Dawson",
@@ -2824,7 +3399,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Michigan State"
     ],
-    "numbers": []
+    "numbers": [
+      22
+    ]
   },
   {
     "name": "Brandin Knight",
@@ -2834,7 +3411,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Pittsburgh"
     ],
-    "numbers": []
+    "numbers": [
+      10
+    ]
   },
   {
     "name": "Brandon Armstrong",
@@ -2844,7 +3423,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Pepperdine"
     ],
-    "numbers": []
+    "numbers": [
+      1
+    ]
   },
   {
     "name": "Brandon Bass",
@@ -2859,7 +3440,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Louisiana State"
     ],
-    "numbers": []
+    "numbers": [
+      2,
+      30,
+      32
+    ]
   },
   {
     "name": "Brandon Boston",
@@ -2880,7 +3465,8 @@ export const NBA_PLAYERS = [
       "Kentucky"
     ],
     "numbers": [
-      4
+      4,
+      11
     ]
   },
   {
@@ -2903,7 +3489,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Brigham Young"
     ],
-    "numbers": []
+    "numbers": [
+      0,
+      20
+    ]
   },
   {
     "name": "Brandon Goodwin",
@@ -2916,7 +3505,8 @@ export const NBA_PLAYERS = [
       "Florida Gulf Coast"
     ],
     "numbers": [
-      0
+      0,
+      6
     ]
   },
   {
@@ -2928,7 +3518,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Ohio"
     ],
-    "numbers": []
+    "numbers": [
+      34,
+      56
+    ]
   },
   {
     "name": "Brandon Ingram",
@@ -2940,6 +3533,7 @@ export const NBA_PLAYERS = [
       "Duke"
     ],
     "numbers": [
+      3,
       14
     ]
   },
@@ -2952,7 +3546,12 @@ export const NBA_PLAYERS = [
       "Washington Wizards"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      3,
+      7,
+      11,
+      55
+    ]
   },
   {
     "name": "Brandon Knight",
@@ -2967,6 +3566,10 @@ export const NBA_PLAYERS = [
       "Kentucky"
     ],
     "numbers": [
+      2,
+      3,
+      7,
+      11,
       20
     ]
   },
@@ -2976,7 +3579,9 @@ export const NBA_PLAYERS = [
       "San Antonio Spurs"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      3
+    ]
   },
   {
     "name": "Brandon Roy",
@@ -2987,7 +3592,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Washington"
     ],
-    "numbers": []
+    "numbers": [
+      3,
+      7
+    ]
   },
   {
     "name": "Brandon Rush",
@@ -3000,7 +3608,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Kansas"
     ],
-    "numbers": []
+    "numbers": [
+      4,
+      25
+    ]
   },
   {
     "name": "Brandon Sampson",
@@ -3008,7 +3619,9 @@ export const NBA_PLAYERS = [
       "Chicago Bulls"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      44
+    ]
   },
   {
     "name": "Brandon Williams",
@@ -3022,7 +3635,12 @@ export const NBA_PLAYERS = [
       "Arizona",
       "Davidson"
     ],
-    "numbers": []
+    "numbers": [
+      0,
+      10,
+      11,
+      17
+    ]
   },
   {
     "name": "Braxton Key",
@@ -3034,6 +3652,8 @@ export const NBA_PLAYERS = [
     ],
     "numbers": [
       8,
+      11,
+      12,
       17
     ]
   },
@@ -3048,7 +3668,11 @@ export const NBA_PLAYERS = [
     "college": [
       "North Carolina"
     ],
-    "numbers": []
+    "numbers": [
+      0,
+      3,
+      33
+    ]
   },
   {
     "name": "Brent Barry",
@@ -3063,7 +3687,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Oregon State"
     ],
-    "numbers": []
+    "numbers": [
+      17,
+      31
+    ]
   },
   {
     "name": "Brent Price",
@@ -3075,7 +3702,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Oklahoma"
     ],
-    "numbers": []
+    "numbers": [
+      20,
+      25
+    ]
   },
   {
     "name": "Brent Scott",
@@ -3085,7 +3715,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Rice"
     ],
-    "numbers": []
+    "numbers": [
+      55
+    ]
   },
   {
     "name": "Brett Szabo",
@@ -3095,7 +3727,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Augustana (SD)"
     ],
-    "numbers": []
+    "numbers": [
+      43
+    ]
   },
   {
     "name": "Brevin Knight",
@@ -3111,7 +3745,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Stanford"
     ],
-    "numbers": []
+    "numbers": [
+      2,
+      6,
+      12,
+      22
+    ]
   },
   {
     "name": "Brian Bowen II",
@@ -3134,7 +3773,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Purdue"
     ],
-    "numbers": []
+    "numbers": [
+      14,
+      35
+    ]
   },
   {
     "name": "Brian Cook",
@@ -3148,7 +3790,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Illinois"
     ],
-    "numbers": []
+    "numbers": [
+      7,
+      34,
+      43
+    ]
   },
   {
     "name": "Brian Evans",
@@ -3160,7 +3806,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Indiana"
     ],
-    "numbers": []
+    "numbers": [
+      11,
+      34
+    ]
   },
   {
     "name": "Brian Grant",
@@ -3174,7 +3823,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Xavier"
     ],
-    "numbers": []
+    "numbers": [
+      33,
+      44,
+      55
+    ]
   },
   {
     "name": "Brian Oliver",
@@ -3184,7 +3837,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Georgia Tech"
     ],
-    "numbers": []
+    "numbers": [
+      31
+    ]
   },
   {
     "name": "Brian Roberts",
@@ -3197,7 +3852,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Dayton"
     ],
-    "numbers": []
+    "numbers": [
+      2,
+      22
+    ]
   },
   {
     "name": "Brian Scalabrine",
@@ -3209,7 +3867,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Southern California"
     ],
-    "numbers": []
+    "numbers": [
+      21,
+      24,
+      44
+    ]
   },
   {
     "name": "Brian Shaw",
@@ -3222,7 +3884,11 @@ export const NBA_PLAYERS = [
     "college": [
       "California-Santa Barbara"
     ],
-    "numbers": []
+    "numbers": [
+      7,
+      20,
+      22
+    ]
   },
   {
     "name": "Brian Skinner",
@@ -3239,7 +3905,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Baylor"
     ],
-    "numbers": []
+    "numbers": [
+      3,
+      8,
+      32,
+      54
+    ]
   },
   {
     "name": "Briante Weber",
@@ -3251,7 +3922,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Virginia Commonwealth"
     ],
-    "numbers": []
+    "numbers": [
+      0,
+      2,
+      3,
+      12
+    ]
   },
   {
     "name": "Brice Johnson",
@@ -3261,7 +3937,11 @@ export const NBA_PLAYERS = [
     "college": [
       "North Carolina"
     ],
-    "numbers": []
+    "numbers": [
+      10,
+      11,
+      14
+    ]
   },
   {
     "name": "Britton Johnsen",
@@ -3272,7 +3952,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Utah"
     ],
-    "numbers": []
+    "numbers": [
+      31,
+      32
+    ]
   },
   {
     "name": "Brodric Thomas",
@@ -3312,7 +3995,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Oklahoma State"
     ],
-    "numbers": []
+    "numbers": [
+      6,
+      7,
+      22
+    ]
   },
   {
     "name": "Bruce Bowen",
@@ -3324,7 +4011,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Cal State-Fullerton"
     ],
-    "numbers": []
+    "numbers": [
+      3,
+      12
+    ]
   },
   {
     "name": "Bruce Brown",
@@ -3337,7 +4027,10 @@ export const NBA_PLAYERS = [
       "Miami"
     ],
     "numbers": [
-      1
+      0,
+      1,
+      6,
+      11
     ]
   },
   {
@@ -3350,7 +4043,9 @@ export const NBA_PLAYERS = [
     ],
     "college": [],
     "numbers": [
-      5
+      5,
+      20,
+      22
     ]
   },
   {
@@ -3387,7 +4082,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Oklahoma State"
     ],
-    "numbers": []
+    "numbers": [
+      50
+    ]
   },
   {
     "name": "Bryant Stith",
@@ -3399,7 +4096,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Virginia"
     ],
-    "numbers": []
+    "numbers": [
+      20,
+      23
+    ]
   },
   {
     "name": "Bryce Cotton",
@@ -3410,7 +4110,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Providence"
     ],
-    "numbers": []
+    "numbers": [
+      8
+    ]
   },
   {
     "name": "Bryce Dejean-Jones",
@@ -3420,7 +4122,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Iowa State"
     ],
-    "numbers": []
+    "numbers": [
+      31
+    ]
   },
   {
     "name": "Bryce Drew",
@@ -3433,7 +4137,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Valparaiso"
     ],
-    "numbers": []
+    "numbers": [
+      11,
+      17,
+      24
+    ]
   },
   {
     "name": "Bryce McGowens",
@@ -3443,7 +4151,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Nebraska"
     ],
-    "numbers": []
+    "numbers": [
+      11
+    ]
   },
   {
     "name": "Bryn Forbes",
@@ -3458,7 +4168,9 @@ export const NBA_PLAYERS = [
     ],
     "numbers": [
       6,
-      7
+      7,
+      10,
+      11
     ]
   },
   {
@@ -3472,7 +4184,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Long Beach State"
     ],
-    "numbers": []
+    "numbers": [
+      2,
+      3,
+      9,
+      34
+    ]
   },
   {
     "name": "Bubba Wells",
@@ -3482,7 +4199,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Austin Peay"
     ],
-    "numbers": []
+    "numbers": [
+      35
+    ]
   },
   {
     "name": "Buck Williams",
@@ -3492,7 +4211,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Maryland"
     ],
-    "numbers": []
+    "numbers": [
+      52
+    ]
   },
   {
     "name": "Buddy Boeheim",
@@ -3502,7 +4223,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Syracuse"
     ],
-    "numbers": []
+    "numbers": [
+      27,
+      35
+    ]
   },
   {
     "name": "Buddy Hield",
@@ -3514,6 +4238,9 @@ export const NBA_PLAYERS = [
       "Oklahoma"
     ],
     "numbers": [
+      7,
+      8,
+      17,
       24
     ]
   },
@@ -3527,7 +4254,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Ohio State"
     ],
-    "numbers": []
+    "numbers": [
+      0,
+      23,
+      30
+    ]
   },
   {
     "name": "Byron Scott",
@@ -3537,7 +4268,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Arizona State"
     ],
-    "numbers": []
+    "numbers": [
+      4
+    ]
   },
   {
     "name": "C.J. Watson",
@@ -3551,7 +4284,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Tennessee"
     ],
-    "numbers": []
+    "numbers": [
+      1,
+      7,
+      23,
+      32
+    ]
   },
   {
     "name": "C.J. Williams",
@@ -3562,7 +4300,10 @@ export const NBA_PLAYERS = [
     "college": [
       "North Carolina State"
     ],
-    "numbers": []
+    "numbers": [
+      9,
+      12
+    ]
   },
   {
     "name": "CJ Elleby",
@@ -3636,7 +4377,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Old Dominion"
     ],
-    "numbers": []
+    "numbers": [
+      3,
+      6
+    ]
   },
   {
     "name": "Calbert Cheaney",
@@ -3650,7 +4394,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Indiana"
     ],
-    "numbers": []
+    "numbers": [
+      29,
+      40
+    ]
   },
   {
     "name": "Caleb Houstan",
@@ -3660,7 +4407,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Michigan"
     ],
-    "numbers": []
+    "numbers": [
+      2
+    ]
   },
   {
     "name": "Caleb Martin",
@@ -3685,7 +4434,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Purdue"
     ],
-    "numbers": []
+    "numbers": [
+      50
+    ]
   },
   {
     "name": "Calvin Booth",
@@ -3700,7 +4451,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Penn State"
     ],
-    "numbers": []
+    "numbers": [
+      52
+    ]
   },
   {
     "name": "Cam Reddish",
@@ -3713,6 +4466,8 @@ export const NBA_PLAYERS = [
       "Duke"
     ],
     "numbers": [
+      0,
+      5,
       21,
       22
     ]
@@ -3738,7 +4493,9 @@ export const NBA_PLAYERS = [
     "college": [
       "New Mexico"
     ],
-    "numbers": []
+    "numbers": [
+      41
+    ]
   },
   {
     "name": "Cameron Johnson",
@@ -3750,6 +4507,7 @@ export const NBA_PLAYERS = [
       "North Carolina"
     ],
     "numbers": [
+      2,
       23
     ]
   },
@@ -3791,7 +4549,10 @@ export const NBA_PLAYERS = [
       "Murray State"
     ],
     "numbers": [
-      15
+      1,
+      3,
+      15,
+      22
     ]
   },
   {
@@ -3804,6 +4565,7 @@ export const NBA_PLAYERS = [
       "Tulane"
     ],
     "numbers": [
+      13,
       23,
       42
     ]
@@ -3820,6 +4582,7 @@ export const NBA_PLAYERS = [
     ],
     "numbers": [
       3,
+      8,
       22
     ]
   },
@@ -3832,7 +4595,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Houston"
     ],
-    "numbers": []
+    "numbers": [
+      7,
+      11,
+      14,
+      21
+    ]
   },
   {
     "name": "Carl Landry",
@@ -3846,7 +4614,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Purdue"
     ],
-    "numbers": []
+    "numbers": [
+      7,
+      14,
+      24
+    ]
   },
   {
     "name": "Carl Thomas",
@@ -3856,7 +4628,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Eastern Michigan"
     ],
-    "numbers": []
+    "numbers": [
+      23,
+      30
+    ]
   },
   {
     "name": "Carldell Johnson",
@@ -3866,7 +4641,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Alabama-Birmingham"
     ],
-    "numbers": []
+    "numbers": [
+      5
+    ]
   },
   {
     "name": "Carlik Jones",
@@ -3879,6 +4656,7 @@ export const NBA_PLAYERS = [
       "Texas Legends"
     ],
     "numbers": [
+      22,
       23
     ]
   },
@@ -3895,7 +4673,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Florida International"
     ],
-    "numbers": []
+    "numbers": [
+      8,
+      21,
+      30,
+      45
+    ]
   },
   {
     "name": "Carlos Boozer",
@@ -3908,7 +4691,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Duke"
     ],
-    "numbers": []
+    "numbers": [
+      1,
+      5
+    ]
   },
   {
     "name": "Carlos Delfino",
@@ -3919,7 +4705,10 @@ export const NBA_PLAYERS = [
       "Toronto Raptors"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      10,
+      20
+    ]
   },
   {
     "name": "Carlos Rogers",
@@ -3932,7 +4721,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Tennessee State"
     ],
-    "numbers": []
+    "numbers": [
+      4,
+      6,
+      33,
+      34
+    ]
   },
   {
     "name": "Carmelo Anthony",
@@ -3949,7 +4743,8 @@ export const NBA_PLAYERS = [
     ],
     "numbers": [
       0,
-      7
+      7,
+      15
     ]
   },
   {
@@ -3967,7 +4762,14 @@ export const NBA_PLAYERS = [
     "college": [
       "Connecticut"
     ],
-    "numbers": []
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      31
+    ]
   },
   {
     "name": "Carrick Felix",
@@ -3977,7 +4779,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Arizona State"
     ],
-    "numbers": []
+    "numbers": [
+      30
+    ]
   },
   {
     "name": "Carsen Edwards",
@@ -4004,7 +4808,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Kansas State"
     ],
-    "numbers": []
+    "numbers": [
+      15,
+      20,
+      35
+    ]
   },
   {
     "name": "Casey Jacobsen",
@@ -4016,7 +4824,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Stanford"
     ],
-    "numbers": []
+    "numbers": [
+      23,
+      32
+    ]
   },
   {
     "name": "Casey Shaw",
@@ -4026,7 +4837,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Toledo"
     ],
-    "numbers": []
+    "numbers": [
+      30
+    ]
   },
   {
     "name": "Casper Ware",
@@ -4036,7 +4849,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Long Beach State"
     ],
-    "numbers": []
+    "numbers": [
+      17
+    ]
   },
   {
     "name": "Cassius Stanley",
@@ -4094,7 +4909,9 @@ export const NBA_PLAYERS = [
     "college": [
       "UCLA"
     ],
-    "numbers": []
+    "numbers": [
+      6
+    ]
   },
   {
     "name": "Cedric Ceballos",
@@ -4106,7 +4923,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Cal State-Fullerton"
     ],
-    "numbers": []
+    "numbers": [
+      1,
+      23
+    ]
   },
   {
     "name": "Cedric Henderson",
@@ -4117,7 +4937,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Memphis"
     ],
-    "numbers": []
+    "numbers": [
+      45
+    ]
   },
   {
     "name": "Cedric Jackson",
@@ -4127,7 +4949,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Cleveland State"
     ],
-    "numbers": []
+    "numbers": [
+      9,
+      11
+    ]
   },
   {
     "name": "Cedric Simmons",
@@ -4139,7 +4964,9 @@ export const NBA_PLAYERS = [
     "college": [
       "North Carolina State"
     ],
-    "numbers": []
+    "numbers": [
+      15
+    ]
   },
   {
     "name": "Cezary Trybanski",
@@ -4158,7 +4985,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Arizona"
     ],
-    "numbers": []
+    "numbers": [
+      50
+    ]
   },
   {
     "name": "Chandler Hutchison",
@@ -4187,7 +5016,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Florida"
     ],
-    "numbers": []
+    "numbers": [
+      25,
+      31
+    ]
   },
   {
     "name": "Channing Frye",
@@ -4202,7 +5034,13 @@ export const NBA_PLAYERS = [
     "college": [
       "Arizona"
     ],
-    "numbers": []
+    "numbers": [
+      7,
+      8,
+      9,
+      12,
+      44
+    ]
   },
   {
     "name": "Charles Barkley",
@@ -4212,7 +5050,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Auburn"
     ],
-    "numbers": []
+    "numbers": [
+      4,
+      34
+    ]
   },
   {
     "name": "Charles Bassey",
@@ -4224,7 +5065,8 @@ export const NBA_PLAYERS = [
       "Western Kentucky"
     ],
     "numbers": [
-      23
+      23,
+      28
     ]
   },
   {
@@ -4235,7 +5077,9 @@ export const NBA_PLAYERS = [
     "college": [
       "University of Dayton"
     ],
-    "numbers": []
+    "numbers": [
+      4
+    ]
   },
   {
     "name": "Charles Jenkins",
@@ -4246,7 +5090,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Hofstra"
     ],
-    "numbers": []
+    "numbers": [
+      22,
+      31
+    ]
   },
   {
     "name": "Charles Jones",
@@ -4256,7 +5103,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Albany State (GA)"
     ],
-    "numbers": []
+    "numbers": [
+      2,
+      11,
+      27
+    ]
   },
   {
     "name": "Charles O'Bannon",
@@ -4266,7 +5117,9 @@ export const NBA_PLAYERS = [
     "college": [
       "UCLA"
     ],
-    "numbers": []
+    "numbers": [
+      5
+    ]
   },
   {
     "name": "Charles Oakley",
@@ -4280,7 +5133,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Virginia Union"
     ],
-    "numbers": []
+    "numbers": [
+      33,
+      34
+    ]
   },
   {
     "name": "Charles R. Jones",
@@ -4301,7 +5157,9 @@ export const NBA_PLAYERS = [
     "college": [
       "North Carolina State"
     ],
-    "numbers": []
+    "numbers": [
+      33
+    ]
   },
   {
     "name": "Charles Smith",
@@ -4315,7 +5173,14 @@ export const NBA_PLAYERS = [
       "New Mexico",
       "Pittsburgh"
     ],
-    "numbers": []
+    "numbers": [
+      3,
+      5,
+      6,
+      7,
+      14,
+      54
+    ]
   },
   {
     "name": "Charlie Bell",
@@ -4327,7 +5192,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Michigan State"
     ],
-    "numbers": []
+    "numbers": [
+      3,
+      14,
+      34,
+      42
+    ]
   },
   {
     "name": "Charlie Brown Jr.",
@@ -4340,6 +5210,7 @@ export const NBA_PLAYERS = [
       "St. Joseph's (PA)"
     ],
     "numbers": [
+      4,
       16,
       44
     ]
@@ -4355,7 +5226,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Connecticut"
     ],
-    "numbers": []
+    "numbers": [
+      3,
+      31
+    ]
   },
   {
     "name": "Charlie Ward",
@@ -4367,7 +5241,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Florida State"
     ],
-    "numbers": []
+    "numbers": [
+      17,
+      21
+    ]
   },
   {
     "name": "Chase Budinger",
@@ -4379,7 +5256,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Arizona"
     ],
-    "numbers": []
+    "numbers": [
+      10
+    ]
   },
   {
     "name": "Chasson Randle",
@@ -4393,6 +5272,9 @@ export const NBA_PLAYERS = [
       "Stanford"
     ],
     "numbers": [
+      4,
+      5,
+      9,
       25
     ]
   },
@@ -4409,7 +5291,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Colorado"
     ],
-    "numbers": []
+    "numbers": [
+      1,
+      3,
+      4,
+      7
+    ]
   },
   {
     "name": "Chaundee Brown Jr.",
@@ -4435,7 +5322,9 @@ export const NBA_PLAYERS = [
       "Kansas"
     ],
     "numbers": [
-      0
+      0,
+      13,
+      14
     ]
   },
   {
@@ -4445,7 +5334,11 @@ export const NBA_PLAYERS = [
       "New York Knicks"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      25,
+      34,
+      35
+    ]
   },
   {
     "name": "Cherokee Parks",
@@ -4459,7 +5352,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Duke"
     ],
-    "numbers": []
+    "numbers": [
+      1,
+      4,
+      18,
+      44
+    ]
   },
   {
     "name": "Chima Moneke",
@@ -4469,7 +5367,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Cal-Davis"
     ],
-    "numbers": []
+    "numbers": [
+      19
+    ]
   },
   {
     "name": "Chimezie Metu",
@@ -4482,6 +5382,8 @@ export const NBA_PLAYERS = [
       "USC"
     ],
     "numbers": [
+      4,
+      5,
       7,
       25
     ]
@@ -4494,7 +5396,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Louisville"
     ],
-    "numbers": []
+    "numbers": [
+      21
+    ]
   },
   {
     "name": "Chris Andersen",
@@ -4509,7 +5413,14 @@ export const NBA_PLAYERS = [
     "college": [
       "Blinn"
     ],
-    "numbers": []
+    "numbers": [
+      0,
+      1,
+      7,
+      11,
+      12,
+      15
+    ]
   },
   {
     "name": "Chris Anstey",
@@ -4518,7 +5429,10 @@ export const NBA_PLAYERS = [
       "Dallas Mavericks"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      11,
+      22
+    ]
   },
   {
     "name": "Chris Babb",
@@ -4528,7 +5442,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Iowa State"
     ],
-    "numbers": []
+    "numbers": [
+      52
+    ]
   },
   {
     "name": "Chris Bosh",
@@ -4539,7 +5455,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Georgia Tech"
     ],
-    "numbers": []
+    "numbers": [
+      1,
+      4
+    ]
   },
   {
     "name": "Chris Boucher",
@@ -4565,7 +5484,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Southern Illinois"
     ],
-    "numbers": []
+    "numbers": [
+      43
+    ]
   },
   {
     "name": "Chris Childs",
@@ -4577,7 +5498,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Boise State"
     ],
-    "numbers": []
+    "numbers": [
+      1,
+      11
+    ]
   },
   {
     "name": "Chris Chiozza",
@@ -4591,7 +5515,8 @@ export const NBA_PLAYERS = [
     ],
     "numbers": [
       2,
-      4
+      4,
+      9
     ]
   },
   {
@@ -4602,7 +5527,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Campbell University"
     ],
-    "numbers": []
+    "numbers": [
+      3
+    ]
   },
   {
     "name": "Chris Copeland",
@@ -4614,7 +5541,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Colorado"
     ],
-    "numbers": []
+    "numbers": [
+      9,
+      14,
+      22
+    ]
   },
   {
     "name": "Chris Crawford",
@@ -4624,7 +5555,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Marquette"
     ],
-    "numbers": []
+    "numbers": [
+      4
+    ]
   },
   {
     "name": "Chris Douglas-Roberts",
@@ -4638,7 +5571,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Memphis"
     ],
-    "numbers": []
+    "numbers": [
+      14,
+      17
+    ]
   },
   {
     "name": "Chris Duarte",
@@ -4649,7 +5585,8 @@ export const NBA_PLAYERS = [
       "Oregon"
     ],
     "numbers": [
-      3
+      3,
+      27
     ]
   },
   {
@@ -4662,7 +5599,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Yale"
     ],
-    "numbers": []
+    "numbers": [
+      14,
+      24
+    ]
   },
   {
     "name": "Chris Duhon",
@@ -4675,7 +5615,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Duke"
     ],
-    "numbers": []
+    "numbers": [
+      1,
+      21,
+      25
+    ]
   },
   {
     "name": "Chris Garner",
@@ -4686,7 +5630,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Memphis"
     ],
-    "numbers": []
+    "numbers": [
+      0,
+      2
+    ]
   },
   {
     "name": "Chris Gatling",
@@ -4700,7 +5647,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Old Dominion"
     ],
-    "numbers": []
+    "numbers": [
+      15,
+      25,
+      32
+    ]
   },
   {
     "name": "Chris Herren",
@@ -4711,7 +5662,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Fresno State"
     ],
-    "numbers": []
+    "numbers": [
+      8,
+      12
+    ]
   },
   {
     "name": "Chris Hunter",
@@ -4721,7 +5675,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Michigan"
     ],
-    "numbers": []
+    "numbers": [
+      31
+    ]
   },
   {
     "name": "Chris Jefferies",
@@ -4732,7 +5688,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Fresno State"
     ],
-    "numbers": []
+    "numbers": [
+      1,
+      6,
+      32
+    ]
   },
   {
     "name": "Chris Jent",
@@ -4742,7 +5702,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Ohio State"
     ],
-    "numbers": []
+    "numbers": [
+      7
+    ]
   },
   {
     "name": "Chris Johnson",
@@ -4758,7 +5720,15 @@ export const NBA_PLAYERS = [
       "Dayton",
       "Louisiana State"
     ],
-    "numbers": []
+    "numbers": [
+      4,
+      12,
+      16,
+      17,
+      20,
+      23,
+      86
+    ]
   },
   {
     "name": "Chris Kaman",
@@ -4772,7 +5742,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Central Michigan"
     ],
-    "numbers": []
+    "numbers": [
+      9,
+      35
+    ]
   },
   {
     "name": "Chris King",
@@ -4782,7 +5755,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Wake Forest"
     ],
-    "numbers": []
+    "numbers": [
+      17,
+      33
+    ]
   },
   {
     "name": "Chris McCray",
@@ -4792,7 +5768,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Maryland"
     ],
-    "numbers": []
+    "numbers": [
+      12
+    ]
   },
   {
     "name": "Chris McCullough",
@@ -4803,7 +5781,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Syracuse"
     ],
-    "numbers": []
+    "numbers": [
+      1
+    ]
   },
   {
     "name": "Chris Mihm",
@@ -4815,7 +5795,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Texas"
     ],
-    "numbers": []
+    "numbers": [
+      4,
+      31
+    ]
   },
   {
     "name": "Chris Mills",
@@ -4827,7 +5810,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Arizona"
     ],
-    "numbers": []
+    "numbers": [
+      24,
+      34,
+      42
+    ]
   },
   {
     "name": "Chris Morris",
@@ -4838,7 +5825,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Auburn"
     ],
-    "numbers": []
+    "numbers": [
+      34,
+      43
+    ]
   },
   {
     "name": "Chris Mullin",
@@ -4849,7 +5839,9 @@ export const NBA_PLAYERS = [
     "college": [
       "St. John's (NY)"
     ],
-    "numbers": []
+    "numbers": [
+      17
+    ]
   },
   {
     "name": "Chris Owens",
@@ -4859,7 +5851,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Texas"
     ],
-    "numbers": []
+    "numbers": [
+      20
+    ]
   },
   {
     "name": "Chris Paul",
@@ -4886,7 +5880,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Auburn"
     ],
-    "numbers": []
+    "numbers": [
+      4
+    ]
   },
   {
     "name": "Chris Quinn",
@@ -4899,7 +5895,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Notre Dame"
     ],
-    "numbers": []
+    "numbers": [
+      1,
+      11,
+      20
+    ]
   },
   {
     "name": "Chris Richard",
@@ -4910,7 +5910,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Florida"
     ],
-    "numbers": []
+    "numbers": [
+      32,
+      35
+    ]
   },
   {
     "name": "Chris Robinson",
@@ -4921,7 +5924,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Western Kentucky"
     ],
-    "numbers": []
+    "numbers": [
+      5
+    ]
   },
   {
     "name": "Chris Silva",
@@ -4945,7 +5950,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Florida State"
     ],
-    "numbers": []
+    "numbers": [
+      31
+    ]
   },
   {
     "name": "Chris Smith",
@@ -4955,7 +5962,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Louisville"
     ],
-    "numbers": []
+    "numbers": [
+      0
+    ]
   },
   {
     "name": "Chris Taft",
@@ -4965,7 +5974,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Pittsburgh"
     ],
-    "numbers": []
+    "numbers": [
+      21
+    ]
   },
   {
     "name": "Chris Webber",
@@ -4979,7 +5990,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Michigan"
     ],
-    "numbers": []
+    "numbers": [
+      4,
+      84
+    ]
   },
   {
     "name": "Chris Whitney",
@@ -4990,7 +6004,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Clemson"
     ],
-    "numbers": []
+    "numbers": [
+      12
+    ]
   },
   {
     "name": "Chris Wilcox",
@@ -5004,7 +6020,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Maryland"
     ],
-    "numbers": []
+    "numbers": [
+      9,
+      44,
+      54
+    ]
   },
   {
     "name": "Chris Wright",
@@ -5017,7 +6037,11 @@ export const NBA_PLAYERS = [
       "Dayton",
       "Georgetown"
     ],
-    "numbers": []
+    "numbers": [
+      8,
+      15,
+      33
+    ]
   },
   {
     "name": "Christian Braun",
@@ -5027,7 +6051,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Kansas"
     ],
-    "numbers": []
+    "numbers": [
+      0
+    ]
   },
   {
     "name": "Christian Eyenga",
@@ -5036,7 +6062,10 @@ export const NBA_PLAYERS = [
       "Los Angeles Lakers"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      8,
+      88
+    ]
   },
   {
     "name": "Christian Koloko",
@@ -5046,7 +6075,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Arizona"
     ],
-    "numbers": []
+    "numbers": [
+      10,
+      35
+    ]
   },
   {
     "name": "Christian Laettner",
@@ -5059,7 +6091,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Duke"
     ],
-    "numbers": []
+    "numbers": [
+      32,
+      44
+    ]
   },
   {
     "name": "Christian Wood",
@@ -5090,7 +6125,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Kentucky"
     ],
-    "numbers": []
+    "numbers": [
+      42,
+      44
+    ]
   },
   {
     "name": "Chuck Person",
@@ -5102,7 +6140,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Auburn"
     ],
-    "numbers": []
+    "numbers": [
+      45
+    ]
   },
   {
     "name": "Chucky Atkins",
@@ -5118,7 +6158,16 @@ export const NBA_PLAYERS = [
     "college": [
       "South Florida"
     ],
-    "numbers": []
+    "numbers": [
+      3,
+      7,
+      8,
+      9,
+      12,
+      17,
+      31,
+      32
+    ]
   },
   {
     "name": "Chucky Brown",
@@ -5132,7 +6181,10 @@ export const NBA_PLAYERS = [
     "college": [
       "North Carolina State"
     ],
-    "numbers": []
+    "numbers": [
+      25,
+      52
+    ]
   },
   {
     "name": "Chuma Okeke",
@@ -5143,7 +6195,8 @@ export const NBA_PLAYERS = [
       "Auburn"
     ],
     "numbers": [
-      3
+      3,
+      18
     ]
   },
   {
@@ -5169,7 +6222,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Wichita State"
     ],
-    "numbers": []
+    "numbers": [
+      11,
+      17
+    ]
   },
   {
     "name": "Cliff Alexander",
@@ -5179,7 +6235,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Kansas"
     ],
-    "numbers": []
+    "numbers": [
+      34
+    ]
   },
   {
     "name": "Clifford Robinson",
@@ -5193,7 +6251,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Connecticut"
     ],
-    "numbers": []
+    "numbers": [
+      3,
+      30
+    ]
   },
   {
     "name": "Clifford Rozier",
@@ -5204,7 +6265,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Louisville"
     ],
-    "numbers": []
+    "numbers": [
+      7,
+      22,
+      44
+    ]
   },
   {
     "name": "Clint Capela",
@@ -5225,7 +6290,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Houston"
     ],
-    "numbers": []
+    "numbers": [
+      22
+    ]
   },
   {
     "name": "Coby Karl",
@@ -5236,7 +6303,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Boise State"
     ],
-    "numbers": []
+    "numbers": [
+      5,
+      11
+    ]
   },
   {
     "name": "Coby White",
@@ -5259,7 +6329,9 @@ export const NBA_PLAYERS = [
       "Nevada",
       "Nevada-Reno"
     ],
-    "numbers": []
+    "numbers": [
+      17
+    ]
   },
   {
     "name": "Cody Zeller",
@@ -5272,7 +6344,8 @@ export const NBA_PLAYERS = [
       "Indiana"
     ],
     "numbers": [
-      40
+      40,
+      44
     ]
   },
   {
@@ -5287,7 +6360,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Kansas"
     ],
-    "numbers": []
+    "numbers": [
+      31,
+      45
+    ]
   },
   {
     "name": "Cole Anthony",
@@ -5309,7 +6385,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Syracuse"
     ],
-    "numbers": []
+    "numbers": [
+      12,
+      13,
+      20,
+      21
+    ]
   },
   {
     "name": "Collin Sexton",
@@ -5332,7 +6413,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Arkansas"
     ],
-    "numbers": []
+    "numbers": [
+      14,
+      15,
+      20
+    ]
   },
   {
     "name": "Corey Benjamin",
@@ -5343,7 +6428,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Oregon State"
     ],
-    "numbers": []
+    "numbers": [
+      25
+    ]
   },
   {
     "name": "Corey Brewer",
@@ -5359,7 +6446,13 @@ export const NBA_PLAYERS = [
     "college": [
       "Florida"
     ],
-    "numbers": []
+    "numbers": [
+      0,
+      3,
+      13,
+      22,
+      33
+    ]
   },
   {
     "name": "Corey Kispert",
@@ -5386,7 +6479,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Duke"
     ],
-    "numbers": []
+    "numbers": [
+      5,
+      50
+    ]
   },
   {
     "name": "Corie Blount",
@@ -5402,7 +6498,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Cincinnati"
     ],
-    "numbers": []
+    "numbers": [
+      40,
+      43,
+      44
+    ]
   },
   {
     "name": "Corliss Williamson",
@@ -5413,7 +6513,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Arkansas"
     ],
-    "numbers": []
+    "numbers": [
+      4,
+      14,
+      34,
+      35
+    ]
   },
   {
     "name": "Corsley Edwards",
@@ -5423,7 +6528,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Central Connecticut State"
     ],
-    "numbers": []
+    "numbers": [
+      34
+    ]
   },
   {
     "name": "Cory Alexander",
@@ -5436,7 +6543,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Virginia"
     ],
-    "numbers": []
+    "numbers": [
+      1,
+      2,
+      7
+    ]
   },
   {
     "name": "Cory Carr",
@@ -5446,7 +6557,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Texas Tech"
     ],
-    "numbers": []
+    "numbers": [
+      21
+    ]
   },
   {
     "name": "Cory Higgins",
@@ -5467,7 +6580,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Baylor"
     ],
-    "numbers": []
+    "numbers": [
+      21,
+      55
+    ]
   },
   {
     "name": "Cory Joseph",
@@ -5484,7 +6600,11 @@ export const NBA_PLAYERS = [
       "University of Texas at Austin"
     ],
     "numbers": [
+      1,
+      5,
+      6,
       9,
+      10,
       18
     ]
   },
@@ -5494,7 +6614,9 @@ export const NBA_PLAYERS = [
       "Boston Celtics"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      63
+    ]
   },
   {
     "name": "Courtney Alexander",
@@ -5505,7 +6627,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Fresno State"
     ],
-    "numbers": []
+    "numbers": [
+      4,
+      8,
+      32
+    ]
   },
   {
     "name": "Courtney Fortson",
@@ -5515,7 +6641,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Arkansas"
     ],
-    "numbers": []
+    "numbers": [
+      9,
+      17
+    ]
   },
   {
     "name": "Courtney Lee",
@@ -5532,7 +6661,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Western Kentucky"
     ],
-    "numbers": []
+    "numbers": [
+      1,
+      5,
+      6,
+      11
+    ]
   },
   {
     "name": "Courtney Sims",
@@ -5543,7 +6677,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Michigan"
     ],
-    "numbers": []
+    "numbers": [
+      4,
+      44
+    ]
   },
   {
     "name": "Craig Brackins",
@@ -5553,7 +6690,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Iowa State"
     ],
-    "numbers": []
+    "numbers": [
+      33
+    ]
   },
   {
     "name": "Craig Ehlo",
@@ -5563,7 +6702,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Washington State"
     ],
-    "numbers": []
+    "numbers": [
+      3
+    ]
   },
   {
     "name": "Craig Smith",
@@ -5575,7 +6716,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Boston College"
     ],
-    "numbers": []
+    "numbers": [
+      1,
+      5,
+      83
+    ]
   },
   {
     "name": "Craig Sword",
@@ -5605,7 +6750,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Purdue"
     ],
-    "numbers": []
+    "numbers": [
+      21,
+      40
+    ]
   },
   {
     "name": "Curtis Borchardt",
@@ -5615,7 +6763,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Stanford"
     ],
-    "numbers": []
+    "numbers": [
+      22
+    ]
   },
   {
     "name": "Cuttino Mobley",
@@ -5627,7 +6777,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Rhode Island"
     ],
-    "numbers": []
+    "numbers": [
+      3,
+      5
+    ]
   },
   {
     "name": "D'Angelo Russell",
@@ -5640,7 +6793,8 @@ export const NBA_PLAYERS = [
       "Ohio State"
     ],
     "numbers": [
-      0
+      0,
+      1
     ]
   },
   {
@@ -5673,7 +6827,9 @@ export const NBA_PLAYERS = [
     "college": [
       "St. John's (NY)"
     ],
-    "numbers": []
+    "numbers": [
+      12
+    ]
   },
   {
     "name": "D.J. Wilson",
@@ -5688,7 +6844,8 @@ export const NBA_PLAYERS = [
     "numbers": [
       0,
       5,
-      9
+      9,
+      20
     ]
   },
   {
@@ -5744,7 +6901,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Georgetown"
     ],
-    "numbers": []
+    "numbers": [
+      22,
+      35
+    ]
   },
   {
     "name": "DaQuan Jeffries",
@@ -5757,6 +6917,7 @@ export const NBA_PLAYERS = [
       "Tulsa"
     ],
     "numbers": [
+      8,
       19,
       55
     ]
@@ -5771,7 +6932,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Ohio State"
     ],
-    "numbers": []
+    "numbers": [
+      14
+    ]
   },
   {
     "name": "Dahntay Jones",
@@ -5787,7 +6950,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Duke"
     ],
-    "numbers": []
+    "numbers": [
+      1,
+      7,
+      30,
+      31
+    ]
   },
   {
     "name": "Dairis Bertans",
@@ -5804,6 +6972,8 @@ export const NBA_PLAYERS = [
     ],
     "college": [],
     "numbers": [
+      1,
+      12,
       15
     ]
   },
@@ -5816,7 +6986,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Memphis"
     ],
-    "numbers": []
+    "numbers": [
+      0,
+      2
+    ]
   },
   {
     "name": "Dakari Johnson",
@@ -5826,7 +6999,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Kentucky"
     ],
-    "numbers": []
+    "numbers": [
+      44
+    ]
   },
   {
     "name": "Dakota Mathias",
@@ -5851,6 +7026,7 @@ export const NBA_PLAYERS = [
       "Nebraska"
     ],
     "numbers": [
+      5,
       45
     ]
   },
@@ -5864,7 +7040,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Clemson"
     ],
-    "numbers": []
+    "numbers": [
+      32,
+      34
+    ]
   },
   {
     "name": "Dale Ellis",
@@ -5876,7 +7055,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Tennessee"
     ],
-    "numbers": []
+    "numbers": [
+      3,
+      9
+    ]
   },
   {
     "name": "Dalen Terry",
@@ -5886,7 +7068,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Arizona"
     ],
-    "numbers": []
+    "numbers": [
+      14,
+      25
+    ]
   },
   {
     "name": "Dalibor Bagaric",
@@ -5930,7 +7115,9 @@ export const NBA_PLAYERS = [
       "Milwaukee Bucks"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      17
+    ]
   },
   {
     "name": "Damien Wilkins",
@@ -5946,7 +7133,13 @@ export const NBA_PLAYERS = [
     "college": [
       "Georgia"
     ],
-    "numbers": []
+    "numbers": [
+      3,
+      8,
+      9,
+      12,
+      21
+    ]
   },
   {
     "name": "Damion James",
@@ -5958,7 +7151,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Texas"
     ],
-    "numbers": []
+    "numbers": [
+      7,
+      10,
+      14
+    ]
   },
   {
     "name": "Damion Lee",
@@ -5972,7 +7169,9 @@ export const NBA_PLAYERS = [
       "Louisville"
     ],
     "numbers": [
-      1
+      1,
+      8,
+      10
     ]
   },
   {
@@ -5981,7 +7180,9 @@ export const NBA_PLAYERS = [
       "Milwaukee Bucks"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      52
+    ]
   },
   {
     "name": "Damjan Rudez",
@@ -6008,7 +7209,13 @@ export const NBA_PLAYERS = [
     "college": [
       "Houston"
     ],
-    "numbers": []
+    "numbers": [
+      9,
+      11,
+      13,
+      14,
+      19
+    ]
   },
   {
     "name": "Damon Stoudamire",
@@ -6021,7 +7228,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Arizona"
     ],
-    "numbers": []
+    "numbers": [
+      3,
+      20
+    ]
   },
   {
     "name": "Damone Brown",
@@ -6034,7 +7244,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Syracuse"
     ],
-    "numbers": []
+    "numbers": [
+      10,
+      25,
+      31,
+      54
+    ]
   },
   {
     "name": "Damyean Dotson",
@@ -6061,7 +7276,14 @@ export const NBA_PLAYERS = [
     "college": [
       "Gonzaga"
     ],
-    "numbers": []
+    "numbers": [
+      2,
+      7,
+      10,
+      12,
+      20,
+      21
+    ]
   },
   {
     "name": "Dan Gadzuric",
@@ -6073,7 +7295,9 @@ export const NBA_PLAYERS = [
     "college": [
       "UCLA"
     ],
-    "numbers": []
+    "numbers": [
+      50
+    ]
   },
   {
     "name": "Dan Langhi",
@@ -6085,7 +7309,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Vanderbilt"
     ],
-    "numbers": []
+    "numbers": [
+      3,
+      7,
+      14
+    ]
   },
   {
     "name": "Dan Majerle",
@@ -6096,7 +7324,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Central Michigan"
     ],
-    "numbers": []
+    "numbers": [
+      9
+    ]
   },
   {
     "name": "Dan McClintock",
@@ -6106,7 +7336,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Northern Arizona"
     ],
-    "numbers": []
+    "numbers": [
+      50
+    ]
   },
   {
     "name": "Dan Schayes",
@@ -6127,7 +7359,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Boston College"
     ],
-    "numbers": []
+    "numbers": [
+      1,
+      11,
+      13
+    ]
   },
   {
     "name": "Daniel Ewing",
@@ -6137,7 +7373,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Duke"
     ],
-    "numbers": []
+    "numbers": [
+      3
+    ]
   },
   {
     "name": "Daniel Gafford",
@@ -6161,7 +7399,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Texas"
     ],
-    "numbers": []
+    "numbers": [
+      1
+    ]
   },
   {
     "name": "Daniel Hamilton",
@@ -6172,7 +7412,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Connecticut"
     ],
-    "numbers": []
+    "numbers": [
+      5,
+      25
+    ]
   },
   {
     "name": "Daniel Ochefu",
@@ -6182,7 +7425,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Villanova"
     ],
-    "numbers": []
+    "numbers": [
+      32
+    ]
   },
   {
     "name": "Daniel Orton",
@@ -6194,7 +7439,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Kentucky"
     ],
-    "numbers": []
+    "numbers": [
+      21,
+      33
+    ]
   },
   {
     "name": "Daniel Oturu",
@@ -6219,7 +7467,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Saint Vincent"
     ],
-    "numbers": []
+    "numbers": [
+      15,
+      55
+    ]
   },
   {
     "name": "Daniel Theis",
@@ -6230,6 +7481,7 @@ export const NBA_PLAYERS = [
     ],
     "college": [],
     "numbers": [
+      10,
       27
     ]
   },
@@ -6244,7 +7496,9 @@ export const NBA_PLAYERS = [
     ],
     "college": [],
     "numbers": [
-      8
+      8,
+      12,
+      88
     ]
   },
   {
@@ -6256,7 +7510,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Duke"
     ],
-    "numbers": []
+    "numbers": [
+      35
+    ]
   },
   {
     "name": "Danny Fortson",
@@ -6270,7 +7526,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Cincinnati"
     ],
-    "numbers": []
+    "numbers": [
+      15,
+      21,
+      27
+    ]
   },
   {
     "name": "Danny Granger",
@@ -6282,7 +7542,10 @@ export const NBA_PLAYERS = [
     "college": [
       "New Mexico"
     ],
-    "numbers": []
+    "numbers": [
+      22,
+      33
+    ]
   },
   {
     "name": "Danny Green",
@@ -6297,6 +7560,7 @@ export const NBA_PLAYERS = [
       "North Carolina"
     ],
     "numbers": [
+      4,
       14
     ]
   },
@@ -6312,7 +7576,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Kansas"
     ],
-    "numbers": []
+    "numbers": [
+      5,
+      6,
+      15,
+      25
+    ]
   },
   {
     "name": "Dante Cunningham",
@@ -6328,7 +7597,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Villanova"
     ],
-    "numbers": []
+    "numbers": [
+      33,
+      44
+    ]
   },
   {
     "name": "Dante Exum",
@@ -6363,6 +7635,7 @@ export const NBA_PLAYERS = [
     ],
     "numbers": [
       4,
+      23,
       25,
       44
     ]
@@ -6375,7 +7648,9 @@ export const NBA_PLAYERS = [
     "college": [
       "New Mexico"
     ],
-    "numbers": []
+    "numbers": [
+      11
+    ]
   },
   {
     "name": "Dario Saric",
@@ -6396,7 +7671,10 @@ export const NBA_PLAYERS = [
     ],
     "college": [],
     "numbers": [
-      7
+      7,
+      21,
+      25,
+      55
     ]
   },
   {
@@ -6407,7 +7685,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Louisiana State"
     ],
-    "numbers": []
+    "numbers": [
+      5
+    ]
   },
   {
     "name": "Darius Garland",
@@ -6430,7 +7710,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Marquette"
     ],
-    "numbers": []
+    "numbers": [
+      0,
+      7
+    ]
   },
   {
     "name": "Darius Miles",
@@ -6441,7 +7724,11 @@ export const NBA_PLAYERS = [
       "Portland Trail Blazers"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      3,
+      21,
+      23
+    ]
   },
   {
     "name": "Darius Miller",
@@ -6454,7 +7741,9 @@ export const NBA_PLAYERS = [
       "Kentucky"
     ],
     "numbers": [
-      12
+      2,
+      12,
+      21
     ]
   },
   {
@@ -6467,7 +7756,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Michigan"
     ],
-    "numbers": []
+    "numbers": [
+      1,
+      7,
+      14
+    ]
   },
   {
     "name": "Darius Songaila",
@@ -6481,7 +7774,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Wake Forest"
     ],
-    "numbers": []
+    "numbers": [
+      9,
+      25
+    ]
   },
   {
     "name": "Darius Washington",
@@ -6491,7 +7787,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Memphis"
     ],
-    "numbers": []
+    "numbers": [
+      35
+    ]
   },
   {
     "name": "Darko Milicic",
@@ -6515,7 +7813,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Kansas"
     ],
-    "numbers": []
+    "numbers": [
+      0,
+      41
+    ]
   },
   {
     "name": "Darrell Armstrong",
@@ -6529,7 +7830,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Fayetteville State"
     ],
-    "numbers": []
+    "numbers": [
+      3,
+      10,
+      24
+    ]
   },
   {
     "name": "Darrell Arthur",
@@ -6540,7 +7845,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Kansas"
     ],
-    "numbers": []
+    "numbers": [
+      0
+    ]
   },
   {
     "name": "Darren Collison",
@@ -6556,6 +7863,9 @@ export const NBA_PLAYERS = [
       "UCLA"
     ],
     "numbers": [
+      2,
+      4,
+      7,
       21
     ]
   },
@@ -6571,7 +7881,11 @@ export const NBA_PLAYERS = [
     "college": [
       "UCLA"
     ],
-    "numbers": []
+    "numbers": [
+      2,
+      5,
+      15
+    ]
   },
   {
     "name": "Darrin Hancock",
@@ -6581,7 +7895,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Kansas"
     ],
-    "numbers": []
+    "numbers": [
+      4,
+      12,
+      35
+    ]
   },
   {
     "name": "Darrun Hilliard",
@@ -6592,7 +7910,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Villanova"
     ],
-    "numbers": []
+    "numbers": [
+      6,
+      24
+    ]
   },
   {
     "name": "Darryl Watkins",
@@ -6603,7 +7924,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Syracuse"
     ],
-    "numbers": []
+    "numbers": [
+      13,
+      31
+    ]
   },
   {
     "name": "Darvin Ham",
@@ -6617,7 +7941,13 @@ export const NBA_PLAYERS = [
     "college": [
       "Texas Tech"
     ],
-    "numbers": []
+    "numbers": [
+      8,
+      21,
+      24,
+      31,
+      35
+    ]
   },
   {
     "name": "Daryl Macon",
@@ -6628,7 +7958,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Arkansas"
     ],
-    "numbers": []
+    "numbers": [
+      3,
+      15
+    ]
   },
   {
     "name": "David Andersen",
@@ -6637,7 +7970,10 @@ export const NBA_PLAYERS = [
       "New Orleans Hornets"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      11,
+      13
+    ]
   },
   {
     "name": "David Benoit",
@@ -6648,7 +7984,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Alabama"
     ],
-    "numbers": []
+    "numbers": [
+      2,
+      21
+    ]
   },
   {
     "name": "David Duke Jr.",
@@ -6659,7 +7998,8 @@ export const NBA_PLAYERS = [
       "Providence"
     ],
     "numbers": [
-      6
+      6,
+      7
     ]
   },
   {
@@ -6670,7 +8010,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Colorado"
     ],
-    "numbers": []
+    "numbers": [
+      13
+    ]
   },
   {
     "name": "David Johnson",
@@ -6695,7 +8037,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Florida"
     ],
-    "numbers": []
+    "numbers": [
+      10,
+      42
+    ]
   },
   {
     "name": "David Noel",
@@ -6705,7 +8050,9 @@ export const NBA_PLAYERS = [
     "college": [
       "North Carolina"
     ],
-    "numbers": []
+    "numbers": [
+      34
+    ]
   },
   {
     "name": "David Nwaba",
@@ -6719,7 +8066,11 @@ export const NBA_PLAYERS = [
       "Cal Poly"
     ],
     "numbers": [
-      2
+      0,
+      2,
+      10,
+      11,
+      12
     ]
   },
   {
@@ -6730,7 +8081,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Navy"
     ],
-    "numbers": []
+    "numbers": [
+      50
+    ]
   },
   {
     "name": "David Roddy",
@@ -6740,7 +8093,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Colorado State"
     ],
-    "numbers": []
+    "numbers": [
+      8,
+      21,
+      27,
+      45
+    ]
   },
   {
     "name": "David Stockton",
@@ -6751,7 +8109,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Gonzaga"
     ],
-    "numbers": []
+    "numbers": [
+      5,
+      9
+    ]
   },
   {
     "name": "David Vanterpool",
@@ -6761,7 +8122,9 @@ export const NBA_PLAYERS = [
     "college": [
       "St. Bonaventure"
     ],
-    "numbers": []
+    "numbers": [
+      22
+    ]
   },
   {
     "name": "David Vaughn",
@@ -6772,7 +8135,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Memphis"
     ],
-    "numbers": []
+    "numbers": [
+      34,
+      42,
+      50
+    ]
   },
   {
     "name": "David Wear",
@@ -6782,7 +8149,9 @@ export const NBA_PLAYERS = [
     "college": [
       "UCLA"
     ],
-    "numbers": []
+    "numbers": [
+      31
+    ]
   },
   {
     "name": "David Wesley",
@@ -6796,7 +8165,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Baylor"
     ],
-    "numbers": []
+    "numbers": [
+      4,
+      7
+    ]
   },
   {
     "name": "David West",
@@ -6810,7 +8182,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Xavier"
     ],
-    "numbers": []
+    "numbers": [
+      3,
+      21,
+      30
+    ]
   },
   {
     "name": "David Wingate",
@@ -6821,7 +8197,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Georgetown"
     ],
-    "numbers": []
+    "numbers": [
+      25,
+      26
+    ]
   },
   {
     "name": "David Wood",
@@ -6831,7 +8210,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Nevada-Reno"
     ],
-    "numbers": []
+    "numbers": [
+      7,
+      10,
+      12
+    ]
   },
   {
     "name": "Davion Mitchell",
@@ -6842,7 +8225,8 @@ export const NBA_PLAYERS = [
       "Baylor"
     ],
     "numbers": [
-      15
+      15,
+      45
     ]
   },
   {
@@ -6867,7 +8251,9 @@ export const NBA_PLAYERS = [
       "Miami"
     ],
     "numbers": [
-      9
+      9,
+      11,
+      32
     ]
   },
   {
@@ -6891,6 +8277,7 @@ export const NBA_PLAYERS = [
       "Kentucky"
     ],
     "numbers": [
+      4,
       5
     ]
   },
@@ -6903,7 +8290,8 @@ export const NBA_PLAYERS = [
       "Virginia"
     ],
     "numbers": [
-      12
+      12,
+      15
     ]
   },
   {
@@ -6918,7 +8306,9 @@ export const NBA_PLAYERS = [
       "USC"
     ],
     "numbers": [
-      0
+      0,
+      8,
+      14
     ]
   },
   {
@@ -6951,7 +8341,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Kentucky"
     ],
-    "numbers": []
+    "numbers": [
+      14,
+      25,
+      34
+    ]
   },
   {
     "name": "DeAndre' Bembry",
@@ -6977,7 +8371,8 @@ export const NBA_PLAYERS = [
       "Houston"
     ],
     "numbers": [
-      17
+      17,
+      77
     ]
   },
   {
@@ -6990,7 +8385,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Pittsburgh"
     ],
-    "numbers": []
+    "numbers": [
+      45
+    ]
   },
   {
     "name": "DeJuan Wheat",
@@ -7001,7 +8398,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Louisville"
     ],
-    "numbers": []
+    "numbers": [
+      6,
+      32
+    ]
   },
   {
     "name": "DeMar DeRozan",
@@ -7027,7 +8427,9 @@ export const NBA_PLAYERS = [
     "college": [
       "North Carolina-Charlotte"
     ],
-    "numbers": []
+    "numbers": [
+      4
+    ]
   },
   {
     "name": "DeMarcus Cousins",
@@ -7042,6 +8444,7 @@ export const NBA_PLAYERS = [
       "Kentucky"
     ],
     "numbers": [
+      0,
       4,
       15
     ]
@@ -7054,7 +8457,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Duke"
     ],
-    "numbers": []
+    "numbers": [
+      20
+    ]
   },
   {
     "name": "DeMarre Carroll",
@@ -7069,7 +8474,14 @@ export const NBA_PLAYERS = [
     "college": [
       "Missouri"
     ],
-    "numbers": []
+    "numbers": [
+      0,
+      1,
+      3,
+      5,
+      9,
+      77
+    ]
   },
   {
     "name": "DeQuan Jones",
@@ -7079,7 +8491,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Miami (FL)"
     ],
-    "numbers": []
+    "numbers": [
+      20
+    ]
   },
   {
     "name": "DeSagana Diop",
@@ -7090,7 +8504,11 @@ export const NBA_PLAYERS = [
       "New Jersey Nets"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      7,
+      14,
+      52
+    ]
   },
   {
     "name": "DeShawn Stevenson",
@@ -7103,7 +8521,11 @@ export const NBA_PLAYERS = [
       "Washington Wizards"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      2,
+      9,
+      92
+    ]
   },
   {
     "name": "DeVaughn Akoon-Purcell",
@@ -7113,7 +8535,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Illinois State"
     ],
-    "numbers": []
+    "numbers": [
+      23
+    ]
   },
   {
     "name": "Dean Garrett",
@@ -7125,7 +8549,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Indiana"
     ],
-    "numbers": []
+    "numbers": [
+      21,
+      22
+    ]
   },
   {
     "name": "Dean Oliver",
@@ -7135,7 +8562,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Iowa"
     ],
-    "numbers": []
+    "numbers": [
+      2
+    ]
   },
   {
     "name": "Dean Wade",
@@ -7158,6 +8587,8 @@ export const NBA_PLAYERS = [
       "Arizona"
     ],
     "numbers": [
+      2,
+      5,
       22
     ]
   },
@@ -7169,7 +8600,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Iowa State"
     ],
-    "numbers": []
+    "numbers": [
+      9
+    ]
   },
   {
     "name": "Dee Brown",
@@ -7184,7 +8617,11 @@ export const NBA_PLAYERS = [
       "Illinois",
       "Jacksonville"
     ],
-    "numbers": []
+    "numbers": [
+      7,
+      11,
+      17
+    ]
   },
   {
     "name": "Deividas Sirvydis",
@@ -7219,7 +8656,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Virginia Tech"
     ],
-    "numbers": []
+    "numbers": [
+      30
+    ]
   },
   {
     "name": "Dell Demps",
@@ -7229,7 +8668,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Pacific"
     ],
-    "numbers": []
+    "numbers": [
+      5
+    ]
   },
   {
     "name": "Delon Wright",
@@ -7246,6 +8687,8 @@ export const NBA_PLAYERS = [
     ],
     "numbers": [
       0,
+      2,
+      4,
       55
     ]
   },
@@ -7259,7 +8702,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Saint Joseph's"
     ],
-    "numbers": []
+    "numbers": [
+      2,
+      13
+    ]
   },
   {
     "name": "Demetris Nichols",
@@ -7270,7 +8716,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Syracuse"
     ],
-    "numbers": []
+    "numbers": [
+      35
+    ]
   },
   {
     "name": "Demetrius Jackson",
@@ -7281,7 +8729,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Notre Dame"
     ],
-    "numbers": []
+    "numbers": [
+      2,
+      9,
+      11
+    ]
   },
   {
     "name": "Deng Adel",
@@ -7289,7 +8741,9 @@ export const NBA_PLAYERS = [
       "Cleveland Cavaliers"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      32
+    ]
   },
   {
     "name": "Deng Gai",
@@ -7299,7 +8753,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Fairfield"
     ],
-    "numbers": []
+    "numbers": [
+      35
+    ]
   },
   {
     "name": "Deni Avdija",
@@ -7308,6 +8764,7 @@ export const NBA_PLAYERS = [
     ],
     "college": [],
     "numbers": [
+      8,
       9
     ]
   },
@@ -7319,7 +8776,9 @@ export const NBA_PLAYERS = [
     "college": [
       "North Carolina State"
     ],
-    "numbers": []
+    "numbers": [
+      31
+    ]
   },
   {
     "name": "Dennis Rodman",
@@ -7331,7 +8790,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Southeastern Oklahoma State"
     ],
-    "numbers": []
+    "numbers": [
+      70,
+      73,
+      91
+    ]
   },
   {
     "name": "Dennis Schroder",
@@ -7355,7 +8818,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Georgia Tech"
     ],
-    "numbers": []
+    "numbers": [
+      3,
+      7,
+      9
+    ]
   },
   {
     "name": "Dennis Smith Jr.",
@@ -7371,7 +8838,9 @@ export const NBA_PLAYERS = [
     ],
     "numbers": [
       0,
+      1,
       4,
+      5,
       10
     ]
   },
@@ -7398,7 +8867,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Iowa State"
     ],
-    "numbers": []
+    "numbers": [
+      24,
+      30
+    ]
   },
   {
     "name": "DerMarr Johnson",
@@ -7411,7 +8883,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Cincinnati"
     ],
-    "numbers": []
+    "numbers": [
+      1,
+      3,
+      4
+    ]
   },
   {
     "name": "Derek Anderson",
@@ -7426,7 +8902,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Kentucky"
     ],
-    "numbers": []
+    "numbers": [
+      1,
+      5,
+      8,
+      23
+    ]
   },
   {
     "name": "Derek Fisher",
@@ -7439,7 +8920,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Arkansas-Little Rock"
     ],
-    "numbers": []
+    "numbers": [
+      2,
+      4,
+      6,
+      37
+    ]
   },
   {
     "name": "Derek Grimm",
@@ -7449,7 +8935,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Missouri"
     ],
-    "numbers": []
+    "numbers": [
+      54
+    ]
   },
   {
     "name": "Derek Harper",
@@ -7461,7 +8949,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Illinois"
     ],
-    "numbers": []
+    "numbers": [
+      11,
+      12
+    ]
   },
   {
     "name": "Derek Hood",
@@ -7471,7 +8962,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Arkansas"
     ],
-    "numbers": []
+    "numbers": [
+      55
+    ]
   },
   {
     "name": "Derek Strong",
@@ -7482,7 +8975,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Xavier"
     ],
-    "numbers": []
+    "numbers": [
+      7,
+      30,
+      33
+    ]
   },
   {
     "name": "Dereon Seabron",
@@ -7492,7 +8989,9 @@ export const NBA_PLAYERS = [
     "college": [
       "North Carolina State"
     ],
-    "numbers": []
+    "numbers": [
+      0
+    ]
   },
   {
     "name": "Deron Williams",
@@ -7506,7 +9005,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Illinois"
     ],
-    "numbers": []
+    "numbers": [
+      8,
+      31
+    ]
   },
   {
     "name": "Derrick Alston",
@@ -7516,7 +9018,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Duquesne"
     ],
-    "numbers": []
+    "numbers": [
+      21,
+      45
+    ]
   },
   {
     "name": "Derrick Brown",
@@ -7527,7 +9032,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Xavier"
     ],
-    "numbers": []
+    "numbers": [
+      2
+    ]
   },
   {
     "name": "Derrick Byars",
@@ -7537,7 +9044,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Vanderbilt"
     ],
-    "numbers": []
+    "numbers": [
+      34
+    ]
   },
   {
     "name": "Derrick Caracter",
@@ -7547,7 +9056,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Texas-El Paso"
     ],
-    "numbers": []
+    "numbers": [
+      45
+    ]
   },
   {
     "name": "Derrick Coleman",
@@ -7559,7 +9070,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Syracuse"
     ],
-    "numbers": []
+    "numbers": [
+      44
+    ]
   },
   {
     "name": "Derrick Dial",
@@ -7571,7 +9084,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Eastern Michigan"
     ],
-    "numbers": []
+    "numbers": [
+      5,
+      10,
+      13,
+      44
+    ]
   },
   {
     "name": "Derrick Favors",
@@ -7584,7 +9102,9 @@ export const NBA_PLAYERS = [
       "Georgia Tech"
     ],
     "numbers": [
-      15
+      14,
+      15,
+      22
     ]
   },
   {
@@ -7600,7 +9120,9 @@ export const NBA_PLAYERS = [
       "UNLV"
     ],
     "numbers": [
-      5
+      5,
+      10,
+      55
     ]
   },
   {
@@ -7612,7 +9134,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Alabama"
     ],
-    "numbers": []
+    "numbers": [
+      9
+    ]
   },
   {
     "name": "Derrick Rose",
@@ -7626,7 +9150,9 @@ export const NBA_PLAYERS = [
       "Memphis"
     ],
     "numbers": [
+      1,
       4,
+      23,
       25
     ]
   },
@@ -7667,7 +9193,13 @@ export const NBA_PLAYERS = [
     "college": [
       "Arizona"
     ],
-    "numbers": []
+    "numbers": [
+      6,
+      7,
+      13,
+      22,
+      23
+    ]
   },
   {
     "name": "Derrick Zimmerman",
@@ -7677,7 +9209,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Mississippi State"
     ],
-    "numbers": []
+    "numbers": [
+      2
+    ]
   },
   {
     "name": "Desmon Farmer",
@@ -7688,7 +9222,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Southern California"
     ],
-    "numbers": []
+    "numbers": [
+      33
+    ]
   },
   {
     "name": "Desmond Bane",
@@ -7699,6 +9235,7 @@ export const NBA_PLAYERS = [
       "TCU"
     ],
     "numbers": [
+      3,
       22
     ]
   },
@@ -7710,7 +9247,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Detroit Mercy"
     ],
-    "numbers": []
+    "numbers": [
+      5
+    ]
   },
   {
     "name": "Desmond Mason",
@@ -7724,7 +9263,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Oklahoma State"
     ],
-    "numbers": []
+    "numbers": [
+      24,
+      34
+    ]
   },
   {
     "name": "Desmond Penigar",
@@ -7734,7 +9276,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Utah State"
     ],
-    "numbers": []
+    "numbers": [
+      26
+    ]
   },
   {
     "name": "Detlef Schrempf",
@@ -7745,7 +9289,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Washington"
     ],
-    "numbers": []
+    "numbers": [
+      11,
+      12
+    ]
   },
   {
     "name": "Devean George",
@@ -7757,7 +9304,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Augsburg"
     ],
-    "numbers": []
+    "numbers": [
+      3,
+      19,
+      40
+    ]
   },
   {
     "name": "Devin Booker",
@@ -7785,7 +9336,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Texas-San Antonio"
     ],
-    "numbers": []
+    "numbers": [
+      14,
+      23,
+      32,
+      33
+    ]
   },
   {
     "name": "Devin Cannady",
@@ -7807,7 +9363,9 @@ export const NBA_PLAYERS = [
     "college": [
       "West Virginia"
     ],
-    "numbers": []
+    "numbers": [
+      3
+    ]
   },
   {
     "name": "Devin Gray",
@@ -7818,7 +9376,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Clemson"
     ],
-    "numbers": []
+    "numbers": [
+      4,
+      9,
+      45
+    ]
   },
   {
     "name": "Devin Green",
@@ -7828,7 +9390,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Hampton"
     ],
-    "numbers": []
+    "numbers": [
+      11
+    ]
   },
   {
     "name": "Devin Harris",
@@ -7842,7 +9406,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Wisconsin"
     ],
-    "numbers": []
+    "numbers": [
+      5,
+      20,
+      34
+    ]
   },
   {
     "name": "Devin Robinson",
@@ -7852,7 +9420,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Florida"
     ],
-    "numbers": []
+    "numbers": [
+      7
+    ]
   },
   {
     "name": "Devin Vassell",
@@ -7876,7 +9446,8 @@ export const NBA_PLAYERS = [
       "Kansas"
     ],
     "numbers": [
-      3
+      3,
+      15
     ]
   },
   {
@@ -7925,7 +9496,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Iowa"
     ],
-    "numbers": []
+    "numbers": [
+      11
+    ]
   },
   {
     "name": "Dewan Hernandez",
@@ -7935,7 +9508,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Miami"
     ],
-    "numbers": []
+    "numbers": [
+      20
+    ]
   },
   {
     "name": "Dewayne Dedmon",
@@ -7951,7 +9526,11 @@ export const NBA_PLAYERS = [
       "USC"
     ],
     "numbers": [
-      21
+      3,
+      13,
+      14,
+      21,
+      30
     ]
   },
   {
@@ -7962,7 +9541,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Nevada-Las Vegas"
     ],
-    "numbers": []
+    "numbers": [
+      10
+    ]
   },
   {
     "name": "Dexter Pittman",
@@ -7974,7 +9555,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Texas"
     ],
-    "numbers": []
+    "numbers": [
+      45
+    ]
   },
   {
     "name": "Deyonta Davis",
@@ -7985,7 +9568,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Michigan State"
     ],
-    "numbers": []
+    "numbers": [
+      4,
+      21,
+      23
+    ]
   },
   {
     "name": "Diamond Stone",
@@ -7995,7 +9582,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Maryland"
     ],
-    "numbers": []
+    "numbers": [
+      0
+    ]
   },
   {
     "name": "Diante Garrett",
@@ -8006,7 +9595,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Iowa State"
     ],
-    "numbers": []
+    "numbers": [
+      8,
+      10
+    ]
   },
   {
     "name": "Dickey Simpkins",
@@ -8017,7 +9609,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Providence"
     ],
-    "numbers": []
+    "numbers": [
+      0,
+      8
+    ]
   },
   {
     "name": "Didi Louzada",
@@ -8040,7 +9635,10 @@ export const NBA_PLAYERS = [
     "college": [
       "UCLA"
     ],
-    "numbers": []
+    "numbers": [
+      1,
+      7
+    ]
   },
   {
     "name": "Dikembe Mutombo",
@@ -8054,7 +9652,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Georgetown"
     ],
-    "numbers": []
+    "numbers": [
+      55
+    ]
   },
   {
     "name": "Dillon Brooks",
@@ -8065,6 +9665,8 @@ export const NBA_PLAYERS = [
       "Oregon"
     ],
     "numbers": [
+      3,
+      9,
       24
     ]
   },
@@ -8074,7 +9676,9 @@ export const NBA_PLAYERS = [
       "Boston Celtics"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      40
+    ]
   },
   {
     "name": "Dion Glover",
@@ -8086,7 +9690,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Georgia Tech"
     ],
-    "numbers": []
+    "numbers": [
+      1,
+      5,
+      22
+    ]
   },
   {
     "name": "Dion Waiters",
@@ -8099,7 +9707,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Syracuse"
     ],
-    "numbers": []
+    "numbers": [
+      3,
+      11,
+      18,
+      23
+    ]
   },
   {
     "name": "Dionte Christmas",
@@ -8109,7 +9722,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Temple"
     ],
-    "numbers": []
+    "numbers": [
+      25
+    ]
   },
   {
     "name": "Dirk Nowitzki",
@@ -8117,7 +9732,9 @@ export const NBA_PLAYERS = [
       "Dallas Mavericks"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      41
+    ]
   },
   {
     "name": "Domantas Sabonis",
@@ -8130,6 +9747,7 @@ export const NBA_PLAYERS = [
       "Gonzaga"
     ],
     "numbers": [
+      3,
       10,
       11
     ]
@@ -8146,7 +9764,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Fresno State"
     ],
-    "numbers": []
+    "numbers": [
+      1,
+      5,
+      7
+    ]
   },
   {
     "name": "Dominick Barlow",
@@ -8154,7 +9776,11 @@ export const NBA_PLAYERS = [
       "San Antonio Spurs"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      0,
+      25,
+      26
+    ]
   },
   {
     "name": "Dominique Jones",
@@ -8164,7 +9790,9 @@ export const NBA_PLAYERS = [
     "college": [
       "South Florida"
     ],
-    "numbers": []
+    "numbers": [
+      20
+    ]
   },
   {
     "name": "Dominique Wilkins",
@@ -8175,7 +9803,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Georgia"
     ],
-    "numbers": []
+    "numbers": [
+      21
+    ]
   },
   {
     "name": "Don MacLean",
@@ -8189,7 +9819,11 @@ export const NBA_PLAYERS = [
     "college": [
       "UCLA"
     ],
-    "numbers": []
+    "numbers": [
+      7,
+      24,
+      25
+    ]
   },
   {
     "name": "Don Reid",
@@ -8201,7 +9835,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Georgetown"
     ],
-    "numbers": []
+    "numbers": [
+      50,
+      52
+    ]
   },
   {
     "name": "Donald Royal",
@@ -8211,7 +9848,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Notre Dame"
     ],
-    "numbers": []
+    "numbers": [
+      5,
+      15
+    ]
   },
   {
     "name": "Donald Sloan",
@@ -8224,7 +9864,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Texas A&M"
     ],
-    "numbers": []
+    "numbers": [
+      12,
+      15
+    ]
   },
   {
     "name": "Donald Whiteside",
@@ -8235,7 +9878,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Northern Illinois"
     ],
-    "numbers": []
+    "numbers": [
+      12,
+      20
+    ]
   },
   {
     "name": "Donatas Motiejunas",
@@ -8255,7 +9901,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Alabama-Birmingham"
     ],
-    "numbers": []
+    "numbers": [
+      21
+    ]
   },
   {
     "name": "Donnell Harvey",
@@ -8268,7 +9916,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Florida"
     ],
-    "numbers": []
+    "numbers": [
+      1,
+      4,
+      44
+    ]
   },
   {
     "name": "Donnie Boyce",
@@ -8278,7 +9930,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Colorado"
     ],
-    "numbers": []
+    "numbers": [
+      24
+    ]
   },
   {
     "name": "Donny Marshall",
@@ -8289,7 +9943,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Connecticut"
     ],
-    "numbers": []
+    "numbers": [
+      13,
+      33
+    ]
   },
   {
     "name": "Donovan Mitchell",
@@ -8312,7 +9969,9 @@ export const NBA_PLAYERS = [
     "college": [
       "UNLV"
     ],
-    "numbers": []
+    "numbers": [
+      4
+    ]
   },
   {
     "name": "Donta Hall",
@@ -8324,6 +9983,7 @@ export const NBA_PLAYERS = [
       "Alabama"
     ],
     "numbers": [
+      42,
       45
     ]
   },
@@ -8335,7 +9995,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Southeastern Illinois"
     ],
-    "numbers": []
+    "numbers": [
+      15
+    ]
   },
   {
     "name": "Dontae' Jones",
@@ -8345,7 +10007,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Mississippi State"
     ],
-    "numbers": []
+    "numbers": [
+      13
+    ]
   },
   {
     "name": "Donte DiVincenzo",
@@ -8358,7 +10022,8 @@ export const NBA_PLAYERS = [
       "Villanova"
     ],
     "numbers": [
-      0
+      0,
+      9
     ]
   },
   {
@@ -8369,7 +10034,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Clemson"
     ],
-    "numbers": []
+    "numbers": [
+      15
+    ]
   },
   {
     "name": "Donte Greene",
@@ -8399,7 +10066,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Cincinnati"
     ],
-    "numbers": []
+    "numbers": [
+      10
+    ]
   },
   {
     "name": "Donyell Marshall",
@@ -8415,7 +10084,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Connecticut"
     ],
-    "numbers": []
+    "numbers": [
+      3,
+      8,
+      24,
+      42
+    ]
   },
   {
     "name": "Dorell Wright",
@@ -8426,7 +10100,11 @@ export const NBA_PLAYERS = [
       "Portland Trail Blazers"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      1,
+      4,
+      11
+    ]
   },
   {
     "name": "Dorian Finney-Smith",
@@ -8438,7 +10116,9 @@ export const NBA_PLAYERS = [
       "Florida"
     ],
     "numbers": [
-      10
+      10,
+      17,
+      28
     ]
   },
   {
@@ -8449,7 +10129,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Kentucky"
     ],
-    "numbers": []
+    "numbers": [
+      1,
+      20
+    ]
   },
   {
     "name": "Doug Christie",
@@ -8463,7 +10146,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Pepperdine"
     ],
-    "numbers": []
+    "numbers": [
+      1,
+      13,
+      21,
+      35
+    ]
   },
   {
     "name": "Doug McDermott",
@@ -8478,8 +10166,12 @@ export const NBA_PLAYERS = [
       "Creighton"
     ],
     "numbers": [
+      3,
+      7,
+      11,
       17,
-      20
+      20,
+      25
     ]
   },
   {
@@ -8493,7 +10185,13 @@ export const NBA_PLAYERS = [
     "college": [
       "La Salle"
     ],
-    "numbers": []
+    "numbers": [
+      2,
+      9,
+      11,
+      20,
+      24
+    ]
   },
   {
     "name": "Doug West",
@@ -8504,7 +10202,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Villanova"
     ],
-    "numbers": []
+    "numbers": [
+      2,
+      5
+    ]
   },
   {
     "name": "Dragan Bender",
@@ -8513,7 +10214,11 @@ export const NBA_PLAYERS = [
       "Phoenix Suns"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      10,
+      17,
+      35
+    ]
   },
   {
     "name": "Dragan Tarlac",
@@ -8544,7 +10249,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Georgia Tech"
     ],
-    "numbers": []
+    "numbers": [
+      2,
+      10,
+      11,
+      12
+    ]
   },
   {
     "name": "Drew Eubanks",
@@ -8557,6 +10267,8 @@ export const NBA_PLAYERS = [
     ],
     "numbers": [
       14,
+      15,
+      19,
       24
     ]
   },
@@ -8574,7 +10286,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Kansas"
     ],
-    "numbers": []
+    "numbers": [
+      0,
+      9,
+      90
+    ]
   },
   {
     "name": "Drew Gordon",
@@ -8584,7 +10300,9 @@ export const NBA_PLAYERS = [
     "college": [
       "New Mexico"
     ],
-    "numbers": []
+    "numbers": [
+      30
+    ]
   },
   {
     "name": "Dru Smith",
@@ -8594,7 +10312,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Missouri"
     ],
-    "numbers": []
+    "numbers": [
+      9,
+      12
+    ]
   },
   {
     "name": "Duane Causwell",
@@ -8605,7 +10326,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Temple"
     ],
-    "numbers": []
+    "numbers": [
+      4,
+      31
+    ]
   },
   {
     "name": "Duane Ferrell",
@@ -8616,7 +10340,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Georgia Tech"
     ],
-    "numbers": []
+    "numbers": [
+      27,
+      33
+    ]
   },
   {
     "name": "Duane Washington Jr.",
@@ -8639,7 +10366,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Wisconsin"
     ],
-    "numbers": []
+    "numbers": [
+      26
+    ]
   },
   {
     "name": "Duncan Robinson",
@@ -8661,7 +10390,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Arkansas"
     ],
-    "numbers": []
+    "numbers": [
+      5,
+      8
+    ]
   },
   {
     "name": "Dwayne Bacon",
@@ -8687,7 +10419,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Saint Joseph's"
     ],
-    "numbers": []
+    "numbers": [
+      21,
+      27
+    ]
   },
   {
     "name": "Dwayne Schintzius",
@@ -8698,7 +10433,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Florida"
     ],
-    "numbers": []
+    "numbers": [
+      33,
+      55
+    ]
   },
   {
     "name": "Dwight Buycks",
@@ -8710,7 +10448,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Marquette"
     ],
-    "numbers": []
+    "numbers": [
+      13,
+      20
+    ]
   },
   {
     "name": "Dwight Howard",
@@ -8725,6 +10466,9 @@ export const NBA_PLAYERS = [
     ],
     "college": [],
     "numbers": [
+      8,
+      12,
+      21,
       39
     ]
   },
@@ -8737,7 +10481,9 @@ export const NBA_PLAYERS = [
       "Stanford"
     ],
     "numbers": [
-      7
+      7,
+      8,
+      12
     ]
   },
   {
@@ -8749,7 +10495,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Marquette"
     ],
-    "numbers": []
+    "numbers": [
+      3,
+      9
+    ]
   },
   {
     "name": "Dylan Windler",
@@ -8760,7 +10509,8 @@ export const NBA_PLAYERS = [
       "Belmont"
     ],
     "numbers": [
-      9
+      9,
+      20
     ]
   },
   {
@@ -8769,7 +10519,10 @@ export const NBA_PLAYERS = [
       "New Orleans Pelicans"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      5,
+      11
+    ]
   },
   {
     "name": "Dzanan Musa",
@@ -8807,7 +10560,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Memphis"
     ],
-    "numbers": []
+    "numbers": [
+      30,
+      40,
+      42
+    ]
   },
   {
     "name": "Earl Boykins",
@@ -8824,7 +10581,13 @@ export const NBA_PLAYERS = [
     "college": [
       "Eastern Michigan"
     ],
-    "numbers": []
+    "numbers": [
+      5,
+      6,
+      7,
+      11,
+      12
+    ]
   },
   {
     "name": "Earl Clark",
@@ -8838,7 +10601,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Louisville"
     ],
-    "numbers": []
+    "numbers": [
+      0,
+      3,
+      6,
+      55
+    ]
   },
   {
     "name": "Earl Cureton",
@@ -8848,7 +10616,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Detroit Mercy"
     ],
-    "numbers": []
+    "numbers": [
+      35
+    ]
   },
   {
     "name": "Earl Watson",
@@ -8863,7 +10633,13 @@ export const NBA_PLAYERS = [
     "college": [
       "UCLA"
     ],
-    "numbers": []
+    "numbers": [
+      2,
+      8,
+      11,
+      17,
+      25
+    ]
   },
   {
     "name": "Ed Davis",
@@ -8882,7 +10658,8 @@ export const NBA_PLAYERS = [
     ],
     "numbers": [
       17,
-      21
+      21,
+      32
     ]
   },
   {
@@ -8893,7 +10670,9 @@ export const NBA_PLAYERS = [
     "college": [
       "California"
     ],
-    "numbers": []
+    "numbers": [
+      22
+    ]
   },
   {
     "name": "Ed O'Bannon",
@@ -8903,7 +10682,9 @@ export const NBA_PLAYERS = [
     "college": [
       "UCLA"
     ],
-    "numbers": []
+    "numbers": [
+      31
+    ]
   },
   {
     "name": "Ed Pinckney",
@@ -8913,7 +10694,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Villanova"
     ],
-    "numbers": []
+    "numbers": [
+      54
+    ]
   },
   {
     "name": "Ed Stokes",
@@ -8923,7 +10706,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Arizona"
     ],
-    "numbers": []
+    "numbers": [
+      40
+    ]
   },
   {
     "name": "Eddie Basden",
@@ -8933,7 +10718,9 @@ export const NBA_PLAYERS = [
     "college": [
       "North Carolina-Charlotte"
     ],
-    "numbers": []
+    "numbers": [
+      13
+    ]
   },
   {
     "name": "Eddie Gill",
@@ -8948,7 +10735,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Weber State"
     ],
-    "numbers": []
+    "numbers": [
+      4,
+      6,
+      7,
+      8
+    ]
   },
   {
     "name": "Eddie Griffin",
@@ -8959,7 +10751,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Seton Hall"
     ],
-    "numbers": []
+    "numbers": [
+      33,
+      41
+    ]
   },
   {
     "name": "Eddie House",
@@ -8975,7 +10770,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Arizona State"
     ],
-    "numbers": []
+    "numbers": [
+      5,
+      50,
+      55
+    ]
   },
   {
     "name": "Eddie Johnson",
@@ -8985,7 +10784,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Illinois"
     ],
-    "numbers": []
+    "numbers": [
+      8
+    ]
   },
   {
     "name": "Eddie Jones",
@@ -8999,7 +10800,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Temple"
     ],
-    "numbers": []
+    "numbers": [
+      6,
+      25
+    ]
   },
   {
     "name": "Eddie Robinson",
@@ -9010,7 +10814,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Central Oklahoma"
     ],
-    "numbers": []
+    "numbers": [
+      32
+    ]
   },
   {
     "name": "Eddy Curry",
@@ -9021,7 +10827,11 @@ export const NBA_PLAYERS = [
       "New York Knicks"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      2,
+      34,
+      52
+    ]
   },
   {
     "name": "Edmond Sumner",
@@ -9033,6 +10843,7 @@ export const NBA_PLAYERS = [
       "Xavier"
     ],
     "numbers": [
+      4,
       5
     ]
   },
@@ -9057,7 +10868,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Siena"
     ],
-    "numbers": []
+    "numbers": [
+      1
+    ]
   },
   {
     "name": "Edy Tavares",
@@ -9066,7 +10879,10 @@ export const NBA_PLAYERS = [
       "Cleveland Cavaliers"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      22,
+      40
+    ]
   },
   {
     "name": "Efthimios Rentzias",
@@ -9074,7 +10890,9 @@ export const NBA_PLAYERS = [
       "Philadelphia 76ers"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      14
+    ]
   },
   {
     "name": "Ekpe Udoh",
@@ -9087,7 +10905,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Baylor"
     ],
-    "numbers": []
+    "numbers": [
+      5,
+      13,
+      20,
+      33
+    ]
   },
   {
     "name": "Elden Campbell",
@@ -9100,7 +10923,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Clemson"
     ],
-    "numbers": []
+    "numbers": [
+      5,
+      41
+    ]
   },
   {
     "name": "Eldridge Recasner",
@@ -9112,7 +10938,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Washington"
     ],
-    "numbers": []
+    "numbers": [
+      3,
+      5,
+      14
+    ]
   },
   {
     "name": "Elfrid Payton",
@@ -9128,6 +10958,7 @@ export const NBA_PLAYERS = [
     ],
     "numbers": [
       2,
+      4,
       6
     ]
   },
@@ -9139,7 +10970,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Gonzaga"
     ],
-    "numbers": []
+    "numbers": [
+      2
+    ]
   },
   {
     "name": "Elie Okobo",
@@ -9147,7 +10980,9 @@ export const NBA_PLAYERS = [
       "Phoenix Suns"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      2
+    ]
   },
   {
     "name": "Elijah Bryant",
@@ -9184,7 +11019,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Alabama-Birmingham"
     ],
-    "numbers": []
+    "numbers": [
+      13,
+      22
+    ]
   },
   {
     "name": "Elliot Perry",
@@ -9197,7 +11035,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Memphis"
     ],
-    "numbers": []
+    "numbers": [
+      1,
+      2,
+      5
+    ]
   },
   {
     "name": "Elliot Williams",
@@ -9209,7 +11051,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Memphis"
     ],
-    "numbers": []
+    "numbers": [
+      2,
+      9,
+      25
+    ]
   },
   {
     "name": "Elmer Bennett",
@@ -9219,7 +11065,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Notre Dame"
     ],
-    "numbers": []
+    "numbers": [
+      5,
+      6,
+      14
+    ]
   },
   {
     "name": "Elmore Spencer",
@@ -9229,7 +11079,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Nevada-Las Vegas"
     ],
-    "numbers": []
+    "numbers": [
+      27
+    ]
   },
   {
     "name": "Elton Brand",
@@ -9243,7 +11095,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Duke"
     ],
-    "numbers": []
+    "numbers": [
+      7,
+      42
+    ]
   },
   {
     "name": "Emanual Davis",
@@ -9255,7 +11110,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Delaware State"
     ],
-    "numbers": []
+    "numbers": [
+      15
+    ]
   },
   {
     "name": "Emanuel Terry",
@@ -9267,6 +11124,8 @@ export const NBA_PLAYERS = [
       "Lincoln Memorial"
     ],
     "numbers": [
+      10,
+      12,
       26
     ]
   },
@@ -9281,7 +11140,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Connecticut"
     ],
-    "numbers": []
+    "numbers": [
+      50
+    ]
   },
   {
     "name": "Emmanuel Mudiay",
@@ -9293,6 +11154,8 @@ export const NBA_PLAYERS = [
     ],
     "college": [],
     "numbers": [
+      0,
+      1,
       10
     ]
   },
@@ -9303,8 +11166,10 @@ export const NBA_PLAYERS = [
     ],
     "college": [],
     "numbers": [
+      0,
       11,
-      13
+      13,
+      34
     ]
   },
   {
@@ -9329,7 +11194,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Alabama"
     ],
-    "numbers": []
+    "numbers": [
+      8
+    ]
   },
   {
     "name": "Eric Bledsoe",
@@ -9344,7 +11211,9 @@ export const NBA_PLAYERS = [
       "Kentucky"
     ],
     "numbers": [
+      2,
       5,
+      6,
       12
     ]
   },
@@ -9356,7 +11225,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Midwestern State"
     ],
-    "numbers": []
+    "numbers": [
+      23
+    ]
   },
   {
     "name": "Eric Gordon",
@@ -9370,7 +11241,8 @@ export const NBA_PLAYERS = [
       "Indiana"
     ],
     "numbers": [
-      10
+      10,
+      23
     ]
   },
   {
@@ -9381,7 +11253,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Wyoming"
     ],
-    "numbers": []
+    "numbers": [
+      45,
+      55
+    ]
   },
   {
     "name": "Eric Maynor",
@@ -9393,7 +11268,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Virginia Commonwealth"
     ],
-    "numbers": []
+    "numbers": [
+      3,
+      6,
+      11
+    ]
   },
   {
     "name": "Eric Mika",
@@ -9403,7 +11282,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Brigham Young"
     ],
-    "numbers": []
+    "numbers": [
+      42
+    ]
   },
   {
     "name": "Eric Mobley",
@@ -9413,7 +11294,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Pittsburgh"
     ],
-    "numbers": []
+    "numbers": [
+      52
+    ]
   },
   {
     "name": "Eric Montross",
@@ -9425,7 +11308,9 @@ export const NBA_PLAYERS = [
     "college": [
       "North Carolina"
     ],
-    "numbers": []
+    "numbers": [
+      0
+    ]
   },
   {
     "name": "Eric Moreland",
@@ -9437,7 +11322,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Oregon State"
     ],
-    "numbers": []
+    "numbers": [
+      15,
+      23,
+      24,
+      25
+    ]
   },
   {
     "name": "Eric Murdock",
@@ -9450,7 +11340,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Providence"
     ],
-    "numbers": []
+    "numbers": [
+      3,
+      5,
+      14
+    ]
   },
   {
     "name": "Eric Paschall",
@@ -9477,7 +11371,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Nebraska"
     ],
-    "numbers": []
+    "numbers": [
+      52
+    ]
   },
   {
     "name": "Eric Riley",
@@ -9488,7 +11384,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Michigan"
     ],
-    "numbers": []
+    "numbers": [
+      40,
+      44,
+      50
+    ]
   },
   {
     "name": "Eric Snow",
@@ -9500,7 +11400,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Michigan State"
     ],
-    "numbers": []
+    "numbers": [
+      3,
+      13,
+      20
+    ]
   },
   {
     "name": "Eric Washington",
@@ -9510,7 +11414,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Alabama"
     ],
-    "numbers": []
+    "numbers": [
+      14
+    ]
   },
   {
     "name": "Eric Williams",
@@ -9524,7 +11430,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Providence"
     ],
-    "numbers": []
+    "numbers": [
+      17,
+      32,
+      55
+    ]
   },
   {
     "name": "Erick Barkley",
@@ -9534,7 +11444,10 @@ export const NBA_PLAYERS = [
     "college": [
       "St. John's (NY)"
     ],
-    "numbers": []
+    "numbers": [
+      12,
+      21
+    ]
   },
   {
     "name": "Erick Dampier",
@@ -9548,7 +11461,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Mississippi State"
     ],
-    "numbers": []
+    "numbers": [
+      25,
+      35
+    ]
   },
   {
     "name": "Erick Green",
@@ -9558,7 +11474,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Virginia Tech"
     ],
-    "numbers": []
+    "numbers": [
+      11,
+      18
+    ]
   },
   {
     "name": "Erick Strickland",
@@ -9572,7 +11491,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Nebraska"
     ],
-    "numbers": []
+    "numbers": [
+      20,
+      21,
+      25
+    ]
   },
   {
     "name": "Erik Daniels",
@@ -9582,7 +11505,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Kentucky"
     ],
-    "numbers": []
+    "numbers": [
+      15
+    ]
   },
   {
     "name": "Erik McCree",
@@ -9592,7 +11517,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Louisiana Tech"
     ],
-    "numbers": []
+    "numbers": [
+      21
+    ]
   },
   {
     "name": "Erik Murphy",
@@ -9602,7 +11529,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Florida"
     ],
-    "numbers": []
+    "numbers": [
+      31
+    ]
   },
   {
     "name": "Ernest Brown",
@@ -9612,7 +11541,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Indian Hills Community College"
     ],
-    "numbers": []
+    "numbers": [
+      52
+    ]
   },
   {
     "name": "Ersan Ilyasova",
@@ -9636,7 +11567,10 @@ export const NBA_PLAYERS = [
     "college": [
       "New Orleans"
     ],
-    "numbers": []
+    "numbers": [
+      40,
+      50
+    ]
   },
   {
     "name": "Esteban Batista",
@@ -9644,7 +11578,9 @@ export const NBA_PLAYERS = [
       "Atlanta Hawks"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      11
+    ]
   },
   {
     "name": "Etan Thomas",
@@ -9656,7 +11592,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Syracuse"
     ],
-    "numbers": []
+    "numbers": [
+      36
+    ]
   },
   {
     "name": "Etdrick Bohannon",
@@ -9669,7 +11607,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Auburn-Montgomery"
     ],
-    "numbers": []
+    "numbers": [
+      21,
+      41,
+      42
+    ]
   },
   {
     "name": "Eugene Omoruyi",
@@ -9681,7 +11623,8 @@ export const NBA_PLAYERS = [
       "Oregon"
     ],
     "numbers": [
-      2
+      2,
+      97
     ]
   },
   {
@@ -9693,7 +11636,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Northwestern"
     ],
-    "numbers": []
+    "numbers": [
+      0,
+      42
+    ]
   },
   {
     "name": "Evan Fournier",
@@ -9707,6 +11653,7 @@ export const NBA_PLAYERS = [
     "numbers": [
       10,
       13,
+      31,
       94
     ]
   },
@@ -9734,7 +11681,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Ohio State"
     ],
-    "numbers": []
+    "numbers": [
+      1,
+      11,
+      12
+    ]
   },
   {
     "name": "Evric Gray",
@@ -9744,7 +11695,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Nevada-Las Vegas"
     ],
-    "numbers": []
+    "numbers": [
+      2
+    ]
   },
   {
     "name": "Fab Melo",
@@ -9754,7 +11707,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Syracuse"
     ],
-    "numbers": []
+    "numbers": [
+      13
+    ]
   },
   {
     "name": "Fabricio Oberto",
@@ -9764,7 +11719,10 @@ export const NBA_PLAYERS = [
       "Washington Wizards"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      7,
+      21
+    ]
   },
   {
     "name": "Facundo Campazzo",
@@ -9774,6 +11732,7 @@ export const NBA_PLAYERS = [
     ],
     "college": [],
     "numbers": [
+      2,
       7
     ]
   },
@@ -9798,7 +11757,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Louisville"
     ],
-    "numbers": []
+    "numbers": [
+      16,
+      50
+    ]
   },
   {
     "name": "Feron Hunt",
@@ -9820,7 +11782,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Vanderbilt"
     ],
-    "numbers": []
+    "numbers": [
+      31
+    ]
   },
   {
     "name": "Flip Murray",
@@ -9850,7 +11814,12 @@ export const NBA_PLAYERS = [
     "college": [
       "California"
     ],
-    "numbers": []
+    "numbers": [
+      8,
+      9,
+      16,
+      56
+    ]
   },
   {
     "name": "Francisco Garcia",
@@ -9871,7 +11840,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Penn State"
     ],
-    "numbers": []
+    "numbers": [
+      34
+    ]
   },
   {
     "name": "Frank Jackson",
@@ -9884,7 +11855,9 @@ export const NBA_PLAYERS = [
       "Duke"
     ],
     "numbers": [
-      5
+      3,
+      5,
+      15
     ]
   },
   {
@@ -9898,7 +11871,9 @@ export const NBA_PLAYERS = [
       "Wisconsin"
     ],
     "numbers": [
-      8
+      0,
+      8,
+      33
     ]
   },
   {
@@ -9934,7 +11909,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Illinois"
     ],
-    "numbers": []
+    "numbers": [
+      30
+    ]
   },
   {
     "name": "Frankie King",
@@ -9944,7 +11921,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Western Carolina"
     ],
-    "numbers": []
+    "numbers": [
+      4,
+      20
+    ]
   },
   {
     "name": "Franz Wagner",
@@ -9968,7 +11948,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Iowa State"
     ],
-    "numbers": []
+    "numbers": [
+      20,
+      32
+    ]
   },
   {
     "name": "Fred Jones",
@@ -9981,7 +11964,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Oregon"
     ],
-    "numbers": []
+    "numbers": [
+      0,
+      2,
+      20
+    ]
   },
   {
     "name": "Fred Roberts",
@@ -9991,7 +11978,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Brigham Young"
     ],
-    "numbers": []
+    "numbers": [
+      24,
+      44
+    ]
   },
   {
     "name": "Fred VanVleet",
@@ -10002,6 +11992,7 @@ export const NBA_PLAYERS = [
       "Wichita State"
     ],
     "numbers": [
+      5,
       23
     ]
   },
@@ -10013,7 +12004,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Georgia Tech"
     ],
-    "numbers": []
+    "numbers": [
+      24
+    ]
   },
   {
     "name": "Freddie Gillespie",
@@ -10035,7 +12028,9 @@ export const NBA_PLAYERS = [
       "Philadelphia 76ers"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      19
+    ]
   },
   {
     "name": "Furkan Korkmaz",
@@ -10055,7 +12050,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Southern California"
     ],
-    "numbers": []
+    "numbers": [
+      13
+    ]
   },
   {
     "name": "Gabe Vincent",
@@ -10066,7 +12063,9 @@ export const NBA_PLAYERS = [
       "California-Santa Barbara"
     ],
     "numbers": [
-      2
+      2,
+      4,
+      7
     ]
   },
   {
@@ -10078,7 +12077,8 @@ export const NBA_PLAYERS = [
       "Arizona"
     ],
     "numbers": [
-      8
+      8,
+      32
     ]
   },
   {
@@ -10109,7 +12109,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Wichita State"
     ],
-    "numbers": []
+    "numbers": [
+      24,
+      33
+    ]
   },
   {
     "name": "Gani Lawal",
@@ -10119,7 +12122,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Georgia Tech"
     ],
-    "numbers": []
+    "numbers": [
+      31
+    ]
   },
   {
     "name": "Garret Siler",
@@ -10129,7 +12134,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Augusta State"
     ],
-    "numbers": []
+    "numbers": [
+      20
+    ]
   },
   {
     "name": "Garrett Temple",
@@ -10147,6 +12154,7 @@ export const NBA_PLAYERS = [
       "Louisiana State"
     ],
     "numbers": [
+      2,
       17,
       41
     ]
@@ -10174,7 +12182,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Saint Rose"
     ],
-    "numbers": []
+    "numbers": [
+      32
+    ]
   },
   {
     "name": "Gary Clark",
@@ -10202,7 +12212,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Massachusetts"
     ],
-    "numbers": []
+    "numbers": [
+      0,
+      3
+    ]
   },
   {
     "name": "Gary Grant",
@@ -10213,7 +12226,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Michigan"
     ],
-    "numbers": []
+    "numbers": [
+      14,
+      23
+    ]
   },
   {
     "name": "Gary Harris",
@@ -10225,6 +12241,7 @@ export const NBA_PLAYERS = [
       "Michigan State"
     ],
     "numbers": [
+      11,
       14
     ]
   },
@@ -10240,7 +12257,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Towson"
     ],
-    "numbers": []
+    "numbers": [
+      12,
+      14
+    ]
   },
   {
     "name": "Gary Payton",
@@ -10254,7 +12274,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Oregon State"
     ],
-    "numbers": []
+    "numbers": [
+      20
+    ]
   },
   {
     "name": "Gary Payton II",
@@ -10268,7 +12290,11 @@ export const NBA_PLAYERS = [
       "Oregon State"
     ],
     "numbers": [
-      0
+      0,
+      4,
+      8,
+      20,
+      23
     ]
   },
   {
@@ -10282,7 +12308,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Ohio"
     ],
-    "numbers": []
+    "numbers": [
+      20,
+      33
+    ]
   },
   {
     "name": "Gary Trent Jr.",
@@ -10295,6 +12324,8 @@ export const NBA_PLAYERS = [
     ],
     "numbers": [
       2,
+      5,
+      9,
       33
     ]
   },
@@ -10306,7 +12337,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Northwestern Oklahoma"
     ],
-    "numbers": []
+    "numbers": [
+      9
+    ]
   },
   {
     "name": "Geno Carlisle",
@@ -10316,7 +12349,9 @@ export const NBA_PLAYERS = [
     "college": [
       "California"
     ],
-    "numbers": []
+    "numbers": [
+      4
+    ]
   },
   {
     "name": "George Hill",
@@ -10334,6 +12369,7 @@ export const NBA_PLAYERS = [
     ],
     "numbers": [
       3,
+      7,
       33
     ]
   },
@@ -10348,6 +12384,7 @@ export const NBA_PLAYERS = [
       "University of Colorado Boulder"
     ],
     "numbers": [
+      8,
       94
     ]
   },
@@ -10362,7 +12399,10 @@ export const NBA_PLAYERS = [
     "college": [
       "North Carolina"
     ],
-    "numbers": []
+    "numbers": [
+      9,
+      34
+    ]
   },
   {
     "name": "George McCloud",
@@ -10374,7 +12414,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Florida State"
     ],
-    "numbers": []
+    "numbers": [
+      21,
+      24
+    ]
   },
   {
     "name": "George Zidek",
@@ -10399,7 +12442,8 @@ export const NBA_PLAYERS = [
     ],
     "numbers": [
       20,
-      31
+      31,
+      32
     ]
   },
   {
@@ -10419,7 +12463,10 @@ export const NBA_PLAYERS = [
       "Sacramento Kings"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      13,
+      19
+    ]
   },
   {
     "name": "Gerald Brown",
@@ -10429,7 +12476,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Pepperdine"
     ],
-    "numbers": []
+    "numbers": [
+      4
+    ]
   },
   {
     "name": "Gerald Fitch",
@@ -10439,7 +12488,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Kentucky"
     ],
-    "numbers": []
+    "numbers": [
+      4
+    ]
   },
   {
     "name": "Gerald Green",
@@ -10453,7 +12504,14 @@ export const NBA_PLAYERS = [
       "Phoenix Suns"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      5,
+      8,
+      14,
+      15,
+      25,
+      30
+    ]
   },
   {
     "name": "Gerald Henderson",
@@ -10465,7 +12523,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Duke"
     ],
-    "numbers": []
+    "numbers": [
+      9,
+      12
+    ]
   },
   {
     "name": "Gerald Madkins",
@@ -10475,7 +12536,9 @@ export const NBA_PLAYERS = [
     "college": [
       "UCLA"
     ],
-    "numbers": []
+    "numbers": [
+      2
+    ]
   },
   {
     "name": "Gerald Wallace",
@@ -10490,7 +12553,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Alabama"
     ],
-    "numbers": []
+    "numbers": [
+      3,
+      45
+    ]
   },
   {
     "name": "Gerald Wilkins",
@@ -10500,7 +12566,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Tennessee-Chattanooga"
     ],
-    "numbers": []
+    "numbers": [
+      9,
+      21
+    ]
   },
   {
     "name": "Gerard King",
@@ -10511,7 +12580,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Nicholls State"
     ],
-    "numbers": []
+    "numbers": [
+      51,
+      54
+    ]
   },
   {
     "name": "Gheorghe Muresan",
@@ -10530,7 +12602,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Colorado State"
     ],
-    "numbers": []
+    "numbers": [
+      8
+    ]
   },
   {
     "name": "Giannis Antetokounmpo",
@@ -10549,7 +12623,10 @@ export const NBA_PLAYERS = [
       "Detroit Pistons"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      13,
+      70
+    ]
   },
   {
     "name": "Gilbert Arenas",
@@ -10562,7 +12639,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Arizona"
     ],
-    "numbers": []
+    "numbers": [
+      0,
+      1,
+      9,
+      10
+    ]
   },
   {
     "name": "Glen Davis",
@@ -10574,7 +12656,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Louisiana State"
     ],
-    "numbers": []
+    "numbers": [
+      0,
+      11
+    ]
   },
   {
     "name": "Glen Rice",
@@ -10590,7 +12675,9 @@ export const NBA_PLAYERS = [
       "Georgia Tech",
       "Michigan"
     ],
-    "numbers": []
+    "numbers": [
+      41
+    ]
   },
   {
     "name": "Glenn Robinson",
@@ -10603,7 +12690,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Purdue"
     ],
-    "numbers": []
+    "numbers": [
+      3,
+      13,
+      31
+    ]
   },
   {
     "name": "Glenn Robinson III",
@@ -10617,7 +12708,10 @@ export const NBA_PLAYERS = [
       "Michigan"
     ],
     "numbers": [
-      30
+      1,
+      22,
+      30,
+      40
     ]
   },
   {
@@ -10628,7 +12722,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Providence"
     ],
-    "numbers": []
+    "numbers": [
+      2
+    ]
   },
   {
     "name": "Goga Bitadze",
@@ -10638,6 +12734,7 @@ export const NBA_PLAYERS = [
     ],
     "college": [],
     "numbers": [
+      35,
       88
     ]
   },
@@ -10673,7 +12770,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Butler"
     ],
-    "numbers": []
+    "numbers": [
+      20,
+      33
+    ]
   },
   {
     "name": "Gorgui Dieng",
@@ -10687,9 +12787,11 @@ export const NBA_PLAYERS = [
       "Louisville"
     ],
     "numbers": [
+      5,
       7,
       10,
-      14
+      14,
+      41
     ]
   },
   {
@@ -10703,7 +12805,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Duke"
     ],
-    "numbers": []
+    "numbers": [
+      33
+    ]
   },
   {
     "name": "Grant Jerrett",
@@ -10713,7 +12817,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Arizona"
     ],
-    "numbers": []
+    "numbers": [
+      7,
+      17
+    ]
   },
   {
     "name": "Grant Long",
@@ -10727,7 +12834,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Eastern Michigan"
     ],
-    "numbers": []
+    "numbers": [
+      43
+    ]
   },
   {
     "name": "Grant Riller",
@@ -10748,6 +12857,7 @@ export const NBA_PLAYERS = [
       "Tennessee"
     ],
     "numbers": [
+      3,
       12
     ]
   },
@@ -10763,7 +12873,10 @@ export const NBA_PLAYERS = [
     ],
     "numbers": [
       3,
-      7
+      7,
+      8,
+      12,
+      24
     ]
   },
   {
@@ -10775,7 +12888,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Houston"
     ],
-    "numbers": []
+    "numbers": [
+      0,
+      33
+    ]
   },
   {
     "name": "Greg Anthony",
@@ -10788,7 +12904,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Nevada-Las Vegas"
     ],
-    "numbers": []
+    "numbers": [
+      2,
+      50
+    ]
   },
   {
     "name": "Greg Brown III",
@@ -10800,7 +12919,8 @@ export const NBA_PLAYERS = [
       "Texas-Austin"
     ],
     "numbers": [
-      4
+      4,
+      13
     ]
   },
   {
@@ -10815,7 +12935,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Clemson"
     ],
-    "numbers": []
+    "numbers": [
+      1,
+      7,
+      21
+    ]
   },
   {
     "name": "Greg Dreiling",
@@ -10825,7 +12949,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Kansas"
     ],
-    "numbers": []
+    "numbers": [
+      50
+    ]
   },
   {
     "name": "Greg Foster",
@@ -10839,7 +12965,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Texas-El Paso"
     ],
-    "numbers": []
+    "numbers": [
+      40,
+      44
+    ]
   },
   {
     "name": "Greg Graham",
@@ -10850,7 +12979,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Indiana"
     ],
-    "numbers": []
+    "numbers": [
+      20,
+      21
+    ]
   },
   {
     "name": "Greg Minor",
@@ -10860,7 +12992,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Louisville"
     ],
-    "numbers": []
+    "numbers": [
+      9
+    ]
   },
   {
     "name": "Greg Monroe",
@@ -10876,6 +13010,7 @@ export const NBA_PLAYERS = [
     ],
     "numbers": [
       10,
+      14,
       15,
       55
     ]
@@ -10889,7 +13024,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Ohio State"
     ],
-    "numbers": []
+    "numbers": [
+      20,
+      52
+    ]
   },
   {
     "name": "Greg Ostertag",
@@ -10900,7 +13038,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Kansas"
     ],
-    "numbers": []
+    "numbers": [
+      0,
+      39
+    ]
   },
   {
     "name": "Greg Smith",
@@ -10912,7 +13053,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Fresno State"
     ],
-    "numbers": []
+    "numbers": [
+      0,
+      4
+    ]
   },
   {
     "name": "Greg Stiemsma",
@@ -10925,7 +13069,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Wisconsin"
     ],
-    "numbers": []
+    "numbers": [
+      34,
+      54
+    ]
   },
   {
     "name": "Greg Whittington",
@@ -10959,7 +13106,10 @@ export const NBA_PLAYERS = [
       "Boston Celtics"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      28,
+      30
+    ]
   },
   {
     "name": "Guillermo Diaz",
@@ -10989,7 +13139,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Iowa"
     ],
-    "numbers": []
+    "numbers": [
+      5
+    ]
   },
   {
     "name": "Ha Ha",
@@ -11010,7 +13162,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Houston"
     ],
-    "numbers": []
+    "numbers": [
+      34
+    ]
   },
   {
     "name": "Hakim Warrick",
@@ -11023,7 +13177,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Syracuse"
     ],
-    "numbers": []
+    "numbers": [
+      1,
+      21
+    ]
   },
   {
     "name": "Hamady Ndiaye",
@@ -11043,7 +13200,10 @@ export const NBA_PLAYERS = [
       "Phoenix Suns"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      15,
+      98
+    ]
   },
   {
     "name": "Hamidou Diallo",
@@ -11055,7 +13215,8 @@ export const NBA_PLAYERS = [
       "Kentucky"
     ],
     "numbers": [
-      6
+      6,
+      9
     ]
   },
   {
@@ -11076,7 +13237,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Morehouse"
     ],
-    "numbers": []
+    "numbers": [
+      3
+    ]
   },
   {
     "name": "Harold Jamison",
@@ -11087,7 +13250,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Clemson"
     ],
-    "numbers": []
+    "numbers": [
+      6,
+      40
+    ]
   },
   {
     "name": "Harrison Barnes",
@@ -11123,7 +13289,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Oklahoma"
     ],
-    "numbers": []
+    "numbers": [
+      44
+    ]
   },
   {
     "name": "Hasheem Thabeet",
@@ -11136,7 +13304,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Connecticut"
     ],
-    "numbers": []
+    "numbers": [
+      32,
+      34
+    ]
   },
   {
     "name": "Hassan Adams",
@@ -11147,7 +13318,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Arizona"
     ],
-    "numbers": []
+    "numbers": [
+      3,
+      8
+    ]
   },
   {
     "name": "Hassan Whiteside",
@@ -11162,7 +13336,8 @@ export const NBA_PLAYERS = [
     ],
     "numbers": [
       20,
-      21
+      21,
+      33
     ]
   },
   {
@@ -11187,6 +13362,8 @@ export const NBA_PLAYERS = [
       "Wheeling Jesuit"
     ],
     "numbers": [
+      7,
+      19,
       24
     ]
   },
@@ -11200,7 +13377,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Oral Roberts"
     ],
-    "numbers": []
+    "numbers": [
+      3
+    ]
   },
   {
     "name": "Hedo Turkoglu",
@@ -11226,6 +13405,9 @@ export const NBA_PLAYERS = [
       "Marquette"
     ],
     "numbers": [
+      4,
+      8,
+      13,
       44
     ]
   },
@@ -11238,7 +13420,11 @@ export const NBA_PLAYERS = [
     "college": [
       "St. Mary's (TX)"
     ],
-    "numbers": []
+    "numbers": [
+      21,
+      32,
+      42
+    ]
   },
   {
     "name": "Henry Sims",
@@ -11250,7 +13436,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Georgetown"
     ],
-    "numbers": []
+    "numbers": [
+      14,
+      20,
+      35
+    ]
   },
   {
     "name": "Henry Walker",
@@ -11262,7 +13452,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Kansas State"
     ],
-    "numbers": []
+    "numbers": [
+      5,
+      12
+    ]
   },
   {
     "name": "Herb Williams",
@@ -11272,7 +13465,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Ohio State"
     ],
-    "numbers": []
+    "numbers": [
+      32
+    ]
   },
   {
     "name": "Herbert Jones",
@@ -11283,6 +13478,7 @@ export const NBA_PLAYERS = [
       "Alabama"
     ],
     "numbers": [
+      2,
       5
     ]
   },
@@ -11296,7 +13492,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Bradley"
     ],
-    "numbers": []
+    "numbers": [
+      3,
+      33
+    ]
   },
   {
     "name": "Hilton Armstrong",
@@ -11310,7 +13509,14 @@ export const NBA_PLAYERS = [
     "college": [
       "Connecticut"
     ],
-    "numbers": []
+    "numbers": [
+      3,
+      8,
+      12,
+      24,
+      31,
+      57
+    ]
   },
   {
     "name": "Hiram Fuller",
@@ -11320,7 +13526,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Fresno State"
     ],
-    "numbers": []
+    "numbers": [
+      15
+    ]
   },
   {
     "name": "Hollis Thompson",
@@ -11331,7 +13539,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Georgetown"
     ],
-    "numbers": []
+    "numbers": [
+      31,
+      32
+    ]
   },
   {
     "name": "Horace Grant",
@@ -11343,7 +13554,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Clemson"
     ],
-    "numbers": []
+    "numbers": [
+      54
+    ]
   },
   {
     "name": "Horace Jenkins",
@@ -11353,7 +13566,9 @@ export const NBA_PLAYERS = [
     "college": [
       "William Paterson"
     ],
-    "numbers": []
+    "numbers": [
+      5
+    ]
   },
   {
     "name": "Horacio Llamas",
@@ -11363,7 +13578,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Grand Canyon"
     ],
-    "numbers": []
+    "numbers": [
+      17
+    ]
   },
   {
     "name": "Hot Rod Williams",
@@ -11374,7 +13591,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Tulane"
     ],
-    "numbers": []
+    "numbers": [
+      18
+    ]
   },
   {
     "name": "Howard Eisley",
@@ -11388,7 +13607,13 @@ export const NBA_PLAYERS = [
     "college": [
       "Boston College"
     ],
-    "numbers": []
+    "numbers": [
+      4,
+      6,
+      9,
+      10,
+      12
+    ]
   },
   {
     "name": "Hubert Davis",
@@ -11402,7 +13627,10 @@ export const NBA_PLAYERS = [
     "college": [
       "North Carolina"
     ],
-    "numbers": []
+    "numbers": [
+      24,
+      44
+    ]
   },
   {
     "name": "Ian Clark",
@@ -11415,7 +13643,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Belmont"
     ],
-    "numbers": []
+    "numbers": [
+      2,
+      20,
+      21
+    ]
   },
   {
     "name": "Ian Mahinmi",
@@ -11426,7 +13658,9 @@ export const NBA_PLAYERS = [
       "Washington Wizards"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      28
+    ]
   },
   {
     "name": "Ibrahim Kutluay",
@@ -11465,7 +13699,9 @@ export const NBA_PLAYERS = [
     "college": [
       "UCLA"
     ],
-    "numbers": []
+    "numbers": [
+      13
+    ]
   },
   {
     "name": "Ike Austin",
@@ -11494,7 +13730,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Arizona State"
     ],
-    "numbers": []
+    "numbers": [
+      1,
+      3,
+      9,
+      50
+    ]
   },
   {
     "name": "Ike Fontaine",
@@ -11519,6 +13760,10 @@ export const NBA_PLAYERS = [
       "Georgia Tech"
     ],
     "numbers": [
+      1,
+      4,
+      9,
+      10,
       21
     ]
   },
@@ -11534,7 +13779,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Portland State"
     ],
-    "numbers": []
+    "numbers": [
+      3,
+      5,
+      8
+    ]
   },
   {
     "name": "Immanuel Quickley",
@@ -11557,7 +13806,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Pennsylvania"
     ],
-    "numbers": []
+    "numbers": [
+      7,
+      11,
+      30
+    ]
   },
   {
     "name": "Ira Newble",
@@ -11570,7 +13823,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Miami (OH)"
     ],
-    "numbers": []
+    "numbers": [
+      3,
+      14
+    ]
   },
   {
     "name": "Isaac Bonga",
@@ -11592,7 +13848,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Kentucky"
     ],
-    "numbers": []
+    "numbers": [
+      8
+    ]
   },
   {
     "name": "Isaac Okoro",
@@ -11612,7 +13870,9 @@ export const NBA_PLAYERS = [
       "Orlando Magic"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      13
+    ]
   },
   {
     "name": "Isaiah Canaan",
@@ -11626,7 +13886,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Murray State"
     ],
-    "numbers": []
+    "numbers": [
+      0,
+      1,
+      2,
+      7
+    ]
   },
   {
     "name": "Isaiah Hartenstein",
@@ -11650,7 +13915,9 @@ export const NBA_PLAYERS = [
     "college": [
       "North Carolina"
     ],
-    "numbers": []
+    "numbers": [
+      4
+    ]
   },
   {
     "name": "Isaiah Jackson",
@@ -11661,6 +13928,7 @@ export const NBA_PLAYERS = [
       "Kentucky"
     ],
     "numbers": [
+      22,
       23
     ]
   },
@@ -11674,7 +13942,8 @@ export const NBA_PLAYERS = [
       "Arkansas"
     ],
     "numbers": [
-      7
+      7,
+      11
     ]
   },
   {
@@ -11697,7 +13966,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Southern California"
     ],
-    "numbers": []
+    "numbers": [
+      15,
+      25
+    ]
   },
   {
     "name": "Isaiah Rider",
@@ -11710,7 +13982,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Nevada-Las Vegas"
     ],
-    "numbers": []
+    "numbers": [
+      7,
+      34
+    ]
   },
   {
     "name": "Isaiah Roby",
@@ -11723,6 +13998,7 @@ export const NBA_PLAYERS = [
       "Nebraska-Lincoln"
     ],
     "numbers": [
+      18,
       22
     ]
   },
@@ -11747,7 +14023,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Texas"
     ],
-    "numbers": []
+    "numbers": [
+      17,
+      22
+    ]
   },
   {
     "name": "Isaiah Thomas",
@@ -11764,7 +14043,11 @@ export const NBA_PLAYERS = [
       "Washington"
     ],
     "numbers": [
+      0,
       2,
+      3,
+      4,
+      22,
       24,
       31
     ]
@@ -11787,7 +14070,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Seton Hall"
     ],
-    "numbers": []
+    "numbers": [
+      15
+    ]
   },
   {
     "name": "Ish Smith",
@@ -11805,8 +14090,16 @@ export const NBA_PLAYERS = [
       "Wake Forest"
     ],
     "numbers": [
+      1,
+      3,
       4,
-      14
+      5,
+      8,
+      10,
+      12,
+      13,
+      14,
+      15
     ]
   },
   {
@@ -11818,7 +14111,8 @@ export const NBA_PLAYERS = [
       "Baylor"
     ],
     "numbers": [
-      12
+      12,
+      23
     ]
   },
   {
@@ -11829,7 +14123,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Cal State-San Bernardino"
     ],
-    "numbers": []
+    "numbers": [
+      44
+    ]
   },
   {
     "name": "Ivan McFarlin",
@@ -11839,7 +14135,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Oklahoma State"
     ],
-    "numbers": []
+    "numbers": [
+      31
+    ]
   },
   {
     "name": "Ivan Rabb",
@@ -11849,7 +14147,9 @@ export const NBA_PLAYERS = [
     "college": [
       "University of California, Berkeley"
     ],
-    "numbers": []
+    "numbers": [
+      10
+    ]
   },
   {
     "name": "Ivano Newbill",
@@ -11860,7 +14160,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Georgia Tech"
     ],
-    "numbers": []
+    "numbers": [
+      28,
+      40
+    ]
   },
   {
     "name": "Ivica Zubac",
@@ -11882,7 +14185,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Northeastern"
     ],
-    "numbers": []
+    "numbers": [
+      5,
+      11
+    ]
   },
   {
     "name": "J.P. Macura",
@@ -11893,7 +14199,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Xavier"
     ],
-    "numbers": []
+    "numbers": [
+      55
+    ]
   },
   {
     "name": "J.R. Bremer",
@@ -11904,7 +14212,10 @@ export const NBA_PLAYERS = [
     "college": [
       "St. Bonaventure"
     ],
-    "numbers": []
+    "numbers": [
+      3,
+      9
+    ]
   },
   {
     "name": "J.R. Giddens",
@@ -11915,7 +14226,9 @@ export const NBA_PLAYERS = [
     "college": [
       "New Mexico"
     ],
-    "numbers": []
+    "numbers": [
+      4
+    ]
   },
   {
     "name": "J.R. Henderson",
@@ -11925,7 +14238,9 @@ export const NBA_PLAYERS = [
     "college": [
       "UCLA"
     ],
-    "numbers": []
+    "numbers": [
+      52
+    ]
   },
   {
     "name": "J.R. Reid",
@@ -11938,7 +14253,11 @@ export const NBA_PLAYERS = [
     "college": [
       "North Carolina"
     ],
-    "numbers": []
+    "numbers": [
+      7,
+      11,
+      31
+    ]
   },
   {
     "name": "JD Davison",
@@ -11948,7 +14267,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Alabama"
     ],
-    "numbers": []
+    "numbers": [
+      20
+    ]
   },
   {
     "name": "JJ Hickson",
@@ -11988,6 +14309,8 @@ export const NBA_PLAYERS = [
     ],
     "numbers": [
       4,
+      5,
+      7,
       17
     ]
   },
@@ -12014,7 +14337,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Auburn"
     ],
-    "numbers": []
+    "numbers": [
+      15,
+      21
+    ]
   },
   {
     "name": "Ja Morant",
@@ -12036,7 +14362,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Purdue"
     ],
-    "numbers": []
+    "numbers": [
+      12
+    ]
   },
   {
     "name": "JaKarr Sampson",
@@ -12053,7 +14381,10 @@ export const NBA_PLAYERS = [
       "St. John's, N.Y."
     ],
     "numbers": [
-      14
+      9,
+      14,
+      29,
+      41
     ]
   },
   {
@@ -12068,7 +14399,10 @@ export const NBA_PLAYERS = [
       "Alabama"
     ],
     "numbers": [
-      0
+      0,
+      1,
+      4,
+      41
     ]
   },
   {
@@ -12099,7 +14433,10 @@ export const NBA_PLAYERS = [
     ],
     "numbers": [
       0,
+      1,
       6,
+      7,
+      11,
       34
     ]
   },
@@ -12111,7 +14448,9 @@ export const NBA_PLAYERS = [
     "college": [
       "California"
     ],
-    "numbers": []
+    "numbers": [
+      26
+    ]
   },
   {
     "name": "Jabari Brown",
@@ -12121,7 +14460,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Missouri"
     ],
-    "numbers": []
+    "numbers": [
+      15
+    ]
   },
   {
     "name": "Jabari Parker",
@@ -12135,6 +14476,9 @@ export const NBA_PLAYERS = [
       "Duke"
     ],
     "numbers": [
+      2,
+      5,
+      12,
       20,
       33
     ]
@@ -12149,7 +14493,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Louisiana State"
     ],
-    "numbers": []
+    "numbers": [
+      41,
+      52,
+      55
+    ]
   },
   {
     "name": "Jabari Smith Jr.",
@@ -12159,7 +14507,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Auburn"
     ],
-    "numbers": []
+    "numbers": [
+      1,
+      10
+    ]
   },
   {
     "name": "Jabari Walker",
@@ -12169,7 +14520,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Colorado"
     ],
-    "numbers": []
+    "numbers": [
+      33,
+      34
+    ]
   },
   {
     "name": "Jack Cooley",
@@ -12180,7 +14534,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Notre Dame"
     ],
-    "numbers": []
+    "numbers": [
+      45
+    ]
   },
   {
     "name": "Jack Haley",
@@ -12190,7 +14546,9 @@ export const NBA_PLAYERS = [
     "college": [
       "UCLA"
     ],
-    "numbers": []
+    "numbers": [
+      54
+    ]
   },
   {
     "name": "Jack White",
@@ -12200,7 +14558,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Duke"
     ],
-    "numbers": []
+    "numbers": [
+      10,
+      14
+    ]
   },
   {
     "name": "Jackie Butler",
@@ -12211,7 +14572,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Southern Illinois"
     ],
-    "numbers": []
+    "numbers": [
+      45
+    ]
   },
   {
     "name": "Jackson Vroman",
@@ -12222,7 +14585,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Iowa State"
     ],
-    "numbers": []
+    "numbers": [
+      4
+    ]
   },
   {
     "name": "Jacob Evans",
@@ -12233,7 +14598,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Cincinnati"
     ],
-    "numbers": []
+    "numbers": [
+      10,
+      12
+    ]
   },
   {
     "name": "Jacob Gilyard",
@@ -12243,7 +14611,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Richmond"
     ],
-    "numbers": []
+    "numbers": [
+      0,
+      14
+    ]
   },
   {
     "name": "Jacob Pullen",
@@ -12253,7 +14624,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Kansas State"
     ],
-    "numbers": []
+    "numbers": [
+      0
+    ]
   },
   {
     "name": "Jacob Wiley",
@@ -12263,7 +14636,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Eastern Washington"
     ],
-    "numbers": []
+    "numbers": [
+      21
+    ]
   },
   {
     "name": "Jacque Vaughn",
@@ -12277,7 +14652,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Kansas"
     ],
-    "numbers": []
+    "numbers": [
+      11
+    ]
   },
   {
     "name": "Jaden Hardy",
@@ -12285,7 +14662,10 @@ export const NBA_PLAYERS = [
       "Dallas Mavericks"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      1,
+      3
+    ]
   },
   {
     "name": "Jaden Ivey",
@@ -12295,7 +14675,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Purdue"
     ],
-    "numbers": []
+    "numbers": [
+      23
+    ]
   },
   {
     "name": "Jaden McDaniels",
@@ -12318,7 +14700,8 @@ export const NBA_PLAYERS = [
       "Tennessee"
     ],
     "numbers": [
-      11
+      11,
+      44
     ]
   },
   {
@@ -12335,6 +14718,7 @@ export const NBA_PLAYERS = [
       "Marquette"
     ],
     "numbers": [
+      9,
       99
     ]
   },
@@ -12360,7 +14744,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Georgetown"
     ],
-    "numbers": []
+    "numbers": [
+      55
+    ]
   },
   {
     "name": "Jahlil Okafor",
@@ -12374,7 +14760,10 @@ export const NBA_PLAYERS = [
       "Duke"
     ],
     "numbers": [
-      13
+      4,
+      8,
+      13,
+      15
     ]
   },
   {
@@ -12387,7 +14776,8 @@ export const NBA_PLAYERS = [
     ],
     "numbers": [
       3,
-      20
+      20,
+      37
     ]
   },
   {
@@ -12410,7 +14800,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Wake Forest"
     ],
-    "numbers": []
+    "numbers": [
+      3,
+      12,
+      33
+    ]
   },
   {
     "name": "Jake Layman",
@@ -12433,7 +14827,10 @@ export const NBA_PLAYERS = [
       "Phoenix Suns"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      12,
+      25
+    ]
   },
   {
     "name": "Jake Voskuhl",
@@ -12447,7 +14844,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Connecticut"
     ],
-    "numbers": []
+    "numbers": [
+      43,
+      77
+    ]
   },
   {
     "name": "Jakob Poeltl",
@@ -12459,7 +14859,9 @@ export const NBA_PLAYERS = [
       "Utah"
     ],
     "numbers": [
-      25
+      19,
+      25,
+      42
     ]
   },
   {
@@ -12472,6 +14874,7 @@ export const NBA_PLAYERS = [
       "Villanova"
     ],
     "numbers": [
+      11,
       13
     ]
   },
@@ -12483,7 +14886,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Memphis"
     ],
-    "numbers": []
+    "numbers": [
+      0
+    ]
   },
   {
     "name": "Jalen Green",
@@ -12492,7 +14897,8 @@ export const NBA_PLAYERS = [
     ],
     "college": [],
     "numbers": [
-      0
+      0,
+      4
     ]
   },
   {
@@ -12528,7 +14934,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Texas A&M"
     ],
-    "numbers": []
+    "numbers": [
+      12,
+      21
+    ]
   },
   {
     "name": "Jalen Lecque",
@@ -12550,7 +14959,11 @@ export const NBA_PLAYERS = [
     "college": [
       "San Diego State"
     ],
-    "numbers": []
+    "numbers": [
+      2,
+      7,
+      26
+    ]
   },
   {
     "name": "Jalen Rose",
@@ -12564,7 +14977,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Michigan"
     ],
-    "numbers": []
+    "numbers": [
+      5,
+      8
+    ]
   },
   {
     "name": "Jalen Smith",
@@ -12576,6 +14992,7 @@ export const NBA_PLAYERS = [
       "Maryland"
     ],
     "numbers": [
+      7,
       10,
       25
     ]
@@ -12600,7 +15017,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Santa Clara"
     ],
-    "numbers": []
+    "numbers": [
+      8
+    ]
   },
   {
     "name": "Jamaal Franklin",
@@ -12611,7 +15030,9 @@ export const NBA_PLAYERS = [
     "college": [
       "San Diego State"
     ],
-    "numbers": []
+    "numbers": [
+      22
+    ]
   },
   {
     "name": "Jamaal Magloire",
@@ -12627,7 +15048,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Kentucky"
     ],
-    "numbers": []
+    "numbers": [
+      20,
+      21
+    ]
   },
   {
     "name": "Jamaal Tinsley",
@@ -12639,7 +15063,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Iowa State"
     ],
-    "numbers": []
+    "numbers": [
+      6,
+      10,
+      11
+    ]
   },
   {
     "name": "Jamal Cain",
@@ -12649,7 +15077,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Oakland"
     ],
-    "numbers": []
+    "numbers": [
+      8
+    ]
   },
   {
     "name": "Jamal Crawford",
@@ -12667,7 +15097,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Michigan"
     ],
-    "numbers": []
+    "numbers": [
+      1,
+      6,
+      11
+    ]
   },
   {
     "name": "Jamal Mashburn",
@@ -12679,7 +15113,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Kentucky"
     ],
-    "numbers": []
+    "numbers": [
+      24,
+      32
+    ]
   },
   {
     "name": "Jamal Murray",
@@ -12701,7 +15138,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Virginia"
     ],
-    "numbers": []
+    "numbers": [
+      13
+    ]
   },
   {
     "name": "Jamal Sampson",
@@ -12715,7 +15154,10 @@ export const NBA_PLAYERS = [
     "college": [
       "California"
     ],
-    "numbers": []
+    "numbers": [
+      7,
+      31
+    ]
   },
   {
     "name": "Jamaree Bouyea",
@@ -12725,7 +15167,13 @@ export const NBA_PLAYERS = [
     "college": [
       "San Francisco"
     ],
-    "numbers": []
+    "numbers": [
+      4,
+      11,
+      15,
+      17,
+      21
+    ]
   },
   {
     "name": "Jamario Moon",
@@ -12739,7 +15187,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Meridian Community College"
     ],
-    "numbers": []
+    "numbers": [
+      8,
+      15,
+      33
+    ]
   },
   {
     "name": "Jameel Warney",
@@ -12749,7 +15201,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Stony Brook, N.Y."
     ],
-    "numbers": []
+    "numbers": [
+      32
+    ]
   },
   {
     "name": "Jameer Nelson",
@@ -12761,7 +15215,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Saint Joseph's"
     ],
-    "numbers": []
+    "numbers": [
+      1,
+      14,
+      28,
+      41
+    ]
   },
   {
     "name": "Jamel Artis",
@@ -12771,7 +15230,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Pittsburgh"
     ],
-    "numbers": []
+    "numbers": [
+      0
+    ]
   },
   {
     "name": "Jamel Thomas",
@@ -12781,7 +15242,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Providence"
     ],
-    "numbers": []
+    "numbers": [
+      5,
+      30
+    ]
   },
   {
     "name": "James Anderson",
@@ -12794,7 +15258,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Oklahoma State"
     ],
-    "numbers": []
+    "numbers": [
+      5,
+      9,
+      11,
+      25
+    ]
   },
   {
     "name": "James Augustine",
@@ -12804,7 +15273,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Illinois"
     ],
-    "numbers": []
+    "numbers": [
+      40
+    ]
   },
   {
     "name": "James Bouknight",
@@ -12824,7 +15295,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Florida State"
     ],
-    "numbers": []
+    "numbers": [
+      32
+    ]
   },
   {
     "name": "James Cotton",
@@ -12834,7 +15307,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Long Beach State"
     ],
-    "numbers": []
+    "numbers": [
+      4
+    ]
   },
   {
     "name": "James Ennis III",
@@ -12853,8 +15328,12 @@ export const NBA_PLAYERS = [
       "Long Beach State"
     ],
     "numbers": [
+      4,
+      8,
       10,
-      11
+      11,
+      32,
+      33
     ]
   },
   {
@@ -12890,7 +15369,11 @@ export const NBA_PLAYERS = [
       "Wake Forest"
     ],
     "numbers": [
-      16
+      0,
+      2,
+      3,
+      16,
+      52
     ]
   },
   {
@@ -12905,7 +15388,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Miami (FL)"
     ],
-    "numbers": []
+    "numbers": [
+      1,
+      22,
+      33
+    ]
   },
   {
     "name": "James Lang",
@@ -12913,7 +15400,9 @@ export const NBA_PLAYERS = [
       "Washington Wizards"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      54
+    ]
   },
   {
     "name": "James Michael McAdoo",
@@ -12924,7 +15413,10 @@ export const NBA_PLAYERS = [
     "college": [
       "North Carolina"
     ],
-    "numbers": []
+    "numbers": [
+      14,
+      20
+    ]
   },
   {
     "name": "James Nunnally",
@@ -12938,6 +15430,9 @@ export const NBA_PLAYERS = [
       "California-Santa Barbara"
     ],
     "numbers": [
+      2,
+      7,
+      12,
       21
     ]
   },
@@ -12955,7 +15450,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Xavier"
     ],
-    "numbers": []
+    "numbers": [
+      41,
+      42,
+      55
+    ]
   },
   {
     "name": "James Robinson",
@@ -12967,7 +15466,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Alabama"
     ],
-    "numbers": []
+    "numbers": [
+      26
+    ]
   },
   {
     "name": "James Scott",
@@ -12977,7 +15478,9 @@ export const NBA_PLAYERS = [
     "college": [
       "St. John's (NY)"
     ],
-    "numbers": []
+    "numbers": [
+      32
+    ]
   },
   {
     "name": "James Singleton",
@@ -12989,7 +15492,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Murray State"
     ],
-    "numbers": []
+    "numbers": [
+      3,
+      15,
+      22,
+      33
+    ]
   },
   {
     "name": "James Southerland",
@@ -12999,7 +15507,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Syracuse"
     ],
-    "numbers": []
+    "numbers": [
+      31
+    ]
   },
   {
     "name": "James Thomas",
@@ -13010,7 +15520,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Texas"
     ],
-    "numbers": []
+    "numbers": [
+      6,
+      12,
+      30
+    ]
   },
   {
     "name": "James Webb III",
@@ -13020,7 +15534,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Boise State"
     ],
-    "numbers": []
+    "numbers": [
+      0
+    ]
   },
   {
     "name": "James White",
@@ -13032,7 +15548,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Cincinnati"
     ],
-    "numbers": []
+    "numbers": [
+      4,
+      8,
+      33
+    ]
   },
   {
     "name": "James Wiseman",
@@ -13044,6 +15564,7 @@ export const NBA_PLAYERS = [
       "Memphis"
     ],
     "numbers": [
+      13,
       33
     ]
   },
@@ -13056,7 +15577,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Kentucky"
     ],
-    "numbers": []
+    "numbers": [
+      8,
+      13
+    ]
   },
   {
     "name": "JamesOn Curry",
@@ -13066,7 +15590,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Oklahoma State"
     ],
-    "numbers": []
+    "numbers": [
+      44
+    ]
   },
   {
     "name": "Jamie Feick",
@@ -13078,7 +15604,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Michigan State"
     ],
-    "numbers": []
+    "numbers": [
+      11,
+      14,
+      18,
+      50
+    ]
   },
   {
     "name": "Jamie Watson",
@@ -13089,7 +15620,10 @@ export const NBA_PLAYERS = [
     "college": [
       "South Carolina"
     ],
-    "numbers": []
+    "numbers": [
+      3,
+      15
+    ]
   },
   {
     "name": "Jamil Wilson",
@@ -13099,7 +15633,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Marquette"
     ],
-    "numbers": []
+    "numbers": [
+      13
+    ]
   },
   {
     "name": "Jamison Brewer",
@@ -13110,7 +15646,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Auburn"
     ],
-    "numbers": []
+    "numbers": [
+      2
+    ]
   },
   {
     "name": "Jamorko Pickett",
@@ -13146,7 +15684,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Arkansas"
     ],
-    "numbers": []
+    "numbers": [
+      2,
+      7,
+      12,
+      15
+    ]
   },
   {
     "name": "Jared Butler",
@@ -13158,7 +15701,10 @@ export const NBA_PLAYERS = [
       "Baylor"
     ],
     "numbers": [
-      13
+      4,
+      12,
+      13,
+      14
     ]
   },
   {
@@ -13172,7 +15718,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Oregon State"
     ],
-    "numbers": []
+    "numbers": [
+      1,
+      7,
+      9
+    ]
   },
   {
     "name": "Jared Dudley",
@@ -13189,6 +15739,10 @@ export const NBA_PLAYERS = [
       "Boston College"
     ],
     "numbers": [
+      1,
+      3,
+      6,
+      9,
       10
     ]
   },
@@ -13203,7 +15757,8 @@ export const NBA_PLAYERS = [
     ],
     "numbers": [
       0,
-      2
+      2,
+      12
     ]
   },
   {
@@ -13217,7 +15772,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Indiana"
     ],
-    "numbers": []
+    "numbers": [
+      1,
+      9,
+      20
+    ]
   },
   {
     "name": "Jared Reiner",
@@ -13228,7 +15787,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Iowa"
     ],
-    "numbers": []
+    "numbers": [
+      35,
+      55
+    ]
   },
   {
     "name": "Jared Rhoden",
@@ -13238,7 +15800,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Seton Hall"
     ],
-    "numbers": []
+    "numbers": [
+      8
+    ]
   },
   {
     "name": "Jared Sullinger",
@@ -13249,7 +15813,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Ohio State"
     ],
-    "numbers": []
+    "numbers": [
+      0,
+      7
+    ]
   },
   {
     "name": "Jared Terrell",
@@ -13259,7 +15826,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Rhode Island"
     ],
-    "numbers": []
+    "numbers": [
+      3
+    ]
   },
   {
     "name": "Jarell Eddie",
@@ -13271,7 +15840,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Virginia Tech"
     ],
-    "numbers": []
+    "numbers": [
+      8,
+      9,
+      31
+    ]
   },
   {
     "name": "Jarell Martin",
@@ -13282,7 +15855,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Louisiana State"
     ],
-    "numbers": []
+    "numbers": [
+      1,
+      2,
+      10
+    ]
   },
   {
     "name": "Jaren Jackson",
@@ -13294,7 +15871,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Georgetown"
     ],
-    "numbers": []
+    "numbers": [
+      2,
+      12
+    ]
   },
   {
     "name": "Jaren Jackson Jr.",
@@ -13305,7 +15885,8 @@ export const NBA_PLAYERS = [
       "Michigan State"
     ],
     "numbers": [
-      13
+      13,
+      20
     ]
   },
   {
@@ -13317,7 +15898,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Tennessee"
     ],
-    "numbers": []
+    "numbers": [
+      1,
+      12
+    ]
   },
   {
     "name": "Jaron Blossomgame",
@@ -13327,7 +15911,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Clemson"
     ],
-    "numbers": []
+    "numbers": [
+      4
+    ]
   },
   {
     "name": "Jarred Vanderbilt",
@@ -13340,6 +15926,9 @@ export const NBA_PLAYERS = [
       "Kentucky"
     ],
     "numbers": [
+      2,
+      3,
+      6,
       8
     ]
   },
@@ -13352,7 +15941,8 @@ export const NBA_PLAYERS = [
       "College of Charleston"
     ],
     "numbers": [
-      5
+      5,
+      55
     ]
   },
   {
@@ -13380,6 +15970,7 @@ export const NBA_PLAYERS = [
       "Texas Tech"
     ],
     "numbers": [
+      7,
       23
     ]
   },
@@ -13399,7 +15990,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Georgia Tech"
     ],
-    "numbers": []
+    "numbers": [
+      0,
+      1,
+      2,
+      55
+    ]
   },
   {
     "name": "Jarrod Uthoff",
@@ -13410,7 +16006,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Iowa"
     ],
-    "numbers": []
+    "numbers": [
+      7,
+      19
+    ]
   },
   {
     "name": "Jarron Collins",
@@ -13422,7 +16021,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Stanford"
     ],
-    "numbers": []
+    "numbers": [
+      20,
+      31
+    ]
   },
   {
     "name": "Jarron Cumberland",
@@ -13446,7 +16048,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Georgia"
     ],
-    "numbers": []
+    "numbers": [
+      9,
+      22,
+      24
+    ]
   },
   {
     "name": "Jarvis Varnado",
@@ -13457,7 +16063,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Mississippi State"
     ],
-    "numbers": []
+    "numbers": [
+      24,
+      32,
+      40,
+      41
+    ]
   },
   {
     "name": "Jason Caffey",
@@ -13469,7 +16080,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Alabama"
     ],
-    "numbers": []
+    "numbers": [
+      21,
+      35
+    ]
   },
   {
     "name": "Jason Collier",
@@ -13480,7 +16094,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Georgia Tech"
     ],
-    "numbers": []
+    "numbers": [
+      40,
+      52
+    ]
   },
   {
     "name": "Jason Collins",
@@ -13495,7 +16112,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Stanford"
     ],
-    "numbers": []
+    "numbers": [
+      34,
+      35,
+      98
+    ]
   },
   {
     "name": "Jason Hart",
@@ -13512,7 +16133,14 @@ export const NBA_PLAYERS = [
     "college": [
       "Syracuse"
     ],
-    "numbers": []
+    "numbers": [
+      1,
+      3,
+      5,
+      6,
+      7,
+      11
+    ]
   },
   {
     "name": "Jason Kapono",
@@ -13527,7 +16155,11 @@ export const NBA_PLAYERS = [
     "college": [
       "UCLA"
     ],
-    "numbers": []
+    "numbers": [
+      24,
+      28,
+      72
+    ]
   },
   {
     "name": "Jason Kidd",
@@ -13540,7 +16172,11 @@ export const NBA_PLAYERS = [
     "college": [
       "California"
     ],
-    "numbers": []
+    "numbers": [
+      2,
+      5,
+      32
+    ]
   },
   {
     "name": "Jason Lawson",
@@ -13550,7 +16186,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Villanova"
     ],
-    "numbers": []
+    "numbers": [
+      8
+    ]
   },
   {
     "name": "Jason Maxiell",
@@ -13562,7 +16200,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Cincinnati"
     ],
-    "numbers": []
+    "numbers": [
+      54
+    ]
   },
   {
     "name": "Jason Miskiri",
@@ -13572,7 +16212,9 @@ export const NBA_PLAYERS = [
     "college": [
       "George Mason"
     ],
-    "numbers": []
+    "numbers": [
+      11
+    ]
   },
   {
     "name": "Jason Preston",
@@ -13582,7 +16224,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Ohio"
     ],
-    "numbers": []
+    "numbers": [
+      10
+    ]
   },
   {
     "name": "Jason Richardson",
@@ -13596,7 +16240,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Michigan State"
     ],
-    "numbers": []
+    "numbers": [
+      23
+    ]
   },
   {
     "name": "Jason Sasser",
@@ -13607,7 +16253,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Texas Tech"
     ],
-    "numbers": []
+    "numbers": [
+      23,
+      33,
+      35
+    ]
   },
   {
     "name": "Jason Smith",
@@ -13622,7 +16272,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Colorado State"
     ],
-    "numbers": []
+    "numbers": [
+      14,
+      20
+    ]
   },
   {
     "name": "Jason Terry",
@@ -13637,7 +16290,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Arizona"
     ],
-    "numbers": []
+    "numbers": [
+      3,
+      4,
+      31
+    ]
   },
   {
     "name": "Jason Thompson",
@@ -13648,7 +16305,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Rider"
     ],
-    "numbers": []
+    "numbers": [
+      1,
+      34
+    ]
   },
   {
     "name": "Jason Williams",
@@ -13661,7 +16321,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Florida"
     ],
-    "numbers": []
+    "numbers": [
+      2,
+      3,
+      44,
+      55
+    ]
   },
   {
     "name": "Javaris Crittenton",
@@ -13672,7 +16337,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Georgia Tech"
     ],
-    "numbers": []
+    "numbers": [
+      1,
+      3,
+      8
+    ]
   },
   {
     "name": "Javin DeLaurier",
@@ -13696,8 +16365,11 @@ export const NBA_PLAYERS = [
       "Radford"
     ],
     "numbers": [
+      4,
+      8,
       11,
       24,
+      31,
       43
     ]
   },
@@ -13711,7 +16383,8 @@ export const NBA_PLAYERS = [
     ],
     "numbers": [
       6,
-      15
+      15,
+      39
     ]
   },
   {
@@ -13722,7 +16395,9 @@ export const NBA_PLAYERS = [
     "college": [
       "North Carolina"
     ],
-    "numbers": []
+    "numbers": [
+      31
+    ]
   },
   {
     "name": "Jawun Evans",
@@ -13733,7 +16408,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Oklahoma State"
     ],
-    "numbers": []
+    "numbers": [
+      0,
+      1,
+      8
+    ]
   },
   {
     "name": "Jaxson Hayes",
@@ -13745,7 +16424,8 @@ export const NBA_PLAYERS = [
       "Texas-Austin"
     ],
     "numbers": [
-      10
+      10,
+      11
     ]
   },
   {
@@ -13758,7 +16438,8 @@ export const NBA_PLAYERS = [
       "Virginia"
     ],
     "numbers": [
-      30
+      30,
+      34
     ]
   },
   {
@@ -13782,7 +16463,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Duke"
     ],
-    "numbers": []
+    "numbers": [
+      22
+    ]
   },
   {
     "name": "Jaylen Adams",
@@ -13794,7 +16477,8 @@ export const NBA_PLAYERS = [
       "St. Bonaventure"
     ],
     "numbers": [
-      6
+      6,
+      10
     ]
   },
   {
@@ -13819,6 +16503,7 @@ export const NBA_PLAYERS = [
       "Wake Forest"
     ],
     "numbers": [
+      6,
       8,
       14
     ]
@@ -13834,7 +16519,9 @@ export const NBA_PLAYERS = [
       "Molloy"
     ],
     "numbers": [
-      16
+      3,
+      16,
+      30
     ]
   },
   {
@@ -13846,7 +16533,9 @@ export const NBA_PLAYERS = [
       "Washington"
     ],
     "numbers": [
-      4
+      4,
+      20,
+      24
     ]
   },
   {
@@ -13857,7 +16546,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Arkansas"
     ],
-    "numbers": []
+    "numbers": [
+      6
+    ]
   },
   {
     "name": "Jaysean Paige",
@@ -13891,7 +16582,9 @@ export const NBA_PLAYERS = [
     "college": [
       "St. John's (NY)"
     ],
-    "numbers": []
+    "numbers": [
+      55
+    ]
   },
   {
     "name": "Jeenathan Williams",
@@ -13914,7 +16607,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Connecticut"
     ],
-    "numbers": []
+    "numbers": [
+      4,
+      8,
+      12
+    ]
   },
   {
     "name": "Jeff Ayres",
@@ -13927,7 +16624,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Arizona State"
     ],
-    "numbers": []
+    "numbers": [
+      11,
+      19,
+      29,
+      31
+    ]
   },
   {
     "name": "Jeff Dowtin",
@@ -13950,6 +16652,7 @@ export const NBA_PLAYERS = [
     "numbers": [
       11,
       15,
+      20,
       21
     ]
   },
@@ -13961,7 +16664,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Cornell"
     ],
-    "numbers": []
+    "numbers": [
+      54
+    ]
   },
   {
     "name": "Jeff Foster",
@@ -13971,7 +16676,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Texas State"
     ],
-    "numbers": []
+    "numbers": [
+      10
+    ]
   },
   {
     "name": "Jeff Grayer",
@@ -13982,7 +16689,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Iowa State"
     ],
-    "numbers": []
+    "numbers": [
+      20
+    ]
   },
   {
     "name": "Jeff Green",
@@ -14004,7 +16713,9 @@ export const NBA_PLAYERS = [
     ],
     "numbers": [
       8,
-      32
+      22,
+      32,
+      34
     ]
   },
   {
@@ -14015,7 +16726,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Iowa State"
     ],
-    "numbers": []
+    "numbers": [
+      14
+    ]
   },
   {
     "name": "Jeff McInnis",
@@ -14031,7 +16744,11 @@ export const NBA_PLAYERS = [
     "college": [
       "North Carolina"
     ],
-    "numbers": []
+    "numbers": [
+      0,
+      5,
+      10
+    ]
   },
   {
     "name": "Jeff Nordgaard",
@@ -14041,7 +16758,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Wisconsin-Green Bay"
     ],
-    "numbers": []
+    "numbers": [
+      9
+    ]
   },
   {
     "name": "Jeff Sheppard",
@@ -14051,7 +16770,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Kentucky"
     ],
-    "numbers": []
+    "numbers": [
+      15
+    ]
   },
   {
     "name": "Jeff Teague",
@@ -14065,7 +16786,9 @@ export const NBA_PLAYERS = [
       "Wake Forest"
     ],
     "numbers": [
+      0,
       5,
+      44,
       55
     ]
   },
@@ -14078,7 +16801,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Southern California"
     ],
-    "numbers": []
+    "numbers": [
+      3,
+      4,
+      20
+    ]
   },
   {
     "name": "Jeff Withey",
@@ -14090,7 +16817,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Kansas"
     ],
-    "numbers": []
+    "numbers": [
+      5,
+      17,
+      24
+    ]
   },
   {
     "name": "Jeffery Taylor",
@@ -14115,7 +16846,12 @@ export const NBA_PLAYERS = [
     "college": [
       "UCLA"
     ],
-    "numbers": []
+    "numbers": [
+      4,
+      6,
+      32,
+      34
+    ]
   },
   {
     "name": "Jemerrio Jones",
@@ -14126,6 +16862,7 @@ export const NBA_PLAYERS = [
       "New Mexico State"
     ],
     "numbers": [
+      10,
       50
     ]
   },
@@ -14138,7 +16875,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Tulane"
     ],
-    "numbers": []
+    "numbers": [
+      25
+    ]
   },
   {
     "name": "Jerami Grant",
@@ -14153,7 +16892,8 @@ export const NBA_PLAYERS = [
       "Syracuse"
     ],
     "numbers": [
-      9
+      9,
+      39
     ]
   },
   {
@@ -14164,7 +16904,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Marquette"
     ],
-    "numbers": []
+    "numbers": [
+      8
+    ]
   },
   {
     "name": "Jeremiah Martin",
@@ -14176,6 +16918,7 @@ export const NBA_PLAYERS = [
       "Memphis"
     ],
     "numbers": [
+      0,
       3
     ]
   },
@@ -14201,7 +16944,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Western Kentucky"
     ],
-    "numbers": []
+    "numbers": [
+      6,
+      21,
+      40
+    ]
   },
   {
     "name": "Jeremy Lamb",
@@ -14215,6 +16962,7 @@ export const NBA_PLAYERS = [
       "Connecticut"
     ],
     "numbers": [
+      11,
       26
     ]
   },
@@ -14232,7 +16980,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Harvard"
     ],
-    "numbers": []
+    "numbers": [
+      7,
+      17
+    ]
   },
   {
     "name": "Jeremy Pargo",
@@ -14244,7 +16995,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Gonzaga"
     ],
-    "numbers": []
+    "numbers": [
+      0,
+      1,
+      8,
+      20
+    ]
   },
   {
     "name": "Jeremy Richardson",
@@ -14256,7 +17012,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Delta State"
     ],
-    "numbers": []
+    "numbers": [
+      3,
+      23,
+      32
+    ]
   },
   {
     "name": "Jeremy Sochan",
@@ -14266,7 +17026,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Baylor"
     ],
-    "numbers": []
+    "numbers": [
+      10,
+      20
+    ]
   },
   {
     "name": "Jeremy Tyler",
@@ -14276,7 +17039,11 @@ export const NBA_PLAYERS = [
       "New York Knicks"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      1,
+      3,
+      4
+    ]
   },
   {
     "name": "Jerian Grant",
@@ -14289,7 +17056,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Notre Dame"
     ],
-    "numbers": []
+    "numbers": [
+      2,
+      13,
+      22
+    ]
   },
   {
     "name": "Jericho Sims",
@@ -14301,6 +17072,8 @@ export const NBA_PLAYERS = [
       "Texas-Austin"
     ],
     "numbers": [
+      0,
+      20,
       45
     ]
   },
@@ -14316,7 +17089,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Detroit Mercy"
     ],
-    "numbers": []
+    "numbers": [
+      5,
+      6,
+      8
+    ]
   },
   {
     "name": "Jermaine O'Neal",
@@ -14329,7 +17106,12 @@ export const NBA_PLAYERS = [
       "Portland Trail Blazers"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      5,
+      6,
+      7,
+      20
+    ]
   },
   {
     "name": "Jermaine Taylor",
@@ -14340,7 +17122,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Central Florida"
     ],
-    "numbers": []
+    "numbers": [
+      3,
+      8
+    ]
   },
   {
     "name": "Jermareo Davidson",
@@ -14351,7 +17136,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Alabama"
     ],
-    "numbers": []
+    "numbers": [
+      33
+    ]
   },
   {
     "name": "Jerome Allen",
@@ -14361,7 +17148,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Pennsylvania"
     ],
-    "numbers": []
+    "numbers": [
+      53
+    ]
   },
   {
     "name": "Jerome Beasley",
@@ -14371,7 +17160,9 @@ export const NBA_PLAYERS = [
     "college": [
       "North Dakota"
     ],
-    "numbers": []
+    "numbers": [
+      24
+    ]
   },
   {
     "name": "Jerome Dyson",
@@ -14381,7 +17172,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Connecticut"
     ],
-    "numbers": []
+    "numbers": [
+      11
+    ]
   },
   {
     "name": "Jerome James",
@@ -14393,7 +17186,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Florida A&M"
     ],
-    "numbers": []
+    "numbers": [
+      13,
+      31,
+      33,
+      53
+    ]
   },
   {
     "name": "Jerome Jordan",
@@ -14404,7 +17202,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Tulsa"
     ],
-    "numbers": []
+    "numbers": [
+      9,
+      44
+    ]
   },
   {
     "name": "Jerome Kersey",
@@ -14417,7 +17218,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Longwood"
     ],
-    "numbers": []
+    "numbers": [
+      7,
+      12,
+      25
+    ]
   },
   {
     "name": "Jerome Moiso",
@@ -14443,7 +17248,10 @@ export const NBA_PLAYERS = [
       "Boston College"
     ],
     "numbers": [
-      12
+      1,
+      10,
+      12,
+      18
     ]
   },
   {
@@ -14457,7 +17265,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Georgetown"
     ],
-    "numbers": []
+    "numbers": [
+      11,
+      13,
+      31
+    ]
   },
   {
     "name": "Jerrelle Benimon",
@@ -14465,7 +17277,9 @@ export const NBA_PLAYERS = [
       "Denver Nuggets"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      22
+    ]
   },
   {
     "name": "Jerry Smith",
@@ -14475,7 +17289,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Louisville"
     ],
-    "numbers": []
+    "numbers": [
+      28
+    ]
   },
   {
     "name": "Jerry Stackhouse",
@@ -14492,7 +17308,10 @@ export const NBA_PLAYERS = [
     "college": [
       "North Carolina"
     ],
-    "numbers": []
+    "numbers": [
+      24,
+      42
+    ]
   },
   {
     "name": "Jerryd Bayless",
@@ -14508,7 +17327,16 @@ export const NBA_PLAYERS = [
     "college": [
       "Arizona"
     ],
-    "numbers": []
+    "numbers": [
+      0,
+      4,
+      5,
+      7,
+      8,
+      11,
+      19,
+      32
+    ]
   },
   {
     "name": "Jeryl Sasser",
@@ -14518,7 +17346,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Southern Methodist"
     ],
-    "numbers": []
+    "numbers": [
+      5
+    ]
   },
   {
     "name": "Jevon Carter",
@@ -14532,6 +17362,8 @@ export const NBA_PLAYERS = [
     ],
     "numbers": [
       0,
+      2,
+      3,
       4,
       5
     ]
@@ -14553,7 +17385,13 @@ export const NBA_PLAYERS = [
     "college": [
       "Ohio State"
     ],
-    "numbers": []
+    "numbers": [
+      2,
+      19,
+      21,
+      22,
+      24
+    ]
   },
   {
     "name": "Jim McIlvaine",
@@ -14564,7 +17402,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Marquette"
     ],
-    "numbers": []
+    "numbers": [
+      22
+    ]
   },
   {
     "name": "Jimmer Fredette",
@@ -14578,7 +17418,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Brigham Young"
     ],
-    "numbers": []
+    "numbers": [
+      7,
+      32
+    ]
   },
   {
     "name": "Jimmy Butler",
@@ -14592,7 +17435,10 @@ export const NBA_PLAYERS = [
       "Marquette"
     ],
     "numbers": [
-      22
+      10,
+      21,
+      22,
+      23
     ]
   },
   {
@@ -14603,7 +17449,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Virginia Tech"
     ],
-    "numbers": []
+    "numbers": [
+      40
+    ]
   },
   {
     "name": "Jimmy King",
@@ -14613,7 +17461,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Michigan"
     ],
-    "numbers": []
+    "numbers": [
+      13,
+      24
+    ]
   },
   {
     "name": "Jimmy Oliver",
@@ -14625,7 +17476,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Purdue"
     ],
-    "numbers": []
+    "numbers": [
+      11,
+      24,
+      33
+    ]
   },
   {
     "name": "Jiri Welsch",
@@ -14649,7 +17504,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Florida"
     ],
-    "numbers": []
+    "numbers": [
+      13,
+      55
+    ]
   },
   {
     "name": "Jock Landale",
@@ -14661,6 +17519,9 @@ export const NBA_PLAYERS = [
       "St. Mary's"
     ],
     "numbers": [
+      2,
+      11,
+      31,
       34
     ]
   },
@@ -14677,7 +17538,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Kentucky"
     ],
-    "numbers": []
+    "numbers": [
+      20,
+      23
+    ]
   },
   {
     "name": "Joe Alexander",
@@ -14688,7 +17552,10 @@ export const NBA_PLAYERS = [
     "college": [
       "West Virginia"
     ],
-    "numbers": []
+    "numbers": [
+      11,
+      20
+    ]
   },
   {
     "name": "Joe Chealey",
@@ -14708,7 +17575,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Southern Mississippi"
     ],
-    "numbers": []
+    "numbers": [
+      21,
+      40
+    ]
   },
   {
     "name": "Joe Crawford",
@@ -14718,7 +17588,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Kentucky"
     ],
-    "numbers": []
+    "numbers": [
+      5
+    ]
   },
   {
     "name": "Joe Crispin",
@@ -14728,7 +17600,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Penn State"
     ],
-    "numbers": []
+    "numbers": [
+      11
+    ]
   },
   {
     "name": "Joe Dumars",
@@ -14738,7 +17612,9 @@ export const NBA_PLAYERS = [
     "college": [
       "McNeese State"
     ],
-    "numbers": []
+    "numbers": [
+      4
+    ]
   },
   {
     "name": "Joe Harris",
@@ -14750,7 +17626,8 @@ export const NBA_PLAYERS = [
       "Virginia"
     ],
     "numbers": [
-      12
+      12,
+      31
     ]
   },
   {
@@ -14762,7 +17639,8 @@ export const NBA_PLAYERS = [
     ],
     "college": [],
     "numbers": [
-      2
+      2,
+      7
     ]
   },
   {
@@ -14780,6 +17658,10 @@ export const NBA_PLAYERS = [
       "Arkansas"
     ],
     "numbers": [
+      2,
+      6,
+      7,
+      31,
       55
     ]
   },
@@ -14794,7 +17676,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Arkansas"
     ],
-    "numbers": []
+    "numbers": [
+      35,
+      53
+    ]
   },
   {
     "name": "Joe Smith",
@@ -14811,7 +17696,13 @@ export const NBA_PLAYERS = [
     "college": [
       "Maryland"
     ],
-    "numbers": []
+    "numbers": [
+      1,
+      7,
+      8,
+      9,
+      32
+    ]
   },
   {
     "name": "Joe Stephens",
@@ -14822,7 +17713,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Arkansas-Little Rock"
     ],
-    "numbers": []
+    "numbers": [
+      23,
+      41
+    ]
   },
   {
     "name": "Joe Wieskamp",
@@ -14834,6 +17728,7 @@ export const NBA_PLAYERS = [
       "Iowa"
     ],
     "numbers": [
+      11,
       15
     ]
   },
@@ -14847,7 +17742,13 @@ export const NBA_PLAYERS = [
     "college": [
       "North Carolina"
     ],
-    "numbers": []
+    "numbers": [
+      12,
+      17,
+      23,
+      30,
+      43
+    ]
   },
   {
     "name": "Joe Young",
@@ -14857,7 +17758,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Oregon"
     ],
-    "numbers": []
+    "numbers": [
+      1,
+      3
+    ]
   },
   {
     "name": "Joel Anthony",
@@ -14870,7 +17774,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Nevada-Las Vegas"
     ],
-    "numbers": []
+    "numbers": [
+      30,
+      50
+    ]
   },
   {
     "name": "Joel Ayayi",
@@ -14892,7 +17799,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Weber State"
     ],
-    "numbers": []
+    "numbers": [
+      21,
+      24
+    ]
   },
   {
     "name": "Joel Embiid",
@@ -14912,7 +17822,9 @@ export const NBA_PLAYERS = [
       "Portland Trail Blazers"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      19
+    ]
   },
   {
     "name": "Joel Przybilla",
@@ -14925,7 +17837,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Minnesota"
     ],
-    "numbers": []
+    "numbers": [
+      6,
+      10
+    ]
   },
   {
     "name": "Joey Dorsey",
@@ -14937,7 +17852,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Memphis"
     ],
-    "numbers": []
+    "numbers": [
+      8,
+      9,
+      15
+    ]
   },
   {
     "name": "Joey Graham",
@@ -14949,7 +17868,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Oklahoma State"
     ],
-    "numbers": []
+    "numbers": [
+      12,
+      14
+    ]
   },
   {
     "name": "Joffrey Lauvergne",
@@ -14959,7 +17881,9 @@ export const NBA_PLAYERS = [
       "San Antonio Spurs"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      77
+    ]
   },
   {
     "name": "Johan Petro",
@@ -14970,7 +17894,10 @@ export const NBA_PLAYERS = [
       "Seattle SuperSonics"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      10,
+      27
+    ]
   },
   {
     "name": "John Amaechi",
@@ -14981,7 +17908,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Penn State"
     ],
-    "numbers": []
+    "numbers": [
+      13,
+      26
+    ]
   },
   {
     "name": "John Butler Jr.",
@@ -15001,7 +17931,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Villanova"
     ],
-    "numbers": []
+    "numbers": [
+      11
+    ]
   },
   {
     "name": "John Coker",
@@ -15012,7 +17944,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Boise State"
     ],
-    "numbers": []
+    "numbers": [
+      40,
+      51
+    ]
   },
   {
     "name": "John Collins",
@@ -15039,7 +17974,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Virginia"
     ],
-    "numbers": []
+    "numbers": [
+      11,
+      12,
+      22,
+      25
+    ]
   },
   {
     "name": "John Edwards",
@@ -15050,7 +17990,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Kent State"
     ],
-    "numbers": []
+    "numbers": [
+      54
+    ]
   },
   {
     "name": "John Henson",
@@ -15062,7 +18004,9 @@ export const NBA_PLAYERS = [
     "college": [
       "North Carolina"
     ],
-    "numbers": []
+    "numbers": [
+      31
+    ]
   },
   {
     "name": "John Holland",
@@ -15072,7 +18016,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Boston U."
     ],
-    "numbers": []
+    "numbers": [
+      10,
+      30
+    ]
   },
   {
     "name": "John Jenkins",
@@ -15084,7 +18031,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Vanderbilt"
     ],
-    "numbers": []
+    "numbers": [
+      12,
+      20,
+      23,
+      30
+    ]
   },
   {
     "name": "John Konchar",
@@ -15095,7 +18047,8 @@ export const NBA_PLAYERS = [
       "Indiana-Purdue Fort Wayne"
     ],
     "numbers": [
-      46
+      46,
+      55
     ]
   },
   {
@@ -15106,7 +18059,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Detroit Mercy"
     ],
-    "numbers": []
+    "numbers": [
+      25
+    ]
   },
   {
     "name": "John Lucas III",
@@ -15121,7 +18076,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Oklahoma State"
     ],
-    "numbers": []
+    "numbers": [
+      5,
+      9,
+      11,
+      15
+    ]
   },
   {
     "name": "John Salley",
@@ -15131,7 +18091,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Georgia Tech"
     ],
-    "numbers": []
+    "numbers": [
+      16,
+      22
+    ]
   },
   {
     "name": "John Salmons",
@@ -15146,7 +18109,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Miami (FL)"
     ],
-    "numbers": []
+    "numbers": [
+      5,
+      7,
+      15,
+      25
+    ]
   },
   {
     "name": "John Starks",
@@ -15159,7 +18127,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Oklahoma State"
     ],
-    "numbers": []
+    "numbers": [
+      3,
+      9
+    ]
   },
   {
     "name": "John Stockton",
@@ -15169,7 +18140,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Gonzaga"
     ],
-    "numbers": []
+    "numbers": [
+      12
+    ]
   },
   {
     "name": "John Thomas",
@@ -15181,7 +18154,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Minnesota"
     ],
-    "numbers": []
+    "numbers": [
+      12,
+      25,
+      41,
+      55
+    ]
   },
   {
     "name": "John Wall",
@@ -15194,7 +18172,9 @@ export const NBA_PLAYERS = [
       "Kentucky"
     ],
     "numbers": [
-      1
+      1,
+      2,
+      11
     ]
   },
   {
@@ -15209,7 +18189,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Syracuse"
     ],
-    "numbers": []
+    "numbers": [
+      22,
+      44
+    ]
   },
   {
     "name": "Johnathan Motley",
@@ -15220,7 +18203,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Baylor"
     ],
-    "numbers": []
+    "numbers": [
+      6,
+      15
+    ]
   },
   {
     "name": "Johnathan Williams",
@@ -15231,7 +18217,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Gonzaga"
     ],
-    "numbers": []
+    "numbers": [
+      19
+    ]
   },
   {
     "name": "Johnny Davis",
@@ -15241,7 +18229,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Wisconsin"
     ],
-    "numbers": []
+    "numbers": [
+      1
+    ]
   },
   {
     "name": "Johnny Juzang",
@@ -15251,7 +18241,9 @@ export const NBA_PLAYERS = [
     "college": [
       "UCLA"
     ],
-    "numbers": []
+    "numbers": [
+      33
+    ]
   },
   {
     "name": "Johnny Newman",
@@ -15265,7 +18257,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Richmond"
     ],
-    "numbers": []
+    "numbers": [
+      2,
+      20,
+      22
+    ]
   },
   {
     "name": "Johnny O'Bryant III",
@@ -15287,7 +18283,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Tennessee-Chattanooga"
     ],
-    "numbers": []
+    "numbers": [
+      17,
+      23
+    ]
   },
   {
     "name": "Jon Barry",
@@ -15302,7 +18301,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Georgia Tech"
     ],
-    "numbers": []
+    "numbers": [
+      17,
+      20
+    ]
   },
   {
     "name": "Jon Brockman",
@@ -15313,7 +18315,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Washington"
     ],
-    "numbers": []
+    "numbers": [
+      40
+    ]
   },
   {
     "name": "Jon Leuer",
@@ -15326,7 +18330,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Wisconsin"
     ],
-    "numbers": []
+    "numbers": [
+      30
+    ]
   },
   {
     "name": "Jon Teske",
@@ -15349,7 +18355,9 @@ export const NBA_PLAYERS = [
     "college": [
       "UCLA"
     ],
-    "numbers": []
+    "numbers": [
+      43
+    ]
   },
   {
     "name": "Jonas Jerebko",
@@ -15360,7 +18368,11 @@ export const NBA_PLAYERS = [
       "Utah Jazz"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      8,
+      21,
+      33
+    ]
   },
   {
     "name": "Jonas Valanciunas",
@@ -15379,7 +18391,10 @@ export const NBA_PLAYERS = [
       "New York Knicks"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      9,
+      24
+    ]
   },
   {
     "name": "Jonathan Gibson",
@@ -15390,7 +18405,10 @@ export const NBA_PLAYERS = [
     "college": [
       "New Mexico State"
     ],
-    "numbers": []
+    "numbers": [
+      3,
+      60
+    ]
   },
   {
     "name": "Jonathan Isaac",
@@ -15400,7 +18418,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Florida State"
     ],
-    "numbers": []
+    "numbers": [
+      1
+    ]
   },
   {
     "name": "Jonathan Kerner",
@@ -15410,7 +18430,9 @@ export const NBA_PLAYERS = [
     "college": [
       "East Carolina"
     ],
-    "numbers": []
+    "numbers": [
+      52
+    ]
   },
   {
     "name": "Jonathan Kuminga",
@@ -15432,7 +18454,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Houston"
     ],
-    "numbers": []
+    "numbers": [
+      14,
+      17
+    ]
   },
   {
     "name": "Jonny Flynn",
@@ -15443,7 +18468,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Syracuse"
     ],
-    "numbers": []
+    "numbers": [
+      3,
+      9,
+      10
+    ]
   },
   {
     "name": "Jontay Porter",
@@ -15465,7 +18494,9 @@ export const NBA_PLAYERS = [
     "college": [
       "UCLA"
     ],
-    "numbers": []
+    "numbers": [
+      3
+    ]
   },
   {
     "name": "Jordan Bell",
@@ -15478,6 +18509,7 @@ export const NBA_PLAYERS = [
       "Oregon"
     ],
     "numbers": [
+      2,
       7,
       20
     ]
@@ -15492,6 +18524,7 @@ export const NBA_PLAYERS = [
       "Tennessee"
     ],
     "numbers": [
+      18,
       23
     ]
   },
@@ -15506,7 +18539,9 @@ export const NBA_PLAYERS = [
       "Missouri"
     ],
     "numbers": [
-      0
+      0,
+      6,
+      8
     ]
   },
   {
@@ -15520,7 +18555,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Xavier"
     ],
-    "numbers": []
+    "numbers": [
+      4,
+      15,
+      27,
+      55
+    ]
   },
   {
     "name": "Jordan Farmar",
@@ -15534,7 +18574,13 @@ export const NBA_PLAYERS = [
     "college": [
       "UCLA"
     ],
-    "numbers": []
+    "numbers": [
+      1,
+      2,
+      4,
+      5,
+      20
+    ]
   },
   {
     "name": "Jordan Goodwin",
@@ -15545,7 +18591,11 @@ export const NBA_PLAYERS = [
       "St. Louis"
     ],
     "numbers": [
-      7
+      0,
+      4,
+      7,
+      23,
+      30
     ]
   },
   {
@@ -15556,7 +18606,9 @@ export const NBA_PLAYERS = [
     "college": [
       "St. Joseph's (PA)"
     ],
-    "numbers": []
+    "numbers": [
+      55
+    ]
   },
   {
     "name": "Jordan Hamilton",
@@ -15569,7 +18621,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Texas"
     ],
-    "numbers": []
+    "numbers": [
+      1,
+      5,
+      25
+    ]
   },
   {
     "name": "Jordan Hill",
@@ -15582,7 +18638,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Arizona"
     ],
-    "numbers": []
+    "numbers": [
+      27,
+      43
+    ]
   },
   {
     "name": "Jordan Loyd",
@@ -15590,7 +18649,9 @@ export const NBA_PLAYERS = [
       "Toronto Raptors"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      8
+    ]
   },
   {
     "name": "Jordan McLaughlin",
@@ -15601,7 +18662,9 @@ export const NBA_PLAYERS = [
       "Southern California"
     ],
     "numbers": [
-      6
+      3,
+      6,
+      11
     ]
   },
   {
@@ -15614,7 +18677,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Tennessee"
     ],
-    "numbers": []
+    "numbers": [
+      12,
+      52
+    ]
   },
   {
     "name": "Jordan Mickey",
@@ -15625,7 +18691,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Louisiana State"
     ],
-    "numbers": []
+    "numbers": [
+      25,
+      55
+    ]
   },
   {
     "name": "Jordan Nwora",
@@ -15649,7 +18718,8 @@ export const NBA_PLAYERS = [
       "Michigan"
     ],
     "numbers": [
-      3
+      3,
+      13
     ]
   },
   {
@@ -15672,7 +18742,9 @@ export const NBA_PLAYERS = [
     "college": [
       "University of Dayton"
     ],
-    "numbers": []
+    "numbers": [
+      8
+    ]
   },
   {
     "name": "Jordan Williams",
@@ -15682,7 +18754,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Maryland"
     ],
-    "numbers": []
+    "numbers": [
+      20
+    ]
   },
   {
     "name": "Jorge Garbajosa",
@@ -15690,7 +18764,9 @@ export const NBA_PLAYERS = [
       "Toronto Raptors"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      15
+    ]
   },
   {
     "name": "Jorge Gutierrez",
@@ -15713,6 +18789,7 @@ export const NBA_PLAYERS = [
       "Georgia Tech"
     ],
     "numbers": [
+      5,
       15
     ]
   },
@@ -15738,7 +18815,9 @@ export const NBA_PLAYERS = [
     "college": [
       "North Carolina"
     ],
-    "numbers": []
+    "numbers": [
+      40
+    ]
   },
   {
     "name": "Josh Akognon",
@@ -15748,7 +18827,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Cal State-Fullerton"
     ],
-    "numbers": []
+    "numbers": [
+      10
+    ]
   },
   {
     "name": "Josh Boone",
@@ -15758,7 +18839,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Connecticut"
     ],
-    "numbers": []
+    "numbers": [
+      2
+    ]
   },
   {
     "name": "Josh Childress",
@@ -15771,7 +18854,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Stanford"
     ],
-    "numbers": []
+    "numbers": [
+      1,
+      2,
+      8
+    ]
   },
   {
     "name": "Josh Christopher",
@@ -15782,6 +18869,7 @@ export const NBA_PLAYERS = [
       "Arizona State"
     ],
     "numbers": [
+      8,
       9
     ]
   },
@@ -15796,7 +18884,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Wyoming"
     ],
-    "numbers": []
+    "numbers": [
+      5,
+      15,
+      18,
+      23
+    ]
   },
   {
     "name": "Josh Giddey",
@@ -15817,7 +18910,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Louisiana State"
     ],
-    "numbers": []
+    "numbers": [
+      5,
+      14
+    ]
   },
   {
     "name": "Josh Green",
@@ -15851,7 +18947,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Kentucky"
     ],
-    "numbers": []
+    "numbers": [
+      55
+    ]
   },
   {
     "name": "Josh Hart",
@@ -15866,6 +18964,7 @@ export const NBA_PLAYERS = [
     ],
     "numbers": [
       3,
+      5,
       11
     ]
   },
@@ -15880,7 +18979,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Wake Forest"
     ],
-    "numbers": []
+    "numbers": [
+      5,
+      8
+    ]
   },
   {
     "name": "Josh Huestis",
@@ -15890,7 +18992,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Stanford"
     ],
-    "numbers": []
+    "numbers": [
+      34
+    ]
   },
   {
     "name": "Josh Jackson",
@@ -15917,7 +19021,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Alabama Huntsville"
     ],
-    "numbers": []
+    "numbers": [
+      4,
+      11
+    ]
   },
   {
     "name": "Josh McRoberts",
@@ -15932,7 +19039,13 @@ export const NBA_PLAYERS = [
     "college": [
       "Duke"
     ],
-    "numbers": []
+    "numbers": [
+      4,
+      6,
+      13,
+      17,
+      32
+    ]
   },
   {
     "name": "Josh Minott",
@@ -15942,7 +19055,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Memphis"
     ],
-    "numbers": []
+    "numbers": [
+      0,
+      8
+    ]
   },
   {
     "name": "Josh Okogie",
@@ -15955,6 +19071,7 @@ export const NBA_PLAYERS = [
       "Georgia Tech"
     ],
     "numbers": [
+      2,
       20
     ]
   },
@@ -15971,7 +19088,12 @@ export const NBA_PLAYERS = [
     "college": [
       "North Carolina State"
     ],
-    "numbers": []
+    "numbers": [
+      12,
+      21,
+      22,
+      33
+    ]
   },
   {
     "name": "Josh Reaves",
@@ -15981,7 +19103,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Penn State"
     ],
-    "numbers": []
+    "numbers": [
+      23
+    ]
   },
   {
     "name": "Josh Richardson",
@@ -15997,6 +19121,7 @@ export const NBA_PLAYERS = [
     ],
     "numbers": [
       0,
+      2,
       7,
       8
     ]
@@ -16009,7 +19134,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Kansas"
     ],
-    "numbers": []
+    "numbers": [
+      2
+    ]
   },
   {
     "name": "Josh Smith",
@@ -16020,7 +19147,10 @@ export const NBA_PLAYERS = [
       "New Orleans Pelicans"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      5,
+      6
+    ]
   },
   {
     "name": "Joshua Primo",
@@ -16031,7 +19161,8 @@ export const NBA_PLAYERS = [
       "Alabama"
     ],
     "numbers": [
-      11
+      11,
+      12
     ]
   },
   {
@@ -16045,6 +19176,8 @@ export const NBA_PLAYERS = [
       "UCLA"
     ],
     "numbers": [
+      4,
+      11,
       21
     ]
   },
@@ -16054,7 +19187,9 @@ export const NBA_PLAYERS = [
       "Memphis Grizzlies"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      2
+    ]
   },
   {
     "name": "Juan Dixon",
@@ -16067,7 +19202,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Maryland"
     ],
-    "numbers": []
+    "numbers": [
+      3,
+      8,
+      12
+    ]
   },
   {
     "name": "Juan Toscano-Anderson",
@@ -16101,7 +19240,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Long Beach State"
     ],
-    "numbers": []
+    "numbers": [
+      1
+    ]
   },
   {
     "name": "Jud Buechler",
@@ -16113,7 +19254,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Arizona"
     ],
-    "numbers": []
+    "numbers": [
+      26,
+      30
+    ]
   },
   {
     "name": "Julian Champagnie",
@@ -16123,7 +19267,10 @@ export const NBA_PLAYERS = [
     "college": [
       "St. John's"
     ],
-    "numbers": []
+    "numbers": [
+      30,
+      55
+    ]
   },
   {
     "name": "Julian Washburn",
@@ -16133,7 +19280,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Texas-El Paso"
     ],
-    "numbers": []
+    "numbers": [
+      4
+    ]
   },
   {
     "name": "Julian Wright",
@@ -16144,7 +19293,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Kansas"
     ],
-    "numbers": []
+    "numbers": [
+      14,
+      32
+    ]
   },
   {
     "name": "Julius Hodge",
@@ -16155,7 +19307,10 @@ export const NBA_PLAYERS = [
     "college": [
       "North Carolina State"
     ],
-    "numbers": []
+    "numbers": [
+      24,
+      32
+    ]
   },
   {
     "name": "Julius Randle",
@@ -16181,7 +19336,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Texas-El Paso"
     ],
-    "numbers": []
+    "numbers": [
+      10,
+      77
+    ]
   },
   {
     "name": "Jumaine Jones",
@@ -16196,7 +19354,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Georgia"
     ],
-    "numbers": []
+    "numbers": [
+      20,
+      33
+    ]
   },
   {
     "name": "Junior Harrington",
@@ -16208,7 +19369,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Wingate"
     ],
-    "numbers": []
+    "numbers": [
+      6,
+      10
+    ]
   },
   {
     "name": "Justin Anderson",
@@ -16224,7 +19388,8 @@ export const NBA_PLAYERS = [
     ],
     "numbers": [
       1,
-      10
+      10,
+      23
     ]
   },
   {
@@ -16237,7 +19402,9 @@ export const NBA_PLAYERS = [
       "Pittsburgh"
     ],
     "numbers": [
-      11
+      9,
+      11,
+      99
     ]
   },
   {
@@ -16249,7 +19416,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Washington"
     ],
-    "numbers": []
+    "numbers": [
+      1,
+      7
+    ]
   },
   {
     "name": "Justin Hamilton",
@@ -16261,7 +19431,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Louisiana State"
     ],
-    "numbers": []
+    "numbers": [
+      7,
+      41
+    ]
   },
   {
     "name": "Justin Harper",
@@ -16273,7 +19446,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Richmond"
     ],
-    "numbers": []
+    "numbers": [
+      30,
+      32
+    ]
   },
   {
     "name": "Justin Holiday",
@@ -16291,8 +19467,11 @@ export const NBA_PLAYERS = [
       "Washington"
     ],
     "numbers": [
+      0,
+      7,
       8,
-      9
+      9,
+      14
     ]
   },
   {
@@ -16309,6 +19488,7 @@ export const NBA_PLAYERS = [
       "UNC"
     ],
     "numbers": [
+      25,
       43,
       44,
       45
@@ -16334,7 +19514,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Providence"
     ],
-    "numbers": []
+    "numbers": [
+      10,
+      24,
+      35
+    ]
   },
   {
     "name": "Justin Patton",
@@ -16348,6 +19532,9 @@ export const NBA_PLAYERS = [
       "Creighton"
     ],
     "numbers": [
+      0,
+      13,
+      24,
       26
     ]
   },
@@ -16360,7 +19547,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Mississippi"
     ],
-    "numbers": []
+    "numbers": [
+      9
+    ]
   },
   {
     "name": "Justin Robinson",
@@ -16374,6 +19563,7 @@ export const NBA_PLAYERS = [
     ],
     "numbers": [
       3,
+      5,
       9,
       34,
       55
@@ -16388,7 +19578,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Wyoming"
     ],
-    "numbers": []
+    "numbers": [
+      30
+    ]
   },
   {
     "name": "Justin Wright-Foreman",
@@ -16398,7 +19590,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Hofstra"
     ],
-    "numbers": []
+    "numbers": [
+      3
+    ]
   },
   {
     "name": "Justise Winslow",
@@ -16440,7 +19634,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Michigan"
     ],
-    "numbers": []
+    "numbers": [
+      5,
+      6,
+      7,
+      55
+    ]
   },
   {
     "name": "Juwan Morgan",
@@ -16477,7 +19676,9 @@ export const NBA_PLAYERS = [
       "Stanford"
     ],
     "numbers": [
-      11
+      4,
+      11,
+      30
     ]
   },
   {
@@ -16489,7 +19690,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Arizona"
     ],
-    "numbers": []
+    "numbers": [
+      0,
+      45
+    ]
   },
   {
     "name": "Kai Jones",
@@ -16500,7 +19704,9 @@ export const NBA_PLAYERS = [
       "Texas",
       "Texas-Austin"
     ],
-    "numbers": []
+    "numbers": [
+      23
+    ]
   },
   {
     "name": "Kalin Lucas",
@@ -16511,7 +19717,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Michigan State"
     ],
-    "numbers": []
+    "numbers": [
+      24,
+      27
+    ]
   },
   {
     "name": "Kaniel Dickens",
@@ -16523,7 +19732,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Idaho"
     ],
-    "numbers": []
+    "numbers": [
+      28,
+      45
+    ]
   },
   {
     "name": "Kareem Rush",
@@ -16537,7 +19749,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Missouri"
     ],
-    "numbers": []
+    "numbers": [
+      4,
+      21
+    ]
   },
   {
     "name": "Karim Mane",
@@ -16556,7 +19771,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Louisiana Tech"
     ],
-    "numbers": []
+    "numbers": [
+      11,
+      32
+    ]
   },
   {
     "name": "Karl-Anthony Towns",
@@ -16578,7 +19796,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Texas Tech"
     ],
-    "numbers": []
+    "numbers": [
+      12
+    ]
   },
   {
     "name": "Kawhi Leonard",
@@ -16601,7 +19821,11 @@ export const NBA_PLAYERS = [
       "Detroit Pistons"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      3,
+      20,
+      22
+    ]
   },
   {
     "name": "Kebu Stewart",
@@ -16611,7 +19835,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Cal State-Bakersfield"
     ],
-    "numbers": []
+    "numbers": [
+      41
+    ]
   },
   {
     "name": "Kedrick Brown",
@@ -16623,7 +19849,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Northwest Florida State"
     ],
-    "numbers": []
+    "numbers": [
+      5,
+      42
+    ]
   },
   {
     "name": "Keegan Murray",
@@ -16633,7 +19862,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Iowa"
     ],
-    "numbers": []
+    "numbers": [
+      13
+    ]
   },
   {
     "name": "Keifer Sykes",
@@ -16658,6 +19889,9 @@ export const NBA_PLAYERS = [
       "Ohio State"
     ],
     "numbers": [
+      6,
+      13,
+      21,
       31
     ]
   },
@@ -16669,7 +19903,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Michigan State"
     ],
-    "numbers": []
+    "numbers": [
+      15
+    ]
   },
   {
     "name": "Keith Askins",
@@ -16679,7 +19915,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Alabama"
     ],
-    "numbers": []
+    "numbers": [
+      2
+    ]
   },
   {
     "name": "Keith Benson",
@@ -16689,7 +19927,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Oakland"
     ],
-    "numbers": []
+    "numbers": [
+      34
+    ]
   },
   {
     "name": "Keith Bogans",
@@ -16707,7 +19947,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Kentucky"
     ],
-    "numbers": []
+    "numbers": [
+      3,
+      4,
+      6,
+      10
+    ]
   },
   {
     "name": "Keith Booth",
@@ -16717,7 +19962,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Maryland"
     ],
-    "numbers": []
+    "numbers": [
+      22
+    ]
   },
   {
     "name": "Keith Closs",
@@ -16727,7 +19974,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Central Connecticut State"
     ],
-    "numbers": []
+    "numbers": [
+      33
+    ]
   },
   {
     "name": "Keith Langford",
@@ -16737,7 +19986,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Kansas"
     ],
-    "numbers": []
+    "numbers": [
+      3
+    ]
   },
   {
     "name": "Keith McLeod",
@@ -16749,7 +20000,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Bowling Green"
     ],
-    "numbers": []
+    "numbers": [
+      4,
+      20,
+      25
+    ]
   },
   {
     "name": "Keith Tower",
@@ -16759,7 +20014,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Notre Dame"
     ],
-    "numbers": []
+    "numbers": [
+      51
+    ]
   },
   {
     "name": "Keith Van Horn",
@@ -16772,7 +20029,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Utah"
     ],
-    "numbers": []
+    "numbers": [
+      2,
+      4,
+      44
+    ]
   },
   {
     "name": "Kelan Martin",
@@ -16786,7 +20047,8 @@ export const NBA_PLAYERS = [
     ],
     "numbers": [
       4,
-      21
+      21,
+      30
     ]
   },
   {
@@ -16798,6 +20060,7 @@ export const NBA_PLAYERS = [
       "Kentucky"
     ],
     "numbers": [
+      0,
       3
     ]
   },
@@ -16810,7 +20073,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Kentucky"
     ],
-    "numbers": []
+    "numbers": [
+      4,
+      7
+    ]
   },
   {
     "name": "Keljin Blevins",
@@ -16832,7 +20098,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Southern Mississippi"
     ],
-    "numbers": []
+    "numbers": [
+      11
+    ]
   },
   {
     "name": "Kelly Olynyk",
@@ -16864,6 +20132,8 @@ export const NBA_PLAYERS = [
       "Kansas"
     ],
     "numbers": [
+      3,
+      9,
       12
     ]
   },
@@ -16879,7 +20149,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Iowa State"
     ],
-    "numbers": []
+    "numbers": [
+      13,
+      26,
+      31
+    ]
   },
   {
     "name": "Kemba Walker",
@@ -16894,7 +20168,8 @@ export const NBA_PLAYERS = [
       "Connecticut"
     ],
     "numbers": [
-      8
+      8,
+      34
     ]
   },
   {
@@ -16905,7 +20180,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Ohio State"
     ],
-    "numbers": []
+    "numbers": [
+      54
+    ]
   },
   {
     "name": "Ken Norman",
@@ -16915,7 +20192,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Illinois"
     ],
-    "numbers": []
+    "numbers": [
+      3,
+      5
+    ]
   },
   {
     "name": "Kendall Brown",
@@ -16925,7 +20205,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Baylor"
     ],
-    "numbers": []
+    "numbers": [
+      10
+    ]
   },
   {
     "name": "Kendall Gill",
@@ -16939,7 +20221,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Illinois"
     ],
-    "numbers": []
+    "numbers": [
+      9,
+      12,
+      13
+    ]
   },
   {
     "name": "Kendall Marshall",
@@ -16952,7 +20238,10 @@ export const NBA_PLAYERS = [
     "college": [
       "North Carolina"
     ],
-    "numbers": []
+    "numbers": [
+      5,
+      12
+    ]
   },
   {
     "name": "Kendrick Nunn",
@@ -16964,6 +20253,8 @@ export const NBA_PLAYERS = [
       "Oakland"
     ],
     "numbers": [
+      12,
+      20,
       25
     ]
   },
@@ -16976,7 +20267,12 @@ export const NBA_PLAYERS = [
       "Oklahoma City Thunder"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      3,
+      5,
+      21,
+      43
+    ]
   },
   {
     "name": "Kennedy Chandler",
@@ -16986,7 +20282,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Tennessee"
     ],
-    "numbers": []
+    "numbers": [
+      1
+    ]
   },
   {
     "name": "Kenneth Faried",
@@ -16997,7 +20295,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Morehead State"
     ],
-    "numbers": []
+    "numbers": [
+      35
+    ]
   },
   {
     "name": "Kenneth Lofton Jr.",
@@ -17007,7 +20307,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Louisiana Tech"
     ],
-    "numbers": []
+    "numbers": [
+      6,
+      34,
+      35
+    ]
   },
   {
     "name": "Kenny Anderson",
@@ -17021,7 +20325,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Georgia Tech"
     ],
-    "numbers": []
+    "numbers": [
+      7,
+      12,
+      13,
+      17
+    ]
   },
   {
     "name": "Kenny Satterfield",
@@ -17032,7 +20341,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Cincinnati"
     ],
-    "numbers": []
+    "numbers": [
+      11,
+      12
+    ]
   },
   {
     "name": "Kenny Smith",
@@ -17042,7 +20354,9 @@ export const NBA_PLAYERS = [
     "college": [
       "North Carolina"
     ],
-    "numbers": []
+    "numbers": [
+      30
+    ]
   },
   {
     "name": "Kenny Thomas",
@@ -17054,7 +20368,10 @@ export const NBA_PLAYERS = [
     "college": [
       "New Mexico"
     ],
-    "numbers": []
+    "numbers": [
+      9,
+      21
+    ]
   },
   {
     "name": "Kenrich Williams",
@@ -17081,7 +20398,10 @@ export const NBA_PLAYERS = [
       "Old Dominion"
     ],
     "numbers": [
+      6,
       9,
+      20,
+      24,
       26
     ]
   },
@@ -17097,7 +20417,9 @@ export const NBA_PLAYERS = [
       "Georgia"
     ],
     "numbers": [
-      1
+      1,
+      3,
+      5
     ]
   },
   {
@@ -17112,7 +20434,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Cincinnati"
     ],
-    "numbers": []
+    "numbers": [
+      2,
+      3,
+      4,
+      6
+    ]
   },
   {
     "name": "Kenyon Martin Jr.",
@@ -17133,7 +20460,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Nevada-Las Vegas"
     ],
-    "numbers": []
+    "numbers": [
+      7,
+      13,
+      15
+    ]
   },
   {
     "name": "Keon Ellis",
@@ -17143,7 +20474,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Alabama"
     ],
-    "numbers": []
+    "numbers": [
+      14,
+      23
+    ]
   },
   {
     "name": "Keon Johnson",
@@ -17167,7 +20501,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Villanova"
     ],
-    "numbers": []
+    "numbers": [
+      30
+    ]
   },
   {
     "name": "Kessler Edwards",
@@ -17179,7 +20515,9 @@ export const NBA_PLAYERS = [
       "Pepperdine"
     ],
     "numbers": [
-      14
+      14,
+      17,
+      20
     ]
   },
   {
@@ -17200,7 +20538,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Eastern Illinois"
     ],
-    "numbers": []
+    "numbers": [
+      0
+    ]
   },
   {
     "name": "Kevin Durant",
@@ -17216,7 +20556,8 @@ export const NBA_PLAYERS = [
       "Texas-Austin"
     ],
     "numbers": [
-      7
+      7,
+      35
     ]
   },
   {
@@ -17229,7 +20570,10 @@ export const NBA_PLAYERS = [
     "college": [
       "DePaul"
     ],
-    "numbers": []
+    "numbers": [
+      20,
+      21
+    ]
   },
   {
     "name": "Kevin Gamble",
@@ -17239,7 +20583,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Iowa"
     ],
-    "numbers": []
+    "numbers": [
+      35,
+      40
+    ]
   },
   {
     "name": "Kevin Garnett",
@@ -17249,7 +20596,11 @@ export const NBA_PLAYERS = [
       "Minnesota Timberwolves"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      2,
+      5,
+      21
+    ]
   },
   {
     "name": "Kevin Hervey",
@@ -17259,7 +20610,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Texas-Arlington"
     ],
-    "numbers": []
+    "numbers": [
+      15
+    ]
   },
   {
     "name": "Kevin Huerter",
@@ -17271,7 +20624,10 @@ export const NBA_PLAYERS = [
       "Maryland"
     ],
     "numbers": [
-      3
+      3,
+      9,
+      13,
+      27
     ]
   },
   {
@@ -17282,7 +20638,9 @@ export const NBA_PLAYERS = [
     "college": [
       "California"
     ],
-    "numbers": []
+    "numbers": [
+      7
+    ]
   },
   {
     "name": "Kevin Jones",
@@ -17292,7 +20650,9 @@ export const NBA_PLAYERS = [
     "college": [
       "West Virginia"
     ],
-    "numbers": []
+    "numbers": [
+      5
+    ]
   },
   {
     "name": "Kevin Knox II",
@@ -17317,7 +20677,8 @@ export const NBA_PLAYERS = [
       "UCLA"
     ],
     "numbers": [
-      0
+      0,
+      42
     ]
   },
   {
@@ -17332,7 +20693,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Western Carolina"
     ],
-    "numbers": []
+    "numbers": [
+      12,
+      23
+    ]
   },
   {
     "name": "Kevin Murphy",
@@ -17342,7 +20706,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Tennessee Tech"
     ],
-    "numbers": []
+    "numbers": [
+      55
+    ]
   },
   {
     "name": "Kevin Ollie",
@@ -17358,7 +20724,15 @@ export const NBA_PLAYERS = [
     "college": [
       "Connecticut"
     ],
-    "numbers": []
+    "numbers": [
+      2,
+      3,
+      5,
+      7,
+      8,
+      12,
+      15
+    ]
   },
   {
     "name": "Kevin Pangos",
@@ -17382,7 +20756,10 @@ export const NBA_PLAYERS = [
       "Southern California"
     ],
     "numbers": [
-      3
+      3,
+      4,
+      7,
+      77
     ]
   },
   {
@@ -17393,7 +20770,9 @@ export const NBA_PLAYERS = [
     "college": [
       "North Carolina"
     ],
-    "numbers": []
+    "numbers": [
+      32
+    ]
   },
   {
     "name": "Kevin Seraphin",
@@ -17420,7 +20799,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Michigan State"
     ],
-    "numbers": []
+    "numbers": [
+      41,
+      42,
+      43,
+      45
+    ]
   },
   {
     "name": "Kevinn Pinkney",
@@ -17430,7 +20814,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Nevada"
     ],
-    "numbers": []
+    "numbers": [
+      51
+    ]
   },
   {
     "name": "Kevon Harris",
@@ -17440,7 +20826,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Stephen F. Austin"
     ],
-    "numbers": []
+    "numbers": [
+      7,
+      8
+    ]
   },
   {
     "name": "Kevon Looney",
@@ -17451,7 +20840,9 @@ export const NBA_PLAYERS = [
       "UCLA"
     ],
     "numbers": [
-      5
+      5,
+      36,
+      55
     ]
   },
   {
@@ -17468,7 +20859,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Missouri"
     ],
-    "numbers": []
+    "numbers": [
+      1,
+      5,
+      51,
+      55
+    ]
   },
   {
     "name": "Khalid El-Amin",
@@ -17478,7 +20874,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Connecticut"
     ],
-    "numbers": []
+    "numbers": [
+      2
+    ]
   },
   {
     "name": "Khalid Reeves",
@@ -17490,7 +20888,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Arizona"
     ],
-    "numbers": []
+    "numbers": [
+      3,
+      6,
+      20
+    ]
   },
   {
     "name": "Khem Birch",
@@ -17516,7 +20918,8 @@ export const NBA_PLAYERS = [
       "Texas A&M"
     ],
     "numbers": [
-      22
+      22,
+      32
     ]
   },
   {
@@ -17529,6 +20932,7 @@ export const NBA_PLAYERS = [
       "Creighton"
     ],
     "numbers": [
+      13,
       20
     ]
   },
@@ -17539,6 +20943,7 @@ export const NBA_PLAYERS = [
     ],
     "college": [],
     "numbers": [
+      3,
       7
     ]
   },
@@ -17562,7 +20967,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Missouri"
     ],
-    "numbers": []
+    "numbers": [
+      24
+    ]
   },
   {
     "name": "Kira Lewis Jr.",
@@ -17573,6 +20980,7 @@ export const NBA_PLAYERS = [
       "Alabama"
     ],
     "numbers": [
+      3,
       13
     ]
   },
@@ -17585,7 +20993,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Indiana"
     ],
-    "numbers": []
+    "numbers": [
+      35
+    ]
   },
   {
     "name": "Kirk Hinrich",
@@ -17596,7 +21006,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Kansas"
     ],
-    "numbers": []
+    "numbers": [
+      6,
+      12
+    ]
   },
   {
     "name": "Kirk Penney",
@@ -17607,7 +21020,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Wisconsin"
     ],
-    "numbers": []
+    "numbers": [
+      20,
+      22
+    ]
   },
   {
     "name": "Kirk Snyder",
@@ -17620,7 +21036,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Nevada"
     ],
-    "numbers": []
+    "numbers": [
+      3,
+      13,
+      30
+    ]
   },
   {
     "name": "Kiwane Garris",
@@ -17642,7 +21062,8 @@ export const NBA_PLAYERS = [
       "Washington State"
     ],
     "numbers": [
-      11
+      11,
+      31
     ]
   },
   {
@@ -17651,7 +21072,10 @@ export const NBA_PLAYERS = [
       "Los Angeles Lakers"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      8,
+      24
+    ]
   },
   {
     "name": "Kobi Simmons",
@@ -17663,7 +21087,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Arizona"
     ],
-    "numbers": []
+    "numbers": [
+      2,
+      3,
+      8
+    ]
   },
   {
     "name": "Korleone Young",
@@ -17671,7 +21099,9 @@ export const NBA_PLAYERS = [
       "Detroit Pistons"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      45
+    ]
   },
   {
     "name": "Kornel David",
@@ -17694,7 +21124,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Ohio State"
     ],
-    "numbers": []
+    "numbers": [
+      41
+    ]
   },
   {
     "name": "Kosta Perovic",
@@ -17725,7 +21157,9 @@ export const NBA_PLAYERS = [
       "Houston Rockets"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      16
+    ]
   },
   {
     "name": "Kris Dunn",
@@ -17740,6 +21174,9 @@ export const NBA_PLAYERS = [
       "Providence"
     ],
     "numbers": [
+      3,
+      8,
+      11,
       18,
       32
     ]
@@ -17758,7 +21195,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Minnesota"
     ],
-    "numbers": []
+    "numbers": [
+      43
+    ]
   },
   {
     "name": "Kris Joseph",
@@ -17768,7 +21207,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Syracuse"
     ],
-    "numbers": []
+    "numbers": [
+      24,
+      43
+    ]
   },
   {
     "name": "Kristaps Porzingis",
@@ -17795,7 +21237,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Texas Christian"
     ],
-    "numbers": []
+    "numbers": [
+      40,
+      44
+    ]
   },
   {
     "name": "Kwame Brown",
@@ -17809,7 +21254,11 @@ export const NBA_PLAYERS = [
       "Washington Wizards"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      5,
+      38,
+      54
+    ]
   },
   {
     "name": "Ky Bowman",
@@ -17819,7 +21268,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Boston College"
     ],
-    "numbers": []
+    "numbers": [
+      12
+    ]
   },
   {
     "name": "Kyle Alexander",
@@ -17829,7 +21280,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Tennessee"
     ],
-    "numbers": []
+    "numbers": [
+      17
+    ]
   },
   {
     "name": "Kyle Anderson",
@@ -17842,7 +21295,10 @@ export const NBA_PLAYERS = [
       "UCLA"
     ],
     "numbers": [
-      1
+      1,
+      5,
+      12,
+      20
     ]
   },
   {
@@ -17853,7 +21309,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Brigham Young"
     ],
-    "numbers": []
+    "numbers": [
+      8
+    ]
   },
   {
     "name": "Kyle Guy",
@@ -17882,7 +21340,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Creighton"
     ],
-    "numbers": []
+    "numbers": [
+      26
+    ]
   },
   {
     "name": "Kyle Kuzma",
@@ -17895,6 +21355,7 @@ export const NBA_PLAYERS = [
     ],
     "numbers": [
       0,
+      18,
       33
     ]
   },
@@ -17910,6 +21371,8 @@ export const NBA_PLAYERS = [
       "Villanova"
     ],
     "numbers": [
+      1,
+      3,
       7
     ]
   },
@@ -17924,7 +21387,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Norfolk State"
     ],
-    "numbers": []
+    "numbers": [
+      2,
+      9,
+      10
+    ]
   },
   {
     "name": "Kyle Singler",
@@ -17935,7 +21402,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Duke"
     ],
-    "numbers": []
+    "numbers": [
+      5,
+      15,
+      25
+    ]
   },
   {
     "name": "Kyle Weaver",
@@ -17946,7 +21417,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Washington State"
     ],
-    "numbers": []
+    "numbers": [
+      3,
+      5
+    ]
   },
   {
     "name": "Kyle Wiltjer",
@@ -17956,7 +21430,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Gonzaga"
     ],
-    "numbers": []
+    "numbers": [
+      30
+    ]
   },
   {
     "name": "Kyrie Irving",
@@ -17970,6 +21446,7 @@ export const NBA_PLAYERS = [
       "Duke"
     ],
     "numbers": [
+      2,
       11
     ]
   },
@@ -17980,7 +21457,9 @@ export const NBA_PLAYERS = [
       "Utah Jazz"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      44
+    ]
   },
   {
     "name": "LaMarcus Aldridge",
@@ -18018,7 +21497,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Notre Dame"
     ],
-    "numbers": []
+    "numbers": [
+      3,
+      20
+    ]
   },
   {
     "name": "LaSalle Thompson",
@@ -18028,7 +21510,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Texas"
     ],
-    "numbers": []
+    "numbers": [
+      41
+    ]
   },
   {
     "name": "Lamar Odom",
@@ -18041,7 +21525,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Rhode Island"
     ],
-    "numbers": []
+    "numbers": [
+      7
+    ]
   },
   {
     "name": "Lamar Patterson",
@@ -18051,7 +21537,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Pittsburgh"
     ],
-    "numbers": []
+    "numbers": [
+      13
+    ]
   },
   {
     "name": "Lamar Stevens",
@@ -18062,7 +21550,9 @@ export const NBA_PLAYERS = [
       "Penn State"
     ],
     "numbers": [
-      8
+      8,
+      24,
+      77
     ]
   },
   {
@@ -18076,7 +21566,12 @@ export const NBA_PLAYERS = [
     "college": [
       "California"
     ],
-    "numbers": []
+    "numbers": [
+      7,
+      21,
+      30,
+      31
+    ]
   },
   {
     "name": "Lance Allred",
@@ -18086,7 +21581,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Weber State"
     ],
-    "numbers": []
+    "numbers": [
+      41
+    ]
   },
   {
     "name": "Lance Stephenson",
@@ -18100,7 +21597,10 @@ export const NBA_PLAYERS = [
       "Cincinnati"
     ],
     "numbers": [
+      1,
+      5,
       6,
+      7,
       33
     ]
   },
@@ -18115,7 +21615,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Duke"
     ],
-    "numbers": []
+    "numbers": [
+      42
+    ]
   },
   {
     "name": "Landry Fields",
@@ -18126,7 +21628,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Stanford"
     ],
-    "numbers": []
+    "numbers": [
+      2,
+      6
+    ]
   },
   {
     "name": "Landry Shamet",
@@ -18139,7 +21644,9 @@ export const NBA_PLAYERS = [
       "Wichita State"
     ],
     "numbers": [
-      14
+      14,
+      20,
+      44
     ]
   },
   {
@@ -18158,6 +21665,7 @@ export const NBA_PLAYERS = [
     "numbers": [
       2,
       9,
+      10,
       12
     ]
   },
@@ -18170,7 +21678,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Massachusetts"
     ],
-    "numbers": []
+    "numbers": [
+      0,
+      6,
+      8
+    ]
   },
   {
     "name": "Laron Profit",
@@ -18181,7 +21693,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Maryland"
     ],
-    "numbers": []
+    "numbers": [
+      3,
+      7,
+      9
+    ]
   },
   {
     "name": "Larry Drew II",
@@ -18192,7 +21708,11 @@ export const NBA_PLAYERS = [
     "college": [
       "UCLA"
     ],
-    "numbers": []
+    "numbers": [
+      1,
+      7,
+      27
+    ]
   },
   {
     "name": "Larry Hughes",
@@ -18209,7 +21729,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Saint Louis"
     ],
-    "numbers": []
+    "numbers": [
+      0,
+      20,
+      21,
+      32
+    ]
   },
   {
     "name": "Larry Johnson",
@@ -18219,7 +21744,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Nevada-Las Vegas"
     ],
-    "numbers": []
+    "numbers": [
+      2
+    ]
   },
   {
     "name": "Larry Krystkowiak",
@@ -18229,7 +21756,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Montana"
     ],
-    "numbers": []
+    "numbers": [
+      7
+    ]
   },
   {
     "name": "Larry Nance Jr.",
@@ -18242,6 +21771,7 @@ export const NBA_PLAYERS = [
       "Wyoming"
     ],
     "numbers": [
+      7,
       11,
       22
     ]
@@ -18255,7 +21785,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Oral Roberts"
     ],
-    "numbers": []
+    "numbers": [
+      24,
+      32,
+      33
+    ]
   },
   {
     "name": "Larry Robinson",
@@ -18267,7 +21801,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Centenary (LA)"
     ],
-    "numbers": []
+    "numbers": [
+      6,
+      20,
+      25
+    ]
   },
   {
     "name": "Larry Sanders",
@@ -18278,7 +21816,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Virginia Commonwealth"
     ],
-    "numbers": []
+    "numbers": [
+      8,
+      9
+    ]
   },
   {
     "name": "Larry Stewart",
@@ -18288,7 +21829,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Coppin State"
     ],
-    "numbers": []
+    "numbers": [
+      23
+    ]
   },
   {
     "name": "Latrell Sprewell",
@@ -18300,7 +21843,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Alabama"
     ],
-    "numbers": []
+    "numbers": [
+      8,
+      15
+    ]
   },
   {
     "name": "Lauri Markkanen",
@@ -18313,6 +21859,7 @@ export const NBA_PLAYERS = [
       "Arizona"
     ],
     "numbers": [
+      23,
       24
     ]
   },
@@ -18324,7 +21871,9 @@ export const NBA_PLAYERS = [
     "college": [
       "St. John's (NY)"
     ],
-    "numbers": []
+    "numbers": [
+      7
+    ]
   },
   {
     "name": "Lavoy Allen",
@@ -18335,7 +21884,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Temple"
     ],
-    "numbers": []
+    "numbers": [
+      5,
+      50
+    ]
   },
   {
     "name": "Lawrence Funderburke",
@@ -18346,7 +21898,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Ohio State"
     ],
-    "numbers": []
+    "numbers": [
+      51
+    ]
   },
   {
     "name": "Lawrence Moten",
@@ -18357,7 +21911,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Syracuse"
     ],
-    "numbers": []
+    "numbers": [
+      3,
+      7,
+      21
+    ]
   },
   {
     "name": "Lawrence Roberts",
@@ -18367,7 +21925,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Mississippi State"
     ],
-    "numbers": []
+    "numbers": [
+      44
+    ]
   },
   {
     "name": "Lazar Hayward",
@@ -18378,7 +21938,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Marquette"
     ],
-    "numbers": []
+    "numbers": [
+      11,
+      32
+    ]
   },
   {
     "name": "Lazaro Borrell",
@@ -18386,7 +21949,9 @@ export const NBA_PLAYERS = [
       "Seattle SuperSonics"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      11
+    ]
   },
   {
     "name": "LeBron James",
@@ -18411,7 +21976,13 @@ export const NBA_PLAYERS = [
       "Toronto Raptors"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      10,
+      12,
+      19,
+      20,
+      28
+    ]
   },
   {
     "name": "Leandro Bolmaro",
@@ -18421,7 +21992,8 @@ export const NBA_PLAYERS = [
     ],
     "college": [],
     "numbers": [
-      9
+      9,
+      10
     ]
   },
   {
@@ -18432,7 +22004,9 @@ export const NBA_PLAYERS = [
     "college": [
       "New Orleans"
     ],
-    "numbers": []
+    "numbers": [
+      21
+    ]
   },
   {
     "name": "Lee Mayberry",
@@ -18442,7 +22016,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Arkansas"
     ],
-    "numbers": []
+    "numbers": [
+      11
+    ]
   },
   {
     "name": "Lee Nailon",
@@ -18456,7 +22032,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Texas Christian"
     ],
-    "numbers": []
+    "numbers": [
+      4,
+      33,
+      54
+    ]
   },
   {
     "name": "Leon Powe",
@@ -18468,7 +22048,11 @@ export const NBA_PLAYERS = [
     "college": [
       "California"
     ],
-    "numbers": []
+    "numbers": [
+      0,
+      7,
+      44
+    ]
   },
   {
     "name": "Leon Smith",
@@ -18477,7 +22061,10 @@ export const NBA_PLAYERS = [
       "Seattle SuperSonics"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      35,
+      41
+    ]
   },
   {
     "name": "Lester Hudson",
@@ -18489,7 +22076,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Tennessee-Martin"
     ],
-    "numbers": []
+    "numbers": [
+      3,
+      14,
+      25,
+      26
+    ]
   },
   {
     "name": "Lester Quinones",
@@ -18510,7 +22102,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Missouri"
     ],
-    "numbers": []
+    "numbers": [
+      11,
+      43
+    ]
   },
   {
     "name": "Lindell Wigginton",
@@ -18536,7 +22131,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Jackson State"
     ],
-    "numbers": []
+    "numbers": [
+      1,
+      10,
+      11
+    ]
   },
   {
     "name": "Lindy Waters III",
@@ -18547,7 +22146,8 @@ export const NBA_PLAYERS = [
       "Oklahoma State"
     ],
     "numbers": [
-      12
+      12,
+      43
     ]
   },
   {
@@ -18561,7 +22161,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Tulane"
     ],
-    "numbers": []
+    "numbers": [
+      8,
+      13,
+      43,
+      54
+    ]
   },
   {
     "name": "Lionel Chalmers",
@@ -18571,7 +22176,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Xavier"
     ],
-    "numbers": []
+    "numbers": [
+      0
+    ]
   },
   {
     "name": "Lionel Simmons",
@@ -18581,7 +22188,9 @@ export const NBA_PLAYERS = [
     "college": [
       "La Salle"
     ],
-    "numbers": []
+    "numbers": [
+      22
+    ]
   },
   {
     "name": "Litterial Green",
@@ -18593,7 +22202,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Georgia"
     ],
-    "numbers": []
+    "numbers": [
+      9,
+      12
+    ]
   },
   {
     "name": "Lloyd Daniels",
@@ -18604,7 +22216,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Mt. San Antonio"
     ],
-    "numbers": []
+    "numbers": [
+      24,
+      25
+    ]
   },
   {
     "name": "London Perrantes",
@@ -18614,7 +22229,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Virginia"
     ],
-    "numbers": []
+    "numbers": [
+      15
+    ]
   },
   {
     "name": "Lonnie Walker IV",
@@ -18626,7 +22243,10 @@ export const NBA_PLAYERS = [
       "Miami"
     ],
     "numbers": [
-      1
+      1,
+      4,
+      8,
+      16
     ]
   },
   {
@@ -18640,7 +22260,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Maryland"
     ],
-    "numbers": []
+    "numbers": [
+      3,
+      35
+    ]
   },
   {
     "name": "Lonzo Ball",
@@ -18665,7 +22288,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Iowa State"
     ],
-    "numbers": []
+    "numbers": [
+      34,
+      40
+    ]
   },
   {
     "name": "Loren Woods",
@@ -18678,7 +22304,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Arizona"
     ],
-    "numbers": []
+    "numbers": [
+      1,
+      3,
+      33
+    ]
   },
   {
     "name": "Lorenzen Wright",
@@ -18692,7 +22322,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Memphis"
     ],
-    "numbers": []
+    "numbers": [
+      42,
+      55
+    ]
   },
   {
     "name": "Lorenzo Brown",
@@ -18705,7 +22338,11 @@ export const NBA_PLAYERS = [
     "college": [
       "North Carolina State"
     ],
-    "numbers": []
+    "numbers": [
+      4,
+      7,
+      41
+    ]
   },
   {
     "name": "Lorenzo Williams",
@@ -18715,7 +22352,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Stetson"
     ],
-    "numbers": []
+    "numbers": [
+      43,
+      44
+    ]
   },
   {
     "name": "Lou Amundson",
@@ -18731,7 +22371,14 @@ export const NBA_PLAYERS = [
     "college": [
       "Nevada-Las Vegas"
     ],
-    "numbers": []
+    "numbers": [
+      17,
+      19,
+      20,
+      21,
+      22,
+      89
+    ]
   },
   {
     "name": "Lou Roe",
@@ -18741,7 +22388,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Massachusetts"
     ],
-    "numbers": []
+    "numbers": [
+      3,
+      21
+    ]
   },
   {
     "name": "Lou Williams",
@@ -18755,7 +22405,9 @@ export const NBA_PLAYERS = [
     ],
     "college": [],
     "numbers": [
+      3,
       6,
+      12,
       23
     ]
   },
@@ -18770,6 +22422,7 @@ export const NBA_PLAYERS = [
       "Oregon"
     ],
     "numbers": [
+      14,
       23
     ]
   },
@@ -18783,7 +22436,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Michigan"
     ],
-    "numbers": []
+    "numbers": [
+      35
+    ]
   },
   {
     "name": "Luc Longley",
@@ -18795,7 +22450,9 @@ export const NBA_PLAYERS = [
     "college": [
       "New Mexico"
     ],
-    "numbers": []
+    "numbers": [
+      13
+    ]
   },
   {
     "name": "Luc Mbah a Moute",
@@ -18810,7 +22467,10 @@ export const NBA_PLAYERS = [
       "California-Los Angeles",
       "UCLA"
     ],
-    "numbers": []
+    "numbers": [
+      12,
+      33
+    ]
   },
   {
     "name": "Lucas Nogueira",
@@ -18818,7 +22478,9 @@ export const NBA_PLAYERS = [
       "Toronto Raptors"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      92
+    ]
   },
   {
     "name": "Lucious Harris",
@@ -18830,7 +22492,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Long Beach State"
     ],
-    "numbers": []
+    "numbers": [
+      12,
+      30
+    ]
   },
   {
     "name": "Luguentz Dort",
@@ -18852,7 +22517,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Manhattan"
     ],
-    "numbers": []
+    "numbers": [
+      6,
+      12
+    ]
   },
   {
     "name": "Luis Montero",
@@ -18863,7 +22531,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Westchester CC NY"
     ],
-    "numbers": []
+    "numbers": [
+      44
+    ]
   },
   {
     "name": "Luis Scola",
@@ -18875,7 +22545,10 @@ export const NBA_PLAYERS = [
       "Toronto Raptors"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      4,
+      14
+    ]
   },
   {
     "name": "Luka Doncic",
@@ -18895,6 +22568,7 @@ export const NBA_PLAYERS = [
       "Iowa"
     ],
     "numbers": [
+      52,
       55
     ]
   },
@@ -18918,7 +22592,12 @@ export const NBA_PLAYERS = [
       "Nevada",
       "Nevada-Reno"
     ],
-    "numbers": []
+    "numbers": [
+      5,
+      8,
+      11,
+      22
+    ]
   },
   {
     "name": "Luke Harangody",
@@ -18928,7 +22607,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Notre Dame"
     ],
-    "numbers": []
+    "numbers": [
+      44,
+      55
+    ]
   },
   {
     "name": "Luke Jackson",
@@ -18940,7 +22622,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Oregon"
     ],
-    "numbers": []
+    "numbers": [
+      6,
+      7,
+      33
+    ]
   },
   {
     "name": "Luke Kennard",
@@ -18953,7 +22639,8 @@ export const NBA_PLAYERS = [
       "Duke"
     ],
     "numbers": [
-      5
+      5,
+      10
     ]
   },
   {
@@ -18985,7 +22672,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Oregon"
     ],
-    "numbers": []
+    "numbers": [
+      8,
+      13
+    ]
   },
   {
     "name": "Luke Schenscher",
@@ -18996,7 +22686,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Georgia Tech"
     ],
-    "numbers": []
+    "numbers": [
+      24,
+      45
+    ]
   },
   {
     "name": "Luke Walton",
@@ -19007,7 +22700,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Arizona"
     ],
-    "numbers": []
+    "numbers": [
+      4,
+      32
+    ]
   },
   {
     "name": "Luke Zeller",
@@ -19017,7 +22713,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Notre Dame"
     ],
-    "numbers": []
+    "numbers": [
+      40
+    ]
   },
   {
     "name": "Luol Deng",
@@ -19031,7 +22729,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Duke"
     ],
-    "numbers": []
+    "numbers": [
+      9
+    ]
   },
   {
     "name": "Luther Head",
@@ -19044,7 +22744,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Illinois"
     ],
-    "numbers": []
+    "numbers": [
+      2,
+      9,
+      13
+    ]
   },
   {
     "name": "Lynn Greer",
@@ -19054,7 +22758,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Temple"
     ],
-    "numbers": []
+    "numbers": [
+      3
+    ]
   },
   {
     "name": "M.J. Walker",
@@ -19076,7 +22782,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Villanova"
     ],
-    "numbers": []
+    "numbers": [
+      2,
+      5,
+      18
+    ]
   },
   {
     "name": "Mac McClung",
@@ -19089,6 +22799,8 @@ export const NBA_PLAYERS = [
     ],
     "numbers": [
       0,
+      8,
+      9,
       37
     ]
   },
@@ -19101,7 +22813,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Michigan"
     ],
-    "numbers": []
+    "numbers": [
+      9,
+      14
+    ]
   },
   {
     "name": "Maciej Lampe",
@@ -19111,7 +22826,10 @@ export const NBA_PLAYERS = [
       "Phoenix Suns"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      15,
+      30
+    ]
   },
   {
     "name": "Mahmoud Abdul-Rauf",
@@ -19122,7 +22840,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Louisiana State"
     ],
-    "numbers": []
+    "numbers": [
+      1,
+      3
+    ]
   },
   {
     "name": "Malachi Flynn",
@@ -19133,7 +22854,9 @@ export const NBA_PLAYERS = [
       "San Diego State"
     ],
     "numbers": [
+      4,
       8,
+      14,
       22
     ]
   },
@@ -19146,7 +22869,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Syracuse"
     ],
-    "numbers": []
+    "numbers": [
+      5,
+      22,
+      23
+    ]
   },
   {
     "name": "Malaki Branham",
@@ -19156,7 +22883,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Ohio State"
     ],
-    "numbers": []
+    "numbers": [
+      22
+    ]
   },
   {
     "name": "Malcolm Brogdon",
@@ -19169,7 +22898,10 @@ export const NBA_PLAYERS = [
       "Virginia"
     ],
     "numbers": [
-      7
+      7,
+      11,
+      13,
+      15
     ]
   },
   {
@@ -19180,7 +22912,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Virginia Tech"
     ],
-    "numbers": []
+    "numbers": [
+      5
+    ]
   },
   {
     "name": "Malcolm Hill",
@@ -19191,7 +22925,8 @@ export const NBA_PLAYERS = [
       "Illinois"
     ],
     "numbers": [
-      14
+      14,
+      21
     ]
   },
   {
@@ -19203,7 +22938,11 @@ export const NBA_PLAYERS = [
     "college": [
       "UCLA"
     ],
-    "numbers": []
+    "numbers": [
+      3,
+      8,
+      11
+    ]
   },
   {
     "name": "Malcolm Miller",
@@ -19213,7 +22952,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Holy Cross"
     ],
-    "numbers": []
+    "numbers": [
+      13
+    ]
   },
   {
     "name": "Malcolm Thomas",
@@ -19226,7 +22967,13 @@ export const NBA_PLAYERS = [
     "college": [
       "San Diego State"
     ],
-    "numbers": []
+    "numbers": [
+      3,
+      11,
+      22,
+      23,
+      24
+    ]
   },
   {
     "name": "Malik Allen",
@@ -19242,7 +22989,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Villanova"
     ],
-    "numbers": []
+    "numbers": [
+      30,
+      35
+    ]
   },
   {
     "name": "Malik Beasley",
@@ -19255,7 +23005,8 @@ export const NBA_PLAYERS = [
       "Florida State"
     ],
     "numbers": [
-      5
+      5,
+      25
     ]
   },
   {
@@ -19278,7 +23029,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Oregon"
     ],
-    "numbers": []
+    "numbers": [
+      1
+    ]
   },
   {
     "name": "Malik Monk",
@@ -19291,6 +23044,7 @@ export const NBA_PLAYERS = [
       "Kentucky"
     ],
     "numbers": [
+      0,
       11
     ]
   },
@@ -19317,7 +23071,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Drexel"
     ],
-    "numbers": []
+    "numbers": [
+      9,
+      13,
+      31
+    ]
   },
   {
     "name": "Malik Sealy",
@@ -19329,7 +23087,11 @@ export const NBA_PLAYERS = [
     "college": [
       "St. John's (NY)"
     ],
-    "numbers": []
+    "numbers": [
+      2,
+      14,
+      21
+    ]
   },
   {
     "name": "Mamadi Diakite",
@@ -19343,7 +23105,9 @@ export const NBA_PLAYERS = [
     ],
     "numbers": [
       12,
-      25
+      21,
+      25,
+      29
     ]
   },
   {
@@ -19378,7 +23142,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Michigan"
     ],
-    "numbers": []
+    "numbers": [
+      3,
+      6
+    ]
   },
   {
     "name": "Manu Ginobili",
@@ -19394,7 +23161,11 @@ export const NBA_PLAYERS = [
       "Milwaukee Bucks"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      0,
+      3,
+      14
+    ]
   },
   {
     "name": "MarShon Brooks",
@@ -19407,7 +23178,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Providence"
     ],
-    "numbers": []
+    "numbers": [
+      2,
+      8,
+      9,
+      12
+    ]
   },
   {
     "name": "Marc Gasol",
@@ -19418,7 +23194,8 @@ export const NBA_PLAYERS = [
     ],
     "college": [],
     "numbers": [
-      14
+      14,
+      33
     ]
   },
   {
@@ -19432,7 +23209,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Temple"
     ],
-    "numbers": []
+    "numbers": [
+      25,
+      44
+    ]
   },
   {
     "name": "Marcelo Huertas",
@@ -19440,7 +23220,10 @@ export const NBA_PLAYERS = [
       "Los Angeles Lakers"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      4,
+      9
+    ]
   },
   {
     "name": "Marcin Gortat",
@@ -19451,7 +23234,10 @@ export const NBA_PLAYERS = [
       "Washington Wizards"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      4,
+      13
+    ]
   },
   {
     "name": "Marco Belinelli",
@@ -19466,7 +23252,12 @@ export const NBA_PLAYERS = [
       "Toronto Raptors"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      0,
+      3,
+      8,
+      18
+    ]
   },
   {
     "name": "Marcus Banks",
@@ -19480,7 +23271,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Nevada-Las Vegas"
     ],
-    "numbers": []
+    "numbers": [
+      2,
+      3,
+      5,
+      11
+    ]
   },
   {
     "name": "Marcus Brown",
@@ -19491,7 +23287,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Murray State"
     ],
-    "numbers": []
+    "numbers": [
+      4,
+      20
+    ]
   },
   {
     "name": "Marcus Camby",
@@ -19506,7 +23305,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Massachusetts"
     ],
-    "numbers": []
+    "numbers": [
+      21,
+      23,
+      29
+    ]
   },
   {
     "name": "Marcus Cousin",
@@ -19516,7 +23319,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Houston"
     ],
-    "numbers": []
+    "numbers": [
+      50
+    ]
   },
   {
     "name": "Marcus Derrickson",
@@ -19524,7 +23329,9 @@ export const NBA_PLAYERS = [
       "Golden State Warriors"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      32
+    ]
   },
   {
     "name": "Marcus Fizer",
@@ -19536,7 +23343,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Iowa State"
     ],
-    "numbers": []
+    "numbers": [
+      21
+    ]
   },
   {
     "name": "Marcus Garrett",
@@ -19559,7 +23368,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Georgia Tech"
     ],
-    "numbers": []
+    "numbers": [
+      13
+    ]
   },
   {
     "name": "Marcus Haislip",
@@ -19571,7 +23382,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Tennessee"
     ],
-    "numbers": []
+    "numbers": [
+      2,
+      12,
+      22
+    ]
   },
   {
     "name": "Marcus Landry",
@@ -19581,7 +23396,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Wisconsin"
     ],
-    "numbers": []
+    "numbers": [
+      11,
+      12
+    ]
   },
   {
     "name": "Marcus Morris",
@@ -19594,7 +23412,13 @@ export const NBA_PLAYERS = [
       "Kansas"
     ],
     "numbers": [
-      8
+      2,
+      5,
+      8,
+      13,
+      15,
+      24,
+      31
     ]
   },
   {
@@ -19642,7 +23466,13 @@ export const NBA_PLAYERS = [
     "college": [
       "Louisiana State"
     ],
-    "numbers": []
+    "numbers": [
+      4,
+      5,
+      10,
+      15,
+      23
+    ]
   },
   {
     "name": "Marcus Vinicius",
@@ -19651,7 +23481,9 @@ export const NBA_PLAYERS = [
       "New Orleans Hornets"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      11
+    ]
   },
   {
     "name": "Marcus Williams",
@@ -19666,7 +23498,13 @@ export const NBA_PLAYERS = [
       "Arizona",
       "Connecticut"
     ],
-    "numbers": []
+    "numbers": [
+      1,
+      2,
+      3,
+      5,
+      33
+    ]
   },
   {
     "name": "Mardy Collins",
@@ -19677,7 +23515,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Temple"
     ],
-    "numbers": []
+    "numbers": [
+      25
+    ]
   },
   {
     "name": "Marial Shayok",
@@ -19687,7 +23527,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Iowa State"
     ],
-    "numbers": []
+    "numbers": [
+      35
+    ]
   },
   {
     "name": "Mario Bennett",
@@ -19699,7 +23541,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Arizona State"
     ],
-    "numbers": []
+    "numbers": [
+      8,
+      23,
+      44
+    ]
   },
   {
     "name": "Mario Chalmers",
@@ -19710,7 +23556,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Kansas"
     ],
-    "numbers": []
+    "numbers": [
+      6,
+      15
+    ]
   },
   {
     "name": "Mario Elie",
@@ -19722,7 +23571,9 @@ export const NBA_PLAYERS = [
     "college": [
       "American International"
     ],
-    "numbers": []
+    "numbers": [
+      17
+    ]
   },
   {
     "name": "Mario Hezonja",
@@ -19732,7 +23583,11 @@ export const NBA_PLAYERS = [
       "Portland Trail Blazers"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      8,
+      23,
+      44
+    ]
   },
   {
     "name": "Mario Kasun",
@@ -19740,7 +23595,9 @@ export const NBA_PLAYERS = [
       "Orlando Magic"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      41
+    ]
   },
   {
     "name": "Mario West",
@@ -19751,7 +23608,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Georgia Tech"
     ],
-    "numbers": []
+    "numbers": [
+      6
+    ]
   },
   {
     "name": "Mark Baker",
@@ -19761,7 +23620,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Ohio State"
     ],
-    "numbers": []
+    "numbers": [
+      3
+    ]
   },
   {
     "name": "Mark Blount",
@@ -19773,7 +23634,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Pittsburgh"
     ],
-    "numbers": []
+    "numbers": [
+      15,
+      30
+    ]
   },
   {
     "name": "Mark Bradtke",
@@ -19781,7 +23645,9 @@ export const NBA_PLAYERS = [
       "Philadelphia 76ers"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      50
+    ]
   },
   {
     "name": "Mark Bryant",
@@ -19796,7 +23662,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Seton Hall"
     ],
-    "numbers": []
+    "numbers": [
+      2,
+      9,
+      11
+    ]
   },
   {
     "name": "Mark Davis",
@@ -19808,7 +23678,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Texas Tech"
     ],
-    "numbers": []
+    "numbers": [
+      7
+    ]
   },
   {
     "name": "Mark Hendrickson",
@@ -19820,7 +23692,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Washington State"
     ],
-    "numbers": []
+    "numbers": [
+      14,
+      42
+    ]
   },
   {
     "name": "Mark Jackson",
@@ -19833,7 +23708,10 @@ export const NBA_PLAYERS = [
     "college": [
       "St. John's (NY)"
     ],
-    "numbers": []
+    "numbers": [
+      13,
+      31
+    ]
   },
   {
     "name": "Mark Jones",
@@ -19843,7 +23721,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Central Florida"
     ],
-    "numbers": []
+    "numbers": [
+      7
+    ]
   },
   {
     "name": "Mark Macon",
@@ -19853,7 +23733,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Temple"
     ],
-    "numbers": []
+    "numbers": [
+      2,
+      3
+    ]
   },
   {
     "name": "Mark Madsen",
@@ -19864,7 +23747,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Stanford"
     ],
-    "numbers": []
+    "numbers": [
+      35
+    ]
   },
   {
     "name": "Mark Pope",
@@ -19876,7 +23761,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Kentucky"
     ],
-    "numbers": []
+    "numbers": [
+      41,
+      43,
+      44
+    ]
   },
   {
     "name": "Mark Price",
@@ -19887,7 +23776,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Georgia Tech"
     ],
-    "numbers": []
+    "numbers": [
+      5,
+      25
+    ]
   },
   {
     "name": "Mark Strickland",
@@ -19900,7 +23792,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Temple"
     ],
-    "numbers": []
+    "numbers": [
+      5,
+      30,
+      31
+    ]
   },
   {
     "name": "Mark West",
@@ -19913,7 +23809,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Old Dominion"
     ],
-    "numbers": []
+    "numbers": [
+      41
+    ]
   },
   {
     "name": "Mark Williams",
@@ -19923,7 +23821,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Duke"
     ],
-    "numbers": []
+    "numbers": [
+      15
+    ]
   },
   {
     "name": "Markel Brown",
@@ -19934,7 +23834,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Oklahoma State"
     ],
-    "numbers": []
+    "numbers": [
+      22,
+      26
+    ]
   },
   {
     "name": "Markelle Fultz",
@@ -19963,7 +23866,10 @@ export const NBA_PLAYERS = [
       "Kansas"
     ],
     "numbers": [
+      5,
       8,
+      11,
+      13,
       88
     ]
   },
@@ -20023,7 +23929,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Santa Clara"
     ],
-    "numbers": []
+    "numbers": [
+      20
+    ]
   },
   {
     "name": "Marques Bolden",
@@ -20034,6 +23942,8 @@ export const NBA_PLAYERS = [
       "Duke"
     ],
     "numbers": [
+      5,
+      12,
       24
     ]
   },
@@ -20049,6 +23959,8 @@ export const NBA_PLAYERS = [
       "Washington"
     ],
     "numbers": [
+      0,
+      3,
       32
     ]
   },
@@ -20063,7 +23975,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Auburn"
     ],
-    "numbers": []
+    "numbers": [
+      4,
+      6,
+      7,
+      8
+    ]
   },
   {
     "name": "Marquis Teague",
@@ -20075,7 +23992,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Kentucky"
     ],
-    "numbers": []
+    "numbers": [
+      12,
+      20,
+      25
+    ]
   },
   {
     "name": "Marreese Speights",
@@ -20090,7 +24011,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Florida"
     ],
-    "numbers": []
+    "numbers": [
+      5,
+      15,
+      16
+    ]
   },
   {
     "name": "Marshall Plumlee",
@@ -20101,7 +24026,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Duke"
     ],
-    "numbers": []
+    "numbers": [
+      40
+    ]
   },
   {
     "name": "Martell Webster",
@@ -20111,7 +24038,12 @@ export const NBA_PLAYERS = [
       "Washington Wizards"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      5,
+      8,
+      9,
+      23
+    ]
   },
   {
     "name": "Martin Lewis",
@@ -20121,7 +24053,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Seward County Community College"
     ],
-    "numbers": []
+    "numbers": [
+      32,
+      44
+    ]
   },
   {
     "name": "Martin Muursepp",
@@ -20141,7 +24076,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Providence"
     ],
-    "numbers": []
+    "numbers": [
+      30,
+      31,
+      40
+    ]
   },
   {
     "name": "Martynas Andriuskevicius",
@@ -20175,7 +24114,11 @@ export const NBA_PLAYERS = [
     "college": [
       "North Carolina"
     ],
-    "numbers": []
+    "numbers": [
+      2,
+      20,
+      24
+    ]
   },
   {
     "name": "Mason Jones",
@@ -20188,7 +24131,9 @@ export const NBA_PLAYERS = [
     ],
     "numbers": [
       5,
+      8,
       9,
+      15,
       40
     ]
   },
@@ -20206,7 +24151,10 @@ export const NBA_PLAYERS = [
       "Duke"
     ],
     "numbers": [
-      24
+      1,
+      22,
+      24,
+      44
     ]
   },
   {
@@ -20220,7 +24168,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Michigan State"
     ],
-    "numbers": []
+    "numbers": [
+      8,
+      24
+    ]
   },
   {
     "name": "Matisse Thybulle",
@@ -20232,6 +24183,7 @@ export const NBA_PLAYERS = [
       "Washington"
     ],
     "numbers": [
+      4,
       22
     ]
   },
@@ -20250,7 +24202,11 @@ export const NBA_PLAYERS = [
     "college": [
       "UCLA"
     ],
-    "numbers": []
+    "numbers": [
+      9,
+      21,
+      22
+    ]
   },
   {
     "name": "Matt Bonner",
@@ -20261,7 +24217,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Florida"
     ],
-    "numbers": []
+    "numbers": [
+      15,
+      16
+    ]
   },
   {
     "name": "Matt Bullard",
@@ -20272,7 +24231,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Iowa"
     ],
-    "numbers": []
+    "numbers": [
+      50
+    ]
   },
   {
     "name": "Matt Carroll",
@@ -20284,7 +24245,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Notre Dame"
     ],
-    "numbers": []
+    "numbers": [
+      3,
+      13,
+      31
+    ]
   },
   {
     "name": "Matt Costello",
@@ -20294,7 +24259,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Michigan State"
     ],
-    "numbers": []
+    "numbers": [
+      10
+    ]
   },
   {
     "name": "Matt Fish",
@@ -20304,7 +24271,11 @@ export const NBA_PLAYERS = [
     "college": [
       "North Carolina-Wilmington"
     ],
-    "numbers": []
+    "numbers": [
+      6,
+      22,
+      50
+    ]
   },
   {
     "name": "Matt Freije",
@@ -20315,7 +24286,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Vanderbilt"
     ],
-    "numbers": []
+    "numbers": [
+      4,
+      35
+    ]
   },
   {
     "name": "Matt Geiger",
@@ -20326,7 +24300,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Georgia Tech"
     ],
-    "numbers": []
+    "numbers": [
+      52
+    ]
   },
   {
     "name": "Matt Harpring",
@@ -20339,7 +24315,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Georgia Tech"
     ],
-    "numbers": []
+    "numbers": [
+      15,
+      21
+    ]
   },
   {
     "name": "Matt Maloney",
@@ -20351,7 +24330,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Pennsylvania"
     ],
-    "numbers": []
+    "numbers": [
+      11,
+      12
+    ]
   },
   {
     "name": "Matt Mooney",
@@ -20387,7 +24369,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Michigan State"
     ],
-    "numbers": []
+    "numbers": [
+      6
+    ]
   },
   {
     "name": "Matt Thomas",
@@ -20411,7 +24395,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Florida"
     ],
-    "numbers": []
+    "numbers": [
+      44
+    ]
   },
   {
     "name": "Matt Williams Jr.",
@@ -20436,6 +24422,7 @@ export const NBA_PLAYERS = [
       "St.Mary's College of California"
     ],
     "numbers": [
+      8,
       18
     ]
   },
@@ -20449,7 +24436,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Michigan State"
     ],
-    "numbers": []
+    "numbers": [
+      13,
+      15
+    ]
   },
   {
     "name": "Maurice Baker",
@@ -20459,7 +24449,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Oklahoma State"
     ],
-    "numbers": []
+    "numbers": [
+      4
+    ]
   },
   {
     "name": "Maurice Carter",
@@ -20469,7 +24461,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Louisiana State"
     ],
-    "numbers": []
+    "numbers": [
+      1,
+      5
+    ]
   },
   {
     "name": "Maurice Evans",
@@ -20485,7 +24480,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Texas"
     ],
-    "numbers": []
+    "numbers": [
+      1,
+      5,
+      6
+    ]
   },
   {
     "name": "Maurice Harkless",
@@ -20501,7 +24500,10 @@ export const NBA_PLAYERS = [
       "St. John's, N.Y."
     ],
     "numbers": [
-      8
+      3,
+      4,
+      8,
+      21
     ]
   },
   {
@@ -20512,7 +24514,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Ohio U."
     ],
-    "numbers": []
+    "numbers": [
+      2
+    ]
   },
   {
     "name": "Maurice Taylor",
@@ -20525,7 +24529,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Michigan"
     ],
-    "numbers": []
+    "numbers": [
+      2,
+      23,
+      24
+    ]
   },
   {
     "name": "Max Christie",
@@ -20535,7 +24543,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Michigan State"
     ],
-    "numbers": []
+    "numbers": [
+      0,
+      10,
+      12
+    ]
   },
   {
     "name": "Max Strus",
@@ -20547,6 +24559,9 @@ export const NBA_PLAYERS = [
       "DePaul"
     ],
     "numbers": [
+      1,
+      2,
+      28,
       31
     ]
   },
@@ -20557,6 +24572,7 @@ export const NBA_PLAYERS = [
     ],
     "college": [],
     "numbers": [
+      14,
       42
     ]
   },
@@ -20570,6 +24586,7 @@ export const NBA_PLAYERS = [
       "Colorado"
     ],
     "numbers": [
+      23,
       25
     ]
   },
@@ -20581,7 +24598,9 @@ export const NBA_PLAYERS = [
       "Utah Jazz"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      13
+    ]
   },
   {
     "name": "Melvin Booker",
@@ -20591,7 +24610,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Missouri"
     ],
-    "numbers": []
+    "numbers": [
+      5,
+      9,
+      14
+    ]
   },
   {
     "name": "Melvin Ely",
@@ -20606,7 +24629,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Fresno State"
     ],
-    "numbers": []
+    "numbers": [
+      2,
+      4,
+      33,
+      34
+    ]
   },
   {
     "name": "Melvin Frazier Jr.",
@@ -20627,7 +24655,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Oklahoma State"
     ],
-    "numbers": []
+    "numbers": [
+      34
+    ]
   },
   {
     "name": "Mengke Bateer",
@@ -20637,7 +24667,10 @@ export const NBA_PLAYERS = [
       "Toronto Raptors"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      27,
+      34
+    ]
   },
   {
     "name": "Metta World Peace",
@@ -20652,7 +24685,15 @@ export const NBA_PLAYERS = [
     "college": [
       "St. John's (NY)"
     ],
-    "numbers": []
+    "numbers": [
+      15,
+      23,
+      37,
+      51,
+      91,
+      93,
+      96
+    ]
   },
   {
     "name": "Meyers Leonard",
@@ -20665,7 +24706,9 @@ export const NBA_PLAYERS = [
       "Illinois"
     ],
     "numbers": [
-      0
+      0,
+      3,
+      11
     ]
   },
   {
@@ -20680,7 +24723,8 @@ export const NBA_PLAYERS = [
     ],
     "numbers": [
       25,
-      27
+      27,
+      28
     ]
   },
   {
@@ -20693,7 +24737,8 @@ export const NBA_PLAYERS = [
       "Wisconsin"
     ],
     "numbers": [
-      19
+      19,
+      25
     ]
   },
   {
@@ -20710,7 +24755,13 @@ export const NBA_PLAYERS = [
     "college": [
       "Kansas State"
     ],
-    "numbers": []
+    "numbers": [
+      0,
+      8,
+      9,
+      11,
+      30
+    ]
   },
   {
     "name": "Michael Bradley",
@@ -20722,7 +24773,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Villanova"
     ],
-    "numbers": []
+    "numbers": [
+      5,
+      7,
+      31,
+      33
+    ]
   },
   {
     "name": "Michael Cage",
@@ -20733,7 +24789,11 @@ export const NBA_PLAYERS = [
     "college": [
       "San Diego State"
     ],
-    "numbers": []
+    "numbers": [
+      4,
+      44,
+      45
+    ]
   },
   {
     "name": "Michael Carter-Williams",
@@ -20748,7 +24808,10 @@ export const NBA_PLAYERS = [
       "Syracuse"
     ],
     "numbers": [
-      7
+      1,
+      5,
+      7,
+      11
     ]
   },
   {
@@ -20762,7 +24825,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Georgia Southern"
     ],
-    "numbers": []
+    "numbers": [
+      12
+    ]
   },
   {
     "name": "Michael Dickerson",
@@ -20774,7 +24839,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Arizona"
     ],
-    "numbers": []
+    "numbers": [
+      3,
+      8
+    ]
   },
   {
     "name": "Michael Doleac",
@@ -20789,7 +24857,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Utah"
     ],
-    "numbers": []
+    "numbers": [
+      51
+    ]
   },
   {
     "name": "Michael Finley",
@@ -20801,7 +24871,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Wisconsin"
     ],
-    "numbers": []
+    "numbers": [
+      4,
+      40
+    ]
   },
   {
     "name": "Michael Foster Jr.",
@@ -20809,7 +24882,9 @@ export const NBA_PLAYERS = [
       "Philadelphia 76ers"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      35
+    ]
   },
   {
     "name": "Michael Frazier II",
@@ -20829,7 +24904,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Syracuse"
     ],
-    "numbers": []
+    "numbers": [
+      9
+    ]
   },
   {
     "name": "Michael Hawkins",
@@ -20842,7 +24919,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Xavier"
     ],
-    "numbers": []
+    "numbers": [
+      5,
+      7,
+      17
+    ]
   },
   {
     "name": "Michael Jordan",
@@ -20853,7 +24934,9 @@ export const NBA_PLAYERS = [
     "college": [
       "North Carolina"
     ],
-    "numbers": []
+    "numbers": [
+      23
+    ]
   },
   {
     "name": "Michael Kidd-Gilchrist",
@@ -20864,7 +24947,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Kentucky"
     ],
-    "numbers": []
+    "numbers": [
+      9
+    ]
   },
   {
     "name": "Michael McDonald",
@@ -20874,7 +24959,9 @@ export const NBA_PLAYERS = [
     "college": [
       "New Orleans"
     ],
-    "numbers": []
+    "numbers": [
+      42
+    ]
   },
   {
     "name": "Michael Olowokandi",
@@ -20886,7 +24973,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Pacific"
     ],
-    "numbers": []
+    "numbers": [
+      34,
+      41
+    ]
   },
   {
     "name": "Michael Porter Jr.",
@@ -20897,7 +24987,8 @@ export const NBA_PLAYERS = [
       "Missouri"
     ],
     "numbers": [
-      1
+      1,
+      17
     ]
   },
   {
@@ -20909,7 +25000,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Ohio State"
     ],
-    "numbers": []
+    "numbers": [
+      22
+    ]
   },
   {
     "name": "Michael Ruffin",
@@ -20924,7 +25017,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Tulsa"
     ],
-    "numbers": []
+    "numbers": [
+      51
+    ]
   },
   {
     "name": "Michael Smith",
@@ -20936,7 +25031,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Providence"
     ],
-    "numbers": []
+    "numbers": [
+      34
+    ]
   },
   {
     "name": "Michael Stewart",
@@ -20950,7 +25047,12 @@ export const NBA_PLAYERS = [
     "college": [
       "California"
     ],
-    "numbers": []
+    "numbers": [
+      4,
+      5,
+      13,
+      44
+    ]
   },
   {
     "name": "Michael Sweetney",
@@ -20972,7 +25074,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Baylor"
     ],
-    "numbers": []
+    "numbers": [
+      4,
+      14
+    ]
   },
   {
     "name": "Mickael Gelabale",
@@ -21003,7 +25108,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Alabama A&M"
     ],
-    "numbers": []
+    "numbers": [
+      32
+    ]
   },
   {
     "name": "Mikal Bridges",
@@ -21015,6 +25122,7 @@ export const NBA_PLAYERS = [
       "Villanova"
     ],
     "numbers": [
+      1,
       25
     ]
   },
@@ -21026,7 +25134,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Arizona State"
     ],
-    "numbers": []
+    "numbers": [
+      24
+    ]
   },
   {
     "name": "Mike Bibby",
@@ -21040,7 +25150,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Arizona"
     ],
-    "numbers": []
+    "numbers": [
+      0,
+      10,
+      20
+    ]
   },
   {
     "name": "Mike Brown",
@@ -21050,7 +25164,10 @@ export const NBA_PLAYERS = [
     "college": [
       "George Washington"
     ],
-    "numbers": []
+    "numbers": [
+      40,
+      45
+    ]
   },
   {
     "name": "Mike Conley",
@@ -21079,7 +25196,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Duke"
     ],
-    "numbers": []
+    "numbers": [
+      3,
+      10,
+      17,
+      34
+    ]
   },
   {
     "name": "Mike Hall",
@@ -21089,7 +25211,9 @@ export const NBA_PLAYERS = [
     "college": [
       "George Washington"
     ],
-    "numbers": []
+    "numbers": [
+      42
+    ]
   },
   {
     "name": "Mike Harris",
@@ -21100,7 +25224,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Rice"
     ],
-    "numbers": []
+    "numbers": [
+      19,
+      33
+    ]
   },
   {
     "name": "Mike James",
@@ -21122,6 +25249,11 @@ export const NBA_PLAYERS = [
       "Lamar"
     ],
     "numbers": [
+      5,
+      7,
+      8,
+      12,
+      13,
       55
     ]
   },
@@ -21139,7 +25271,14 @@ export const NBA_PLAYERS = [
     "college": [
       "Florida"
     ],
-    "numbers": []
+    "numbers": [
+      3,
+      6,
+      13,
+      18,
+      33,
+      50
+    ]
   },
   {
     "name": "Mike Muscala",
@@ -21153,7 +25292,12 @@ export const NBA_PLAYERS = [
       "Bucknell"
     ],
     "numbers": [
-      33
+      31,
+      33,
+      35,
+      41,
+      50,
+      57
     ]
   },
   {
@@ -21164,7 +25308,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Master's"
     ],
-    "numbers": []
+    "numbers": [
+      12
+    ]
   },
   {
     "name": "Mike Scott",
@@ -21177,7 +25323,9 @@ export const NBA_PLAYERS = [
       "Virginia"
     ],
     "numbers": [
-      1
+      1,
+      30,
+      32
     ]
   },
   {
@@ -21188,7 +25336,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Louisiana-Monroe"
     ],
-    "numbers": []
+    "numbers": [
+      40
+    ]
   },
   {
     "name": "Mike Taylor",
@@ -21198,7 +25348,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Iowa State"
     ],
-    "numbers": []
+    "numbers": [
+      4
+    ]
   },
   {
     "name": "Mike Tobey",
@@ -21222,7 +25374,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Rice"
     ],
-    "numbers": []
+    "numbers": [
+      11,
+      29
+    ]
   },
   {
     "name": "Mikki Moore",
@@ -21240,7 +25395,14 @@ export const NBA_PLAYERS = [
     "college": [
       "Nebraska"
     ],
-    "numbers": []
+    "numbers": [
+      7,
+      31,
+      33,
+      38,
+      45,
+      54
+    ]
   },
   {
     "name": "Mile Ilic",
@@ -21284,7 +25446,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Duke"
     ],
-    "numbers": []
+    "numbers": [
+      13,
+      18,
+      21,
+      22
+    ]
   },
   {
     "name": "Miles Simon",
@@ -21294,7 +25461,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Arizona"
     ],
-    "numbers": []
+    "numbers": [
+      34
+    ]
   },
   {
     "name": "Milos Teodosic",
@@ -21317,7 +25486,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Colorado State"
     ],
-    "numbers": []
+    "numbers": [
+      3,
+      5,
+      9,
+      10
+    ]
   },
   {
     "name": "Milton Doyle",
@@ -21327,7 +25501,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Loyola (IL)"
     ],
-    "numbers": []
+    "numbers": [
+      14
+    ]
   },
   {
     "name": "Mindaugas Kuzminskas",
@@ -21335,7 +25511,9 @@ export const NBA_PLAYERS = [
       "New York Knicks"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      91
+    ]
   },
   {
     "name": "Miroslav Raduljica",
@@ -21344,7 +25522,10 @@ export const NBA_PLAYERS = [
       "Minnesota Timberwolves"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      9,
+      13
+    ]
   },
   {
     "name": "Mirsad Turkcan",
@@ -21372,7 +25553,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Michigan"
     ],
-    "numbers": []
+    "numbers": [
+      33
+    ]
   },
   {
     "name": "Mitch Richmond",
@@ -21384,7 +25567,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Kansas State"
     ],
-    "numbers": []
+    "numbers": [
+      2,
+      23
+    ]
   },
   {
     "name": "Mitchell Butler",
@@ -21396,7 +25582,11 @@ export const NBA_PLAYERS = [
     "college": [
       "UCLA"
     ],
-    "numbers": []
+    "numbers": [
+      6,
+      23,
+      32
+    ]
   },
   {
     "name": "Mitchell Creek",
@@ -21415,7 +25605,8 @@ export const NBA_PLAYERS = [
       "Western Kentucky"
     ],
     "numbers": [
-      23
+      23,
+      26
     ]
   },
   {
@@ -21442,7 +25633,10 @@ export const NBA_PLAYERS = [
       "University of Texas at Austin"
     ],
     "numbers": [
-      5
+      4,
+      5,
+      11,
+      12
     ]
   },
   {
@@ -21458,7 +25652,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Alabama"
     ],
-    "numbers": []
+    "numbers": [
+      2,
+      5,
+      25,
+      52
+    ]
   },
   {
     "name": "Monta Ellis",
@@ -21469,7 +25668,10 @@ export const NBA_PLAYERS = [
       "Milwaukee Bucks"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      8,
+      11
+    ]
   },
   {
     "name": "Monte Morris",
@@ -21481,7 +25683,10 @@ export const NBA_PLAYERS = [
       "Iowa State"
     ],
     "numbers": [
-      11
+      5,
+      11,
+      22,
+      23
     ]
   },
   {
@@ -21497,8 +25702,10 @@ export const NBA_PLAYERS = [
       "Louisville"
     ],
     "numbers": [
+      5,
       6,
-      15
+      15,
+      35
     ]
   },
   {
@@ -21512,7 +25719,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Notre Dame"
     ],
-    "numbers": []
+    "numbers": [
+      3,
+      5,
+      41
+    ]
   },
   {
     "name": "Moochie Norris",
@@ -21526,7 +25737,12 @@ export const NBA_PLAYERS = [
     "college": [
       "West Florida"
     ],
-    "numbers": []
+    "numbers": [
+      6,
+      10,
+      12,
+      25
+    ]
   },
   {
     "name": "Mookie Blaylock",
@@ -21537,7 +25753,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Oklahoma"
     ],
-    "numbers": []
+    "numbers": [
+      10
+    ]
   },
   {
     "name": "Moritz Wagner",
@@ -21550,6 +25768,7 @@ export const NBA_PLAYERS = [
       "Michigan"
     ],
     "numbers": [
+      15,
       20,
       21
     ]
@@ -21563,7 +25782,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Rice"
     ],
-    "numbers": []
+    "numbers": [
+      21,
+      22
+    ]
   },
   {
     "name": "Morris Peterson",
@@ -21575,7 +25797,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Michigan State"
     ],
-    "numbers": []
+    "numbers": [
+      9,
+      24,
+      42
+    ]
   },
   {
     "name": "Moses Brown",
@@ -21589,8 +25815,12 @@ export const NBA_PLAYERS = [
       "UCLA"
     ],
     "numbers": [
+      0,
+      3,
+      4,
       6,
-      9
+      9,
+      10
     ]
   },
   {
@@ -21625,7 +25855,9 @@ export const NBA_PLAYERS = [
       "Seattle SuperSonics"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      18
+    ]
   },
   {
     "name": "Moussa Diabate",
@@ -21647,7 +25879,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Wake Forest"
     ],
-    "numbers": []
+    "numbers": [
+      1,
+      14
+    ]
   },
   {
     "name": "Mustafa Shakur",
@@ -21658,7 +25893,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Arizona"
     ],
-    "numbers": []
+    "numbers": [
+      22
+    ]
   },
   {
     "name": "Mychal Mulder",
@@ -21683,7 +25920,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Pepperdine"
     ],
-    "numbers": []
+    "numbers": [
+      21
+    ]
   },
   {
     "name": "Myke Henry",
@@ -21691,7 +25930,9 @@ export const NBA_PLAYERS = [
       "Memphis Grizzlies"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      4
+    ]
   },
   {
     "name": "Myles Powell",
@@ -21715,6 +25956,7 @@ export const NBA_PLAYERS = [
       "Texas-Austin"
     ],
     "numbers": [
+      3,
       33
     ]
   },
@@ -21727,7 +25969,8 @@ export const NBA_PLAYERS = [
       "Xavier"
     ],
     "numbers": [
-      8
+      8,
+      13
     ]
   },
   {
@@ -21737,7 +25980,10 @@ export const NBA_PLAYERS = [
       "Toronto Raptors"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      3,
+      25
+    ]
   },
   {
     "name": "Nassir Little",
@@ -21748,7 +25994,9 @@ export const NBA_PLAYERS = [
       "North Carolina"
     ],
     "numbers": [
-      9
+      9,
+      10,
+      25
     ]
   },
   {
@@ -21769,7 +26017,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Montevallo"
     ],
-    "numbers": []
+    "numbers": [
+      27
+    ]
   },
   {
     "name": "Nate Hinton",
@@ -21792,7 +26042,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Central Michigan"
     ],
-    "numbers": []
+    "numbers": [
+      7
+    ]
   },
   {
     "name": "Nate McMillan",
@@ -21802,7 +26054,9 @@ export const NBA_PLAYERS = [
     "college": [
       "North Carolina State"
     ],
-    "numbers": []
+    "numbers": [
+      10
+    ]
   },
   {
     "name": "Nate Robinson",
@@ -21818,7 +26072,14 @@ export const NBA_PLAYERS = [
     "college": [
       "Washington"
     ],
-    "numbers": []
+    "numbers": [
+      2,
+      3,
+      4,
+      5,
+      8,
+      10
+    ]
   },
   {
     "name": "Nate Wolters",
@@ -21829,7 +26090,11 @@ export const NBA_PLAYERS = [
     "college": [
       "South Dakota State"
     ],
-    "numbers": []
+    "numbers": [
+      4,
+      6,
+      16
+    ]
   },
   {
     "name": "Nathan Jawai",
@@ -21840,7 +26105,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Midland"
     ],
-    "numbers": []
+    "numbers": [
+      15,
+      21
+    ]
   },
   {
     "name": "Nathan Knight",
@@ -21865,7 +26133,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Iowa State"
     ],
-    "numbers": []
+    "numbers": [
+      15,
+      30
+    ]
   },
   {
     "name": "Naz Reid",
@@ -21894,7 +26165,13 @@ export const NBA_PLAYERS = [
     "college": [
       "Kentucky"
     ],
-    "numbers": []
+    "numbers": [
+      2,
+      8,
+      13,
+      14,
+      48
+    ]
   },
   {
     "name": "Ndudi Ebi",
@@ -21902,7 +26179,9 @@ export const NBA_PLAYERS = [
       "Minnesota Timberwolves"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      44
+    ]
   },
   {
     "name": "Neemias Queta",
@@ -21924,7 +26203,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Dayton"
     ],
-    "numbers": []
+    "numbers": [
+      11
+    ]
   },
   {
     "name": "Nemanja Bjelica",
@@ -21937,7 +26218,8 @@ export const NBA_PLAYERS = [
     "college": [],
     "numbers": [
       8,
-      70
+      70,
+      88
     ]
   },
   {
@@ -21981,7 +26263,10 @@ export const NBA_PLAYERS = [
       "Kentucky"
     ],
     "numbers": [
-      3
+      0,
+      3,
+      4,
+      9
     ]
   },
   {
@@ -22006,7 +26291,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Illinois"
     ],
-    "numbers": []
+    "numbers": [
+      25
+    ]
   },
   {
     "name": "Nick Calathes",
@@ -22016,7 +26303,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Florida"
     ],
-    "numbers": []
+    "numbers": [
+      12
+    ]
   },
   {
     "name": "Nick Collison",
@@ -22027,7 +26316,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Kansas"
     ],
-    "numbers": []
+    "numbers": [
+      4
+    ]
   },
   {
     "name": "Nick Fazekas",
@@ -22037,7 +26328,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Nevada"
     ],
-    "numbers": []
+    "numbers": [
+      20
+    ]
   },
   {
     "name": "Nick Johnson",
@@ -22047,7 +26340,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Arizona"
     ],
-    "numbers": []
+    "numbers": [
+      3
+    ]
   },
   {
     "name": "Nick Richards",
@@ -22057,7 +26352,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Kentucky"
     ],
-    "numbers": []
+    "numbers": [
+      2,
+      13
+    ]
   },
   {
     "name": "Nick Van Exel",
@@ -22072,7 +26370,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Cincinnati"
     ],
-    "numbers": []
+    "numbers": [
+      9,
+      19,
+      31,
+      37
+    ]
   },
   {
     "name": "Nick Young",
@@ -22088,7 +26391,13 @@ export const NBA_PLAYERS = [
       "Southern California",
       "USC"
     ],
-    "numbers": []
+    "numbers": [
+      0,
+      1,
+      6,
+      11,
+      34
+    ]
   },
   {
     "name": "Nickeil Alexander-Walker",
@@ -22101,7 +26410,10 @@ export const NBA_PLAYERS = [
       "Virginia Tech"
     ],
     "numbers": [
-      6
+      0,
+      6,
+      7,
+      9
     ]
   },
   {
@@ -22125,7 +26437,9 @@ export const NBA_PLAYERS = [
     ],
     "college": [],
     "numbers": [
-      33
+      33,
+      40,
+      88
     ]
   },
   {
@@ -22182,7 +26496,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Gonzaga"
     ],
-    "numbers": []
+    "numbers": [
+      0
+    ]
   },
   {
     "name": "Nik Stauskas",
@@ -22197,7 +26513,12 @@ export const NBA_PLAYERS = [
       "Michigan"
     ],
     "numbers": [
+      1,
+      2,
+      6,
       9,
+      10,
+      11,
       13
     ]
   },
@@ -22256,7 +26577,12 @@ export const NBA_PLAYERS = [
       "Phoenix Suns"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      15,
+      17,
+      20,
+      22
+    ]
   },
   {
     "name": "Noah Vonleh",
@@ -22273,7 +26599,12 @@ export const NBA_PLAYERS = [
       "Indiana"
     ],
     "numbers": [
-      24
+      1,
+      4,
+      21,
+      24,
+      30,
+      32
     ]
   },
   {
@@ -22284,7 +26615,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Fresno State"
     ],
-    "numbers": []
+    "numbers": [
+      16
+    ]
   },
   {
     "name": "Nolan Smith",
@@ -22294,7 +26627,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Duke"
     ],
-    "numbers": []
+    "numbers": [
+      4
+    ]
   },
   {
     "name": "Norman Powell",
@@ -22330,7 +26665,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Cleveland State"
     ],
-    "numbers": []
+    "numbers": [
+      30
+    ]
   },
   {
     "name": "Norvel Pelle",
@@ -22368,7 +26705,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Southern California"
     ],
-    "numbers": []
+    "numbers": [
+      0,
+      3,
+      32
+    ]
   },
   {
     "name": "OG Anunoby",
@@ -22379,7 +26720,8 @@ export const NBA_PLAYERS = [
       "Indiana"
     ],
     "numbers": [
-      3
+      3,
+      8
     ]
   },
   {
@@ -22405,7 +26747,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Maryland"
     ],
-    "numbers": []
+    "numbers": [
+      54
+    ]
   },
   {
     "name": "Ochai Agbaji",
@@ -22415,7 +26759,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Kansas"
     ],
-    "numbers": []
+    "numbers": [
+      30
+    ]
   },
   {
     "name": "Ognjen Kuzmic",
@@ -22435,7 +26781,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Florida State"
     ],
-    "numbers": []
+    "numbers": [
+      15
+    ]
   },
   {
     "name": "Olden Polynice",
@@ -22448,7 +26796,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Virginia"
     ],
-    "numbers": []
+    "numbers": [
+      0,
+      30
+    ]
   },
   {
     "name": "Oleksiy Pecherov",
@@ -22457,7 +26808,10 @@ export const NBA_PLAYERS = [
       "Washington Wizards"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      4,
+      14
+    ]
   },
   {
     "name": "Oliver Lafayette",
@@ -22467,7 +26821,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Houston"
     ],
-    "numbers": []
+    "numbers": [
+      40
+    ]
   },
   {
     "name": "Oliver Miller",
@@ -22480,7 +26836,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Arkansas"
     ],
-    "numbers": []
+    "numbers": [
+      2,
+      3,
+      8,
+      30
+    ]
   },
   {
     "name": "Olivier Sarr",
@@ -22501,7 +26862,9 @@ export const NBA_PLAYERS = [
       "Seattle SuperSonics"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      0
+    ]
   },
   {
     "name": "Omar Cook",
@@ -22512,7 +26875,10 @@ export const NBA_PLAYERS = [
     "college": [
       "St. John's (NY)"
     ],
-    "numbers": []
+    "numbers": [
+      1,
+      10
+    ]
   },
   {
     "name": "Omari Johnson",
@@ -22522,7 +26888,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Oregon State"
     ],
-    "numbers": []
+    "numbers": [
+      14
+    ]
   },
   {
     "name": "Omari Spellman",
@@ -22533,7 +26901,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Villanova"
     ],
-    "numbers": []
+    "numbers": [
+      4,
+      6
+    ]
   },
   {
     "name": "Omer Asik",
@@ -22568,7 +26939,10 @@ export const NBA_PLAYERS = [
       "Sacramento Kings"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      18,
+      36
+    ]
   },
   {
     "name": "Onyeka Okongwu",
@@ -22593,7 +26967,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Louisiana-Lafayette"
     ],
-    "numbers": []
+    "numbers": [
+      0,
+      5
+    ]
   },
   {
     "name": "Orlando Johnson",
@@ -22605,7 +26982,10 @@ export const NBA_PLAYERS = [
     "college": [
       "California-Santa Barbara"
     ],
-    "numbers": []
+    "numbers": [
+      0,
+      11
+    ]
   },
   {
     "name": "Orlando Robinson",
@@ -22615,7 +26995,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Fresno State"
     ],
-    "numbers": []
+    "numbers": [
+      21,
+      25,
+      77
+    ]
   },
   {
     "name": "Oscar Torres",
@@ -22638,7 +27022,8 @@ export const NBA_PLAYERS = [
       "Syracuse"
     ],
     "numbers": [
-      12
+      12,
+      22
     ]
   },
   {
@@ -22653,7 +27038,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Georgetown"
     ],
-    "numbers": []
+    "numbers": [
+      24,
+      32
+    ]
   },
   {
     "name": "Othello Hunter",
@@ -22663,7 +27051,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Ohio State"
     ],
-    "numbers": []
+    "numbers": [
+      50
+    ]
   },
   {
     "name": "Othyus Jeffers",
@@ -22675,7 +27065,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Robert Morris (IL)"
     ],
-    "numbers": []
+    "numbers": [
+      0,
+      6,
+      7,
+      12
+    ]
   },
   {
     "name": "Otis Thorpe",
@@ -22689,7 +27084,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Providence"
     ],
-    "numbers": []
+    "numbers": [
+      10,
+      33,
+      50,
+      52
+    ]
   },
   {
     "name": "Otto Porter Jr.",
@@ -22714,7 +27114,10 @@ export const NBA_PLAYERS = [
       "Oklahoma City Thunder"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      13,
+      21
+    ]
   },
   {
     "name": "P.J. Brown",
@@ -22729,7 +27132,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Louisiana Tech"
     ],
-    "numbers": []
+    "numbers": [
+      42,
+      93
+    ]
   },
   {
     "name": "P.J. Dozier",
@@ -22754,6 +27160,9 @@ export const NBA_PLAYERS = [
       "Texas-Austin"
     ],
     "numbers": [
+      1,
+      2,
+      4,
       17
     ]
   },
@@ -22765,7 +27174,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Kentucky"
     ],
-    "numbers": []
+    "numbers": [
+      25
+    ]
   },
   {
     "name": "PJ Dozier",
@@ -22779,7 +27190,8 @@ export const NBA_PLAYERS = [
       "South Carolina"
     ],
     "numbers": [
-      35
+      35,
+      50
     ]
   },
   {
@@ -22812,7 +27224,9 @@ export const NBA_PLAYERS = [
       "New York Knicks"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      9
+    ]
   },
   {
     "name": "Paolo Banchero",
@@ -22822,7 +27236,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Duke"
     ],
-    "numbers": []
+    "numbers": [
+      5
+    ]
   },
   {
     "name": "Pape Sow",
@@ -22832,7 +27248,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Cal State-Fullerton"
     ],
-    "numbers": []
+    "numbers": [
+      9
+    ]
   },
   {
     "name": "Pape Sy",
@@ -22840,7 +27258,9 @@ export const NBA_PLAYERS = [
       "Atlanta Hawks"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      19
+    ]
   },
   {
     "name": "Paris Bass",
@@ -22875,7 +27295,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Auburn"
     ],
-    "numbers": []
+    "numbers": [
+      11,
+      31
+    ]
   },
   {
     "name": "Pat Connaughton",
@@ -22887,6 +27310,7 @@ export const NBA_PLAYERS = [
       "Notre Dame"
     ],
     "numbers": [
+      5,
       24
     ]
   },
@@ -22899,7 +27323,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Notre Dame"
     ],
-    "numbers": []
+    "numbers": [
+      8
+    ]
   },
   {
     "name": "Patricio Garino",
@@ -22909,7 +27335,9 @@ export const NBA_PLAYERS = [
     "college": [
       "George Washington"
     ],
-    "numbers": []
+    "numbers": [
+      29
+    ]
   },
   {
     "name": "Patrick Baldwin",
@@ -22933,6 +27361,8 @@ export const NBA_PLAYERS = [
       "Arkansas"
     ],
     "numbers": [
+      2,
+      12,
       21,
       22
     ]
@@ -22945,7 +27375,9 @@ export const NBA_PLAYERS = [
     "college": [
       "California"
     ],
-    "numbers": []
+    "numbers": [
+      19
+    ]
   },
   {
     "name": "Patrick Ewing",
@@ -22958,7 +27390,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Georgetown"
     ],
-    "numbers": []
+    "numbers": [
+      6,
+      22,
+      33
+    ]
   },
   {
     "name": "Patrick McCaw",
@@ -22971,6 +27407,9 @@ export const NBA_PLAYERS = [
       "UNLV"
     ],
     "numbers": [
+      0,
+      1,
+      3,
       22
     ]
   },
@@ -22983,7 +27422,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Bradley"
     ],
-    "numbers": []
+    "numbers": [
+      13,
+      26
+    ]
   },
   {
     "name": "Patrick Patterson",
@@ -22998,6 +27440,7 @@ export const NBA_PLAYERS = [
       "Kentucky"
     ],
     "numbers": [
+      9,
       54
     ]
   },
@@ -23027,7 +27470,8 @@ export const NBA_PLAYERS = [
       "St.Mary's College of California"
     ],
     "numbers": [
-      8
+      8,
+      88
     ]
   },
   {
@@ -23040,7 +27484,10 @@ export const NBA_PLAYERS = [
       "San Antonio Spurs"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      16,
+      17
+    ]
   },
   {
     "name": "Paul Davis",
@@ -23051,7 +27498,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Michigan State"
     ],
-    "numbers": []
+    "numbers": [
+      9,
+      40
+    ]
   },
   {
     "name": "Paul George",
@@ -23064,7 +27514,9 @@ export const NBA_PLAYERS = [
       "Fresno State"
     ],
     "numbers": [
-      13
+      8,
+      13,
+      24
     ]
   },
   {
@@ -23076,7 +27528,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Wisconsin"
     ],
-    "numbers": []
+    "numbers": [
+      7,
+      40,
+      45
+    ]
   },
   {
     "name": "Paul McPherson",
@@ -23086,7 +27542,9 @@ export const NBA_PLAYERS = [
     "college": [
       "DePaul"
     ],
-    "numbers": []
+    "numbers": [
+      23
+    ]
   },
   {
     "name": "Paul Millsap",
@@ -23102,6 +27560,7 @@ export const NBA_PLAYERS = [
     "numbers": [
       4,
       8,
+      24,
       31
     ]
   },
@@ -23116,7 +27575,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Kansas"
     ],
-    "numbers": []
+    "numbers": [
+      34
+    ]
   },
   {
     "name": "Paul Reed",
@@ -23127,6 +27588,7 @@ export const NBA_PLAYERS = [
       "DePaul"
     ],
     "numbers": [
+      7,
       44
     ]
   },
@@ -23140,7 +27602,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Iowa State"
     ],
-    "numbers": []
+    "numbers": [
+      17,
+      45
+    ]
   },
   {
     "name": "Paul Watson",
@@ -23153,6 +27618,7 @@ export const NBA_PLAYERS = [
     ],
     "numbers": [
       1,
+      2,
       8
     ]
   },
@@ -23162,7 +27628,9 @@ export const NBA_PLAYERS = [
       "Chicago Bulls"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      16
+    ]
   },
   {
     "name": "Pavel Podkolzin",
@@ -23170,7 +27638,9 @@ export const NBA_PLAYERS = [
       "Dallas Mavericks"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      24
+    ]
   },
   {
     "name": "Payton Pritchard",
@@ -23234,7 +27704,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Louisville"
     ],
-    "numbers": []
+    "numbers": [
+      29
+    ]
   },
   {
     "name": "Pete Chilcutt",
@@ -23245,7 +27717,12 @@ export const NBA_PLAYERS = [
     "college": [
       "North Carolina"
     ],
-    "numbers": []
+    "numbers": [
+      23,
+      24,
+      32,
+      33
+    ]
   },
   {
     "name": "Pete Myers",
@@ -23255,7 +27732,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Arkansas-Little Rock"
     ],
-    "numbers": []
+    "numbers": [
+      8,
+      20
+    ]
   },
   {
     "name": "Peter Aluma",
@@ -23265,7 +27745,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Liberty"
     ],
-    "numbers": []
+    "numbers": [
+      43
+    ]
   },
   {
     "name": "Peter John Ramos",
@@ -23273,7 +27755,9 @@ export const NBA_PLAYERS = [
       "Washington Wizards"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      34
+    ]
   },
   {
     "name": "Petr Cornelie",
@@ -23293,7 +27777,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Louisville"
     ],
-    "numbers": []
+    "numbers": [
+      34
+    ]
   },
   {
     "name": "Peyton Watson",
@@ -23303,7 +27789,9 @@ export const NBA_PLAYERS = [
     "college": [
       "UCLA"
     ],
-    "numbers": []
+    "numbers": [
+      8
+    ]
   },
   {
     "name": "Phil Pressey",
@@ -23314,7 +27802,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Missouri"
     ],
-    "numbers": []
+    "numbers": [
+      25,
+      26
+    ]
   },
   {
     "name": "Pierre Jackson",
@@ -23324,7 +27815,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Baylor"
     ],
-    "numbers": []
+    "numbers": [
+      55
+    ]
   },
   {
     "name": "Pooh Jeter",
@@ -23344,7 +27837,10 @@ export const NBA_PLAYERS = [
     "college": [
       "UCLA"
     ],
-    "numbers": []
+    "numbers": [
+      2,
+      24
+    ]
   },
   {
     "name": "Popeye Jones",
@@ -23359,7 +27855,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Murray State"
     ],
-    "numbers": []
+    "numbers": [
+      4,
+      50,
+      54
+    ]
   },
   {
     "name": "Pops Mensah-Bonsu",
@@ -23371,7 +27871,11 @@ export const NBA_PLAYERS = [
     "college": [
       "George Washington"
     ],
-    "numbers": []
+    "numbers": [
+      21,
+      44,
+      54
+    ]
   },
   {
     "name": "Precious Achiuwa",
@@ -23383,7 +27887,8 @@ export const NBA_PLAYERS = [
       "Memphis"
     ],
     "numbers": [
-      5
+      5,
+      9
     ]
   },
   {
@@ -23394,7 +27899,9 @@ export const NBA_PLAYERS = [
       "Seattle SuperSonics"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      14
+    ]
   },
   {
     "name": "Predrag Savovic",
@@ -23415,7 +27922,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Central State (OH)"
     ],
-    "numbers": []
+    "numbers": [
+      15,
+      30
+    ]
   },
   {
     "name": "Primoz Brezec",
@@ -23437,7 +27947,9 @@ export const NBA_PLAYERS = [
       "Houston"
     ],
     "numbers": [
-      6
+      5,
+      6,
+      24
     ]
   },
   {
@@ -23452,7 +27964,12 @@ export const NBA_PLAYERS = [
     "college": [
       "DePaul"
     ],
-    "numbers": []
+    "numbers": [
+      3,
+      5,
+      23,
+      55
+    ]
   },
   {
     "name": "Quenton Jackson",
@@ -23462,7 +27979,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Texas A&M"
     ],
-    "numbers": []
+    "numbers": [
+      29
+    ]
   },
   {
     "name": "Quincy Acy",
@@ -23476,7 +27995,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Baylor"
     ],
-    "numbers": []
+    "numbers": [
+      4,
+      5,
+      13
+    ]
   },
   {
     "name": "Quincy Douby",
@@ -23487,7 +28010,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Rutgers"
     ],
-    "numbers": []
+    "numbers": [
+      5,
+      8
+    ]
   },
   {
     "name": "Quincy Lewis",
@@ -23498,7 +28024,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Minnesota"
     ],
-    "numbers": []
+    "numbers": [
+      20,
+      24
+    ]
   },
   {
     "name": "Quincy Miller",
@@ -23509,7 +28038,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Baylor"
     ],
-    "numbers": []
+    "numbers": [
+      20,
+      30
+    ]
   },
   {
     "name": "Quincy Pondexter",
@@ -23523,7 +28055,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Washington"
     ],
-    "numbers": []
+    "numbers": [
+      3,
+      8,
+      20
+    ]
   },
   {
     "name": "Quinn Cook",
@@ -23538,7 +28074,8 @@ export const NBA_PLAYERS = [
     ],
     "numbers": [
       2,
-      4
+      4,
+      22
     ]
   },
   {
@@ -23566,7 +28103,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Southern Methodist"
     ],
-    "numbers": []
+    "numbers": [
+      3,
+      6,
+      13
+    ]
   },
   {
     "name": "Qyntel Woods",
@@ -23578,7 +28119,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Northeast Mississippi Community College"
     ],
-    "numbers": []
+    "numbers": [
+      6,
+      24
+    ]
   },
   {
     "name": "R.J. Hampton",
@@ -23588,7 +28132,9 @@ export const NBA_PLAYERS = [
     ],
     "college": [],
     "numbers": [
-      13
+      4,
+      13,
+      14
     ]
   },
   {
@@ -23638,7 +28184,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Kansas"
     ],
-    "numbers": []
+    "numbers": [
+      9,
+      45
+    ]
   },
   {
     "name": "Rafael Addison",
@@ -23648,7 +28197,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Syracuse"
     ],
-    "numbers": []
+    "numbers": [
+      7
+    ]
   },
   {
     "name": "Rafael Araujo",
@@ -23673,7 +28224,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Fresno State"
     ],
-    "numbers": []
+    "numbers": [
+      1,
+      11,
+      12,
+      24
+    ]
   },
   {
     "name": "RaiQuan Gray",
@@ -23683,7 +28239,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Florida State"
     ],
-    "numbers": []
+    "numbers": [
+      0,
+      41
+    ]
   },
   {
     "name": "Raja Bell",
@@ -23698,7 +28257,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Florida International"
     ],
-    "numbers": []
+    "numbers": [
+      11,
+      18,
+      19
+    ]
   },
   {
     "name": "Rajon Rondo",
@@ -23718,7 +28281,8 @@ export const NBA_PLAYERS = [
     "numbers": [
       1,
       4,
-      7
+      7,
+      9
     ]
   },
   {
@@ -23729,7 +28293,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Syracuse"
     ],
-    "numbers": []
+    "numbers": [
+      25
+    ]
   },
   {
     "name": "Ramon Sessions",
@@ -23745,7 +28311,13 @@ export const NBA_PLAYERS = [
       "Nevada",
       "Nevada-Reno"
     ],
-    "numbers": []
+    "numbers": [
+      1,
+      3,
+      7,
+      9,
+      13
+    ]
   },
   {
     "name": "Randell Jackson",
@@ -23756,7 +28328,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Florida State"
     ],
-    "numbers": []
+    "numbers": [
+      43,
+      50
+    ]
   },
   {
     "name": "Randolph Childress",
@@ -23766,7 +28341,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Wake Forest"
     ],
-    "numbers": []
+    "numbers": [
+      3,
+      12
+    ]
   },
   {
     "name": "Randolph Morris",
@@ -23777,7 +28355,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Kentucky"
     ],
-    "numbers": []
+    "numbers": [
+      5,
+      33
+    ]
   },
   {
     "name": "Randy Brown",
@@ -23789,7 +28370,11 @@ export const NBA_PLAYERS = [
     "college": [
       "New Mexico State"
     ],
-    "numbers": []
+    "numbers": [
+      0,
+      1,
+      11
+    ]
   },
   {
     "name": "Randy Foye",
@@ -23805,7 +28390,13 @@ export const NBA_PLAYERS = [
     "college": [
       "Villanova"
     ],
-    "numbers": []
+    "numbers": [
+      2,
+      4,
+      6,
+      8,
+      15
+    ]
   },
   {
     "name": "Randy Holcomb",
@@ -23815,7 +28406,9 @@ export const NBA_PLAYERS = [
     "college": [
       "San Diego State"
     ],
-    "numbers": []
+    "numbers": [
+      6
+    ]
   },
   {
     "name": "Randy Livingston",
@@ -23833,7 +28426,14 @@ export const NBA_PLAYERS = [
     "college": [
       "Louisiana State"
     ],
-    "numbers": []
+    "numbers": [
+      1,
+      2,
+      3,
+      7,
+      9,
+      14
+    ]
   },
   {
     "name": "Rashad McCants",
@@ -23844,7 +28444,10 @@ export const NBA_PLAYERS = [
     "college": [
       "North Carolina"
     ],
-    "numbers": []
+    "numbers": [
+      1,
+      7
+    ]
   },
   {
     "name": "Rashad Vaughn",
@@ -23855,7 +28458,10 @@ export const NBA_PLAYERS = [
       "Nevada-Las Vegas",
       "UNLV"
     ],
-    "numbers": []
+    "numbers": [
+      17,
+      20
+    ]
   },
   {
     "name": "Rashard Lewis",
@@ -23866,7 +28472,10 @@ export const NBA_PLAYERS = [
       "Washington Wizards"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      7,
+      9
+    ]
   },
   {
     "name": "Rasheed Wallace",
@@ -23879,7 +28488,10 @@ export const NBA_PLAYERS = [
     "college": [
       "North Carolina"
     ],
-    "numbers": []
+    "numbers": [
+      30,
+      36
+    ]
   },
   {
     "name": "Rasho Nesterovic",
@@ -23908,7 +28520,12 @@ export const NBA_PLAYERS = [
     "college": [
       "La Salle"
     ],
-    "numbers": []
+    "numbers": [
+      8,
+      9,
+      18,
+      45
+    ]
   },
   {
     "name": "Ratko Varda",
@@ -23916,7 +28533,9 @@ export const NBA_PLAYERS = [
       "Detroit Pistons"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      44
+    ]
   },
   {
     "name": "Raul Lopez",
@@ -23936,7 +28555,8 @@ export const NBA_PLAYERS = [
     ],
     "college": [],
     "numbers": [
-      19
+      19,
+      25
     ]
   },
   {
@@ -23945,7 +28565,9 @@ export const NBA_PLAYERS = [
       "Chicago Bulls"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      20
+    ]
   },
   {
     "name": "Rawle Marshall",
@@ -23956,7 +28578,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Oakland"
     ],
-    "numbers": []
+    "numbers": [
+      1,
+      2
+    ]
   },
   {
     "name": "Ray Allen",
@@ -23969,7 +28594,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Connecticut"
     ],
-    "numbers": []
+    "numbers": [
+      20,
+      34
+    ]
   },
   {
     "name": "Ray McCallum",
@@ -23980,7 +28608,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Detroit Mercy"
     ],
-    "numbers": []
+    "numbers": [
+      3,
+      5
+    ]
   },
   {
     "name": "Ray Owes",
@@ -23990,7 +28621,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Arizona"
     ],
-    "numbers": []
+    "numbers": [
+      35
+    ]
   },
   {
     "name": "Ray Spalding",
@@ -24002,7 +28635,8 @@ export const NBA_PLAYERS = [
       "Louisville"
     ],
     "numbers": [
-      5
+      5,
+      26
     ]
   },
   {
@@ -24035,7 +28669,11 @@ export const NBA_PLAYERS = [
     "college": [
       "North Carolina"
     ],
-    "numbers": []
+    "numbers": [
+      2,
+      5,
+      20
+    ]
   },
   {
     "name": "Reece Gaines",
@@ -24046,7 +28684,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Louisville"
     ],
-    "numbers": []
+    "numbers": [
+      4,
+      22,
+      34
+    ]
   },
   {
     "name": "Reggie Bullock",
@@ -24062,7 +28704,8 @@ export const NBA_PLAYERS = [
       "North Carolina"
     ],
     "numbers": [
-      25
+      25,
+      35
     ]
   },
   {
@@ -24079,7 +28722,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Iowa"
     ],
-    "numbers": []
+    "numbers": [
+      30,
+      34
+    ]
   },
   {
     "name": "Reggie Geary",
@@ -24090,7 +28736,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Arizona"
     ],
-    "numbers": []
+    "numbers": [
+      2,
+      4
+    ]
   },
   {
     "name": "Reggie Hanson",
@@ -24100,7 +28749,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Kentucky"
     ],
-    "numbers": []
+    "numbers": [
+      34
+    ]
   },
   {
     "name": "Reggie Hearn",
@@ -24110,7 +28761,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Northwestern"
     ],
-    "numbers": []
+    "numbers": [
+      38
+    ]
   },
   {
     "name": "Reggie Jackson",
@@ -24124,7 +28777,10 @@ export const NBA_PLAYERS = [
       "Boston College"
     ],
     "numbers": [
-      1
+      0,
+      1,
+      7,
+      15
     ]
   },
   {
@@ -24136,7 +28792,11 @@ export const NBA_PLAYERS = [
     "college": [
       "New Mexico State"
     ],
-    "numbers": []
+    "numbers": [
+      10,
+      22,
+      31
+    ]
   },
   {
     "name": "Reggie Miller",
@@ -24146,7 +28806,9 @@ export const NBA_PLAYERS = [
     "college": [
       "UCLA"
     ],
-    "numbers": []
+    "numbers": [
+      31
+    ]
   },
   {
     "name": "Reggie Perry",
@@ -24171,7 +28833,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Wyoming"
     ],
-    "numbers": []
+    "numbers": [
+      24,
+      35,
+      40,
+      50
+    ]
   },
   {
     "name": "Reggie Williams",
@@ -24187,7 +28854,13 @@ export const NBA_PLAYERS = [
       "Georgetown",
       "Virginia Military Institute"
     ],
-    "numbers": []
+    "numbers": [
+      5,
+      7,
+      14,
+      34,
+      55
+    ]
   },
   {
     "name": "Renaldo Balkman",
@@ -24198,7 +28871,9 @@ export const NBA_PLAYERS = [
     "college": [
       "South Carolina"
     ],
-    "numbers": []
+    "numbers": [
+      32
+    ]
   },
   {
     "name": "Renaldo Major",
@@ -24208,7 +28883,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Fresno State"
     ],
-    "numbers": []
+    "numbers": [
+      12
+    ]
   },
   {
     "name": "Rex Chapman",
@@ -24218,7 +28895,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Kentucky"
     ],
-    "numbers": []
+    "numbers": [
+      3,
+      7
+    ]
   },
   {
     "name": "Rex Walters",
@@ -24229,7 +28909,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Kansas"
     ],
-    "numbers": []
+    "numbers": [
+      2,
+      23
+    ]
   },
   {
     "name": "Richard Hamilton",
@@ -24241,7 +28924,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Connecticut"
     ],
-    "numbers": []
+    "numbers": [
+      32
+    ]
   },
   {
     "name": "Richard Jefferson",
@@ -24258,7 +28943,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Arizona"
     ],
-    "numbers": []
+    "numbers": [
+      22,
+      24,
+      44
+    ]
   },
   {
     "name": "Richard Manning",
@@ -24281,6 +28970,8 @@ export const NBA_PLAYERS = [
       "Bowling Green"
     ],
     "numbers": [
+      20,
+      21,
       22
     ]
   },
@@ -24295,7 +28986,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Gonzaga"
     ],
-    "numbers": []
+    "numbers": [
+      14,
+      24
+    ]
   },
   {
     "name": "Rick Brunson",
@@ -24309,7 +29003,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Temple"
     ],
-    "numbers": []
+    "numbers": [
+      5,
+      9,
+      40
+    ]
   },
   {
     "name": "Rick Fox",
@@ -24320,7 +29018,10 @@ export const NBA_PLAYERS = [
     "college": [
       "North Carolina"
     ],
-    "numbers": []
+    "numbers": [
+      17,
+      44
+    ]
   },
   {
     "name": "Rick Hughes",
@@ -24330,7 +29031,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Thomas More"
     ],
-    "numbers": []
+    "numbers": [
+      3
+    ]
   },
   {
     "name": "Rick Mahorn",
@@ -24341,7 +29044,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Hampton"
     ],
-    "numbers": []
+    "numbers": [
+      4,
+      44
+    ]
   },
   {
     "name": "Ricky Davis",
@@ -24356,7 +29062,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Iowa"
     ],
-    "numbers": []
+    "numbers": [
+      12,
+      21,
+      31
+    ]
   },
   {
     "name": "Ricky Ledo",
@@ -24367,7 +29077,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Providence"
     ],
-    "numbers": []
+    "numbers": [
+      1,
+      7,
+      11
+    ]
   },
   {
     "name": "Ricky Pierce",
@@ -24378,7 +29092,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Rice"
     ],
-    "numbers": []
+    "numbers": [
+      21,
+      22
+    ]
   },
   {
     "name": "Ricky Rubio",
@@ -24392,7 +29109,9 @@ export const NBA_PLAYERS = [
     "college": [],
     "numbers": [
       3,
-      9
+      9,
+      11,
+      13
     ]
   },
   {
@@ -24403,7 +29122,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Marist"
     ],
-    "numbers": []
+    "numbers": [
+      45
+    ]
   },
   {
     "name": "Rob Edwards",
@@ -24425,7 +29146,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Notre Dame"
     ],
-    "numbers": []
+    "numbers": [
+      31
+    ]
   },
   {
     "name": "Robbie Hummel",
@@ -24435,7 +29158,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Purdue"
     ],
-    "numbers": []
+    "numbers": [
+      4,
+      6
+    ]
   },
   {
     "name": "Robert Archibald",
@@ -24446,7 +29172,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Illinois"
     ],
-    "numbers": []
+    "numbers": [
+      21,
+      34
+    ]
   },
   {
     "name": "Robert Covington",
@@ -24485,7 +29214,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Miami (FL)"
     ],
-    "numbers": []
+    "numbers": [
+      22
+    ]
   },
   {
     "name": "Robert Horry",
@@ -24496,7 +29227,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Alabama"
     ],
-    "numbers": []
+    "numbers": [
+      5,
+      25
+    ]
   },
   {
     "name": "Robert Pack",
@@ -24510,7 +29244,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Southern California"
     ],
-    "numbers": []
+    "numbers": [
+      9,
+      14
+    ]
   },
   {
     "name": "Robert Parish",
@@ -24520,7 +29257,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Centenary (LA)"
     ],
-    "numbers": []
+    "numbers": [
+      0
+    ]
   },
   {
     "name": "Robert Sacre",
@@ -24530,7 +29269,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Gonzaga"
     ],
-    "numbers": []
+    "numbers": [
+      50
+    ]
   },
   {
     "name": "Robert Swift",
@@ -24539,7 +29280,9 @@ export const NBA_PLAYERS = [
       "Seattle SuperSonics"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      31
+    ]
   },
   {
     "name": "Robert Traylor",
@@ -24552,7 +29295,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Michigan"
     ],
-    "numbers": []
+    "numbers": [
+      32,
+      34,
+      54
+    ]
   },
   {
     "name": "Robert Werdann",
@@ -24562,7 +29309,9 @@ export const NBA_PLAYERS = [
     "college": [
       "St. John's (NY)"
     ],
-    "numbers": []
+    "numbers": [
+      41
+    ]
   },
   {
     "name": "Robert Whaley",
@@ -24572,7 +29321,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Walsh"
     ],
-    "numbers": []
+    "numbers": [
+      54
+    ]
   },
   {
     "name": "Robert Williams III",
@@ -24615,8 +29366,10 @@ export const NBA_PLAYERS = [
       "Stanford"
     ],
     "numbers": [
+      8,
       15,
-      33
+      33,
+      42
     ]
   },
   {
@@ -24632,7 +29385,10 @@ export const NBA_PLAYERS = [
     "college": [
       "DePaul"
     ],
-    "numbers": []
+    "numbers": [
+      1,
+      31
+    ]
   },
   {
     "name": "Rodions Kurucs",
@@ -24657,7 +29413,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Creighton"
     ],
-    "numbers": []
+    "numbers": [
+      2,
+      23,
+      32
+    ]
   },
   {
     "name": "Rodney Carney",
@@ -24669,7 +29429,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Memphis"
     ],
-    "numbers": []
+    "numbers": [
+      10,
+      25
+    ]
   },
   {
     "name": "Rodney Hood",
@@ -24684,6 +29447,7 @@ export const NBA_PLAYERS = [
       "Duke"
     ],
     "numbers": [
+      1,
       5,
       22,
       32
@@ -24700,7 +29464,8 @@ export const NBA_PLAYERS = [
       "Kansas State"
     ],
     "numbers": [
-      17
+      17,
+      19
     ]
   },
   {
@@ -24711,7 +29476,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Connecticut"
     ],
-    "numbers": []
+    "numbers": [
+      15
+    ]
   },
   {
     "name": "Rodney Rogers",
@@ -24725,7 +29492,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Wake Forest"
     ],
-    "numbers": []
+    "numbers": [
+      54
+    ]
   },
   {
     "name": "Rodney Stuckey",
@@ -24736,7 +29505,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Eastern Washington"
     ],
-    "numbers": []
+    "numbers": [
+      2,
+      3
+    ]
   },
   {
     "name": "Rodney White",
@@ -24748,7 +29520,11 @@ export const NBA_PLAYERS = [
     "college": [
       "North Carolina-Charlotte"
     ],
-    "numbers": []
+    "numbers": [
+      3,
+      5,
+      7
+    ]
   },
   {
     "name": "Rodrick Rhodes",
@@ -24760,7 +29536,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Southern California"
     ],
-    "numbers": []
+    "numbers": [
+      1,
+      2,
+      12
+    ]
   },
   {
     "name": "Rodrigue Beaubois",
@@ -24768,7 +29548,9 @@ export const NBA_PLAYERS = [
       "Dallas Mavericks"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      3
+    ]
   },
   {
     "name": "Roger Mason Jr.",
@@ -24794,7 +29576,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Illinois"
     ],
-    "numbers": []
+    "numbers": [
+      43
+    ]
   },
   {
     "name": "Roko Ukic",
@@ -24829,7 +29613,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Wichita State"
     ],
-    "numbers": []
+    "numbers": [
+      31,
+      84
+    ]
   },
   {
     "name": "Ron Harper",
@@ -24840,7 +29627,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Miami (OH)"
     ],
-    "numbers": []
+    "numbers": [
+      4,
+      9
+    ]
   },
   {
     "name": "Ron Harper Jr.",
@@ -24850,7 +29640,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Rutgers"
     ],
-    "numbers": []
+    "numbers": [
+      8,
+      13
+    ]
   },
   {
     "name": "Ron Mercer",
@@ -24865,7 +29658,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Kentucky"
     ],
-    "numbers": []
+    "numbers": [
+      1,
+      5,
+      33
+    ]
   },
   {
     "name": "Ronald Dupree",
@@ -24879,7 +29676,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Louisiana State"
     ],
-    "numbers": []
+    "numbers": [
+      12,
+      20
+    ]
   },
   {
     "name": "Rondae Hollis-Jefferson",
@@ -24892,7 +29692,9 @@ export const NBA_PLAYERS = [
       "Arizona"
     ],
     "numbers": [
-      2
+      2,
+      4,
+      24
     ]
   },
   {
@@ -24906,7 +29708,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Arkansas"
     ],
-    "numbers": []
+    "numbers": [
+      8,
+      9,
+      10,
+      11
+    ]
   },
   {
     "name": "Ronnie Price",
@@ -24921,7 +29728,15 @@ export const NBA_PLAYERS = [
     "college": [
       "Utah Valley"
     ],
-    "numbers": []
+    "numbers": [
+      2,
+      7,
+      9,
+      10,
+      14,
+      17,
+      24
+    ]
   },
   {
     "name": "Ronny Turiaf",
@@ -24936,7 +29751,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Gonzaga"
     ],
-    "numbers": []
+    "numbers": [
+      14,
+      21,
+      32
+    ]
   },
   {
     "name": "Rony Seikaly",
@@ -24947,7 +29766,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Syracuse"
     ],
-    "numbers": []
+    "numbers": [
+      2,
+      4
+    ]
   },
   {
     "name": "Roshown McLeod",
@@ -24958,7 +29780,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Duke"
     ],
-    "numbers": []
+    "numbers": [
+      7
+    ]
   },
   {
     "name": "Roy Hibbert",
@@ -24970,7 +29794,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Georgetown"
     ],
-    "numbers": []
+    "numbers": [
+      17,
+      34,
+      55
+    ]
   },
   {
     "name": "Roy Rogers",
@@ -24982,7 +29810,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Alabama"
     ],
-    "numbers": []
+    "numbers": [
+      9,
+      25,
+      44,
+      99
+    ]
   },
   {
     "name": "Royal Ivey",
@@ -24995,7 +29828,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Texas"
     ],
-    "numbers": []
+    "numbers": [
+      7,
+      11,
+      12,
+      36
+    ]
   },
   {
     "name": "Royce O'Neale",
@@ -25007,6 +29845,7 @@ export const NBA_PLAYERS = [
       "Baylor"
     ],
     "numbers": [
+      0,
       23
     ]
   },
@@ -25018,7 +29857,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Iowa State"
     ],
-    "numbers": []
+    "numbers": [
+      35
+    ]
   },
   {
     "name": "Ruben Boumtje-Boumtje",
@@ -25028,7 +29869,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Georgetown"
     ],
-    "numbers": []
+    "numbers": [
+      44
+    ]
   },
   {
     "name": "Ruben Garces",
@@ -25048,7 +29891,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Weber State"
     ],
-    "numbers": []
+    "numbers": [
+      9,
+      30
+    ]
   },
   {
     "name": "Ruben Patterson",
@@ -25063,7 +29909,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Cincinnati"
     ],
-    "numbers": []
+    "numbers": [
+      21,
+      22,
+      23
+    ]
   },
   {
     "name": "Ruben Wolkowyski",
@@ -25121,7 +29971,8 @@ export const NBA_PLAYERS = [
       "Gonzaga"
     ],
     "numbers": [
-      8
+      8,
+      28
     ]
   },
   {
@@ -25132,7 +29983,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Michigan"
     ],
-    "numbers": []
+    "numbers": [
+      20,
+      21
+    ]
   },
   {
     "name": "Russ Smith",
@@ -25142,7 +29996,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Louisville"
     ],
-    "numbers": []
+    "numbers": [
+      2,
+      9
+    ]
   },
   {
     "name": "Russell Westbrook",
@@ -25158,7 +30015,8 @@ export const NBA_PLAYERS = [
     ],
     "numbers": [
       0,
-      4
+      4,
+      18
     ]
   },
   {
@@ -25171,7 +30029,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Wake Forest"
     ],
-    "numbers": []
+    "numbers": [
+      5
+    ]
   },
   {
     "name": "Ryan Anderson",
@@ -25186,7 +30046,13 @@ export const NBA_PLAYERS = [
     "college": [
       "California"
     ],
-    "numbers": []
+    "numbers": [
+      3,
+      15,
+      20,
+      31,
+      33
+    ]
   },
   {
     "name": "Ryan Arcidiacono",
@@ -25199,6 +30065,7 @@ export const NBA_PLAYERS = [
       "Villanova"
     ],
     "numbers": [
+      15,
       51
     ]
   },
@@ -25213,7 +30080,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Iowa"
     ],
-    "numbers": []
+    "numbers": [
+      32,
+      40,
+      42
+    ]
   },
   {
     "name": "Ryan Broekhoff",
@@ -25224,7 +30095,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Valparaiso"
     ],
-    "numbers": []
+    "numbers": [
+      45
+    ]
   },
   {
     "name": "Ryan Gomes",
@@ -25237,7 +30110,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Providence"
     ],
-    "numbers": []
+    "numbers": [
+      4,
+      8,
+      15
+    ]
   },
   {
     "name": "Ryan Hollins",
@@ -25254,7 +30131,13 @@ export const NBA_PLAYERS = [
     "college": [
       "UCLA"
     ],
-    "numbers": []
+    "numbers": [
+      1,
+      5,
+      15,
+      20,
+      50
+    ]
   },
   {
     "name": "Ryan Humphrey",
@@ -25264,7 +30147,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Notre Dame"
     ],
-    "numbers": []
+    "numbers": [
+      4,
+      40
+    ]
   },
   {
     "name": "Ryan Kelly",
@@ -25275,7 +30161,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Duke"
     ],
-    "numbers": []
+    "numbers": [
+      4,
+      30
+    ]
   },
   {
     "name": "Ryan Reid",
@@ -25285,7 +30174,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Florida State"
     ],
-    "numbers": []
+    "numbers": [
+      33
+    ]
   },
   {
     "name": "Ryan Robertson",
@@ -25295,7 +30186,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Kansas"
     ],
-    "numbers": []
+    "numbers": [
+      10
+    ]
   },
   {
     "name": "Ryan Rollins",
@@ -25305,7 +30198,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Toledo"
     ],
-    "numbers": []
+    "numbers": [
+      2,
+      9,
+      13,
+      55
+    ]
   },
   {
     "name": "Ryan Stack",
@@ -25315,7 +30213,9 @@ export const NBA_PLAYERS = [
     "college": [
       "South Carolina"
     ],
-    "numbers": []
+    "numbers": [
+      10
+    ]
   },
   {
     "name": "Saben Lee",
@@ -25327,6 +30227,7 @@ export const NBA_PLAYERS = [
       "Vanderbilt"
     ],
     "numbers": [
+      9,
       38
     ]
   },
@@ -25349,7 +30250,9 @@ export const NBA_PLAYERS = [
       "Dallas Mavericks"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      50
+    ]
   },
   {
     "name": "Salim Stoudamire",
@@ -25359,7 +30262,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Arizona"
     ],
-    "numbers": []
+    "numbers": [
+      20
+    ]
   },
   {
     "name": "Sam Cassell",
@@ -25373,7 +30278,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Florida State"
     ],
-    "numbers": []
+    "numbers": [
+      10,
+      19,
+      20,
+      28
+    ]
   },
   {
     "name": "Sam Dekker",
@@ -25387,7 +30297,9 @@ export const NBA_PLAYERS = [
       "Wisconsin"
     ],
     "numbers": [
-      8
+      7,
+      8,
+      15
     ]
   },
   {
@@ -25412,7 +30324,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Minnesota"
     ],
-    "numbers": []
+    "numbers": [
+      6,
+      7
+    ]
   },
   {
     "name": "Sam Mack",
@@ -25425,7 +30340,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Houston"
     ],
-    "numbers": []
+    "numbers": [
+      4,
+      6,
+      7
+    ]
   },
   {
     "name": "Sam Merrill",
@@ -25438,6 +30357,7 @@ export const NBA_PLAYERS = [
       "Utah State"
     ],
     "numbers": [
+      5,
       15,
       25
     ]
@@ -25450,7 +30370,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Mercer"
     ],
-    "numbers": []
+    "numbers": [
+      42
+    ]
   },
   {
     "name": "Sam Perkins",
@@ -25461,7 +30383,9 @@ export const NBA_PLAYERS = [
     "college": [
       "North Carolina"
     ],
-    "numbers": []
+    "numbers": [
+      14
+    ]
   },
   {
     "name": "Sam Young",
@@ -25473,7 +30397,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Pittsburgh"
     ],
-    "numbers": []
+    "numbers": [
+      4,
+      7
+    ]
   },
   {
     "name": "Samaki Walker",
@@ -25488,7 +30415,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Louisville"
     ],
-    "numbers": []
+    "numbers": [
+      52,
+      55
+    ]
   },
   {
     "name": "Samardo Samuels",
@@ -25498,7 +30428,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Louisville"
     ],
-    "numbers": []
+    "numbers": [
+      24
+    ]
   },
   {
     "name": "Samuel Dalembert",
@@ -25513,7 +30445,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Seton Hall"
     ],
-    "numbers": []
+    "numbers": [
+      1,
+      10,
+      11,
+      21
+    ]
   },
   {
     "name": "Sandro Mamukelashvili",
@@ -25575,7 +30512,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Kansas"
     ],
-    "numbers": []
+    "numbers": [
+      14
+    ]
   },
   {
     "name": "Sasha Pavlovic",
@@ -25612,7 +30551,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Kansas"
     ],
-    "numbers": []
+    "numbers": [
+      31,
+      62,
+      66
+    ]
   },
   {
     "name": "Scott Brooks",
@@ -25623,7 +30566,11 @@ export const NBA_PLAYERS = [
     "college": [
       "California-Irvine"
     ],
-    "numbers": []
+    "numbers": [
+      1,
+      2,
+      4
+    ]
   },
   {
     "name": "Scott Burrell",
@@ -25636,7 +30583,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Connecticut"
     ],
-    "numbers": []
+    "numbers": [
+      2,
+      23,
+      24
+    ]
   },
   {
     "name": "Scott Machado",
@@ -25647,7 +30598,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Iona"
     ],
-    "numbers": []
+    "numbers": [
+      1,
+      10
+    ]
   },
   {
     "name": "Scott Padgett",
@@ -25660,7 +30614,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Kentucky"
     ],
-    "numbers": []
+    "numbers": [
+      34,
+      35
+    ]
   },
   {
     "name": "Scott Williams",
@@ -25675,7 +30632,11 @@ export const NBA_PLAYERS = [
     "college": [
       "North Carolina"
     ],
-    "numbers": []
+    "numbers": [
+      42,
+      47,
+      55
+    ]
   },
   {
     "name": "Scottie Barnes",
@@ -25709,7 +30670,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Central Arkansas"
     ],
-    "numbers": []
+    "numbers": [
+      33
+    ]
   },
   {
     "name": "Scotty Hopson",
@@ -25722,6 +30685,8 @@ export const NBA_PLAYERS = [
       "Tennessee"
     ],
     "numbers": [
+      24,
+      32,
       55
     ]
   },
@@ -25733,7 +30698,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Vanderbilt"
     ],
-    "numbers": []
+    "numbers": [
+      1,
+      14
+    ]
   },
   {
     "name": "Sean Colson",
@@ -25743,7 +30711,10 @@ export const NBA_PLAYERS = [
     "college": [
       "North Carolina-Charlotte"
     ],
-    "numbers": []
+    "numbers": [
+      2,
+      20
+    ]
   },
   {
     "name": "Sean Elliott",
@@ -25753,7 +30724,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Arizona"
     ],
-    "numbers": []
+    "numbers": [
+      32
+    ]
   },
   {
     "name": "Sean Higgins",
@@ -25763,7 +30736,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Michigan"
     ],
-    "numbers": []
+    "numbers": [
+      9,
+      19
+    ]
   },
   {
     "name": "Sean Kilpatrick",
@@ -25775,7 +30751,13 @@ export const NBA_PLAYERS = [
     "college": [
       "Cincinnati"
     ],
-    "numbers": []
+    "numbers": [
+      0,
+      1,
+      2,
+      6,
+      9
+    ]
   },
   {
     "name": "Sean Lampley",
@@ -25786,7 +30768,9 @@ export const NBA_PLAYERS = [
     "college": [
       "California"
     ],
-    "numbers": []
+    "numbers": [
+      21
+    ]
   },
   {
     "name": "Sean Marks",
@@ -25801,7 +30785,11 @@ export const NBA_PLAYERS = [
     "college": [
       "California"
     ],
-    "numbers": []
+    "numbers": [
+      4,
+      22,
+      40
+    ]
   },
   {
     "name": "Sean May",
@@ -25812,7 +30800,9 @@ export const NBA_PLAYERS = [
     "college": [
       "North Carolina"
     ],
-    "numbers": []
+    "numbers": [
+      42
+    ]
   },
   {
     "name": "Sean McDermott",
@@ -25837,7 +30827,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Arizona"
     ],
-    "numbers": []
+    "numbers": [
+      45
+    ]
   },
   {
     "name": "Sean Singletary",
@@ -25847,7 +30839,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Virginia"
     ],
-    "numbers": []
+    "numbers": [
+      14
+    ]
   },
   {
     "name": "Sean Williams",
@@ -25858,7 +30852,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Boston College"
     ],
-    "numbers": []
+    "numbers": [
+      32,
+      51,
+      56
+    ]
   },
   {
     "name": "Sebastian Telfair",
@@ -25872,7 +30870,12 @@ export const NBA_PLAYERS = [
       "Toronto Raptors"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      3,
+      13,
+      30,
+      31
+    ]
   },
   {
     "name": "Sedale Threatt",
@@ -25882,7 +30885,10 @@ export const NBA_PLAYERS = [
     "college": [
       "West Virginia Tech"
     ],
-    "numbers": []
+    "numbers": [
+      2,
+      3
+    ]
   },
   {
     "name": "Sekou Doumbouya",
@@ -25903,7 +30909,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Xavier"
     ],
-    "numbers": []
+    "numbers": [
+      6
+    ]
   },
   {
     "name": "Semi Ojeleye",
@@ -25924,7 +30932,10 @@ export const NBA_PLAYERS = [
       "Cleveland Cavaliers"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      9,
+      86
+    ]
   },
   {
     "name": "Serge Ibaka",
@@ -25936,6 +30947,7 @@ export const NBA_PLAYERS = [
     ],
     "college": [],
     "numbers": [
+      7,
       9,
       25
     ]
@@ -25946,7 +30958,10 @@ export const NBA_PLAYERS = [
       "Sacramento Kings"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      12,
+      15
+    ]
   },
   {
     "name": "Sergey Karasev",
@@ -25955,7 +30970,9 @@ export const NBA_PLAYERS = [
       "Cleveland Cavaliers"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      10
+    ]
   },
   {
     "name": "Sergio Rodriguez",
@@ -25982,6 +30999,8 @@ export const NBA_PLAYERS = [
       "Duke"
     ],
     "numbers": [
+      1,
+      10,
       30,
       31
     ]
@@ -25996,7 +31015,9 @@ export const NBA_PLAYERS = [
       "California-Los Angeles",
       "UCLA"
     ],
-    "numbers": []
+    "numbers": [
+      15
+    ]
   },
   {
     "name": "Shabazz Napier",
@@ -26010,7 +31031,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Connecticut"
     ],
-    "numbers": []
+    "numbers": [
+      5,
+      6,
+      13
+    ]
   },
   {
     "name": "Shaedon Sharpe",
@@ -26020,7 +31045,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Kentucky"
     ],
-    "numbers": []
+    "numbers": [
+      17
+    ]
   },
   {
     "name": "Shai Gilgeous-Alexander",
@@ -26044,7 +31071,11 @@ export const NBA_PLAYERS = [
       "Southern Methodist"
     ],
     "numbers": [
-      18
+      5,
+      7,
+      13,
+      18,
+      20
     ]
   },
   {
@@ -26059,7 +31090,11 @@ export const NBA_PLAYERS = [
     "college": [
       "North Carolina"
     ],
-    "numbers": []
+    "numbers": [
+      1,
+      3,
+      11
+    ]
   },
   {
     "name": "Shamorie Ponds",
@@ -26069,7 +31104,9 @@ export const NBA_PLAYERS = [
     "college": [
       "St. John's, N.Y."
     ],
-    "numbers": []
+    "numbers": [
+      11
+    ]
   },
   {
     "name": "Shandon Anderson",
@@ -26082,7 +31119,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Georgia"
     ],
-    "numbers": []
+    "numbers": [
+      40,
+      49
+    ]
   },
   {
     "name": "Shane Battier",
@@ -26094,7 +31134,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Duke"
     ],
-    "numbers": []
+    "numbers": [
+      31
+    ]
   },
   {
     "name": "Shane Edwards",
@@ -26104,7 +31146,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Arkansas-Little Rock"
     ],
-    "numbers": []
+    "numbers": [
+      24
+    ]
   },
   {
     "name": "Shane Heal",
@@ -26113,7 +31157,10 @@ export const NBA_PLAYERS = [
       "San Antonio Spurs"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      10,
+      11
+    ]
   },
   {
     "name": "Shane Larkin",
@@ -26127,7 +31174,11 @@ export const NBA_PLAYERS = [
       "Miami",
       "Miami (FL)"
     ],
-    "numbers": []
+    "numbers": [
+      0,
+      3,
+      8
+    ]
   },
   {
     "name": "Shannon Brown",
@@ -26142,7 +31193,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Michigan State"
     ],
-    "numbers": []
+    "numbers": [
+      1,
+      6,
+      12,
+      26
+    ]
   },
   {
     "name": "Shaq Buchanan",
@@ -26169,9 +31225,12 @@ export const NBA_PLAYERS = [
       "Tulsa"
     ],
     "numbers": [
+      0,
+      1,
       3,
       4,
-      8
+      8,
+      10
     ]
   },
   {
@@ -26186,7 +31245,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Louisiana State"
     ],
-    "numbers": []
+    "numbers": [
+      32,
+      33,
+      34,
+      36
+    ]
   },
   {
     "name": "Shareef Abdur-Rahim",
@@ -26199,7 +31263,10 @@ export const NBA_PLAYERS = [
     "college": [
       "California"
     ],
-    "numbers": []
+    "numbers": [
+      3,
+      33
+    ]
   },
   {
     "name": "Sharife Cooper",
@@ -26221,7 +31288,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Clemson"
     ],
-    "numbers": []
+    "numbers": [
+      4,
+      9
+    ]
   },
   {
     "name": "Sharrod Ford",
@@ -26231,7 +31301,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Clemson"
     ],
-    "numbers": []
+    "numbers": [
+      23
+    ]
   },
   {
     "name": "Shaun Livingston",
@@ -26246,7 +31318,13 @@ export const NBA_PLAYERS = [
       "Washington Wizards"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      2,
+      8,
+      9,
+      14,
+      34
+    ]
   },
   {
     "name": "Shavlik Randolph",
@@ -26260,7 +31338,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Duke"
     ],
-    "numbers": []
+    "numbers": [
+      42,
+      43
+    ]
   },
   {
     "name": "Shawn Bradley",
@@ -26270,7 +31351,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Brigham Young"
     ],
-    "numbers": []
+    "numbers": [
+      44,
+      45,
+      76
+    ]
   },
   {
     "name": "Shawn Kemp",
@@ -26283,7 +31368,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Trinity Valley Community College"
     ],
-    "numbers": []
+    "numbers": [
+      4,
+      40
+    ]
   },
   {
     "name": "Shawn Long",
@@ -26293,7 +31381,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Louisiana-Lafayette"
     ],
-    "numbers": []
+    "numbers": [
+      36
+    ]
   },
   {
     "name": "Shawn Marion",
@@ -26307,7 +31397,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Nevada-Las Vegas"
     ],
-    "numbers": []
+    "numbers": [
+      0,
+      7,
+      31
+    ]
   },
   {
     "name": "Shawn Respert",
@@ -26319,7 +31413,13 @@ export const NBA_PLAYERS = [
     "college": [
       "Michigan State"
     ],
-    "numbers": []
+    "numbers": [
+      2,
+      3,
+      21,
+      24,
+      31
+    ]
   },
   {
     "name": "Shawne Williams",
@@ -26334,7 +31434,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Memphis"
     ],
-    "numbers": []
+    "numbers": [
+      3,
+      4,
+      7,
+      43
+    ]
   },
   {
     "name": "Shawnelle Scott",
@@ -26346,7 +31451,10 @@ export const NBA_PLAYERS = [
     "college": [
       "St. John's (NY)"
     ],
-    "numbers": []
+    "numbers": [
+      36,
+      44
+    ]
   },
   {
     "name": "Shayne Whittington",
@@ -26356,7 +31464,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Western Michigan"
     ],
-    "numbers": []
+    "numbers": [
+      42
+    ]
   },
   {
     "name": "Shea Seals",
@@ -26366,7 +31476,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Tulsa"
     ],
-    "numbers": []
+    "numbers": [
+      24
+    ]
   },
   {
     "name": "Shelden Williams",
@@ -26381,7 +31493,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Duke"
     ],
-    "numbers": []
+    "numbers": [
+      13,
+      22,
+      23,
+      33
+    ]
   },
   {
     "name": "Sheldon Mac",
@@ -26391,7 +31508,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Miami (Fla.)"
     ],
-    "numbers": []
+    "numbers": [
+      9
+    ]
   },
   {
     "name": "Shelvin Mack",
@@ -26405,7 +31524,13 @@ export const NBA_PLAYERS = [
     "college": [
       "Butler"
     ],
-    "numbers": []
+    "numbers": [
+      6,
+      7,
+      8,
+      14,
+      22
+    ]
   },
   {
     "name": "Sherman Douglas",
@@ -26417,7 +31542,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Syracuse"
     ],
-    "numbers": []
+    "numbers": [
+      11,
+      20
+    ]
   },
   {
     "name": "Sherron Collins",
@@ -26437,7 +31565,9 @@ export const NBA_PLAYERS = [
     "college": [
       "New Mexico State"
     ],
-    "numbers": []
+    "numbers": [
+      32
+    ]
   },
   {
     "name": "Simone Fontecchio",
@@ -26445,7 +31575,11 @@ export const NBA_PLAYERS = [
       "Utah Jazz"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      0,
+      16,
+      19
+    ]
   },
   {
     "name": "Sindarius Thornwell",
@@ -26458,6 +31592,7 @@ export const NBA_PLAYERS = [
       "South Carolina"
     ],
     "numbers": [
+      0,
       12,
       15
     ]
@@ -26484,7 +31619,9 @@ export const NBA_PLAYERS = [
       "Louisiana State"
     ],
     "numbers": [
-      4
+      4,
+      5,
+      8
     ]
   },
   {
@@ -26515,7 +31652,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Fordham"
     ],
-    "numbers": []
+    "numbers": [
+      1,
+      7,
+      17,
+      21
+    ]
   },
   {
     "name": "Solomon Alabi",
@@ -26525,7 +31667,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Florida State"
     ],
-    "numbers": []
+    "numbers": [
+      50
+    ]
   },
   {
     "name": "Solomon Hill",
@@ -26539,7 +31683,9 @@ export const NBA_PLAYERS = [
       "Arizona"
     ],
     "numbers": [
-      18
+      9,
+      18,
+      44
     ]
   },
   {
@@ -26554,7 +31700,13 @@ export const NBA_PLAYERS = [
     "college": [
       "South Florida"
     ],
-    "numbers": []
+    "numbers": [
+      18,
+      21,
+      22,
+      44,
+      54
+    ]
   },
   {
     "name": "Sonny Weems",
@@ -26566,7 +31718,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Arkansas"
     ],
-    "numbers": []
+    "numbers": [
+      9,
+      10,
+      13,
+      24
+    ]
   },
   {
     "name": "Soumaila Samake",
@@ -26575,7 +31732,10 @@ export const NBA_PLAYERS = [
       "New Jersey Nets"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      0,
+      45
+    ]
   },
   {
     "name": "Speedy Claxton",
@@ -26590,7 +31750,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Hofstra"
     ],
-    "numbers": []
+    "numbers": [
+      5,
+      10,
+      12
+    ]
   },
   {
     "name": "Spencer Dinwiddie",
@@ -26604,6 +31768,7 @@ export const NBA_PLAYERS = [
       "Colorado"
     ],
     "numbers": [
+      8,
       26
     ]
   },
@@ -26620,7 +31785,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Washington"
     ],
-    "numbers": []
+    "numbers": [
+      0,
+      10,
+      31,
+      32
+    ]
   },
   {
     "name": "Spud Webb",
@@ -26630,7 +31800,9 @@ export const NBA_PLAYERS = [
     "college": [
       "North Carolina State"
     ],
-    "numbers": []
+    "numbers": [
+      4
+    ]
   },
   {
     "name": "Stacey Augmon",
@@ -26643,7 +31815,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Nevada-Las Vegas"
     ],
-    "numbers": []
+    "numbers": [
+      2
+    ]
   },
   {
     "name": "Stacey King",
@@ -26653,7 +31827,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Oklahoma"
     ],
-    "numbers": []
+    "numbers": [
+      21,
+      33,
+      41
+    ]
   },
   {
     "name": "Stanley Johnson",
@@ -26668,8 +31846,11 @@ export const NBA_PLAYERS = [
       "Arizona"
     ],
     "numbers": [
+      3,
       5,
-      14
+      7,
+      14,
+      34
     ]
   },
   {
@@ -26683,7 +31864,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Louisiana State"
     ],
-    "numbers": []
+    "numbers": [
+      53
+    ]
   },
   {
     "name": "Stanley Umude",
@@ -26693,7 +31876,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Arkansas"
     ],
-    "numbers": []
+    "numbers": [
+      14,
+      17
+    ]
   },
   {
     "name": "Stanton Kidd",
@@ -26703,7 +31889,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Colorado State"
     ],
-    "numbers": []
+    "numbers": [
+      15
+    ]
   },
   {
     "name": "Stephane Lasme",
@@ -26739,7 +31927,13 @@ export const NBA_PLAYERS = [
     "college": [
       "Oklahoma State"
     ],
-    "numbers": []
+    "numbers": [
+      1,
+      9,
+      23,
+      24,
+      26
+    ]
   },
   {
     "name": "Stephen Howard",
@@ -26750,7 +31944,11 @@ export const NBA_PLAYERS = [
     "college": [
       "DePaul"
     ],
-    "numbers": []
+    "numbers": [
+      34,
+      43,
+      44
+    ]
   },
   {
     "name": "Stephen Jackson",
@@ -26766,7 +31964,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Butler Community College"
     ],
-    "numbers": []
+    "numbers": [
+      1,
+      3,
+      5,
+      24
+    ]
   },
   {
     "name": "Stephen Zimmerman",
@@ -26776,7 +31979,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Nevada-Las Vegas"
     ],
-    "numbers": []
+    "numbers": [
+      33
+    ]
   },
   {
     "name": "Stephon Marbury",
@@ -26790,7 +31995,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Georgia Tech"
     ],
-    "numbers": []
+    "numbers": [
+      3,
+      8,
+      33
+    ]
   },
   {
     "name": "Sterling Brown",
@@ -26804,7 +32013,9 @@ export const NBA_PLAYERS = [
       "Southern Methodist"
     ],
     "numbers": [
-      0
+      0,
+      9,
+      23
     ]
   },
   {
@@ -26821,7 +32032,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Maryland"
     ],
-    "numbers": []
+    "numbers": [
+      2,
+      5,
+      22,
+      25
+    ]
   },
   {
     "name": "Steve Francis",
@@ -26833,7 +32049,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Maryland"
     ],
-    "numbers": []
+    "numbers": [
+      1,
+      3
+    ]
   },
   {
     "name": "Steve Goodrich",
@@ -26844,7 +32063,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Princeton"
     ],
-    "numbers": []
+    "numbers": [
+      30,
+      54
+    ]
   },
   {
     "name": "Steve Hamer",
@@ -26854,7 +32076,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Tennessee"
     ],
-    "numbers": []
+    "numbers": [
+      42
+    ]
   },
   {
     "name": "Steve Henson",
@@ -26864,7 +32088,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Kansas State"
     ],
-    "numbers": []
+    "numbers": [
+      12
+    ]
   },
   {
     "name": "Steve Kerr",
@@ -26876,7 +32102,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Arizona"
     ],
-    "numbers": []
+    "numbers": [
+      4,
+      25
+    ]
   },
   {
     "name": "Steve Nash",
@@ -26888,7 +32117,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Santa Clara"
     ],
-    "numbers": []
+    "numbers": [
+      10,
+      13
+    ]
   },
   {
     "name": "Steve Novak",
@@ -26904,7 +32136,13 @@ export const NBA_PLAYERS = [
     "college": [
       "Marquette"
     ],
-    "numbers": []
+    "numbers": [
+      6,
+      16,
+      20,
+      21,
+      23
+    ]
   },
   {
     "name": "Steve Scheffler",
@@ -26914,7 +32152,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Purdue"
     ],
-    "numbers": []
+    "numbers": [
+      55
+    ]
   },
   {
     "name": "Steven Adams",
@@ -26939,7 +32179,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Arkansas"
     ],
-    "numbers": []
+    "numbers": [
+      51
+    ]
   },
   {
     "name": "Steven Hunter",
@@ -26953,7 +32195,10 @@ export const NBA_PLAYERS = [
     "college": [
       "DePaul"
     ],
-    "numbers": []
+    "numbers": [
+      34,
+      45
+    ]
   },
   {
     "name": "Steven Smith",
@@ -26969,7 +32214,9 @@ export const NBA_PLAYERS = [
       "La Salle",
       "Michigan State"
     ],
-    "numbers": []
+    "numbers": [
+      30
+    ]
   },
   {
     "name": "Stevin Smith",
@@ -26979,7 +32226,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Arizona State"
     ],
-    "numbers": []
+    "numbers": [
+      1
+    ]
   },
   {
     "name": "Stojko Vrankovic",
@@ -27002,7 +32251,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Louisiana State"
     ],
-    "numbers": []
+    "numbers": [
+      4,
+      6
+    ]
   },
   {
     "name": "Sun Sun",
@@ -27021,7 +32273,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Georgia"
     ],
-    "numbers": []
+    "numbers": [
+      0,
+      1,
+      2,
+      15
+    ]
   },
   {
     "name": "Svi Mykhailiuk",
@@ -27035,8 +32292,11 @@ export const NBA_PLAYERS = [
       "Kansas"
     ],
     "numbers": [
+      10,
       14,
-      19
+      17,
+      19,
+      50
     ]
   },
   {
@@ -27050,7 +32310,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Texas"
     ],
-    "numbers": []
+    "numbers": [
+      5,
+      11
+    ]
   },
   {
     "name": "T.J. Leaf",
@@ -27062,7 +32325,8 @@ export const NBA_PLAYERS = [
       "UCLA"
     ],
     "numbers": [
-      18
+      18,
+      22
     ]
   },
   {
@@ -27075,7 +32339,9 @@ export const NBA_PLAYERS = [
       "Arizona"
     ],
     "numbers": [
-      9
+      1,
+      9,
+      12
     ]
   },
   {
@@ -27088,7 +32354,10 @@ export const NBA_PLAYERS = [
       "North Carolina State"
     ],
     "numbers": [
-      1
+      1,
+      12,
+      21,
+      24
     ]
   },
   {
@@ -27133,7 +32402,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Tennessee State"
     ],
-    "numbers": []
+    "numbers": [
+      0
+    ]
   },
   {
     "name": "Taj Gibson",
@@ -27149,6 +32420,7 @@ export const NBA_PLAYERS = [
       "USC"
     ],
     "numbers": [
+      22,
       67
     ]
   },
@@ -27162,7 +32434,9 @@ export const NBA_PLAYERS = [
       "Iowa State"
     ],
     "numbers": [
-      5
+      0,
+      5,
+      22
     ]
   },
   {
@@ -27174,7 +32448,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Marshall"
     ],
-    "numbers": []
+    "numbers": [
+      8
+    ]
   },
   {
     "name": "Tang Hamilton",
@@ -27184,7 +32460,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Mississippi State"
     ],
-    "numbers": []
+    "numbers": [
+      8
+    ]
   },
   {
     "name": "Tarence Kinsey",
@@ -27195,7 +32473,10 @@ export const NBA_PLAYERS = [
     "college": [
       "South Carolina"
     ],
-    "numbers": []
+    "numbers": [
+      7,
+      8
+    ]
   },
   {
     "name": "Tari Eason",
@@ -27205,7 +32486,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Louisiana State"
     ],
-    "numbers": []
+    "numbers": [
+      17
+    ]
   },
   {
     "name": "Tarik Black",
@@ -27216,7 +32499,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Kansas"
     ],
-    "numbers": []
+    "numbers": [
+      10,
+      28
+    ]
   },
   {
     "name": "Tariq Abdul-Wahad",
@@ -27228,7 +32514,9 @@ export const NBA_PLAYERS = [
     "college": [
       "San Jose State"
     ],
-    "numbers": []
+    "numbers": [
+      9
+    ]
   },
   {
     "name": "Tariq Owens",
@@ -27238,7 +32526,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Texas Tech"
     ],
-    "numbers": []
+    "numbers": [
+      41
+    ]
   },
   {
     "name": "Taurean Green",
@@ -27248,7 +32538,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Florida"
     ],
-    "numbers": []
+    "numbers": [
+      0
+    ]
   },
   {
     "name": "Taurean Prince",
@@ -27274,7 +32566,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Oklahoma"
     ],
-    "numbers": []
+    "numbers": [
+      32
+    ]
   },
   {
     "name": "Tayshaun Prince",
@@ -27286,7 +32580,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Kentucky"
     ],
-    "numbers": []
+    "numbers": [
+      12,
+      21,
+      22
+    ]
   },
   {
     "name": "Terance Mann",
@@ -27324,7 +32622,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Maryland"
     ],
-    "numbers": []
+    "numbers": [
+      40,
+      44
+    ]
   },
   {
     "name": "Terrance Ferguson",
@@ -27345,7 +32646,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Fresno State"
     ],
-    "numbers": []
+    "numbers": [
+      8
+    ]
   },
   {
     "name": "Terrel Harris",
@@ -27356,7 +32659,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Oklahoma State"
     ],
-    "numbers": []
+    "numbers": [
+      12,
+      14
+    ]
   },
   {
     "name": "Terrell Brandon",
@@ -27368,7 +32674,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Oregon"
     ],
-    "numbers": []
+    "numbers": [
+      1,
+      7
+    ]
   },
   {
     "name": "Terrence Jones",
@@ -27379,7 +32688,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Kentucky"
     ],
-    "numbers": []
+    "numbers": [
+      6,
+      9
+    ]
   },
   {
     "name": "Terrence Ross",
@@ -27392,6 +32704,7 @@ export const NBA_PLAYERS = [
       "Washington"
     ],
     "numbers": [
+      8,
       31
     ]
   },
@@ -27406,7 +32719,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Louisville"
     ],
-    "numbers": []
+    "numbers": [
+      1,
+      8,
+      55
+    ]
   },
   {
     "name": "Terry Cummings",
@@ -27418,7 +32735,10 @@ export const NBA_PLAYERS = [
     "college": [
       "DePaul"
     ],
-    "numbers": []
+    "numbers": [
+      34,
+      35
+    ]
   },
   {
     "name": "Terry Davis",
@@ -27429,7 +32749,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Virginia Union"
     ],
-    "numbers": []
+    "numbers": [
+      43,
+      52
+    ]
   },
   {
     "name": "Terry Dehere",
@@ -27441,7 +32764,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Seton Hall"
     ],
-    "numbers": []
+    "numbers": [
+      24
+    ]
   },
   {
     "name": "Terry Mills",
@@ -27453,7 +32778,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Michigan"
     ],
-    "numbers": []
+    "numbers": [
+      6
+    ]
   },
   {
     "name": "Terry Porter",
@@ -27465,7 +32792,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Wisconsin-Stevens Point"
     ],
-    "numbers": []
+    "numbers": [
+      30
+    ]
   },
   {
     "name": "Terry Rozier",
@@ -27476,7 +32805,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Louisville"
     ],
-    "numbers": []
+    "numbers": [
+      2,
+      12
+    ]
   },
   {
     "name": "Terry Taylor",
@@ -27488,6 +32820,7 @@ export const NBA_PLAYERS = [
       "Austin Peay"
     ],
     "numbers": [
+      21,
       32
     ]
   },
@@ -27501,7 +32834,12 @@ export const NBA_PLAYERS = [
       "Utah Jazz"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      2,
+      18,
+      22,
+      25
+    ]
   },
   {
     "name": "Thaddeus Young",
@@ -27517,7 +32855,8 @@ export const NBA_PLAYERS = [
     ],
     "numbers": [
       21,
-      30
+      30,
+      33
     ]
   },
   {
@@ -27552,6 +32891,7 @@ export const NBA_PLAYERS = [
     ],
     "numbers": [
       1,
+      10,
       21
     ]
   },
@@ -27569,7 +32909,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Wyoming"
     ],
-    "numbers": []
+    "numbers": [
+      42,
+      50
+    ]
   },
   {
     "name": "Theron Smith",
@@ -27580,7 +32923,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Ball State"
     ],
-    "numbers": []
+    "numbers": [
+      0
+    ]
   },
   {
     "name": "Thomas Bryant",
@@ -27593,7 +32938,9 @@ export const NBA_PLAYERS = [
       "Indiana"
     ],
     "numbers": [
-      13
+      3,
+      13,
+      31
     ]
   },
   {
@@ -27605,7 +32952,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Missouri"
     ],
-    "numbers": []
+    "numbers": [
+      3,
+      31
+    ]
   },
   {
     "name": "Thomas Hamilton",
@@ -27615,7 +32965,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Pittsburgh"
     ],
-    "numbers": []
+    "numbers": [
+      30
+    ]
   },
   {
     "name": "Thomas Robinson",
@@ -27629,7 +32981,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Kansas"
     ],
-    "numbers": []
+    "numbers": [
+      0,
+      15,
+      41
+    ]
   },
   {
     "name": "Thomas Welsh",
@@ -27639,7 +32995,9 @@ export const NBA_PLAYERS = [
     "college": [
       "UCLA"
     ],
-    "numbers": []
+    "numbers": [
+      45
+    ]
   },
   {
     "name": "Thon Maker",
@@ -27650,6 +33008,7 @@ export const NBA_PLAYERS = [
     ],
     "college": [],
     "numbers": [
+      7,
       14
     ]
   },
@@ -27661,7 +33020,9 @@ export const NBA_PLAYERS = [
     "college": [
       "North Carolina State"
     ],
-    "numbers": []
+    "numbers": [
+      41
+    ]
   },
   {
     "name": "Tiago Splitter",
@@ -27671,7 +33032,11 @@ export const NBA_PLAYERS = [
       "San Antonio Spurs"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      11,
+      22,
+      47
+    ]
   },
   {
     "name": "Tibor Pleiss",
@@ -27692,7 +33057,12 @@ export const NBA_PLAYERS = [
     "college": [
       "McNeese State"
     ],
-    "numbers": []
+    "numbers": [
+      3,
+      5,
+      6,
+      10
+    ]
   },
   {
     "name": "Tim Breaux",
@@ -27702,7 +33072,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Wyoming"
     ],
-    "numbers": []
+    "numbers": [
+      15,
+      22
+    ]
   },
   {
     "name": "Tim Duncan",
@@ -27712,7 +33085,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Wake Forest"
     ],
-    "numbers": []
+    "numbers": [
+      21
+    ]
   },
   {
     "name": "Tim Frazier",
@@ -27729,9 +33104,11 @@ export const NBA_PLAYERS = [
       "Penn State"
     ],
     "numbers": [
+      2,
       8,
       10,
-      12
+      12,
+      20
     ]
   },
   {
@@ -27744,7 +33121,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Texas-El Paso"
     ],
-    "numbers": []
+    "numbers": [
+      10,
+      14
+    ]
   },
   {
     "name": "Tim Hardaway Jr.",
@@ -27757,6 +33137,10 @@ export const NBA_PLAYERS = [
       "Michigan"
     ],
     "numbers": [
+      3,
+      5,
+      8,
+      10,
       11
     ]
   },
@@ -27770,7 +33154,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Miami (FL)"
     ],
-    "numbers": []
+    "numbers": [
+      23,
+      25,
+      40
+    ]
   },
   {
     "name": "Tim Kempton",
@@ -27781,7 +33169,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Notre Dame"
     ],
-    "numbers": []
+    "numbers": [
+      7,
+      8,
+      9,
+      40
+    ]
   },
   {
     "name": "Tim Legler",
@@ -27792,7 +33185,9 @@ export const NBA_PLAYERS = [
     "college": [
       "La Salle"
     ],
-    "numbers": []
+    "numbers": [
+      23
+    ]
   },
   {
     "name": "Tim Ohlbrecht",
@@ -27800,7 +33195,9 @@ export const NBA_PLAYERS = [
       "Houston Rockets"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      14
+    ]
   },
   {
     "name": "Tim Quarterman",
@@ -27811,7 +33208,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Louisiana State"
     ],
-    "numbers": []
+    "numbers": [
+      55
+    ]
   },
   {
     "name": "Tim Thomas",
@@ -27827,7 +33226,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Villanova"
     ],
-    "numbers": []
+    "numbers": [
+      1,
+      2,
+      5,
+      7
+    ]
   },
   {
     "name": "Tim Young",
@@ -27837,7 +33241,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Stanford"
     ],
-    "numbers": []
+    "numbers": [
+      55
+    ]
   },
   {
     "name": "Timofey Mozgov",
@@ -27848,7 +33254,10 @@ export const NBA_PLAYERS = [
       "Los Angeles Lakers"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      20,
+      25
+    ]
   },
   {
     "name": "Timothe Luwawu-Cabarrot",
@@ -27869,7 +33278,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Fresno State"
     ],
-    "numbers": []
+    "numbers": [
+      6
+    ]
   },
   {
     "name": "Tobias Harris",
@@ -27884,7 +33295,10 @@ export const NBA_PLAYERS = [
       "Tennessee"
     ],
     "numbers": [
-      12
+      12,
+      15,
+      33,
+      34
     ]
   },
   {
@@ -27895,7 +33309,9 @@ export const NBA_PLAYERS = [
     "college": [
       "UCLA"
     ],
-    "numbers": []
+    "numbers": [
+      12
+    ]
   },
   {
     "name": "Todd Day",
@@ -27908,7 +33324,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Arkansas"
     ],
-    "numbers": []
+    "numbers": [
+      10,
+      11,
+      13
+    ]
   },
   {
     "name": "Todd Fuller",
@@ -27921,7 +33341,10 @@ export const NBA_PLAYERS = [
     "college": [
       "North Carolina State"
     ],
-    "numbers": []
+    "numbers": [
+      35,
+      52
+    ]
   },
   {
     "name": "Todd MacCulloch",
@@ -27932,7 +33355,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Washington"
     ],
-    "numbers": []
+    "numbers": [
+      11,
+      50
+    ]
   },
   {
     "name": "Tom Chambers",
@@ -27943,7 +33369,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Utah"
     ],
-    "numbers": []
+    "numbers": [
+      22,
+      25
+    ]
   },
   {
     "name": "Tom Gugliotta",
@@ -27956,7 +33385,11 @@ export const NBA_PLAYERS = [
     "college": [
       "North Carolina State"
     ],
-    "numbers": []
+    "numbers": [
+      7,
+      24,
+      42
+    ]
   },
   {
     "name": "Tom Hammonds",
@@ -27967,7 +33400,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Georgia Tech"
     ],
-    "numbers": []
+    "numbers": [
+      20,
+      21
+    ]
   },
   {
     "name": "Tomas Satoransky",
@@ -27990,7 +33426,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Florida State"
     ],
-    "numbers": []
+    "numbers": [
+      0,
+      15,
+      16,
+      23
+    ]
   },
   {
     "name": "Toni Kukoc",
@@ -28013,7 +33454,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Oklahoma State"
     ],
-    "numbers": []
+    "numbers": [
+      9,
+      24,
+      42
+    ]
   },
   {
     "name": "Tony Battie",
@@ -28028,7 +33473,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Texas Tech"
     ],
-    "numbers": []
+    "numbers": [
+      4,
+      7,
+      40
+    ]
   },
   {
     "name": "Tony Bobbitt",
@@ -28038,7 +33487,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Cincinnati"
     ],
-    "numbers": []
+    "numbers": [
+      15
+    ]
   },
   {
     "name": "Tony Bradley",
@@ -28070,7 +33521,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Kentucky"
     ],
-    "numbers": []
+    "numbers": [
+      0,
+      7,
+      28
+    ]
   },
   {
     "name": "Tony Dumas",
@@ -28081,7 +33536,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Missouri-Kansas City"
     ],
-    "numbers": []
+    "numbers": [
+      7,
+      27
+    ]
   },
   {
     "name": "Tony Farmer",
@@ -28092,7 +33550,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Nebraska"
     ],
-    "numbers": []
+    "numbers": [
+      8
+    ]
   },
   {
     "name": "Tony Massenburg",
@@ -28108,7 +33568,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Maryland"
     ],
-    "numbers": []
+    "numbers": [
+      9,
+      30,
+      34,
+      44
+    ]
   },
   {
     "name": "Tony Mitchell",
@@ -28120,7 +33585,10 @@ export const NBA_PLAYERS = [
       "Alabama",
       "North Texas"
     ],
-    "numbers": []
+    "numbers": [
+      9,
+      18
+    ]
   },
   {
     "name": "Tony Parker",
@@ -28129,7 +33597,9 @@ export const NBA_PLAYERS = [
       "San Antonio Spurs"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      9
+    ]
   },
   {
     "name": "Tony Smith",
@@ -28141,7 +33611,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Marquette"
     ],
-    "numbers": []
+    "numbers": [
+      9,
+      14,
+      34
+    ]
   },
   {
     "name": "Tony Snell",
@@ -28158,6 +33632,7 @@ export const NBA_PLAYERS = [
     "numbers": [
       17,
       19,
+      20,
       21
     ]
   },
@@ -28171,7 +33646,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Washington"
     ],
-    "numbers": []
+    "numbers": [
+      1,
+      8
+    ]
   },
   {
     "name": "Tornike Shengelia",
@@ -28180,7 +33658,10 @@ export const NBA_PLAYERS = [
       "Chicago Bulls"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      7,
+      20
+    ]
   },
   {
     "name": "Torraye Braggs",
@@ -28191,7 +33672,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Xavier"
     ],
-    "numbers": []
+    "numbers": [
+      21,
+      32
+    ]
   },
   {
     "name": "Torrey Craig",
@@ -28218,7 +33702,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Wichita State"
     ],
-    "numbers": []
+    "numbers": [
+      1,
+      23
+    ]
   },
   {
     "name": "Tracy McGrady",
@@ -28231,7 +33718,10 @@ export const NBA_PLAYERS = [
       "Toronto Raptors"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      1,
+      3
+    ]
   },
   {
     "name": "Tracy Moore",
@@ -28241,7 +33731,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Tulsa"
     ],
-    "numbers": []
+    "numbers": [
+      9,
+      20
+    ]
   },
   {
     "name": "Tracy Murray",
@@ -28254,7 +33747,11 @@ export const NBA_PLAYERS = [
     "college": [
       "UCLA"
     ],
-    "numbers": []
+    "numbers": [
+      3,
+      30,
+      35
+    ]
   },
   {
     "name": "Trae Young",
@@ -28276,7 +33773,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Duke"
     ],
-    "numbers": []
+    "numbers": [
+      21
+    ]
   },
   {
     "name": "Travis Best",
@@ -28290,7 +33789,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Georgia Tech"
     ],
-    "numbers": []
+    "numbers": [
+      1,
+      3,
+      4,
+      6
+    ]
   },
   {
     "name": "Travis Diener",
@@ -28302,7 +33806,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Marquette"
     ],
-    "numbers": []
+    "numbers": [
+      12,
+      27,
+      34
+    ]
   },
   {
     "name": "Travis Hansen",
@@ -28312,7 +33820,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Brigham Young"
     ],
-    "numbers": []
+    "numbers": [
+      6
+    ]
   },
   {
     "name": "Travis Knight",
@@ -28324,7 +33834,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Connecticut"
     ],
-    "numbers": []
+    "numbers": [
+      40,
+      44
+    ]
   },
   {
     "name": "Travis Leslie",
@@ -28334,7 +33847,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Georgia"
     ],
-    "numbers": []
+    "numbers": [
+      23
+    ]
   },
   {
     "name": "Travis Outlaw",
@@ -28345,7 +33860,11 @@ export const NBA_PLAYERS = [
       "Sacramento Kings"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      21,
+      25,
+      34
+    ]
   },
   {
     "name": "Travis Wear",
@@ -28356,7 +33875,10 @@ export const NBA_PLAYERS = [
     "college": [
       "UCLA"
     ],
-    "numbers": []
+    "numbers": [
+      6,
+      21
+    ]
   },
   {
     "name": "Travis Williams",
@@ -28366,7 +33888,9 @@ export const NBA_PLAYERS = [
     "college": [
       "South Carolina State"
     ],
-    "numbers": []
+    "numbers": [
+      32
+    ]
   },
   {
     "name": "Trayvon Palmer",
@@ -28389,6 +33913,7 @@ export const NBA_PLAYERS = [
       "Duke"
     ],
     "numbers": [
+      30,
       33
     ]
   },
@@ -28414,7 +33939,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Fresno State"
     ],
-    "numbers": []
+    "numbers": [
+      3,
+      24,
+      32
+    ]
   },
   {
     "name": "Tremont Waters",
@@ -28439,7 +33968,9 @@ export const NBA_PLAYERS = [
       "Louisiana State"
     ],
     "numbers": [
-      2
+      2,
+      9,
+      12
     ]
   },
   {
@@ -28452,6 +33983,7 @@ export const NBA_PLAYERS = [
       "Florida State"
     ],
     "numbers": [
+      2,
       3
     ]
   },
@@ -28465,7 +33997,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Austin Peay"
     ],
-    "numbers": []
+    "numbers": [
+      22,
+      23,
+      44
+    ]
   },
   {
     "name": "Trevelin Queen",
@@ -28477,6 +34013,8 @@ export const NBA_PLAYERS = [
       "New Mexico State"
     ],
     "numbers": [
+      8,
+      12,
       21
     ]
   },
@@ -28491,7 +34029,11 @@ export const NBA_PLAYERS = [
       "Va Commonwealth",
       "Virginia Commonwealth"
     ],
-    "numbers": []
+    "numbers": [
+      2,
+      12,
+      21
+    ]
   },
   {
     "name": "Trevon Duval",
@@ -28499,7 +34041,9 @@ export const NBA_PLAYERS = [
       "Houston Rockets"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      0
+    ]
   },
   {
     "name": "Trevon Scott",
@@ -28527,7 +34071,11 @@ export const NBA_PLAYERS = [
       "UCLA"
     ],
     "numbers": [
-      1
+      0,
+      1,
+      3,
+      8,
+      21
     ]
   },
   {
@@ -28541,7 +34089,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Clemson"
     ],
-    "numbers": []
+    "numbers": [
+      20,
+      33,
+      35
+    ]
   },
   {
     "name": "Trevor Hudgins",
@@ -28551,7 +34103,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Northwest Missouri State"
     ],
-    "numbers": []
+    "numbers": [
+      12
+    ]
   },
   {
     "name": "Trevor Keels",
@@ -28571,7 +34125,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Minnesota"
     ],
-    "numbers": []
+    "numbers": [
+      50
+    ]
   },
   {
     "name": "Trey Burke",
@@ -28585,7 +34141,10 @@ export const NBA_PLAYERS = [
       "Michigan"
     ],
     "numbers": [
-      3
+      3,
+      23,
+      32,
+      33
     ]
   },
   {
@@ -28596,7 +34155,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Northwestern State"
     ],
-    "numbers": []
+    "numbers": [
+      2
+    ]
   },
   {
     "name": "Trey Johnson",
@@ -28608,7 +34169,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Jackson State"
     ],
-    "numbers": []
+    "numbers": [
+      10,
+      12,
+      24
+    ]
   },
   {
     "name": "Trey Lyles",
@@ -28622,6 +34187,7 @@ export const NBA_PLAYERS = [
       "Kentucky"
     ],
     "numbers": [
+      7,
       8,
       41
     ]
@@ -28634,7 +34200,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Miami (FL)"
     ],
-    "numbers": []
+    "numbers": [
+      10
+    ]
   },
   {
     "name": "Trey Murphy III",
@@ -28656,7 +34224,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Georgia"
     ],
-    "numbers": []
+    "numbers": [
+      33
+    ]
   },
   {
     "name": "Tristan Thompson",
@@ -28671,6 +34241,7 @@ export const NBA_PLAYERS = [
     ],
     "numbers": [
       3,
+      9,
       11,
       13
     ]
@@ -28683,7 +34254,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Boston College"
     ],
-    "numbers": []
+    "numbers": [
+      3
+    ]
   },
   {
     "name": "Troy Brown Jr.",
@@ -28697,7 +34270,8 @@ export const NBA_PLAYERS = [
     ],
     "numbers": [
       6,
-      7
+      7,
+      23
     ]
   },
   {
@@ -28708,7 +34282,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Cincinnati"
     ],
-    "numbers": []
+    "numbers": [
+      3
+    ]
   },
   {
     "name": "Troy Daniels",
@@ -28723,7 +34299,9 @@ export const NBA_PLAYERS = [
       "Va Commonwealth",
       "Virginia Commonwealth"
     ],
-    "numbers": []
+    "numbers": [
+      30
+    ]
   },
   {
     "name": "Troy Hudson",
@@ -28737,7 +34315,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Southern Illinois"
     ],
-    "numbers": []
+    "numbers": [
+      6,
+      11,
+      16,
+      25
+    ]
   },
   {
     "name": "Troy Murphy",
@@ -28751,7 +34334,14 @@ export const NBA_PLAYERS = [
     "college": [
       "Notre Dame"
     ],
-    "numbers": []
+    "numbers": [
+      1,
+      3,
+      6,
+      7,
+      14,
+      30
+    ]
   },
   {
     "name": "Troy Williams",
@@ -28763,7 +34353,13 @@ export const NBA_PLAYERS = [
     "college": [
       "Indiana"
     ],
-    "numbers": []
+    "numbers": [
+      0,
+      5,
+      10,
+      14,
+      19
+    ]
   },
   {
     "name": "Ty Jerome",
@@ -28776,6 +34372,8 @@ export const NBA_PLAYERS = [
       "Virginia"
     ],
     "numbers": [
+      2,
+      10,
       16
     ]
   },
@@ -28789,7 +34387,11 @@ export const NBA_PLAYERS = [
     "college": [
       "North Carolina"
     ],
-    "numbers": []
+    "numbers": [
+      3,
+      4,
+      10
+    ]
   },
   {
     "name": "Ty-Shon Alexander",
@@ -28811,7 +34413,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Kentucky"
     ],
-    "numbers": []
+    "numbers": [
+      0,
+      14,
+      23
+    ]
   },
   {
     "name": "Tyler Bey",
@@ -28834,7 +34440,9 @@ export const NBA_PLAYERS = [
     "college": [
       "George Washington"
     ],
-    "numbers": []
+    "numbers": [
+      34
+    ]
   },
   {
     "name": "Tyler Cook",
@@ -28848,6 +34456,7 @@ export const NBA_PLAYERS = [
     ],
     "numbers": [
       2,
+      21,
       25
     ]
   },
@@ -28857,7 +34466,9 @@ export const NBA_PLAYERS = [
       "Oklahoma City Thunder"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      34
+    ]
   },
   {
     "name": "Tyler Dorsey",
@@ -28869,7 +34480,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Oregon"
     ],
-    "numbers": []
+    "numbers": [
+      2,
+      5,
+      22
+    ]
   },
   {
     "name": "Tyler Ennis",
@@ -28880,7 +34495,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Syracuse"
     ],
-    "numbers": []
+    "numbers": [
+      4,
+      6,
+      10,
+      11
+    ]
   },
   {
     "name": "Tyler Hall",
@@ -28904,7 +34524,9 @@ export const NBA_PLAYERS = [
     "college": [
       "North Carolina"
     ],
-    "numbers": []
+    "numbers": [
+      50
+    ]
   },
   {
     "name": "Tyler Herro",
@@ -28926,7 +34548,10 @@ export const NBA_PLAYERS = [
     "college": [
       "UCLA"
     ],
-    "numbers": []
+    "numbers": [
+      3,
+      9
+    ]
   },
   {
     "name": "Tyler Johnson",
@@ -28942,6 +34567,7 @@ export const NBA_PLAYERS = [
     "numbers": [
       8,
       10,
+      16,
       28
     ]
   },
@@ -28953,7 +34579,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Syracuse"
     ],
-    "numbers": []
+    "numbers": [
+      20
+    ]
   },
   {
     "name": "Tyler Ulis",
@@ -28964,7 +34592,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Kentucky"
     ],
-    "numbers": []
+    "numbers": [
+      0,
+      8
+    ]
   },
   {
     "name": "Tyler Zeller",
@@ -28978,7 +34609,11 @@ export const NBA_PLAYERS = [
     "college": [
       "North Carolina"
     ],
-    "numbers": []
+    "numbers": [
+      40,
+      44,
+      45
+    ]
   },
   {
     "name": "Tyreke Evans",
@@ -28991,7 +34626,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Memphis"
     ],
-    "numbers": []
+    "numbers": [
+      1,
+      12,
+      13,
+      32
+    ]
   },
   {
     "name": "Tyrell Terry",
@@ -29028,7 +34668,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Connecticut"
     ],
-    "numbers": []
+    "numbers": [
+      13,
+      22
+    ]
   },
   {
     "name": "Tyrese Maxey",
@@ -29052,7 +34695,10 @@ export const NBA_PLAYERS = [
     "college": [
       "DePaul"
     ],
-    "numbers": []
+    "numbers": [
+      23,
+      33
+    ]
   },
   {
     "name": "Tyrone Hill",
@@ -29065,7 +34711,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Xavier"
     ],
-    "numbers": []
+    "numbers": [
+      32,
+      40,
+      42
+    ]
   },
   {
     "name": "Tyrone Nesby",
@@ -29076,7 +34726,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Nevada-Las Vegas"
     ],
-    "numbers": []
+    "numbers": [
+      8
+    ]
   },
   {
     "name": "Tyrone Wallace",
@@ -29089,7 +34741,10 @@ export const NBA_PLAYERS = [
       "California"
     ],
     "numbers": [
-      6
+      6,
+      8,
+      9,
+      12
     ]
   },
   {
@@ -29104,7 +34759,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Nebraska"
     ],
-    "numbers": []
+    "numbers": [
+      10
+    ]
   },
   {
     "name": "Tyrus Thomas",
@@ -29116,7 +34773,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Louisiana State"
     ],
-    "numbers": []
+    "numbers": [
+      13,
+      24
+    ]
   },
   {
     "name": "Tyshawn Taylor",
@@ -29126,7 +34786,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Kansas"
     ],
-    "numbers": []
+    "numbers": [
+      10,
+      41
+    ]
   },
   {
     "name": "Tyson Chandler",
@@ -29142,7 +34805,13 @@ export const NBA_PLAYERS = [
       "Phoenix Suns"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      3,
+      4,
+      5,
+      6,
+      19
+    ]
   },
   {
     "name": "Tyson Wheeler",
@@ -29152,7 +34821,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Rhode Island"
     ],
-    "numbers": []
+    "numbers": [
+      5
+    ]
   },
   {
     "name": "Tyus Edney",
@@ -29164,7 +34835,11 @@ export const NBA_PLAYERS = [
     "college": [
       "UCLA"
     ],
-    "numbers": []
+    "numbers": [
+      2,
+      5,
+      20
+    ]
   },
   {
     "name": "Tyus Jones",
@@ -29176,6 +34851,8 @@ export const NBA_PLAYERS = [
       "Duke"
     ],
     "numbers": [
+      1,
+      5,
       21
     ]
   },
@@ -29188,7 +34865,8 @@ export const NBA_PLAYERS = [
       "Kansas"
     ],
     "numbers": [
-      20
+      20,
+      27
     ]
   },
   {
@@ -29218,6 +34896,7 @@ export const NBA_PLAYERS = [
     ],
     "college": [],
     "numbers": [
+      12,
       16
     ]
   },
@@ -29230,7 +34909,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Marquette"
     ],
-    "numbers": []
+    "numbers": [
+      12,
+      13,
+      17
+    ]
   },
   {
     "name": "Vassilis Spanoulis",
@@ -29238,7 +34921,9 @@ export const NBA_PLAYERS = [
       "Houston Rockets"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      10
+    ]
   },
   {
     "name": "Vernon Carey Jr.",
@@ -29251,6 +34936,7 @@ export const NBA_PLAYERS = [
       "Duke"
     ],
     "numbers": [
+      13,
       22
     ]
   },
@@ -29262,7 +34948,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Florida"
     ],
-    "numbers": []
+    "numbers": [
+      20
+    ]
   },
   {
     "name": "Vernon Maxwell",
@@ -29276,7 +34964,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Florida"
     ],
-    "numbers": []
+    "numbers": [
+      2,
+      3,
+      11
+    ]
   },
   {
     "name": "Viacheslav Kravtsov",
@@ -29285,7 +34977,9 @@ export const NBA_PLAYERS = [
       "Phoenix Suns"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      55
+    ]
   },
   {
     "name": "Vic Law",
@@ -29295,7 +34989,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Northwestern"
     ],
-    "numbers": []
+    "numbers": [
+      23
+    ]
   },
   {
     "name": "Victor Alexander",
@@ -29305,7 +35001,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Iowa State"
     ],
-    "numbers": []
+    "numbers": [
+      9
+    ]
   },
   {
     "name": "Victor Claver",
@@ -29313,7 +35011,9 @@ export const NBA_PLAYERS = [
       "Portland Trail Blazers"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      18
+    ]
   },
   {
     "name": "Victor Oladipo",
@@ -29328,6 +35028,7 @@ export const NBA_PLAYERS = [
     ],
     "numbers": [
       4,
+      5,
       7
     ]
   },
@@ -29338,7 +35039,9 @@ export const NBA_PLAYERS = [
       "Portland Trail Blazers"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      38
+    ]
   },
   {
     "name": "Vin Baker",
@@ -29353,7 +35056,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Hartford"
     ],
-    "numbers": []
+    "numbers": [
+      34,
+      42
+    ]
   },
   {
     "name": "Vince Carter",
@@ -29370,7 +35076,10 @@ export const NBA_PLAYERS = [
     "college": [
       "North Carolina"
     ],
-    "numbers": []
+    "numbers": [
+      15,
+      25
+    ]
   },
   {
     "name": "Vince Williams Jr.",
@@ -29380,7 +35089,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Virginia Commonwealth"
     ],
-    "numbers": []
+    "numbers": [
+      5
+    ]
   },
   {
     "name": "Vincent Askew",
@@ -29391,7 +35102,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Memphis"
     ],
-    "numbers": []
+    "numbers": [
+      2,
+      17
+    ]
   },
   {
     "name": "Vincent Edwards",
@@ -29421,7 +35135,8 @@ export const NBA_PLAYERS = [
     ],
     "college": [],
     "numbers": [
-      17
+      17,
+      77
     ]
   },
   {
@@ -29432,7 +35147,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Tennessee"
     ],
-    "numbers": []
+    "numbers": [
+      3
+    ]
   },
   {
     "name": "Vinny Del Negro",
@@ -29444,7 +35161,10 @@ export const NBA_PLAYERS = [
     "college": [
       "North Carolina State"
     ],
-    "numbers": []
+    "numbers": [
+      8,
+      15
+    ]
   },
   {
     "name": "Vit Krejci",
@@ -29466,7 +35186,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Wright State"
     ],
-    "numbers": []
+    "numbers": [
+      9,
+      20,
+      52
+    ]
   },
   {
     "name": "Vitor Faverani",
@@ -29484,7 +35208,10 @@ export const NBA_PLAYERS = [
       "Sacramento Kings"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      12,
+      21
+    ]
   },
   {
     "name": "Vladimir Radmanovic",
@@ -29509,7 +35236,11 @@ export const NBA_PLAYERS = [
       "Seattle SuperSonics"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      5,
+      11,
+      50
+    ]
   },
   {
     "name": "Vlatko Cancar",
@@ -29532,7 +35263,14 @@ export const NBA_PLAYERS = [
     "college": [
       "Florida State"
     ],
-    "numbers": []
+    "numbers": [
+      1,
+      12,
+      13,
+      22,
+      23,
+      24
+    ]
   },
   {
     "name": "Vonteego Cummings",
@@ -29543,7 +35281,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Pittsburgh"
     ],
-    "numbers": []
+    "numbers": [
+      5
+    ]
   },
   {
     "name": "Voshon Lenard",
@@ -29556,7 +35296,14 @@ export const NBA_PLAYERS = [
     "college": [
       "Minnesota"
     ],
-    "numbers": []
+    "numbers": [
+      0,
+      1,
+      2,
+      5,
+      21,
+      22
+    ]
   },
   {
     "name": "Wade Baldwin IV",
@@ -29577,7 +35324,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Auburn"
     ],
-    "numbers": []
+    "numbers": [
+      24
+    ]
   },
   {
     "name": "Walker Russell",
@@ -29587,7 +35336,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Jacksonville State"
     ],
-    "numbers": []
+    "numbers": [
+      23
+    ]
   },
   {
     "name": "Wally Szczerbiak",
@@ -29599,7 +35350,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Miami (OH)"
     ],
-    "numbers": []
+    "numbers": [
+      3,
+      10,
+      55
+    ]
   },
   {
     "name": "Walt Lemon Jr.",
@@ -29608,7 +35363,9 @@ export const NBA_PLAYERS = [
       "New Orleans Pelicans"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      25
+    ]
   },
   {
     "name": "Walt Williams",
@@ -29621,7 +35378,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Maryland"
     ],
-    "numbers": []
+    "numbers": [
+      42,
+      43
+    ]
   },
   {
     "name": "Walter Herrmann",
@@ -29630,7 +35390,9 @@ export const NBA_PLAYERS = [
       "Detroit Pistons"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      5
+    ]
   },
   {
     "name": "Walter McCarty",
@@ -29643,7 +35405,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Kentucky"
     ],
-    "numbers": []
+    "numbers": [
+      0,
+      40
+    ]
   },
   {
     "name": "Walter Sharpe",
@@ -29653,7 +35418,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Alabama-Birmingham"
     ],
-    "numbers": []
+    "numbers": [
+      42
+    ]
   },
   {
     "name": "Wang Zhi-zhi",
@@ -29673,7 +35440,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Oklahoma"
     ],
-    "numbers": []
+    "numbers": [
+      23
+    ]
   },
   {
     "name": "Wayne Ellington",
@@ -29692,7 +35461,12 @@ export const NBA_PLAYERS = [
     ],
     "numbers": [
       2,
-      8
+      3,
+      8,
+      19,
+      20,
+      21,
+      22
     ]
   },
   {
@@ -29706,7 +35480,10 @@ export const NBA_PLAYERS = [
       "Kansas"
     ],
     "numbers": [
-      11
+      7,
+      11,
+      14,
+      25
     ]
   },
   {
@@ -29717,7 +35494,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Kansas"
     ],
-    "numbers": []
+    "numbers": [
+      25
+    ]
   },
   {
     "name": "Wayne Turner",
@@ -29727,7 +35506,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Kentucky"
     ],
-    "numbers": []
+    "numbers": [
+      5
+    ]
   },
   {
     "name": "Wendell Carter Jr.",
@@ -29750,7 +35531,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Duke"
     ],
-    "numbers": []
+    "numbers": [
+      7,
+      14
+    ]
   },
   {
     "name": "Wenyen Gabriel",
@@ -29796,7 +35580,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Syracuse"
     ],
-    "numbers": []
+    "numbers": [
+      2,
+      4,
+      11,
+      33
+    ]
   },
   {
     "name": "Wesley Matthews",
@@ -29812,8 +35601,10 @@ export const NBA_PLAYERS = [
       "Marquette"
     ],
     "numbers": [
+      2,
       9,
-      23
+      23,
+      32
     ]
   },
   {
@@ -29828,7 +35619,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Auburn"
     ],
-    "numbers": []
+    "numbers": [
+      1,
+      7,
+      10,
+      11
+    ]
   },
   {
     "name": "Will Barton",
@@ -29841,6 +35637,7 @@ export const NBA_PLAYERS = [
       "Memphis"
     ],
     "numbers": [
+      1,
       5
     ]
   },
@@ -29852,7 +35649,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Iowa State"
     ],
-    "numbers": []
+    "numbers": [
+      8
+    ]
   },
   {
     "name": "Will Bynum",
@@ -29864,7 +35663,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Georgia Tech"
     ],
-    "numbers": []
+    "numbers": [
+      1,
+      3,
+      12
+    ]
   },
   {
     "name": "Will Cherry",
@@ -29874,7 +35677,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Montana"
     ],
-    "numbers": []
+    "numbers": [
+      5
+    ]
   },
   {
     "name": "Will Conroy",
@@ -29886,7 +35691,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Washington"
     ],
-    "numbers": []
+    "numbers": [
+      5,
+      10
+    ]
   },
   {
     "name": "Will Magnay",
@@ -29908,7 +35716,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Vanderbilt"
     ],
-    "numbers": []
+    "numbers": [
+      32,
+      41,
+      55
+    ]
   },
   {
     "name": "Will Solomon",
@@ -29919,7 +35731,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Clemson"
     ],
-    "numbers": []
+    "numbers": [
+      1,
+      5,
+      17
+    ]
   },
   {
     "name": "William Avery",
@@ -29929,7 +35745,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Duke"
     ],
-    "numbers": []
+    "numbers": [
+      5
+    ]
   },
   {
     "name": "William Cunningham",
@@ -29940,7 +35758,12 @@ export const NBA_PLAYERS = [
     "college": [
       "Temple"
     ],
-    "numbers": []
+    "numbers": [
+      45,
+      50,
+      51,
+      54
+    ]
   },
   {
     "name": "William Howard",
@@ -29948,7 +35771,9 @@ export const NBA_PLAYERS = [
       "Houston Rockets"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      52
+    ]
   },
   {
     "name": "Willie Anderson",
@@ -29958,7 +35783,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Georgia"
     ],
-    "numbers": []
+    "numbers": [
+      35,
+      40
+    ]
   },
   {
     "name": "Willie Burton",
@@ -29970,7 +35798,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Minnesota"
     ],
-    "numbers": []
+    "numbers": [
+      9,
+      34
+    ]
   },
   {
     "name": "Willie Cauley-Stein",
@@ -29984,6 +35815,7 @@ export const NBA_PLAYERS = [
     ],
     "numbers": [
       0,
+      2,
       33
     ]
   },
@@ -29999,7 +35831,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Detroit Mercy"
     ],
-    "numbers": []
+    "numbers": [
+      33,
+      34
+    ]
   },
   {
     "name": "Willie Reed",
@@ -30012,7 +35847,10 @@ export const NBA_PLAYERS = [
       "Saint Louis",
       "St. Louis"
     ],
-    "numbers": []
+    "numbers": [
+      33,
+      35
+    ]
   },
   {
     "name": "Willie Warren",
@@ -30022,7 +35860,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Oklahoma"
     ],
-    "numbers": []
+    "numbers": [
+      13
+    ]
   },
   {
     "name": "Willy Hernangomez",
@@ -30045,7 +35885,10 @@ export const NBA_PLAYERS = [
     "college": [
       "DePaul"
     ],
-    "numbers": []
+    "numbers": [
+      21,
+      22
+    ]
   },
   {
     "name": "Xavier Cooks",
@@ -30055,7 +35898,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Winthrop"
     ],
-    "numbers": []
+    "numbers": [
+      12
+    ]
   },
   {
     "name": "Xavier Henry",
@@ -30067,7 +35912,11 @@ export const NBA_PLAYERS = [
     "college": [
       "Kansas"
     ],
-    "numbers": []
+    "numbers": [
+      4,
+      7,
+      13
+    ]
   },
   {
     "name": "Xavier McDaniel",
@@ -30077,7 +35926,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Wichita State"
     ],
-    "numbers": []
+    "numbers": [
+      34
+    ]
   },
   {
     "name": "Xavier Moon",
@@ -30088,7 +35939,8 @@ export const NBA_PLAYERS = [
       "Morehead State"
     ],
     "numbers": [
-      15
+      15,
+      22
     ]
   },
   {
@@ -30100,7 +35952,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Rhode Island"
     ],
-    "numbers": []
+    "numbers": [
+      0,
+      14
+    ]
   },
   {
     "name": "Xavier Rathan-Mayes",
@@ -30110,7 +35965,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Florida State"
     ],
-    "numbers": []
+    "numbers": [
+      22
+    ]
   },
   {
     "name": "Xavier Silas",
@@ -30121,7 +35978,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Northern Illinois"
     ],
-    "numbers": []
+    "numbers": [
+      9,
+      25
+    ]
   },
   {
     "name": "Xavier Sneed",
@@ -30156,7 +36016,8 @@ export const NBA_PLAYERS = [
       "Michigan State"
     ],
     "numbers": [
-      2
+      2,
+      26
     ]
   },
   {
@@ -30168,7 +36029,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Pepperdine"
     ],
-    "numbers": []
+    "numbers": [
+      5,
+      9
+    ]
   },
   {
     "name": "Yante Maten",
@@ -30176,7 +36040,9 @@ export const NBA_PLAYERS = [
       "Miami Heat"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      0
+    ]
   },
   {
     "name": "Yao Ming",
@@ -30184,7 +36050,9 @@ export const NBA_PLAYERS = [
       "Houston Rockets"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      11
+    ]
   },
   {
     "name": "Yaroslav Korolev",
@@ -30192,7 +36060,9 @@ export const NBA_PLAYERS = [
       "Los Angeles Clippers"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      8
+    ]
   },
   {
     "name": "Yi Jianlian",
@@ -30203,7 +36073,10 @@ export const NBA_PLAYERS = [
       "Washington Wizards"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      9,
+      31
+    ]
   },
   {
     "name": "Yinka Dare",
@@ -30213,7 +36086,9 @@ export const NBA_PLAYERS = [
     "college": [
       "George Washington"
     ],
-    "numbers": []
+    "numbers": [
+      33
+    ]
   },
   {
     "name": "Yogi Ferrell",
@@ -30226,7 +36101,9 @@ export const NBA_PLAYERS = [
       "Indiana"
     ],
     "numbers": [
+      3,
       5,
+      10,
       11
     ]
   },
@@ -30238,7 +36115,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Brigham Young-Hawaii"
     ],
-    "numbers": []
+    "numbers": [
+      1
+    ]
   },
   {
     "name": "Yuta Watanabe",
@@ -30251,6 +36130,7 @@ export const NBA_PLAYERS = [
       "George Washington"
     ],
     "numbers": [
+      12,
       18
     ]
   },
@@ -30274,7 +36154,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Virginia Tech"
     ],
-    "numbers": []
+    "numbers": [
+      22
+    ]
   },
   {
     "name": "Zach Collins",
@@ -30286,7 +36168,9 @@ export const NBA_PLAYERS = [
       "Gonzaga"
     ],
     "numbers": [
-      23
+      12,
+      23,
+      33
     ]
   },
   {
@@ -30310,7 +36194,9 @@ export const NBA_PLAYERS = [
     "college": [
       "New Mexico State"
     ],
-    "numbers": []
+    "numbers": [
+      18
+    ]
   },
   {
     "name": "Zach Norvell Jr.",
@@ -30334,7 +36220,9 @@ export const NBA_PLAYERS = [
     "college": [
       "Michigan State"
     ],
-    "numbers": []
+    "numbers": [
+      50
+    ]
   },
   {
     "name": "Zan Tabak",
@@ -30364,6 +36252,7 @@ export const NBA_PLAYERS = [
       "Michigan"
     ],
     "numbers": [
+      2,
       9
     ]
   },
@@ -30378,7 +36267,9 @@ export const NBA_PLAYERS = [
       "Orlando Magic"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      27
+    ]
   },
   {
     "name": "Zeke Nnaji",
@@ -30414,7 +36305,12 @@ export const NBA_PLAYERS = [
     "college": [
       "St. John's (NY)"
     ],
-    "numbers": []
+    "numbers": [
+      25,
+      31,
+      42,
+      54
+    ]
   },
   {
     "name": "Zhaire Smith",
@@ -30424,7 +36320,10 @@ export const NBA_PLAYERS = [
     "college": [
       "Texas Tech"
     ],
-    "numbers": []
+    "numbers": [
+      5,
+      8
+    ]
   },
   {
     "name": "Zhou Qi",
@@ -30432,7 +36331,9 @@ export const NBA_PLAYERS = [
       "Houston Rockets"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      9
+    ]
   },
   {
     "name": "Ziaire Williams",
@@ -30443,6 +36344,7 @@ export const NBA_PLAYERS = [
       "Stanford"
     ],
     "numbers": [
+      1,
       8
     ]
   },
@@ -30481,7 +36383,9 @@ export const NBA_PLAYERS = [
       "Miami Heat"
     ],
     "college": [],
-    "numbers": []
+    "numbers": [
+      11
+    ]
   },
   {
     "name": "Zylan Cheatham",
@@ -30494,7 +36398,8 @@ export const NBA_PLAYERS = [
       "Arizona State"
     ],
     "numbers": [
-      6
+      6,
+      45
     ]
   }
 ];
