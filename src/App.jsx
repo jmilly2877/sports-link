@@ -1,6 +1,7 @@
 import { useState, useRef, useEffect } from "react";
 import { supabase } from './lib/supabase'
 import { validateStartTeam, validateChainLink, getStats, getRarityScore, getDailyTeam } from "./data/lookup.js";
+import { getDailyLinkChallenge } from "./data/pathSolver.js";
 
 const TYPE_LABELS = { team: "TEAM", player: "PLAYER", college: "COLLEGE", number: "NUMBER" };
 const TYPE_COLORS = { team: "#ff4444", player: "#44aaff", college: "#ffaa00", number: "#44dd66" };
@@ -291,6 +292,7 @@ function Game({ onBack, isDaily }) {
 }
 
 export default function App() {
+  console.log("DAILY LINK CHALLENGE:", getDailyLinkChallenge());
   const [mode, setMode] = useState(null);
   if (mode === "free") return <Game onBack={() => setMode(null)} isDaily={false} />;
   if (mode === "daily") return <Game onBack={() => setMode(null)} isDaily={true} />;
