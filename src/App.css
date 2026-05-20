@@ -143,3 +143,69 @@ body {
   .stats-bar { gap: 14px; padding: 12px 20px; }
   .final-score { font-size: 52px; }
 }
+.daily-challenge-box {
+  margin: 18px 0;
+  padding: 16px;
+  border: 1px solid rgba(255,255,255,0.12);
+  border-radius: 16px;
+  background: rgba(255,255,255,0.03);
+  text-align: center;
+}
+
+.daily-challenge-label {
+  font-size: 12px;
+  letter-spacing: 2px;
+  opacity: 0.7;
+  margin-bottom: 10px;
+}
+
+.daily-challenge-route {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 10px;
+  flex-wrap: wrap;
+}
+
+.daily-node.start {
+  color: #ff6b6b;
+}
+
+.daily-node.goal {
+  color: #4dabf7;
+}
+
+.daily-arrow {
+  opacity: 0.6;
+}
+
+.daily-par {
+  font-size: 14px;
+  opacity: 0.7;
+}
+.rarity-options {
+  display: flex;
+  gap: 10px;
+  margin-top: 14px;
+  flex-wrap: wrap;
+}
+
+.rarity-options button {
+  background: rgba(255,255,255,0.06);
+  border: 1px solid rgba(255,255,255,0.15);
+  color: white;
+  padding: 10px 14px;
+  border-radius: 10px;
+  font-weight: 800;
+  letter-spacing: 1px;
+  cursor: pointer;
+  transition: all 0.15s ease;
+}
+
+.rarity-options button:hover {
+  background: rgba(255,255,255,0.12);
+  transform: translateY(-1px);
+}

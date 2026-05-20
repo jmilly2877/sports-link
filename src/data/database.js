@@ -641,6 +641,36 @@ export const TEAMS = [
 //  COLLEGE ALIASES (for fuzzy matching)
 // ============================================================
 export const COLLEGE_ALIASES = {
+  "alabama": "University of Alabama",
+"bama": "University of Alabama",
+"roll tide": "University of Alabama",
+
+"oklahoma": "University of Oklahoma",
+"ou": "University of Oklahoma",
+
+"florida state": "Florida State University",
+"fsu": "Florida State University",
+
+"usc": "University of Southern California",
+"southern cal": "University of Southern California",
+
+"lsu": "Louisiana State University",
+"louisiana state": "Louisiana State University",
+
+"ole miss": "University of Mississippi",
+"mississippi": "University of Mississippi",
+
+"texas": "University of Texas at Austin",
+"ut": "University of Texas at Austin",
+
+"miami": "University of Miami",
+"the u": "University of Miami",
+
+"cal": "University of California, Berkeley",
+"california": "University of California, Berkeley",
+
+"unc": "University of North Carolina",
+"north carolina": "University of North Carolina",
   "usc": "USC",
   "university of southern california": "USC",
   "southern cal": "USC",

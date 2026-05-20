@@ -7,10 +7,33 @@ function normalizeNumber(value) {
   return String(value).replace("#", "").replace(".0", "").trim();
 }
 
+function normCollegeName(value) {
+  const key = norm(value);
+
+  if (COLLEGE_ALIASES[key]) {
+    return norm(COLLEGE_ALIASES[key]);
+  }
+
+  return key
+    .replace(/^the university of /, "")
+    .replace(/^university of /, "")
+    .replace(/^college of /, "")
+    .replace(/\./g, "")
+    .trim();
+}
+
 function getColleges(player) {
   if (!player.college) return [];
-  if (Array.isArray(player.college)) return player.college;
-  return [player.college];
+
+  const raw = Array.isArray(player.college)
+    ? player.college
+    : [player.college];
+
+  return raw
+    .flatMap((c) => String(c).split(";"))
+    .flatMap((c) => String(c).split(" and "))
+    .map((c) => c.trim())
+    .filter(Boolean);
 }
 
 function getNumbers(player) {
@@ -200,7 +223,7 @@ export function validateChainLink(currentItem, currentType, answer) {
     const playerColleges = getColleges(currentPlayer);
 
     for (const c of playerColleges) {
-      if (norm(c) === norm(input)) {
+      if (normCollegeName(c) === normCollegeName(input)) {
         return { valid: true, type: "college", corrected_name: c };
       }
     }
@@ -209,7 +232,7 @@ export function validateChainLink(currentItem, currentType, answer) {
 
     if (resolvedCollege) {
       const matchesPlayer = playerColleges.some(
-        (c) => norm(c) === norm(resolvedCollege)
+        (c) => normCollegeName(c) === normCollegeName(resolvedCollege)
       );
 
       if (matchesPlayer) {
@@ -274,7 +297,7 @@ export function validateChainLink(currentItem, currentType, answer) {
     const collegeName = findCollege(currentItem) || currentItem;
 
     const attended = getColleges(player).some(
-      (c) => norm(c) === norm(collegeName)
+      (c) => normCollegeName(c) === normCollegeName(collegeName)
     );
 
     if (attended) {
