@@ -32,6 +32,7 @@ TEAM_IDS = {
     145: "Chicago White Sox",
     146: "Miami Marlins",
     147: "New York Yankees",
+    149: "Montreal Expos",
     158: "Milwaukee Brewers",
 }
 

@@ -2,7 +2,7 @@ import pandas as pd
 import json
 
 MLB_FILE = "src/data/mlb_players.js"
-NUMBERS_FILE = "src/data/raw/mlb_numbers_api.csv"
+NUMBERS_FILE = "src/data/raw/mlb_numbers_history.csv"
 
 with open(MLB_FILE, "r") as f:
     text = f.read()
@@ -50,7 +50,10 @@ for _, row in df.iterrows():
         updated_numbers += 1
 
     player["teams"] = sorted(list(teams))
-    player["numbers"] = sorted(list(numbers), key=lambda x: int(x) if x.isdigit() else 999)
+    player["numbers"] = sorted(
+        list(numbers),
+        key=lambda x: int(x) if str(x).isdigit() else 999
+    )
 
 final_players = sorted(players_by_name.values(), key=lambda x: x["name"])
 
@@ -64,6 +67,5 @@ print("Updated team links:", updated_teams)
 print("Updated number links:", updated_numbers)
 print("Total MLB players:", len(final_players))
 
-for name in ["Burch Smith", "Shohei Ohtani", "Aaron Judge", "Mike Trout"]:
-    p = players_by_name.get(name)
-    print(name, p)
+for name in ["Mookie Betts", "Shohei Ohtani", "Aaron Judge", "Evan Longoria"]:
+    print(name, players_by_name.get(name))
