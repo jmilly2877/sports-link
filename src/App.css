@@ -232,7 +232,7 @@ body {
   background: rgba(255,255,255,0.08);
 }
 .logo-area {
-  margin-bottom: 10px;
+  margin-bottom: 0px;
 }
 
 .title {
@@ -255,10 +255,151 @@ body {
 }
 
 .stats-bar {
-  margin-top: 18px;
+  margin-top: 12px;
 }
 
 .landing {
   padding-top: 20px;
   padding-bottom: 20px;
+}
+/* ===== HOMEPAGE COMPRESSION ===== */
+
+body {
+  overflow-x: hidden;
+}
+
+.container {
+  min-height: 100vh;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+
+.landing {
+  width: 100%;
+  max-width: 760px;
+  padding: 18px 20px 24px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.logo-area {
+  margin-bottom: 8px;
+}
+
+.logo-icon {
+  font-size: 30px;
+  margin-bottom: 4px;
+}
+
+.title {
+  font-size: 42px;
+  line-height: 0.9;
+  margin: 0;
+  letter-spacing: -2px;
+}
+
+.tagline {
+  margin-top: 10px;
+  margin-bottom: 18px;
+  font-size: 15px;
+  line-height: 1.35;
+  opacity: 0.82;
+}
+
+.mode-buttons {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.mode-btn {
+  padding: 16px;
+  border-radius: 18px;
+}
+
+.mode-btn-top {
+  margin-bottom: 6px;
+}
+
+.mode-btn-title {
+  font-size: 18px;
+}
+
+.mode-btn-desc {
+  font-size: 14px;
+  line-height: 1.35;
+}
+
+.mode-btn-date {
+  margin-top: 8px;
+  font-size: 13px;
+}
+
+.stats-bar {
+  margin-top: 18px;
+  padding: 12px;
+}
+
+.stat-num {
+  font-size: 20px;
+}
+
+.stat-label {
+  font-size: 11px;
+}
+
+.league-tags {
+  margin-top: 8px;
+}
+
+.league-tag {
+  padding: 5px 10px;
+  font-size: 11px;
+}
+
+/* ===== SLIGHTLY SOFTER BACKGROUND ===== */
+
+body {
+  background:
+    linear-gradient(
+      180deg,
+      #111827 0%,
+      #0b1020 100%
+    );
+}
+/* Force homepage back to centered layout */
+.container {
+  width: 100%;
+  max-width: none;
+  margin: 0 auto;
+  align-items: center;
+  justify-content: center;
+}
+
+.landing {
+  margin: 0 auto;
+  align-items: stretch;
+}
+
+.mode-buttons,
+.stats-bar,
+.league-tags,
+.tagline,
+.logo-area {
+  width: 100%;
+}
+.stats-bar {
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: fit-content;
+  min-width: 420px;
+}
+
+.league-tags {
+  display: flex;
+  justify-content: center;
+  gap: 12px;
 }

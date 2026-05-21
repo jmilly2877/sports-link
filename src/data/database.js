@@ -907,6 +907,9 @@ export const COLLEGE_ALIASES = {
 "uconn": "University of Connecticut",
 "connecticut": "University of Connecticut",
 
+"villanova university": "Villanova",
+"villanova": "Villanova",
+
 "penn state": "Pennsylvania State University",
 "psu": "Pennsylvania State University", 
 "alabama a&m": "Alabama A&M",

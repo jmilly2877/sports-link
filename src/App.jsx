@@ -79,6 +79,7 @@ function Landing({ onFreePlay, onDaily, onRarity }) {
     day: "numeric",
     year: "numeric",
   });
+  const daily = getDailyLinkChallenge();
 
   return (
     <div className="landing">
@@ -105,10 +106,12 @@ function Landing({ onFreePlay, onDaily, onRarity }) {
           </div>
 
           <div className="mode-btn-desc">
-            Get from today’s start to today’s target in the fewest links.
-          </div>
+  {daily.startName} → {daily.goalName}
+</div>
 
-          <div className="mode-btn-date">{today}</div>
+<div className="mode-btn-date">
+  Par {daily.par} · {today}
+</div>
         </button>
 
         <div className="mode-btn rarity-btn" onClick={() => onRarity(10)}>
@@ -118,7 +121,7 @@ function Landing({ onFreePlay, onDaily, onRarity }) {
           </div>
 
           <div className="mode-btn-desc">
-            Build the rarest chain possible. Lower score = rarer links.
+            Build the rarest chain possible. Higher score = rarer links.
             Starting team is free. Click to play 10 links, or choose a length.
           </div>
 
@@ -554,7 +557,7 @@ setSuggestions(matches);
             <span className="daily-node goal">{rarityLength} Links</span>
           </div>
           <div className="daily-par">
-            Lower score = rarer chain. Starting team is free.
+            Higher score = rarer chain. Starting team is free.
           </div>
         </div>
       )}

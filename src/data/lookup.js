@@ -18,6 +18,8 @@ function normCollegeName(value) {
     .replace(/^the university of /, "")
     .replace(/^university of /, "")
     .replace(/^college of /, "")
+    .replace(/ university$/, "")
+    .replace(/ college$/, "")
     .replace(/\./g, "")
     .trim();
 }
@@ -440,24 +442,26 @@ export function getRarityScore(fromItem, fromType, toName, toType) {
 export function getSuggestionOptions(type) {
   if (type === "player") {
     return [...new Set(
-  PLAYERS
-    .map((p) => p.name?.trim())
-    .filter(Boolean)
-)].sort();
+      PLAYERS
+        .map((p) => p.name?.trim())
+        .filter(Boolean)
+    )].sort();
   }
 
   if (type === "college") {
     const colleges = new Set();
 
     PLAYERS.forEach((p) => {
-      getColleges(p).forEach((c) => colleges.add(c));
+      getColleges(p).forEach((c) => {
+        const normalized = normCollegeName(c);
+
+        if (normalized) {
+          colleges.add(normalized);
+        }
+      });
     });
 
-    return [...new Set(
-  Array.from(colleges)
-    .map((c) => c.trim())
-    .filter(Boolean)
-)].sort();
+    return Array.from(colleges).sort();
   }
 
   return [];
