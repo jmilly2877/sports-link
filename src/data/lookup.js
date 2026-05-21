@@ -437,3 +437,28 @@ export function getRarityScore(fromItem, fromType, toName, toType) {
 
   return Math.max(1, Math.min(100, points));
 }
+export function getSuggestionOptions(type) {
+  if (type === "player") {
+    return [...new Set(
+  PLAYERS
+    .map((p) => p.name?.trim())
+    .filter(Boolean)
+)].sort();
+  }
+
+  if (type === "college") {
+    const colleges = new Set();
+
+    PLAYERS.forEach((p) => {
+      getColleges(p).forEach((c) => colleges.add(c));
+    });
+
+    return [...new Set(
+  Array.from(colleges)
+    .map((c) => c.trim())
+    .filter(Boolean)
+)].sort();
+  }
+
+  return [];
+}

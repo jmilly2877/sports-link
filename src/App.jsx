@@ -5,6 +5,7 @@ import {
   validateChainLink,
   getStats,
   getRarityScore,
+  getSuggestionOptions,
 } from "./data/lookup.js";
 import { getDailyLinkChallenge } from "./data/pathSolver.js";
 
@@ -35,14 +36,27 @@ function History({ history, showPoints }) {
     <div ref={ref} className="history-box">
       {history.map((item, i) => (
         <div key={i} className="history-item">
-          <div className="history-link" style={{ borderLeft: `3px solid ${TYPE_COLORS[item.type]}` }}>
-            <span className="history-badge" style={{ background: TYPE_COLORS[item.type] }}>
+          <div
+            className="history-link"
+            style={{ borderLeft: `3px solid ${TYPE_COLORS[item.type]}` }}
+          >
+            <span
+              className="history-badge"
+              style={{ background: TYPE_COLORS[item.type] }}
+            >
               {TYPE_LABELS[item.type]}
             </span>
-            <span className="history-name" style={{ color: TYPE_COLORS[item.type] }}>
+
+            <span
+              className="history-name"
+              style={{ color: TYPE_COLORS[item.type] }}
+            >
               {item.name}
             </span>
-            {showPoints && item.points > 0 && <span className="history-pts">+{item.points}</span>}
+
+            {showPoints && item.points > 0 && (
+              <span className="history-pts">{item.points}</span>
+            )}
           </div>
 
           {i < history.length - 1 && (
@@ -89,9 +103,11 @@ function Landing({ onFreePlay, onDaily, onRarity }) {
             <span className="mode-btn-icon">🎯</span>
             <span className="mode-btn-title">DAILY LINK</span>
           </div>
+
           <div className="mode-btn-desc">
             Get from today’s start to today’s target in the fewest links.
           </div>
+
           <div className="mode-btn-date">{today}</div>
         </button>
 
@@ -100,15 +116,40 @@ function Landing({ onFreePlay, onDaily, onRarity }) {
             <span className="mode-btn-icon">💎</span>
             <span className="mode-btn-title">RARITY RUN</span>
           </div>
-         <div className="mode-btn-desc">
-  Build the rarest chain possible. Lower score = rarer links. Starting team is free.
-  Click to play 10 links, or choose a length.
-</div>
+
+          <div className="mode-btn-desc">
+            Build the rarest chain possible. Lower score = rarer links.
+            Starting team is free. Click to play 10 links, or choose a length.
+          </div>
+
           <div className="rarity-options">
-  <button onClick={(e) => { e.stopPropagation(); onRarity(5); }}>5 LINKS</button>
-  <button onClick={(e) => { e.stopPropagation(); onRarity(10); }}>10 LINKS</button>
-  <button onClick={(e) => { e.stopPropagation(); onRarity(20); }}>20 LINKS</button>
-</div>
+            <button
+              onClick={(e) => {
+                e.stopPropagation();
+                onRarity(5);
+              }}
+            >
+              5 LINKS
+            </button>
+
+            <button
+              onClick={(e) => {
+                e.stopPropagation();
+                onRarity(10);
+              }}
+            >
+              10 LINKS
+            </button>
+
+            <button
+              onClick={(e) => {
+                e.stopPropagation();
+                onRarity(20);
+              }}
+            >
+              20 LINKS
+            </button>
+          </div>
         </div>
 
         <button className="mode-btn free-btn" onClick={onFreePlay}>
@@ -116,6 +157,7 @@ function Landing({ onFreePlay, onDaily, onRarity }) {
             <span className="mode-btn-icon">♾️</span>
             <span className="mode-btn-title">FREE PLAY</span>
           </div>
+
           <div className="mode-btn-desc">
             Pick any team. No limits. Go until you're stuck.
           </div>
@@ -127,12 +169,16 @@ function Landing({ onFreePlay, onDaily, onRarity }) {
           <span className="stat-num">{stats.players}</span>
           <span className="stat-label">PLAYERS</span>
         </div>
+
         <div className="stat-divider" />
+
         <div className="stat">
           <span className="stat-num">{stats.teams}</span>
           <span className="stat-label">TEAMS</span>
         </div>
+
         <div className="stat-divider" />
+
         <div className="stat">
           <span className="stat-num">{stats.colleges}</span>
           <span className="stat-label">COLLEGES</span>
@@ -175,6 +221,7 @@ function Game({ onBack, modeType = "free", rarityLength = 10 }) {
   const [flash, setFlash] = useState(false);
   const [totalScore, setTotalScore] = useState(0);
   const [shared, setShared] = useState(false);
+  const [suggestions, setSuggestions] = useState([]);
 
   const inputRef = useRef(null);
 
@@ -196,6 +243,52 @@ function Game({ onBack, modeType = "free", rarityLength = 10 }) {
     history[history.length - 1].type === goalType &&
     history[history.length - 1].name === goalName;
 
+  const updateSuggestions = (value) => {
+    const query = value.trim().toLowerCase();
+
+    if (!query || query.length < 2) {
+      setSuggestions([]);
+      return;
+    }
+
+    let type = null;
+
+    if (
+      currentType === "team" ||
+      currentType === "college" ||
+      currentType === "number"
+    ) {
+      type = "player";
+    }
+
+    if (currentType === "player") {
+      type = "college";
+    }
+
+    if (!type) {
+      setSuggestions([]);
+      return;
+    }
+
+    const options = getSuggestionOptions(type);
+
+   const startsWithMatches = options.filter((option) =>
+  option.toLowerCase().startsWith(query)
+);
+
+const includesMatches = options.filter((option) =>
+  !option.toLowerCase().startsWith(query) &&
+  option.toLowerCase().includes(query)
+);
+
+const matches = [
+  ...startsWithMatches,
+  ...includesMatches,
+].slice(0, 8);
+
+setSuggestions(matches);
+  };
+
   const startGame = () => {
     if (!input.trim()) return;
 
@@ -211,18 +304,21 @@ function Game({ onBack, modeType = "free", rarityLength = 10 }) {
       setHistory([{ name, type: "team", points: 0 }]);
       setPhase("playing");
       setInput("");
+      setSuggestions([]);
       triggerFlash();
     } else {
       setError(result.explanation);
     }
   };
 
-  const submitAnswer = () => {
-    if (!input.trim() || atLimit) return;
+  const submitAnswerValue = (rawValue) => {
+    const answerValue = String(rawValue || "").trim();
+
+    if (!answerValue || atLimit) return;
 
     setError("");
 
-    const result = validateChainLink(currentItem, currentType, input.trim());
+    const result = validateChainLink(currentItem, currentType, answerValue);
 
     if (result.valid) {
       const name = result.corrected_name;
@@ -238,6 +334,7 @@ function Game({ onBack, modeType = "free", rarityLength = 10 }) {
       setCurrentItem(name);
       setCurrentType(type);
       setInput("");
+      setSuggestions([]);
       setTotalScore((s) => s + points);
       triggerFlash();
 
@@ -254,15 +351,22 @@ function Game({ onBack, modeType = "free", rarityLength = 10 }) {
         setTimeout(() => setGameOver(true), 600);
       }
     } else {
+      setSuggestions([]);
       setWrongAnswer({
-        answer: input.trim(),
+        answer: answerValue,
         explanation: result.explanation,
       });
       setGameOver(true);
     }
   };
 
-  const giveUp = () => setGameOver(true);
+  const submitAnswer = () => {
+    submitAnswerValue(input);
+  };
+
+  const giveUp = () => {
+    setGameOver(true);
+  };
 
   const reset = () => {
     if (isDaily) {
@@ -283,6 +387,7 @@ function Game({ onBack, modeType = "free", rarityLength = 10 }) {
     setWrongAnswer(null);
     setTotalScore(0);
     setShared(false);
+    setSuggestions([]);
   };
 
   const shareResult = async () => {
@@ -337,8 +442,13 @@ function Game({ onBack, modeType = "free", rarityLength = 10 }) {
     return (
       <div className="container">
         <div className="game-over-box">
-          <div className="game-over-icon">{wrongAnswer ? "❌" : completed ? "🏆" : "🏁"}</div>
-          <div className="game-over-title">{wrongAnswer ? "GAME OVER" : "COMPLETE!"}</div>
+          <div className="game-over-icon">
+            {wrongAnswer ? "❌" : completed ? "🏆" : "🏁"}
+          </div>
+
+          <div className="game-over-title">
+            {wrongAnswer ? "GAME OVER" : "COMPLETE!"}
+          </div>
 
           {isDaily && (
             <div className="daily-challenge-box">
@@ -361,7 +471,9 @@ function Game({ onBack, modeType = "free", rarityLength = 10 }) {
 
           <div className="final-score-row">
             <span className="final-score">{linksUsed}</span>
-            <span className="final-score-label">LINK{linksUsed !== 1 ? "S" : ""}</span>
+            <span className="final-score-label">
+              LINK{linksUsed !== 1 ? "S" : ""}
+            </span>
 
             {showPoints && (
               <>
@@ -381,8 +493,13 @@ function Game({ onBack, modeType = "free", rarityLength = 10 }) {
           </div>
 
           <div className="btn-row">
-            <button className="btn-primary" onClick={reset}>PLAY AGAIN</button>
-            <button className="btn-secondary" onClick={onBack}>MENU</button>
+            <button className="btn-primary" onClick={reset}>
+              PLAY AGAIN
+            </button>
+
+            <button className="btn-secondary" onClick={onBack}>
+              MENU
+            </button>
           </div>
         </div>
       </div>
@@ -392,7 +509,9 @@ function Game({ onBack, modeType = "free", rarityLength = 10 }) {
   return (
     <div className="container">
       <div className="header">
-        <button className="back-btn" onClick={onBack}>← MENU</button>
+        <button className="back-btn" onClick={onBack}>
+          ← MENU
+        </button>
 
         <div className="score-area">
           {(isDaily || isRarity) && (
@@ -408,6 +527,7 @@ function Game({ onBack, modeType = "free", rarityLength = 10 }) {
             <span className="score-pill-label">
               {showPoints ? "SCORE" : "CHAIN"}
             </span>
+
             <span className="score-pill-num">
               {showPoints ? totalScore : history.length}
             </span>
@@ -434,8 +554,8 @@ function Game({ onBack, modeType = "free", rarityLength = 10 }) {
             <span className="daily-node goal">{rarityLength} Links</span>
           </div>
           <div className="daily-par">
-  Lower score = rarer chain. Starting team is free.
-</div>
+            Lower score = rarer chain. Starting team is free.
+          </div>
         </div>
       )}
 
@@ -458,7 +578,11 @@ function Game({ onBack, modeType = "free", rarityLength = 10 }) {
               onKeyDown={(e) => e.key === "Enter" && startGame()}
             />
 
-            <button className="btn-submit" style={{ background: "#ff4444" }} onClick={startGame}>
+            <button
+              className="btn-submit"
+              style={{ background: "#ff4444" }}
+              onClick={startGame}
+            >
               GO
             </button>
           </div>
@@ -474,9 +598,13 @@ function Game({ onBack, modeType = "free", rarityLength = 10 }) {
             style={{ borderColor: activeColor, background: activeBg }}
           >
             <div className="current-top-row">
-              <span className="type-badge" style={{ background: activeColor }}>
+              <span
+                className="type-badge"
+                style={{ background: activeColor }}
+              >
                 {TYPE_LABELS[currentType]}
               </span>
+
               <span className="current-label">CURRENT</span>
             </div>
 
@@ -487,7 +615,9 @@ function Game({ onBack, modeType = "free", rarityLength = 10 }) {
             <div className="hint">{TYPE_HINTS[currentType]}</div>
           </div>
 
-          {history.length > 0 && <History history={history} showPoints={showPoints} />}
+          {history.length > 0 && (
+            <History history={history} showPoints={showPoints} />
+          )}
 
           {!atLimit && (
             <>
@@ -505,14 +635,33 @@ function Game({ onBack, modeType = "free", rarityLength = 10 }) {
                   onChange={(e) => {
                     setInput(e.target.value);
                     setError("");
+                    updateSuggestions(e.target.value);
                   }}
                   onKeyDown={(e) => e.key === "Enter" && submitAnswer()}
                 />
 
-                <button className="btn-submit" style={{ background: activeColor }} onClick={submitAnswer}>
+                <button
+                  className="btn-submit"
+                  style={{ background: activeColor }}
+                  onClick={submitAnswer}
+                >
                   →
                 </button>
               </div>
+
+              {suggestions.length > 0 && (
+                <div className="suggestions-box">
+                  {suggestions.map((s) => (
+                    <button
+                      key={s}
+                      className="suggestion-item"
+                      onClick={() => submitAnswerValue(s)}
+                    >
+                      {s}
+                    </button>
+                  ))}
+                </div>
+              )}
 
               {error && <div className="error">{error}</div>}
 
