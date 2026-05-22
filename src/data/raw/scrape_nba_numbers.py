@@ -6,7 +6,7 @@ ssl._create_default_https_context = ssl._create_unverified_context
 YEARS = list(range(1996, 2027))  # your dataset goes 1996-97 through 2021-22
 
 TEAMS = [
-    "ATL","BOS","BRK","CHH","CHI","CLE","DAL","DEN","DET","GSW",
+    "ATL","BOS","BRK","CHA","CHH","CHO","CHI","CLE","DAL","DEN","DET","GSW",
     "HOU","IND","LAC","LAL","MEM","MIA","MIL","MIN","NJN","NOH",
     "NOP","NYK","OKC","ORL","PHI","PHO","POR","SAC","SAS","SEA",
     "TOR","UTA","VAN","WAS"
