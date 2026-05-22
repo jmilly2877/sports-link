@@ -36,10 +36,10 @@ TEAM_IDS = {
     158: "Milwaukee Brewers",
 }
 
-# Start smaller first. If this works, we can go back further.
-YEARS = range(1900, 1965)
+YEARS = range(1970, 2027)
 
 rows = []
+seen = set()
 
 for year in YEARS:
     print(f"\n=== YEAR {year} ===")
@@ -51,34 +51,66 @@ for year in YEARS:
             data = requests.get(url, timeout=20).json()
             roster = data.get("roster", [])
 
+            print(f"{team_name} {year}: {len(roster)} players")
+
             for p in roster:
-                player = p.get("person", {}).get("fullName", "").strip()
-                number = str(p.get("jerseyNumber", "")).replace(".0", "").strip()
+                person = p.get("person", {})
+                player_id = person.get("id")
+                player_name = person.get("fullName", "").strip()
 
-                if player and number and number != "nan":
-                    rows.append({
-                        "season": year,
-                        "team": team_name,
-                        "player_name": player,
-                        "number": number,
-                    })
+                if not player_id or not player_name:
+                    continue
 
-            print(f"OK {team_name} {year}: {len(roster)} players")
+                if player_id in seen:
+                    continue
+
+                seen.add(player_id)
+
+                player_url = f"https://statsapi.mlb.com/api/v1/people/{player_id}"
+
+                try:
+                    pdata = requests.get(player_url, timeout=20).json()
+
+                    people = pdata.get("people", [])
+
+                    if not people:
+                        continue
+
+                    person_data = people[0]
+
+                    college = (
+                        person_data.get("college")
+                        or person_data.get("education", "")
+                        or ""
+                    )
+
+                    if college:
+                        rows.append({
+                            "player_name": player_name,
+                            "college": str(college).strip()
+                        })
+
+                    print(player_name, "->", college)
+
+                    time.sleep(0.15)
+
+                except Exception as e:
+                    print("PLAYER ERROR", player_name, e)
+                    time.sleep(0.15)
+
             time.sleep(0.4)
 
         except Exception as e:
-            print(f"SKIP {team_name} {year}: {e}")
+            print("TEAM ERROR", team_name, year, e)
             time.sleep(0.4)
 
 df = pd.DataFrame(rows)
 df = df.drop_duplicates()
 
-df.to_csv("src/data/raw/mlb_numbers_history.csv", index=False)
+df.to_csv("src/data/raw/mlb_colleges.csv", index=False)
 
-print("\nCreated src/data/raw/mlb_numbers_history.csv")
+print("\nDONE")
 print("Rows:", len(df))
 print("Unique players:", df["player_name"].nunique())
-print("Unique numbers:", df["number"].nunique())
 
-print("\nSample:")
 print(df.head())
