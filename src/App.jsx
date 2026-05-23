@@ -1,4 +1,5 @@
 import { useState, useRef, useEffect } from "react";
+import { Analytics } from "@vercel/analytics/react";
 import { supabase } from "./lib/supabase";
 import {
   validateStartTeam,
@@ -770,6 +771,7 @@ setSuggestions(matches);
         setMode("rarity");
       }}
     />
+    <Analytics />
   </div>
 );
 }
