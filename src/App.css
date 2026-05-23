@@ -403,3 +403,92 @@ body {
   justify-content: center;
   gap: 12px;
 }
+.tutorial-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(3, 7, 18, 0.78);
+  backdrop-filter: blur(8px);
+  z-index: 9999;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 24px;
+}
+
+.tutorial-card {
+  position: relative;
+  width: min(560px, 100%);
+  background: linear-gradient(180deg, #151b2a, #0d1220);
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  border-radius: 24px;
+  padding: 32px;
+  color: white;
+  box-shadow: 0 30px 80px rgba(0, 0, 0, 0.45);
+}
+
+.tutorial-close {
+  position: absolute;
+  top: 16px;
+  right: 18px;
+  border: 0;
+  background: transparent;
+  color: rgba(255, 255, 255, 0.65);
+  font-size: 30px;
+  cursor: pointer;
+}
+
+.tutorial-kicker {
+  font-size: 12px;
+  letter-spacing: 0.18em;
+  font-weight: 800;
+  color: #ff7a18;
+  margin-bottom: 10px;
+}
+
+.tutorial-card h2 {
+  margin: 0 0 10px;
+  font-size: 34px;
+  letter-spacing: 0.02em;
+}
+
+.tutorial-card p {
+  color: rgba(255, 255, 255, 0.72);
+  line-height: 1.5;
+}
+
+.tutorial-example {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  align-items: center;
+  margin: 22px 0;
+}
+
+.tutorial-example span {
+  background: rgba(255, 255, 255, 0.08);
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  padding: 8px 10px;
+  border-radius: 999px;
+  font-size: 13px;
+  font-weight: 700;
+}
+
+.tutorial-rules {
+  margin: 18px 0 24px;
+}
+
+.tutorial-rules p {
+  margin: 8px 0;
+}
+
+.tutorial-btn {
+  width: 100%;
+  border: 0;
+  border-radius: 16px;
+  padding: 14px 18px;
+  background: linear-gradient(90deg, #ff3b30, #ff8a00);
+  color: white;
+  font-weight: 900;
+  letter-spacing: 0.08em;
+  cursor: pointer;
+}

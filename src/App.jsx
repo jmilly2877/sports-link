@@ -681,9 +681,18 @@ setSuggestions(matches);
   );
 }
 
-export default function App() {
+
+  export default function App() {
   const [mode, setMode] = useState(null);
   const [rarityLength, setRarityLength] = useState(10);
+  const [showTutorial, setShowTutorial] = useState(() => {
+    return localStorage.getItem("sportsLinkTutorialSeen") !== "true";
+  });
+
+  function closeTutorial() {
+    localStorage.setItem("sportsLinkTutorialSeen", "true");
+    setShowTutorial(false);
+  }
 
   useEffect(() => {
     async function testSupabase() {
@@ -717,15 +726,50 @@ export default function App() {
   }
 
   return (
-    <div className="container">
-      <Landing
-        onFreePlay={() => setMode("free")}
-        onDaily={() => setMode("daily")}
-        onRarity={(len) => {
-          setRarityLength(len);
-          setMode("rarity");
-        }}
-      />
-    </div>
-  );
+  <div className="container">
+    {showTutorial && (
+      <div className="tutorial-overlay">
+        <div className="tutorial-card">
+          <button className="tutorial-close" onClick={closeTutorial}>
+            ×
+          </button>
+
+          <div className="tutorial-kicker">HOW TO PLAY</div>
+          <h2>Build a sports chain</h2>
+
+          <p>Connect teams, players, colleges, and jersey numbers.</p>
+
+          <div className="tutorial-example">
+            <span>Chicago Bulls</span>
+            <span>→</span>
+            <span>Michael Jordan (NBA)</span>
+            <span>→</span>
+            <span>UNC</span>
+            <span>→</span>
+            <span>Vince Carter</span>
+          </div>
+
+          <div className="tutorial-rules">
+            <p><strong>Teams</strong> connect to players who played for them.</p>
+            <p><strong>Players</strong> connect to their teams, colleges, or numbers.</p>
+            <p><strong>Colleges and numbers</strong> connect back to players.</p>
+          </div>
+
+          <button className="tutorial-btn" onClick={closeTutorial}>
+            Start Playing
+          </button>
+        </div>
+      </div>
+    )}
+
+    <Landing
+      onFreePlay={() => setMode("free")}
+      onDaily={() => setMode("daily")}
+      onRarity={(len) => {
+        setRarityLength(len);
+        setMode("rarity");
+      }}
+    />
+  </div>
+);
 }
