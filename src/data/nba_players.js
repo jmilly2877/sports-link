@@ -1715,8 +1715,8 @@ export const NBA_PLAYERS = [
       "Suns"
     ],
     "college": [
-      "California-Santa Barbara",
-      "UC Santa Barbara"
+      "Cal State Santa Barbara",
+      "California-Santa Barbara"
     ],
     "numbers": [
       15
@@ -41999,7 +41999,7 @@ export const NBA_PLAYERS = [
       "Mavericks"
     ],
     "college": [
-      "UC Santa Barbara"
+      "Cal State Santa Barbara"
     ],
     "numbers": [
       30
@@ -44581,8 +44581,8 @@ export const NBA_PLAYERS = [
       "Timberwolves"
     ],
     "college": [
-      "California-Santa Barbara",
-      "UC Santa Barbara"
+      "Cal State Santa Barbara",
+      "California-Santa Barbara"
     ],
     "numbers": [
       2,
@@ -69171,7 +69171,7 @@ export const NBA_PLAYERS = [
       "Chicago Bulls"
     ],
     "college": [
-      "UC Santa Barbara"
+      "Cal State Santa Barbara"
     ],
     "numbers": [],
     "league": "NBA",
@@ -71917,8 +71917,7 @@ export const NBA_PLAYERS = [
     "college": [
       "Cal State Santa Barbara",
       "City College of San Francisco",
-      "Oregon",
-      "UC Santa Barbara"
+      "Oregon"
     ],
     "numbers": [
       0,
@@ -76139,8 +76138,8 @@ export const NBA_PLAYERS = [
       "Suns"
     ],
     "college": [
-      "California-Santa Barbara",
-      "UC Santa Barbara"
+      "Cal State Santa Barbara",
+      "California-Santa Barbara"
     ],
     "numbers": [
       0,
