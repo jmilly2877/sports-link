@@ -908,6 +908,11 @@ export const COLLEGE_ALIASES = {
 "connecticut": "University of Connecticut",
 
 "california state university long beach": "Long Beach State",
+"cal state long beach": "Long Beach State",
+"csu long beach": "Long Beach State",
+"long beach state": "Long Beach State",
+
+"california state university long beach": "Long Beach State",
 "long beach state": "Long Beach State",
 "csu long beach": "Long Beach State",
 

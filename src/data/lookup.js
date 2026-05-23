@@ -8,13 +8,13 @@ function normalizeNumber(value) {
 }
 
 function normCollegeName(value) {
-  const key = norm(value);
+  const originalKey = norm(value);
 
-  if (COLLEGE_ALIASES[key]) {
-    return norm(COLLEGE_ALIASES[key]);
+  if (COLLEGE_ALIASES[originalKey]) {
+    return norm(COLLEGE_ALIASES[originalKey]);
   }
 
-  return key
+  const simplifiedKey = originalKey
     .replace(/^the university of /, "")
     .replace(/^university of /, "")
     .replace(/^college of /, "")
@@ -22,6 +22,21 @@ function normCollegeName(value) {
     .replace(/ college$/, "")
     .replace(/\./g, "")
     .trim();
+
+  if (COLLEGE_ALIASES[simplifiedKey]) {
+    return norm(COLLEGE_ALIASES[simplifiedKey]);
+  }
+
+  return simplifiedKey;
+}
+    function displayCollegeName(value) {
+  const rawKey = norm(value);
+  const normalizedKey = normCollegeName(value);
+
+  if (COLLEGE_ALIASES[rawKey]) return COLLEGE_ALIASES[rawKey];
+  if (COLLEGE_ALIASES[normalizedKey]) return COLLEGE_ALIASES[normalizedKey];
+
+  return String(value).trim();
 }
 
 function getColleges(player) {
@@ -51,12 +66,134 @@ TEAMS.forEach((t) => {
   });
 });
 
+export const TEAM_ALIASES = {
+  // NBA
+  "76ers": "Philadelphia 76ers",
+  "sixers": "Philadelphia 76ers",
+  "bucks": "Milwaukee Bucks",
+  "bulls": "Chicago Bulls",
+  "cavaliers": "Cleveland Cavaliers",
+  "cavs": "Cleveland Cavaliers",
+  "celtics": "Boston Celtics",
+  "clippers": "Los Angeles Clippers",
+  "grizzlies": "Memphis Grizzlies",
+  "hawks": "Atlanta Hawks",
+  "heat": "Miami Heat",
+  "hornets": "Charlotte Hornets",
+  "jazz": "Utah Jazz",
+  "kings": "Sacramento Kings",
+  "knicks": "New York Knicks",
+  "lakers": "Los Angeles Lakers",
+  "magic": "Orlando Magic",
+  "mavericks": "Dallas Mavericks",
+  "mavs": "Dallas Mavericks",
+  "nets": "Brooklyn Nets",
+  "nuggets": "Denver Nuggets",
+  "pacers": "Indiana Pacers",
+  "pelicans": "New Orleans Pelicans",
+  "pistons": "Detroit Pistons",
+  "raptors": "Toronto Raptors",
+  "rockets": "Houston Rockets",
+  "spurs": "San Antonio Spurs",
+  "suns": "Phoenix Suns",
+  "thunder": "Oklahoma City Thunder",
+  "timberwolves": "Minnesota Timberwolves",
+  "wolves": "Minnesota Timberwolves",
+  "trail blazers": "Portland Trail Blazers",
+  "blazers": "Portland Trail Blazers",
+  "warriors": "Golden State Warriors",
+
+  // NFL
+  "49ers": "San Francisco 49ers",
+  "niners": "San Francisco 49ers",
+  "bears": "Chicago Bears",
+  "bengals": "Cincinnati Bengals",
+  "bills": "Buffalo Bills",
+  "broncos": "Denver Broncos",
+  "browns": "Cleveland Browns",
+  "buccaneers": "Tampa Bay Buccaneers",
+  "bucs": "Tampa Bay Buccaneers",
+  "cardinals": "Arizona Cardinals",
+  "chargers": "Los Angeles Chargers",
+  "chiefs": "Kansas City Chiefs",
+  "colts": "Indianapolis Colts",
+  "commanders": "Washington Commanders",
+  "cowboys": "Dallas Cowboys",
+  "dolphins": "Miami Dolphins",
+  "eagles": "Philadelphia Eagles",
+  "falcons": "Atlanta Falcons",
+  "giants": "New York Giants",
+  "jaguars": "Jacksonville Jaguars",
+  "jags": "Jacksonville Jaguars",
+  "jets": "New York Jets",
+  "lions": "Detroit Lions",
+  "packers": "Green Bay Packers",
+  "panthers": "Carolina Panthers",
+  "patriots": "New England Patriots",
+  "pats": "New England Patriots",
+  "raiders": "Las Vegas Raiders",
+  "rams": "Los Angeles Rams",
+  "ravens": "Baltimore Ravens",
+  "saints": "New Orleans Saints",
+  "seahawks": "Seattle Seahawks",
+  "steelers": "Pittsburgh Steelers",
+  "texans": "Houston Texans",
+  "titans": "Tennessee Titans",
+  "vikings": "Minnesota Vikings",
+
+  // MLB
+  "angels": "Los Angeles Angels",
+  "astros": "Houston Astros",
+  "athletics": "Oakland Athletics",
+  "a's": "Oakland Athletics",
+  "blue jays": "Toronto Blue Jays",
+  "braves": "Atlanta Braves",
+  "brewers": "Milwaukee Brewers",
+  "cardinals": "St. Louis Cardinals",
+  "cubs": "Chicago Cubs",
+  "diamondbacks": "Arizona Diamondbacks",
+  "dbacks": "Arizona Diamondbacks",
+  "dodgers": "Los Angeles Dodgers",
+  "giants": "San Francisco Giants",
+  "guardians": "Cleveland Guardians",
+  "indians": "Cleveland Guardians",
+  "mariners": "Seattle Mariners",
+  "marlins": "Miami Marlins",
+  "mets": "New York Mets",
+  "nationals": "Washington Nationals",
+  "nats": "Washington Nationals",
+  "orioles": "Baltimore Orioles",
+  "o's": "Baltimore Orioles",
+  "padres": "San Diego Padres",
+  "phillies": "Philadelphia Phillies",
+  "pirates": "Pittsburgh Pirates",
+  "rangers": "Texas Rangers",
+  "rays": "Tampa Bay Rays",
+  "devil rays": "Tampa Bay Rays",
+  "red sox": "Boston Red Sox",
+  "reds": "Cincinnati Reds",
+  "rockies": "Colorado Rockies",
+  "royals": "Kansas City Royals",
+  "tigers": "Detroit Tigers",
+  "twins": "Minnesota Twins",
+  "white sox": "Chicago White Sox",
+  "yankees": "New York Yankees"
+};
+
+Object.entries(TEAM_ALIASES).forEach(([alias, team]) => {
+  teamAliasMap.set(norm(alias), team);
+});
+
 const playerByFullName = new Map();
 const playersByLastName = new Map();
 
 PLAYERS.forEach((p) => {
-  const key = norm(p.name);
-  playerByFullName.set(key, p);
+  const key = norm(p.display_name || p.name);
+playerByFullName.set(key, p);
+
+if (p.display_name && p.display_name !== p.name) {
+  playerByFullName.set(norm(p.name), null);
+}
 
   const parts = p.name.split(" ");
   if (parts.length >= 2) {
@@ -101,7 +238,10 @@ export function findTeam(input) {
 export function findPlayer(input) {
   const key = norm(input);
 
-  if (playerByFullName.has(key)) return playerByFullName.get(key);
+  if (playerByFullName.has(key)) {
+  const match = playerByFullName.get(key);
+  if (match) return match;
+}
 
   const stripped = key.replace(/[.\-']/g, "");
 
@@ -184,7 +324,7 @@ export function validateChainLink(currentItem, currentType, answer) {
     );
 
     if (played) {
-      return { valid: true, type: "player", corrected_name: player.name };
+      return { valid: true, type: "player", corrected_name: player.display_name || player.name };
     }
 
     return {
@@ -303,7 +443,7 @@ export function validateChainLink(currentItem, currentType, answer) {
     );
 
     if (attended) {
-      return { valid: true, type: "player", corrected_name: player.name };
+      return { valid: true, type: "player", corrected_name: player.display_name || player.name };
     }
 
     const pc = getColleges(player);
@@ -335,7 +475,7 @@ export function validateChainLink(currentItem, currentType, answer) {
     const validNumbers = getNumbers(player);
 
     if (validNumbers.includes(guessedNumber)) {
-      return { valid: true, type: "player", corrected_name: player.name };
+      return { valid: true, type: "player", corrected_name: player.display_name || player.name };
     }
 
     const known = validNumbers.length
@@ -439,30 +579,58 @@ export function getRarityScore(fromItem, fromType, toName, toType) {
 
   return Math.max(1, Math.min(100, points));
 }
+const duplicateDisplayNames = new Set(
+  PLAYERS
+    .filter((p) => p.display_name && p.display_name !== p.name)
+    .map((p) => norm(p.name))
+);
+
 export function getSuggestionOptions(type) {
   if (type === "player") {
     return [...new Set(
       PLAYERS
-        .map((p) => p.name?.trim())
+        .map((p) => {
+          if (p.display_name && p.display_name !== p.name) {
+            return p.display_name.trim();
+          }
+
+          if (duplicateDisplayNames.has(norm(p.name))) {
+            return null;
+          }
+
+          return p.name?.trim();
+        })
         .filter(Boolean)
     )].sort();
   }
 
-  if (type === "college") {
-    const colleges = new Set();
+if (type === "college") {
+  const colleges = new Set();
 
-    PLAYERS.forEach((p) => {
-      getColleges(p).forEach((c) => {
-        const normalized = normCollegeName(c);
+  PLAYERS.forEach((p) => {
+    getColleges(p).forEach((c) => {
+      const display = displayCollegeName(c);
 
-        if (normalized) {
-          colleges.add(normalized);
-        }
-      });
+      if (display) {
+        colleges.add(display);
+      }
     });
+  });
 
-    return Array.from(colleges).sort();
-  }
+  Object.values(COLLEGE_ALIASES).forEach((canonical) => {
+    if (canonical) {
+      colleges.add(canonical);
+    }
+  });
 
-  return [];
+  Object.keys(COLLEGE_ALIASES).forEach((alias) => {
+    const canonical = COLLEGE_ALIASES[alias];
+
+    if (canonical) {
+      colleges.add(canonical);
+    }
+  });
+
+  return Array.from(colleges).sort();
+}
 }
