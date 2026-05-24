@@ -389,7 +389,11 @@ export function validateChainLink(currentItem, currentType, answer) {
     const team = findTeam(input);
 
     if (team) {
-      const playedFor = currentPlayer.teams.some((t) => t === team.name);
+      // Check exact name OR alias-resolved name (handles franchise moves:
+      // "Oakland Raiders" in player data correctly links to "Las Vegas Raiders")
+      const playedFor = currentPlayer.teams.some(
+        (t) => t === team.name || teamAliasMap.get(norm(t)) === team.name
+      );
 
       if (playedFor) {
         return { valid: true, type: "team", corrected_name: team.name };

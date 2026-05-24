@@ -550,11 +550,11 @@ export const TEAMS = [
   { name: "Tampa Bay Buccaneers", league: "NFL", aliases: ["buccaneers", "tb buccaneers", "bucs", "tampa bucs"] },
   { name: "Tennessee Titans", league: "NFL", aliases: ["titans", "ten titans"] },
   { name: "Washington Commanders", league: "NFL", aliases: ["commanders", "was commanders", "washington", "redskins", "washington redskins"] },
-  { name: "Houston Oilers", league: "NFL", aliases: ["oilers", "hou oilers"] },
-  { name: "St. Louis Rams", league: "NFL", aliases: ["st louis rams", "stl rams"] },
-  { name: "San Diego Chargers", league: "NFL", aliases: ["san diego chargers", "sd chargers"] },
-  { name: "Oakland Raiders", league: "NFL", aliases: ["oakland raiders"] },
-  { name: "Los Angeles Raiders", league: "NFL", aliases: ["la raiders", "los angeles raiders"] },
+  { name: "Houston Oilers", league: "NFL", aliases: ["oilers", "hou oilers", "tennessee oilers"] },
+  // Note: St. Louis Rams, San Diego Chargers, Oakland Raiders, Los Angeles Raiders
+  // are intentionally NOT separate entries — they are aliases of their current
+  // franchise (LA Rams, LA Chargers, Las Vegas Raiders) defined above.
+  // Keeping them as separate entries would overwrite those aliases in the lookup map.
   // NBA
   { name: "Atlanta Hawks", league: "NBA", aliases: ["hawks", "atl hawks"] },
   { name: "Boston Celtics", league: "NBA", aliases: ["celtics", "bos celtics", "cs"] },
