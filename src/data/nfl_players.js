@@ -263496,8 +263496,7 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "Mississippi Valley State",
-      "Mississippi Valley State University"
+      "Mississippi Valley State"
     ],
     "numbers": [
       80
@@ -266200,7 +266199,9 @@ export const NFL_PLAYERS = [
       "Syracuse",
       "UCLA"
     ],
-    "numbers": [],
+    "numbers": [
+      32
+    ],
     "league": "NFL"
   },
   {
@@ -530170,7 +530171,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Jackson State"
     ],
-    "numbers": [],
+    "numbers": [
+      34
+    ],
     "league": "NFL"
   },
   {
