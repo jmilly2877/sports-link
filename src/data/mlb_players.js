@@ -77,7 +77,9 @@ export const MLB_PLAYERS = [
       "Los Angeles Angels",
       "Minnesota Twins"
     ],
-    "college": [],
+    "college": [
+      "Michigan State University"
+    ],
     "numbers": [
       "58",
       "60"
@@ -102,7 +104,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Houston Astros"
     ],
-    "college": [],
+    "college": [
+      "University of Wisconsin-Milwaukee"
+    ],
     "numbers": [
       "69"
     ],
@@ -241,7 +245,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Miami Marlins"
     ],
-    "college": [],
+    "college": [
+      "Wichita State University"
+    ],
     "numbers": [
       "70"
     ],
@@ -267,7 +273,9 @@ export const MLB_PLAYERS = [
       "Atlanta Braves",
       "New York Mets"
     ],
-    "college": [],
+    "college": [
+      "Texas A&M University"
+    ],
     "numbers": [
       "33",
       "67"
@@ -280,7 +288,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Cincinnati Reds"
     ],
-    "college": [],
+    "college": [
+      "Kansas State University"
+    ],
     "numbers": [
       "62"
     ],
@@ -333,7 +343,8 @@ export const MLB_PLAYERS = [
       "Seattle Mariners"
     ],
     "college": [
-      "Notre Dame"
+      "Notre Dame",
+      "University of Notre Dame"
     ],
     "numbers": [
       "8",
@@ -351,7 +362,9 @@ export const MLB_PLAYERS = [
       "Miami Marlins",
       "Oakland Athletics"
     ],
-    "college": [],
+    "college": [
+      "University of Florida"
+    ],
     "numbers": [
       "31",
       "33",
@@ -369,7 +382,8 @@ export const MLB_PLAYERS = [
       "New York Mets"
     ],
     "college": [
-      "Texas Tech"
+      "Texas Tech",
+      "Texas Tech University"
     ],
     "numbers": [
       "44",
@@ -384,7 +398,9 @@ export const MLB_PLAYERS = [
       "Chicago White Sox",
       "Houston Astros"
     ],
-    "college": [],
+    "college": [
+      "University of Kentucky"
+    ],
     "numbers": [
       "23",
       "24",
@@ -413,7 +429,9 @@ export const MLB_PLAYERS = [
       "Arizona Diamondbacks",
       "Pittsburgh Pirates"
     ],
-    "college": [],
+    "college": [
+      "Central Arizona College"
+    ],
     "numbers": [
       "31",
       "35"
@@ -439,7 +457,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Arizona Diamondbacks"
     ],
-    "college": [],
+    "college": [
+      "University of Notre Dame"
+    ],
     "numbers": [
       "11"
     ],
@@ -451,7 +471,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Miami Marlins"
     ],
-    "college": [],
+    "college": [
+      "Texas Tech University"
+    ],
     "numbers": [
       "44"
     ],
@@ -585,7 +607,9 @@ export const MLB_PLAYERS = [
       "Atlanta Braves",
       "Chicago White Sox"
     ],
-    "college": [],
+    "college": [
+      "University of Nebraska-Lincoln"
+    ],
     "numbers": [
       "39",
       "49",
@@ -716,7 +740,9 @@ export const MLB_PLAYERS = [
       "Kansas City Royals",
       "New York Yankees"
     ],
-    "college": [],
+    "college": [
+      "Kwantlen Polytechnic University"
+    ],
     "numbers": [
       "45",
       "46"
@@ -1216,7 +1242,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Milwaukee Brewers"
     ],
-    "college": [],
+    "college": [
+      "Cumberland University"
+    ],
     "numbers": [
       "56"
     ],
@@ -1857,7 +1885,9 @@ export const MLB_PLAYERS = [
       "Oakland Athletics",
       "Washington Nationals"
     ],
-    "college": [],
+    "college": [
+      "University of Texas at Austin"
+    ],
     "numbers": [
       "10",
       "32",
@@ -1875,7 +1905,9 @@ export const MLB_PLAYERS = [
       "Miami Marlins",
       "San Francisco Giants"
     ],
-    "college": [],
+    "college": [
+      "University of Louisville"
+    ],
     "numbers": [
       "14",
       "18",
@@ -2014,7 +2046,9 @@ export const MLB_PLAYERS = [
       "San Diego Padres",
       "Texas Rangers"
     ],
-    "college": [],
+    "college": [
+      "Xavier University"
+    ],
     "numbers": [
       "14",
       "16",
@@ -2100,7 +2134,9 @@ export const MLB_PLAYERS = [
       "Oakland Athletics",
       "Tampa Bay Rays"
     ],
-    "college": [],
+    "college": [
+      "University of Maryland"
+    ],
     "numbers": [
       "21",
       "55",
@@ -2139,7 +2175,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Los Angeles Dodgers"
     ],
-    "college": [],
+    "college": [
+      "Tennessee Technological University"
+    ],
     "numbers": [
       "36"
     ],
@@ -3101,7 +3139,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "St. Louis Cardinals"
     ],
-    "college": [],
+    "college": [
+      "Pensacola State College"
+    ],
     "numbers": [
       "56"
     ],
@@ -5675,7 +5715,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Colorado Rockies"
     ],
-    "college": [],
+    "college": [
+      "Mississippi State University"
+    ],
     "numbers": [
       "47"
     ],
@@ -7746,7 +7788,9 @@ export const MLB_PLAYERS = [
       "Chicago White Sox",
       "Pittsburgh Pirates"
     ],
-    "college": [],
+    "college": [
+      "Jacksonville University"
+    ],
     "numbers": [
       "63",
       "64"
@@ -9641,7 +9685,9 @@ export const MLB_PLAYERS = [
       "Kansas City Royals",
       "Los Angeles Angels"
     ],
-    "college": [],
+    "college": [
+      "St. John's University"
+    ],
     "numbers": [
       "22",
       "24",
@@ -10212,7 +10258,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Washington Nationals"
     ],
-    "college": [],
+    "college": [
+      "California Polytechnic State University, San Luis Obispo"
+    ],
     "numbers": [
       "54"
     ],
@@ -10469,7 +10517,9 @@ export const MLB_PLAYERS = [
       "St. Louis Cardinals",
       "Tampa Bay Rays"
     ],
-    "college": [],
+    "college": [
+      "University of Washington"
+    ],
     "numbers": [
       "27",
       "36",
@@ -10830,7 +10880,9 @@ export const MLB_PLAYERS = [
       "San Francisco Giants",
       "St. Louis Cardinals"
     ],
-    "college": [],
+    "college": [
+      "University of Miami"
+    ],
     "numbers": [
       "31",
       "59"
@@ -12001,7 +12053,9 @@ export const MLB_PLAYERS = [
       "Oakland Athletics",
       "San Diego Padres"
     ],
-    "college": [],
+    "college": [
+      "Le Moyne College"
+    ],
     "numbers": [
       "3",
       "12"
@@ -12490,7 +12544,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Oakland Athletics"
     ],
-    "college": [],
+    "college": [
+      "Western Oklahoma State College"
+    ],
     "numbers": [
       "44"
     ],
@@ -12919,7 +12975,9 @@ export const MLB_PLAYERS = [
       "Pittsburgh Pirates",
       "Toronto Blue Jays"
     ],
-    "college": [],
+    "college": [
+      "University of Mississippi"
+    ],
     "numbers": [
       "6",
       "30"
@@ -13200,7 +13258,9 @@ export const MLB_PLAYERS = [
       "New York Yankees",
       "Seattle Mariners"
     ],
-    "college": [],
+    "college": [
+      "Michigan State University"
+    ],
     "numbers": [
       "18",
       "36",
@@ -14109,7 +14169,9 @@ export const MLB_PLAYERS = [
       "Oakland Athletics",
       "Tampa Bay Rays"
     ],
-    "college": [],
+    "college": [
+      "Universidad Manuel Fajardo"
+    ],
     "numbers": [
       "30",
       "48"
@@ -15903,7 +15965,9 @@ export const MLB_PLAYERS = [
       "Arizona Diamondbacks",
       "Detroit Tigers"
     ],
-    "college": [],
+    "college": [
+      "University of Virginia"
+    ],
     "numbers": [
       "54",
       "57"
@@ -16069,7 +16133,9 @@ export const MLB_PLAYERS = [
       "Cincinnati Reds",
       "Colorado Rockies"
     ],
-    "college": [],
+    "college": [
+      "Metropolitan Community College-Maple Woods"
+    ],
     "numbers": [
       "60",
       "75"
@@ -16418,7 +16484,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Washington Nationals"
     ],
-    "college": [],
+    "college": [
+      "Texas State University"
+    ],
     "numbers": [
       "53"
     ],
@@ -16500,7 +16568,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Texas Rangers"
     ],
-    "college": [],
+    "college": [
+      "University of Portland"
+    ],
     "numbers": [
       "56"
     ],
@@ -16681,7 +16751,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Miami Marlins"
     ],
-    "college": [],
+    "college": [
+      "Coastal Carolina University"
+    ],
     "numbers": [
       "91"
     ],
@@ -18633,7 +18705,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "St. Louis Cardinals"
     ],
-    "college": [],
+    "college": [
+      "Florida State University"
+    ],
     "numbers": [
       "26"
     ],
@@ -19134,7 +19208,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Miami Marlins"
     ],
-    "college": [],
+    "college": [
+      "University of Minnesota"
+    ],
     "numbers": [
       "51"
     ],
@@ -19278,7 +19354,9 @@ export const MLB_PLAYERS = [
       "Milwaukee Brewers",
       "Texas Rangers"
     ],
-    "college": [],
+    "college": [
+      "Virginia Polytechnic Institute and State University"
+    ],
     "numbers": [
       "39",
       "47",
@@ -19996,7 +20074,9 @@ export const MLB_PLAYERS = [
       "Chicago White Sox",
       "St. Louis Cardinals"
     ],
-    "college": [],
+    "college": [
+      "University of Southern California"
+    ],
     "numbers": [
       "62",
       "67"
@@ -29276,7 +29356,9 @@ export const MLB_PLAYERS = [
       "Detroit Tigers",
       "Milwaukee Brewers"
     ],
-    "college": [],
+    "college": [
+      "Lewis-Clark State College"
+    ],
     "numbers": [
       "36",
       "65"
@@ -29425,7 +29507,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Cincinnati Reds"
     ],
-    "college": [],
+    "college": [
+      "Western Michigan University"
+    ],
     "numbers": [
       "59"
     ],
@@ -29438,7 +29522,9 @@ export const MLB_PLAYERS = [
       "Los Angeles Dodgers",
       "St. Louis Cardinals"
     ],
-    "college": [],
+    "college": [
+      "Bellevue College"
+    ],
     "numbers": [
       "36",
       "53"
@@ -30004,7 +30090,9 @@ export const MLB_PLAYERS = [
       "Arizona Diamondbacks",
       "Toronto Blue Jays"
     ],
-    "college": [],
+    "college": [
+      "Northwestern University"
+    ],
     "numbers": [
       "47",
       "58"
@@ -34520,7 +34608,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Oakland Athletics"
     ],
-    "college": [],
+    "college": [
+      "California State University, Long Beach"
+    ],
     "numbers": [
       "26"
     ],
@@ -35354,7 +35444,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Chicago Cubs"
     ],
-    "college": [],
+    "college": [
+      "University of Michigan"
+    ],
     "numbers": [
       "19",
       "24"
@@ -36195,7 +36287,9 @@ export const MLB_PLAYERS = [
       "Los Angeles Dodgers",
       "San Diego Padres"
     ],
-    "college": [],
+    "college": [
+      "Dartmouth College"
+    ],
     "numbers": [
       "11",
       "12"
@@ -36732,7 +36826,9 @@ export const MLB_PLAYERS = [
       "Houston Astros",
       "Washington Nationals"
     ],
-    "college": [],
+    "college": [
+      "Palm Beach State College"
+    ],
     "numbers": [
       "41",
       "44"
@@ -36996,7 +37092,9 @@ export const MLB_PLAYERS = [
       "Detroit Tigers",
       "Tampa Bay Rays"
     ],
-    "college": [],
+    "college": [
+      "Louisiana Tech University"
+    ],
     "numbers": [
       "51",
       "54"
@@ -37210,7 +37308,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Pittsburgh Pirates"
     ],
-    "college": [],
+    "college": [
+      "Mount St. Mary's University"
+    ],
     "numbers": [
       "52"
     ],
@@ -37460,7 +37560,9 @@ export const MLB_PLAYERS = [
       "Colorado Rockies",
       "Houston Astros"
     ],
-    "college": [],
+    "college": [
+      "Cypress College"
+    ],
     "numbers": [
       "0",
       "1",
@@ -37614,7 +37716,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Atlanta Braves"
     ],
-    "college": [],
+    "college": [
+      "California State University, San Bernardino"
+    ],
     "numbers": [
       "39",
       "50"
@@ -37627,7 +37731,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "St. Louis Cardinals"
     ],
-    "college": [],
+    "college": [
+      "Tusculum University"
+    ],
     "numbers": [
       "53",
       "65"
@@ -37814,7 +37920,9 @@ export const MLB_PLAYERS = [
       "Arizona Diamondbacks",
       "Chicago Cubs"
     ],
-    "college": [],
+    "college": [
+      "Michigan State University"
+    ],
     "numbers": [
       "47",
       "56"
@@ -37915,7 +38023,9 @@ export const MLB_PLAYERS = [
       "Houston Astros",
       "New York Yankees"
     ],
-    "college": [],
+    "college": [
+      "Cypress College"
+    ],
     "numbers": [
       "4",
       "13",
@@ -38307,7 +38417,9 @@ export const MLB_PLAYERS = [
       "Boston Red Sox",
       "Houston Astros"
     ],
-    "college": [],
+    "college": [
+      "University of Delaware"
+    ],
     "numbers": [
       "60",
       "75"
@@ -38557,7 +38669,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Miami Marlins"
     ],
-    "college": [],
+    "college": [
+      "University of Mississippi"
+    ],
     "numbers": [
       "12"
     ],
@@ -38789,7 +38903,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Detroit Tigers"
     ],
-    "college": [],
+    "college": [
+      "Siena College"
+    ],
     "numbers": [
       "52"
     ],
@@ -39339,7 +39455,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "San Francisco Giants"
     ],
-    "college": [],
+    "college": [
+      "University of Kansas"
+    ],
     "numbers": [
       "38",
       "43"
@@ -39744,7 +39862,9 @@ export const MLB_PLAYERS = [
       "Pittsburgh Pirates",
       "San Diego Padres"
     ],
-    "college": [],
+    "college": [
+      "University of the Pacific"
+    ],
     "numbers": [
       "26",
       "29"
@@ -40181,7 +40301,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Toronto Blue Jays"
     ],
-    "college": [],
+    "college": [
+      "University of California, Santa Barbara"
+    ],
     "numbers": [
       "26"
     ],
@@ -40205,7 +40327,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Washington Nationals"
     ],
-    "college": [],
+    "college": [
+      "Grand Canyon University"
+    ],
     "numbers": [
       "55"
     ],
@@ -40363,7 +40487,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Minnesota Twins"
     ],
-    "college": [],
+    "college": [
+      "McKendree University"
+    ],
     "numbers": [
       "26"
     ],
@@ -41099,7 +41225,9 @@ export const MLB_PLAYERS = [
       "Miami Marlins",
       "Toronto Blue Jays"
     ],
-    "college": [],
+    "college": [
+      "University of North Carolina at Chapel Hill"
+    ],
     "numbers": [
       "48",
       "58",
@@ -41176,7 +41304,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Seattle Mariners"
     ],
-    "college": [],
+    "college": [
+      "St. Joseph's University"
+    ],
     "numbers": [
       "64"
     ],
@@ -41398,7 +41528,9 @@ export const MLB_PLAYERS = [
       "Colorado Rockies",
       "Toronto Blue Jays"
     ],
-    "college": [],
+    "college": [
+      "Arizona State University"
+    ],
     "numbers": [
       "6",
       "15"
@@ -42034,7 +42166,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Chicago White Sox"
     ],
-    "college": [],
+    "college": [
+      "University of North Carolina at Wilmington"
+    ],
     "numbers": [
       "27"
     ],
@@ -42137,7 +42271,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Minnesota Twins"
     ],
-    "college": [],
+    "college": [
+      "California Polytechnic State University, San Luis Obispo"
+    ],
     "numbers": [
       "2",
       "22"
@@ -42928,7 +43064,9 @@ export const MLB_PLAYERS = [
       "Tampa Bay Rays",
       "Toronto Blue Jays"
     ],
-    "college": [],
+    "college": [
+      "University of North Florida"
+    ],
     "numbers": [
       "43",
       "47"
@@ -42991,7 +43129,9 @@ export const MLB_PLAYERS = [
       "San Diego Padres",
       "Texas Rangers"
     ],
-    "college": [],
+    "college": [
+      "Los Angeles Pierce College"
+    ],
     "numbers": [
       "30",
       "37",
@@ -43436,7 +43576,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Boston Red Sox"
     ],
-    "college": [],
+    "college": [
+      "Texarkana College"
+    ],
     "numbers": [
       "58"
     ],
@@ -43580,7 +43722,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Los Angeles Angels"
     ],
-    "college": [],
+    "college": [
+      "Clemson University"
+    ],
     "numbers": [
       "22"
     ],
@@ -44995,7 +45139,9 @@ export const MLB_PLAYERS = [
       "New York Yankees",
       "San Diego Padres"
     ],
-    "college": [],
+    "college": [
+      "Texarkana College"
+    ],
     "numbers": [
       "38",
       "41",
@@ -46528,7 +46674,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Cleveland Guardians"
     ],
-    "college": [],
+    "college": [
+      "Taipei Physical Education College"
+    ],
     "numbers": [
       "20"
     ],
@@ -46564,7 +46712,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Texas Rangers"
     ],
-    "college": [],
+    "college": [
+      "Spartanburg Methodist College"
+    ],
     "numbers": [
       "64"
     ],
@@ -46623,7 +46773,9 @@ export const MLB_PLAYERS = [
       "Minnesota Twins",
       "Tampa Bay Rays"
     ],
-    "college": [],
+    "college": [
+      "University of Utah"
+    ],
     "numbers": [
       "24",
       "25",
@@ -46655,7 +46807,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Cleveland Guardians"
     ],
-    "college": [],
+    "college": [
+      "University of Miami"
+    ],
     "numbers": [
       "2",
       "63"
@@ -46692,7 +46846,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Tampa Bay Rays"
     ],
-    "college": [],
+    "college": [
+      "Chipola College"
+    ],
     "numbers": [
       "34"
     ],
@@ -46704,7 +46860,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Washington Nationals"
     ],
-    "college": [],
+    "college": [
+      "University of Southern California"
+    ],
     "numbers": [
       "36"
     ],
@@ -46809,7 +46967,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Chicago Cubs"
     ],
-    "college": [],
+    "college": [
+      "University of Oklahoma"
+    ],
     "numbers": [
       "22"
     ],
@@ -46850,7 +47010,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Cleveland Guardians"
     ],
-    "college": [],
+    "college": [
+      "University of Hawaii at Manoa"
+    ],
     "numbers": [
       "36"
     ],
@@ -47517,7 +47679,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Pittsburgh Pirates"
     ],
-    "college": [],
+    "college": [
+      "University of Cincinnati"
+    ],
     "numbers": [
       "63"
     ],
@@ -47574,7 +47738,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Pittsburgh Pirates"
     ],
-    "college": [],
+    "college": [
+      "Elon University"
+    ],
     "numbers": [
       "34"
     ],
@@ -47614,7 +47780,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Cleveland Guardians"
     ],
-    "college": [],
+    "college": [
+      "Redlands Community College"
+    ],
     "numbers": [
       "27"
     ],
@@ -47706,7 +47874,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Baltimore Orioles"
     ],
-    "college": [],
+    "college": [
+      "McNeese State University"
+    ],
     "numbers": [
       "65"
     ],
@@ -48999,7 +49169,9 @@ export const MLB_PLAYERS = [
       "Milwaukee Brewers",
       "Texas Rangers"
     ],
-    "college": [],
+    "college": [
+      "Florida Gateway College"
+    ],
     "numbers": [
       "3",
       "22",
@@ -49149,7 +49321,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Cincinnati Reds"
     ],
-    "college": [],
+    "college": [
+      "Lewis-Clark State College"
+    ],
     "numbers": [
       "46"
     ],
@@ -49498,7 +49672,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "San Francisco Giants"
     ],
-    "college": [],
+    "college": [
+      "Chipola College"
+    ],
     "numbers": [
       "39"
     ],
@@ -50518,7 +50694,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Cincinnati Reds"
     ],
-    "college": [],
+    "college": [
+      "Clemson University"
+    ],
     "numbers": [
       "68"
     ],
@@ -50875,7 +51053,9 @@ export const MLB_PLAYERS = [
       "St. Louis Cardinals",
       "Toronto Blue Jays"
     ],
-    "college": [],
+    "college": [
+      "Albright College"
+    ],
     "numbers": [
       "58",
       "59",
@@ -50977,7 +51157,9 @@ export const MLB_PLAYERS = [
       "Seattle Mariners",
       "Tampa Bay Rays"
     ],
-    "college": [],
+    "college": [
+      "Western Oklahoma State College"
+    ],
     "numbers": [
       "37",
       "65"
@@ -52323,7 +52505,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Los Angeles Angels"
     ],
-    "college": [],
+    "college": [
+      "University of Portland"
+    ],
     "numbers": [
       "21"
     ],
@@ -55279,7 +55463,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Chicago White Sox"
     ],
-    "college": [],
+    "college": [
+      "Xavier University"
+    ],
     "numbers": [
       "61"
     ],
@@ -56466,7 +56652,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Boston Red Sox"
     ],
-    "college": [],
+    "college": [
+      "Savannah College of Art and Design"
+    ],
     "numbers": [
       "51"
     ],
@@ -56586,7 +56774,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Cleveland Guardians"
     ],
-    "college": [],
+    "college": [
+      "James Madison University"
+    ],
     "numbers": [
       "24",
       "34"
@@ -56757,7 +56947,9 @@ export const MLB_PLAYERS = [
       "New York Yankees",
       "Tampa Bay Rays"
     ],
-    "college": [],
+    "college": [
+      "Troy University"
+    ],
     "numbers": [
       "39",
       "46",
@@ -56830,7 +57022,9 @@ export const MLB_PLAYERS = [
       "Pittsburgh Pirates",
       "St. Louis Cardinals"
     ],
-    "college": [],
+    "college": [
+      "College of Southern Nevada"
+    ],
     "numbers": [
       "36",
       "38",
@@ -57281,7 +57475,9 @@ export const MLB_PLAYERS = [
       "New York Yankees",
       "Texas Rangers"
     ],
-    "college": [],
+    "college": [
+      "Oral Roberts University"
+    ],
     "numbers": [
       "17",
       "21",
@@ -57308,7 +57504,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Houston Astros"
     ],
-    "college": [],
+    "college": [
+      "Chinese Culture University"
+    ],
     "numbers": [
       "63"
     ],
@@ -59398,7 +59596,9 @@ export const MLB_PLAYERS = [
       "New York Yankees",
       "Texas Rangers"
     ],
-    "college": [],
+    "college": [
+      "McLennan Community College"
+    ],
     "numbers": [
       "31",
       "33",
@@ -59537,7 +59737,9 @@ export const MLB_PLAYERS = [
       "New York Yankees",
       "San Diego Padres"
     ],
-    "college": [],
+    "college": [
+      "Pasadena City College"
+    ],
     "numbers": [
       "1",
       "4",
@@ -59984,7 +60186,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "St. Louis Cardinals"
     ],
-    "college": [],
+    "college": [
+      "Aurora University"
+    ],
     "numbers": [
       "58"
     ],
@@ -60091,7 +60295,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "New York Mets"
     ],
-    "college": [],
+    "college": [
+      "Fresno Pacific University"
+    ],
     "numbers": [
       "63"
     ],
@@ -60750,7 +60956,9 @@ export const MLB_PLAYERS = [
       "Colorado Rockies",
       "Seattle Mariners"
     ],
-    "college": [],
+    "college": [
+      "University of California, Irvine"
+    ],
     "numbers": [
       "36",
       "56"
@@ -61952,7 +62160,9 @@ export const MLB_PLAYERS = [
       "Cincinnati Reds",
       "Los Angeles Dodgers"
     ],
-    "college": [],
+    "college": [
+      "University of Southern Mississippi"
+    ],
     "numbers": [
       "47",
       "52",
@@ -64989,7 +65199,9 @@ export const MLB_PLAYERS = [
       "Colorado Rockies",
       "Tampa Bay Rays"
     ],
-    "college": [],
+    "college": [
+      "University of South Florida"
+    ],
     "numbers": [
       "3",
       "10"
@@ -65429,7 +65641,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Minnesota Twins"
     ],
-    "college": [],
+    "college": [
+      "St. John's University"
+    ],
     "numbers": [
       "61"
     ],
@@ -65441,7 +65655,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Oakland Athletics"
     ],
-    "college": [],
+    "college": [
+      "University of Oklahoma"
+    ],
     "numbers": [
       "48"
     ],
@@ -65526,7 +65742,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Minnesota Twins"
     ],
-    "college": [],
+    "college": [
+      "University of Minnesota"
+    ],
     "numbers": [
       "38"
     ],
@@ -65700,7 +65918,9 @@ export const MLB_PLAYERS = [
       "New York Mets",
       "Tampa Bay Rays"
     ],
-    "college": [],
+    "college": [
+      "Dartmouth College"
+    ],
     "numbers": [
       "31",
       "54",
@@ -65730,7 +65950,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "San Francisco Giants"
     ],
-    "college": [],
+    "college": [
+      "University of West Alabama"
+    ],
     "numbers": [
       "56"
     ],
@@ -65923,7 +66145,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Milwaukee Brewers"
     ],
-    "college": [],
+    "college": [
+      "Stanford University"
+    ],
     "numbers": [
       "7"
     ],
@@ -65991,7 +66215,9 @@ export const MLB_PLAYERS = [
       "New York Mets",
       "Tampa Bay Rays"
     ],
-    "college": [],
+    "college": [
+      "Berry College"
+    ],
     "numbers": [
       "31",
       "32",
@@ -66565,7 +66791,9 @@ export const MLB_PLAYERS = [
       "Arizona Diamondbacks",
       "Colorado Rockies"
     ],
-    "college": [],
+    "college": [
+      "Vanderbilt University"
+    ],
     "numbers": [
       "56",
       "65"
@@ -66596,7 +66824,9 @@ export const MLB_PLAYERS = [
       "Pittsburgh Pirates",
       "Toronto Blue Jays"
     ],
-    "college": [],
+    "college": [
+      "Old Dominion University"
+    ],
     "numbers": [
       "41",
       "42",
@@ -69263,7 +69493,9 @@ export const MLB_PLAYERS = [
       "Cincinnati Reds",
       "Pittsburgh Pirates"
     ],
-    "college": [],
+    "college": [
+      "Merced College"
+    ],
     "numbers": [
       "46",
       "52"
@@ -69283,7 +69515,9 @@ export const MLB_PLAYERS = [
       "New York Yankees",
       "Washington Nationals"
     ],
-    "college": [],
+    "college": [
+      "College of William and Mary"
+    ],
     "numbers": [
       "11",
       "19",
@@ -69935,7 +70169,9 @@ export const MLB_PLAYERS = [
       "Colorado Rockies",
       "Tampa Bay Rays"
     ],
-    "college": [],
+    "college": [
+      "Western Oregon University"
+    ],
     "numbers": [
       "54",
       "56",
@@ -69982,7 +70218,9 @@ export const MLB_PLAYERS = [
       "Los Angeles Dodgers",
       "Texas Rangers"
     ],
-    "college": [],
+    "college": [
+      "Western Nevada College"
+    ],
     "numbers": [
       "38"
     ],
@@ -69994,7 +70232,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "San Francisco Giants"
     ],
-    "college": [],
+    "college": [
+      "University of Minnesota"
+    ],
     "numbers": [
       "62"
     ],
@@ -70007,7 +70247,9 @@ export const MLB_PLAYERS = [
       "Baltimore Orioles",
       "New York Mets"
     ],
-    "college": [],
+    "college": [
+      "Florida State University"
+    ],
     "numbers": [
       "24",
       "29",
@@ -70250,7 +70492,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Washington Nationals"
     ],
-    "college": [],
+    "college": [
+      "Indiana State University"
+    ],
     "numbers": [
       "71"
     ],
@@ -70485,7 +70729,9 @@ export const MLB_PLAYERS = [
       "San Diego Padres",
       "Tampa Bay Rays"
     ],
-    "college": [],
+    "college": [
+      "California State University, Chico"
+    ],
     "numbers": [
       "33",
       "36",
@@ -70536,7 +70782,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Chicago Cubs"
     ],
-    "college": [],
+    "college": [
+      "Oral Roberts University"
+    ],
     "numbers": [
       "32"
     ],
@@ -72567,7 +72815,9 @@ export const MLB_PLAYERS = [
       "Los Angeles Angels",
       "Tampa Bay Rays"
     ],
-    "college": [],
+    "college": [
+      "Riverside City College"
+    ],
     "numbers": [
       "49",
       "65"
@@ -73054,7 +73304,9 @@ export const MLB_PLAYERS = [
       "Philadelphia Phillies",
       "Tampa Bay Rays"
     ],
-    "college": [],
+    "college": [
+      "Santa Clara University"
+    ],
     "numbers": [
       "7",
       "12",
@@ -73198,7 +73450,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Cleveland Guardians"
     ],
-    "college": [],
+    "college": [
+      "Brigham Young University"
+    ],
     "numbers": [
       "10"
     ],
@@ -73242,7 +73496,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "San Francisco Giants"
     ],
-    "college": [],
+    "college": [
+      "University of Arizona"
+    ],
     "numbers": [
       "6"
     ],
@@ -73393,7 +73649,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Toronto Blue Jays"
     ],
-    "college": [],
+    "college": [
+      "Princeton University"
+    ],
     "numbers": [
       "24"
     ],
@@ -73452,7 +73710,9 @@ export const MLB_PLAYERS = [
       "Atlanta Braves",
       "New York Yankees"
     ],
-    "college": [],
+    "college": [
+      "St. John's University"
+    ],
     "numbers": [
       "61"
     ],
@@ -73590,7 +73850,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Arizona Diamondbacks"
     ],
-    "college": [],
+    "college": [
+      "California State University, Fullerton"
+    ],
     "numbers": [
       "26"
     ],
@@ -75257,7 +75519,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "San Francisco Giants"
     ],
-    "college": [],
+    "college": [
+      "Chipola College"
+    ],
     "numbers": [
       "34"
     ],
@@ -78714,7 +78978,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Baltimore Orioles"
     ],
-    "college": [],
+    "college": [
+      "California State University, Long Beach"
+    ],
     "numbers": [
       "91"
     ],
@@ -78888,7 +79154,9 @@ export const MLB_PLAYERS = [
       "Cleveland Guardians",
       "Colorado Rockies"
     ],
-    "college": [],
+    "college": [
+      "Imperial Valley College"
+    ],
     "numbers": [
       "47",
       "50"
@@ -79081,7 +79349,9 @@ export const MLB_PLAYERS = [
       "Milwaukee Brewers",
       "Seattle Mariners"
     ],
-    "college": [],
+    "college": [
+      "University of Hawaii at Manoa"
+    ],
     "numbers": [
       "20",
       "36"
@@ -79205,7 +79475,9 @@ export const MLB_PLAYERS = [
       "Los Angeles Angels",
       "Philadelphia Phillies"
     ],
-    "college": [],
+    "college": [
+      "Cosumnes River College"
+    ],
     "numbers": [
       "29",
       "30",
@@ -79221,7 +79493,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Philadelphia Phillies"
     ],
-    "college": [],
+    "college": [
+      "Gulf Coast State College"
+    ],
     "numbers": [
       "57"
     ],
@@ -79510,7 +79784,9 @@ export const MLB_PLAYERS = [
       "Seattle Mariners",
       "Tampa Bay Rays"
     ],
-    "college": [],
+    "college": [
+      "Florida Atlantic University"
+    ],
     "numbers": [
       "44",
       "62",
@@ -79688,7 +79964,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Milwaukee Brewers"
     ],
-    "college": [],
+    "college": [
+      "Western Carolina University"
+    ],
     "numbers": [
       "13"
     ],
@@ -79948,7 +80226,9 @@ export const MLB_PLAYERS = [
       "Colorado Rockies",
       "St. Louis Cardinals"
     ],
-    "college": [],
+    "college": [
+      "Washington State University"
+    ],
     "numbers": [
       "43",
       "44"
@@ -80497,7 +80777,9 @@ export const MLB_PLAYERS = [
       "New York Yankees",
       "St. Louis Cardinals"
     ],
-    "college": [],
+    "college": [
+      "Ball State University"
+    ],
     "numbers": [
       "45",
       "65"
@@ -80567,7 +80849,9 @@ export const MLB_PLAYERS = [
       "Oakland Athletics",
       "St. Louis Cardinals"
     ],
-    "college": [],
+    "college": [
+      "University of Louisville"
+    ],
     "numbers": [
       "60",
       "63"
@@ -82471,7 +82755,9 @@ export const MLB_PLAYERS = [
       "San Francisco Giants",
       "Texas Rangers"
     ],
-    "college": [],
+    "college": [
+      "Wallace State Community College"
+    ],
     "numbers": [
       "45",
       "49"
@@ -82838,7 +83124,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Tampa Bay Rays"
     ],
-    "college": [],
+    "college": [
+      "Itawamba Community College"
+    ],
     "numbers": [
       "8"
     ],
@@ -82943,7 +83231,9 @@ export const MLB_PLAYERS = [
       "Oakland Athletics",
       "Seattle Mariners"
     ],
-    "college": [],
+    "college": [
+      "North Carolina Central University"
+    ],
     "numbers": [
       "17",
       "31"
@@ -86659,7 +86949,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "New York Mets"
     ],
-    "college": [],
+    "college": [
+      "Dallas Baptist University"
+    ],
     "numbers": [
       "53"
     ],
@@ -90353,7 +90645,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "San Francisco Giants"
     ],
-    "college": [],
+    "college": [
+      "University of Tennessee"
+    ],
     "numbers": [
       "0",
       "61"
@@ -90380,7 +90674,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Cincinnati Reds"
     ],
-    "college": [],
+    "college": [
+      "Vanderbilt University"
+    ],
     "numbers": [
       "53"
     ],
@@ -90441,7 +90737,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "San Diego Padres"
     ],
-    "college": [],
+    "college": [
+      "Chaffey College"
+    ],
     "numbers": [
       "11",
       "65"
@@ -90454,7 +90752,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Pittsburgh Pirates"
     ],
-    "college": [],
+    "college": [
+      "Arizona State University"
+    ],
     "numbers": [
       "39"
     ],
@@ -90591,7 +90891,9 @@ export const MLB_PLAYERS = [
       "Minnesota Twins",
       "Oakland Athletics"
     ],
-    "college": [],
+    "college": [
+      "The Ohio State University"
+    ],
     "numbers": [
       "47",
       "51",
@@ -90842,7 +91144,9 @@ export const MLB_PLAYERS = [
       "Detroit Tigers",
       "Miami Marlins"
     ],
-    "college": [],
+    "college": [
+      "Lake Michigan College"
+    ],
     "numbers": [
       "64"
     ],
@@ -91157,7 +91461,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Colorado Rockies"
     ],
-    "college": [],
+    "college": [
+      "Adrian College"
+    ],
     "numbers": [
       "52"
     ],
@@ -91383,7 +91689,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Chicago White Sox"
     ],
-    "college": [],
+    "college": [
+      "University of Iowa"
+    ],
     "numbers": [
       "55"
     ],
@@ -91594,7 +91902,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Detroit Tigers"
     ],
-    "college": [],
+    "college": [
+      "Lethbridge CC"
+    ],
     "numbers": [
       "50"
     ],
@@ -91726,7 +92036,9 @@ export const MLB_PLAYERS = [
       "Boston Red Sox",
       "Pittsburgh Pirates"
     ],
-    "college": [],
+    "college": [
+      "Yavapai College"
+    ],
     "numbers": [
       "26",
       "50",
@@ -91741,7 +92053,9 @@ export const MLB_PLAYERS = [
       "Kansas City Royals",
       "San Diego Padres"
     ],
-    "college": [],
+    "college": [
+      "Wichita State University"
+    ],
     "numbers": [
       "9",
       "43"
@@ -97077,7 +97391,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Tampa Bay Rays"
     ],
-    "college": [],
+    "college": [
+      "University of California, Davis"
+    ],
     "numbers": [
       "59"
     ],
@@ -98126,7 +98442,9 @@ export const MLB_PLAYERS = [
       "Miami Marlins",
       "New York Mets"
     ],
-    "college": [],
+    "college": [
+      "Salt Lake Community College"
+    ],
     "numbers": [
       "26",
       "37",
@@ -99034,7 +99352,9 @@ export const MLB_PLAYERS = [
       "San Francisco Giants",
       "Washington Nationals"
     ],
-    "college": [],
+    "college": [
+      "Inter American University of Puerto Rico"
+    ],
     "numbers": [
       "16",
       "35"
@@ -99251,7 +99571,9 @@ export const MLB_PLAYERS = [
       "Cincinnati Reds",
       "Los Angeles Dodgers"
     ],
-    "college": [],
+    "college": [
+      "Florida International University"
+    ],
     "numbers": [
       "30",
       "43"
@@ -99741,7 +100063,9 @@ export const MLB_PLAYERS = [
       "Atlanta Braves",
       "Texas Rangers"
     ],
-    "college": [],
+    "college": [
+      "Clemson University"
+    ],
     "numbers": [
       "36",
       "41",
@@ -100036,7 +100360,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Los Angeles Angels"
     ],
-    "college": [],
+    "college": [
+      "Creighton University"
+    ],
     "numbers": [
       "7"
     ],
@@ -101315,7 +101641,9 @@ export const MLB_PLAYERS = [
       "Kansas City Royals",
       "Miami Marlins"
     ],
-    "college": [],
+    "college": [
+      "Universidad Interamericana"
+    ],
     "numbers": [
       "13",
       "15",
@@ -102110,7 +102438,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Kansas City Royals"
     ],
-    "college": [],
+    "college": [
+      "Mississippi State University"
+    ],
     "numbers": [
       "61"
     ],
@@ -102483,7 +102813,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Chicago Cubs"
     ],
-    "college": [],
+    "college": [
+      "Northwestern University"
+    ],
     "numbers": [
       "43"
     ],
@@ -102760,7 +103092,9 @@ export const MLB_PLAYERS = [
       "New York Yankees",
       "Oakland Athletics"
     ],
-    "college": [],
+    "college": [
+      "California State University, Dominguez Hills"
+    ],
     "numbers": [
       "38"
     ],
@@ -102907,7 +103241,9 @@ export const MLB_PLAYERS = [
       "Kansas City Royals",
       "Pittsburgh Pirates"
     ],
-    "college": [],
+    "college": [
+      "Butler University"
+    ],
     "numbers": [
       "46",
       "52",
@@ -102925,7 +103261,9 @@ export const MLB_PLAYERS = [
       "Los Angeles Dodgers",
       "San Diego Padres"
     ],
-    "college": [],
+    "college": [
+      "Bethel University"
+    ],
     "numbers": [
       "37",
       "50",
@@ -103084,7 +103422,9 @@ export const MLB_PLAYERS = [
       "Milwaukee Brewers",
       "San Diego Padres"
     ],
-    "college": [],
+    "college": [
+      "Seattle University"
+    ],
     "numbers": [
       "54",
       "57"
@@ -103136,7 +103476,9 @@ export const MLB_PLAYERS = [
       "New York Mets",
       "New York Yankees"
     ],
-    "college": [],
+    "college": [
+      "Chandler-Gilbert Community College"
+    ],
     "numbers": [
       "1",
       "3",
@@ -103159,7 +103501,9 @@ export const MLB_PLAYERS = [
       "San Francisco Giants",
       "Texas Rangers"
     ],
-    "college": [],
+    "college": [
+      "Rutgers, the State University of New Jersey"
+    ],
     "numbers": [
       "2",
       "7",
@@ -103352,7 +103696,9 @@ export const MLB_PLAYERS = [
       "New York Mets",
       "Seattle Mariners"
     ],
-    "college": [],
+    "college": [
+      "University of California, Los Angeles"
+    ],
     "numbers": [
       "62"
     ],
@@ -103768,7 +104114,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Chicago Cubs"
     ],
-    "college": [],
+    "college": [
+      "University of Chicago"
+    ],
     "numbers": [
       "14"
     ],
@@ -105199,7 +105547,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Cincinnati Reds"
     ],
-    "college": [],
+    "college": [
+      "Rice University"
+    ],
     "numbers": [
       "66"
     ],
@@ -105243,7 +105593,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "St. Louis Cardinals"
     ],
-    "college": [],
+    "college": [
+      "Feather River College"
+    ],
     "numbers": [
       "62"
     ],
@@ -106926,7 +107278,9 @@ export const MLB_PLAYERS = [
       "Los Angeles Angels",
       "Oakland Athletics"
     ],
-    "college": [],
+    "college": [
+      "El Paso Community College"
+    ],
     "numbers": [
       "33",
       "43",
@@ -109811,7 +110165,9 @@ export const MLB_PLAYERS = [
       "Cleveland Guardians",
       "Philadelphia Phillies"
     ],
-    "college": [],
+    "college": [
+      "Harvard University"
+    ],
     "numbers": [
       "53",
       "56"
@@ -111135,7 +111491,9 @@ export const MLB_PLAYERS = [
       "Kansas City Royals",
       "Oakland Athletics"
     ],
-    "college": [],
+    "college": [
+      "St. John's University"
+    ],
     "numbers": [
       "18",
       "25",
@@ -115006,7 +115364,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Detroit Tigers"
     ],
-    "college": [],
+    "college": [
+      "National Chayi"
+    ],
     "numbers": [
       "59"
     ],
@@ -115793,7 +116153,9 @@ export const MLB_PLAYERS = [
       "Philadelphia Phillies",
       "Tampa Bay Rays"
     ],
-    "college": [],
+    "college": [
+      "University of Oregon"
+    ],
     "numbers": [
       "60",
       "61"
@@ -116705,7 +117067,9 @@ export const MLB_PLAYERS = [
       "San Diego Padres",
       "Texas Rangers"
     ],
-    "college": [],
+    "college": [
+      "Mission College"
+    ],
     "numbers": [
       "13",
       "14",
@@ -123009,7 +123373,9 @@ export const MLB_PLAYERS = [
       "Oakland Athletics",
       "San Diego Padres"
     ],
-    "college": [],
+    "college": [
+      "Galveston College"
+    ],
     "numbers": [
       "64",
       "92",
@@ -125253,7 +125619,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Oakland Athletics"
     ],
-    "college": [],
+    "college": [
+      "University of California, Los Angeles"
+    ],
     "numbers": [
       "18"
     ],
@@ -125382,7 +125750,9 @@ export const MLB_PLAYERS = [
       "Atlanta Braves",
       "Los Angeles Dodgers"
     ],
-    "college": [],
+    "college": [
+      "Auburn University"
+    ],
     "numbers": [
       "75"
     ],
@@ -125440,7 +125810,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "New York Mets"
     ],
-    "college": [],
+    "college": [
+      "Miami University of Ohio"
+    ],
     "numbers": [
       "56",
       "93"
@@ -125455,7 +125827,9 @@ export const MLB_PLAYERS = [
       "Oakland Athletics",
       "Philadelphia Phillies"
     ],
-    "college": [],
+    "college": [
+      "University of California, Berkeley"
+    ],
     "numbers": [
       "67"
     ],
@@ -125702,7 +126076,9 @@ export const MLB_PLAYERS = [
       "Pittsburgh Pirates",
       "San Diego Padres"
     ],
-    "college": [],
+    "college": [
+      "San Diego State University"
+    ],
     "numbers": [
       "1",
       "22",
@@ -125837,7 +126213,9 @@ export const MLB_PLAYERS = [
       "New York Mets",
       "San Diego Padres"
     ],
-    "college": [],
+    "college": [
+      "Duke University"
+    ],
     "numbers": [
       "40",
       "46"
@@ -133051,7 +133429,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Atlanta Braves"
     ],
-    "college": [],
+    "college": [
+      "Georgia Southern University"
+    ],
     "numbers": [
       "79"
     ],
@@ -133080,7 +133460,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "New York Mets"
     ],
-    "college": [],
+    "college": [
+      "Miami University of Ohio"
+    ],
     "numbers": [
       "6",
       "30"
@@ -136412,7 +136794,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Boston Red Sox"
     ],
-    "college": [],
+    "college": [
+      "Chuo University"
+    ],
     "numbers": [
       "18"
     ],
@@ -136425,7 +136809,9 @@ export const MLB_PLAYERS = [
       "Los Angeles Dodgers",
       "New York Yankees"
     ],
-    "college": [],
+    "college": [
+      "Senshu University"
+    ],
     "numbers": [
       "18"
     ],
@@ -136440,7 +136826,9 @@ export const MLB_PLAYERS = [
       "New York Mets",
       "Pittsburgh Pirates"
     ],
-    "college": [],
+    "college": [
+      "Komazawa University"
+    ],
     "numbers": [
       "21",
       "41",
@@ -139484,7 +139872,9 @@ export const MLB_PLAYERS = [
       "Chicago Cubs",
       "Minnesota Twins"
     ],
-    "college": [],
+    "college": [
+      "Wagner College"
+    ],
     "numbers": [
       "00",
       "0",
@@ -139558,7 +139948,9 @@ export const MLB_PLAYERS = [
       "Atlanta Braves",
       "Los Angeles Dodgers"
     ],
-    "college": [],
+    "college": [
+      "Virginia Commonwealth University"
+    ],
     "numbers": [
       "58",
       "60",
@@ -140166,7 +140558,9 @@ export const MLB_PLAYERS = [
       "Milwaukee Brewers",
       "San Diego Padres"
     ],
-    "college": [],
+    "college": [
+      "Indian Hills Community College"
+    ],
     "numbers": [
       "1",
       "19"
@@ -140920,7 +141314,9 @@ export const MLB_PLAYERS = [
       "Milwaukee Brewers",
       "Seattle Mariners"
     ],
-    "college": [],
+    "college": [
+      "University of North Carolina at Chapel Hill"
+    ],
     "numbers": [
       "33",
       "50"
@@ -140971,7 +141367,8 @@ export const MLB_PLAYERS = [
       "Pittsburgh Pirates"
     ],
     "college": [
-      "Ohio State"
+      "Ohio State",
+      "The Ohio State University"
     ],
     "numbers": [
       "3",
@@ -140989,7 +141386,9 @@ export const MLB_PLAYERS = [
       "Arizona Diamondbacks",
       "Oakland Athletics"
     ],
-    "college": [],
+    "college": [
+      "Middle Georgia State University"
+    ],
     "numbers": [
       "48",
       "57",
@@ -141028,7 +141427,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "New York Yankees"
     ],
-    "college": [],
+    "college": [
+      "Florida International University"
+    ],
     "numbers": [
       "25"
     ],
@@ -141191,7 +141592,9 @@ export const MLB_PLAYERS = [
       "Oakland Athletics",
       "San Francisco Giants"
     ],
-    "college": [],
+    "college": [
+      "California State University, Fullerton"
+    ],
     "numbers": [
       "5",
       "7",
@@ -141239,7 +141642,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Philadelphia Phillies"
     ],
-    "college": [],
+    "college": [
+      "Marshall University"
+    ],
     "numbers": [
       "64",
       "65"
@@ -141328,7 +141733,9 @@ export const MLB_PLAYERS = [
       "Miami Marlins",
       "Oakland Athletics"
     ],
-    "college": [],
+    "college": [
+      "Vanderbilt University"
+    ],
     "numbers": [
       "22",
       "33",
@@ -141389,7 +141796,9 @@ export const MLB_PLAYERS = [
       "Cincinnati Reds",
       "Milwaukee Brewers"
     ],
-    "college": [],
+    "college": [
+      "Calhoun Community College"
+    ],
     "numbers": [
       "60"
     ],
@@ -141401,7 +141810,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Houston Astros"
     ],
-    "college": [],
+    "college": [
+      "University of Arizona"
+    ],
     "numbers": [
       "13"
     ],
@@ -141458,7 +141869,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "St. Louis Cardinals"
     ],
-    "college": [],
+    "college": [
+      "West Virginia University"
+    ],
     "numbers": [
       "26"
     ],
@@ -141505,7 +141918,9 @@ export const MLB_PLAYERS = [
       "Milwaukee Brewers",
       "Tampa Bay Rays"
     ],
-    "college": [],
+    "college": [
+      "University of Wisconsin-Stevens Point"
+    ],
     "numbers": [
       "34",
       "40",
@@ -141570,7 +141985,9 @@ export const MLB_PLAYERS = [
       "Oakland Athletics",
       "San Diego Padres"
     ],
-    "college": [],
+    "college": [
+      "The Citadel"
+    ],
     "numbers": [
       "38",
       "92"
@@ -141583,7 +142000,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Minnesota Twins"
     ],
-    "college": [],
+    "college": [
+      "Santa Clara University"
+    ],
     "numbers": [
       "62"
     ],
@@ -141679,7 +142098,9 @@ export const MLB_PLAYERS = [
       "Pittsburgh Pirates",
       "San Francisco Giants"
     ],
-    "college": [],
+    "college": [
+      "University of Akron"
+    ],
     "numbers": [
       "34",
       "65"
@@ -141708,7 +142129,9 @@ export const MLB_PLAYERS = [
       "Seattle Mariners",
       "Tampa Bay Rays"
     ],
-    "college": [],
+    "college": [
+      "Rice University"
+    ],
     "numbers": [
       "47",
       "60",
@@ -141723,7 +142146,9 @@ export const MLB_PLAYERS = [
       "ATH",
       "Oakland Athletics"
     ],
-    "college": [],
+    "college": [
+      "Mississippi State University"
+    ],
     "numbers": [
       "35",
       "70"
@@ -141755,7 +142180,9 @@ export const MLB_PLAYERS = [
       "Minnesota Twins",
       "Pittsburgh Pirates"
     ],
-    "college": [],
+    "college": [
+      "University of Kentucky"
+    ],
     "numbers": [
       "10",
       "15",
@@ -141790,7 +142217,9 @@ export const MLB_PLAYERS = [
       "Houston Astros",
       "Los Angeles Angels"
     ],
-    "college": [],
+    "college": [
+      "The Ohio State University"
+    ],
     "numbers": [
       "3",
       "8",
@@ -141896,7 +142325,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Detroit Tigers"
     ],
-    "college": [],
+    "college": [
+      "Texas Tech University"
+    ],
     "numbers": [
       "17"
     ],
@@ -142825,7 +143256,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Los Angeles Dodgers"
     ],
-    "college": [],
+    "college": [
+      "University of Iowa"
+    ],
     "numbers": [
       "86"
     ],
@@ -143711,7 +144144,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Seattle Mariners"
     ],
-    "college": [],
+    "college": [
+      "University of California, San Diego"
+    ],
     "numbers": [
       "74"
     ],
@@ -144009,7 +144444,9 @@ export const MLB_PLAYERS = [
       "Los Angeles Angels",
       "Seattle Mariners"
     ],
-    "college": [],
+    "college": [
+      "University of Oklahoma"
+    ],
     "numbers": [
       "8",
       "9"
@@ -145895,7 +146332,9 @@ export const MLB_PLAYERS = [
       "Oakland Athletics",
       "Tampa Bay Rays"
     ],
-    "college": [],
+    "college": [
+      "College of the Canyons"
+    ],
     "numbers": [
       "57",
       "74"
@@ -146055,7 +146494,9 @@ export const MLB_PLAYERS = [
       "Tampa Bay Rays",
       "Toronto Blue Jays"
     ],
-    "college": [],
+    "college": [
+      "University of Mississippi"
+    ],
     "numbers": [
       "40",
       "62"
@@ -146072,7 +146513,9 @@ export const MLB_PLAYERS = [
       "Los Angeles Angels",
       "Texas Rangers"
     ],
-    "college": [],
+    "college": [
+      "Tabor College"
+    ],
     "numbers": [
       "66",
       "71"
@@ -146210,7 +146653,9 @@ export const MLB_PLAYERS = [
       "New York Mets",
       "Tampa Bay Rays"
     ],
-    "college": [],
+    "college": [
+      "Inha University"
+    ],
     "numbers": [
       "26",
       "40"
@@ -147062,7 +147507,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Miami Marlins"
     ],
-    "college": [],
+    "college": [
+      "Union College"
+    ],
     "numbers": [
       "94"
     ],
@@ -147509,7 +147956,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Washington Nationals"
     ],
-    "college": [],
+    "college": [
+      "Florida Gulf Coast University"
+    ],
     "numbers": [
       "18"
     ],
@@ -147633,7 +148082,9 @@ export const MLB_PLAYERS = [
       "Los Angeles Dodgers",
       "New York Mets"
     ],
-    "college": [],
+    "college": [
+      "University of Oregon"
+    ],
     "numbers": [
       "46",
       "57",
@@ -148048,7 +148499,9 @@ export const MLB_PLAYERS = [
       "Tampa Bay Rays",
       "Texas Rangers"
     ],
-    "college": [],
+    "college": [
+      "University of Arkansas"
+    ],
     "numbers": [
       "68"
     ],
@@ -148077,7 +148530,9 @@ export const MLB_PLAYERS = [
       "Detroit Tigers",
       "Texas Rangers"
     ],
-    "college": [],
+    "college": [
+      "Southern Illinois University Carbondale"
+    ],
     "numbers": [
       "33",
       "35",
@@ -148156,7 +148611,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Washington Nationals"
     ],
-    "college": [],
+    "college": [
+      "University of Michigan"
+    ],
     "numbers": [
       "64"
     ],
@@ -148532,7 +148989,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Pittsburgh Pirates"
     ],
-    "college": [],
+    "college": [
+      "Duke University"
+    ],
     "numbers": [
       "74"
     ],
@@ -148544,7 +149003,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Kansas City Royals"
     ],
-    "college": [],
+    "college": [
+      "University of Mississippi"
+    ],
     "numbers": [
       "66"
     ],
@@ -148679,7 +149140,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "St. Louis Cardinals"
     ],
-    "college": [],
+    "college": [
+      "University of Alabama at Birmingham"
+    ],
     "numbers": [
       "68"
     ],
@@ -148851,7 +149314,9 @@ export const MLB_PLAYERS = [
       "Los Angeles Dodgers",
       "San Francisco Giants"
     ],
-    "college": [],
+    "college": [
+      "University of Oregon"
+    ],
     "numbers": [
       "54",
       "58",
@@ -149386,7 +149851,9 @@ export const MLB_PLAYERS = [
       "Texas Rangers",
       "Toronto Blue Jays"
     ],
-    "college": [],
+    "college": [
+      "University of Toledo"
+    ],
     "numbers": [
       "28",
       "31"
@@ -149726,7 +150193,9 @@ export const MLB_PLAYERS = [
       "Seattle Mariners",
       "Toronto Blue Jays"
     ],
-    "college": [],
+    "college": [
+      "Southwest Mississippi Community College"
+    ],
     "numbers": [
       "1",
       "6",
@@ -150081,7 +150550,9 @@ export const MLB_PLAYERS = [
       "Arizona Diamondbacks",
       "Los Angeles Angels"
     ],
-    "college": [],
+    "college": [
+      "Valdosta State University"
+    ],
     "numbers": [
       "12",
       "17",
@@ -150298,7 +150769,9 @@ export const MLB_PLAYERS = [
       "Detroit Tigers",
       "San Francisco Giants"
     ],
-    "college": [],
+    "college": [
+      "Sacred Heart University"
+    ],
     "numbers": [
       "64",
       "68"
@@ -150465,7 +150938,9 @@ export const MLB_PLAYERS = [
       "Colorado Rockies",
       "Los Angeles Angels"
     ],
-    "college": [],
+    "college": [
+      "Angelina College"
+    ],
     "numbers": [
       "51",
       "65"
@@ -150758,7 +151233,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "San Francisco Giants"
     ],
-    "college": [],
+    "college": [
+      "Dallas Baptist University"
+    ],
     "numbers": [
       "56"
     ],
@@ -151079,7 +151556,9 @@ export const MLB_PLAYERS = [
       "Milwaukee Brewers",
       "Pittsburgh Pirates"
     ],
-    "college": [],
+    "college": [
+      "Columbus State University"
+    ],
     "numbers": [
       "15"
     ],
@@ -151330,7 +151809,9 @@ export const MLB_PLAYERS = [
       "San Francisco Giants",
       "Seattle Mariners"
     ],
-    "college": [],
+    "college": [
+      "Northeastern University"
+    ],
     "numbers": [
       "32",
       "35"
@@ -151343,7 +151824,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Chicago Cubs"
     ],
-    "college": [],
+    "college": [
+      "Riverside City College"
+    ],
     "numbers": [
       "43"
     ],
@@ -152314,7 +152797,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Chicago Cubs"
     ],
-    "college": [],
+    "college": [
+      "Chipola College"
+    ],
     "numbers": [
       "37"
     ],
@@ -152339,7 +152824,9 @@ export const MLB_PLAYERS = [
       "Boston Red Sox",
       "San Francisco Giants"
     ],
-    "college": [],
+    "college": [
+      "Appalachian State University"
+    ],
     "numbers": [
       "43",
       "49"
@@ -152417,7 +152904,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "New York Yankees"
     ],
-    "college": [],
+    "college": [
+      "Lynn University"
+    ],
     "numbers": [
       "88"
     ],
@@ -153343,7 +153832,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Detroit Tigers"
     ],
-    "college": [],
+    "college": [
+      "Pitt Community College"
+    ],
     "numbers": [
       "26",
       "66"
@@ -154189,7 +154680,9 @@ export const MLB_PLAYERS = [
       "Seattle Mariners",
       "Texas Rangers"
     ],
-    "college": [],
+    "college": [
+      "Community College of Baltimore County, Catonsville Campus"
+    ],
     "numbers": [
       "43"
     ],
@@ -155182,7 +155675,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Cleveland Guardians"
     ],
-    "college": [],
+    "college": [
+      "Washburn University"
+    ],
     "numbers": [
       "32"
     ],
@@ -155652,7 +156147,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Atlanta Braves"
     ],
-    "college": [],
+    "college": [
+      "Gardner-Webb University"
+    ],
     "numbers": [
       "63"
     ],
@@ -157036,7 +157533,9 @@ export const MLB_PLAYERS = [
       "Colorado Rockies",
       "Kansas City Royals"
     ],
-    "college": [],
+    "college": [
+      "Felician University"
+    ],
     "numbers": [
       "30",
       "51"
@@ -167149,7 +167648,9 @@ export const MLB_PLAYERS = [
       "Atlanta Braves",
       "Cleveland Guardians"
     ],
-    "college": [],
+    "college": [
+      "Riverside City College"
+    ],
     "numbers": [
       "43",
       "58"
@@ -168331,7 +168832,9 @@ export const MLB_PLAYERS = [
       "Arizona Diamondbacks",
       "Boston Red Sox"
     ],
-    "college": [],
+    "college": [
+      "Manhattan University"
+    ],
     "numbers": [
       "55",
       "78"
@@ -168743,7 +169246,9 @@ export const MLB_PLAYERS = [
       "Tampa Bay Rays",
       "Washington Nationals"
     ],
-    "college": [],
+    "college": [
+      "St. John's University"
+    ],
     "numbers": [
       "53",
       "66"
@@ -170424,7 +170929,9 @@ export const MLB_PLAYERS = [
       "Florida Marlins",
       "Montreal Expos"
     ],
-    "college": [],
+    "college": [
+      "Central Michigan University"
+    ],
     "numbers": [
       "30"
     ],
@@ -171569,7 +172076,9 @@ export const MLB_PLAYERS = [
       "Tampa Bay Rays",
       "Washington Nationals"
     ],
-    "college": [],
+    "college": [
+      "Ventura College"
+    ],
     "numbers": [
       "52",
       "57",
@@ -172606,7 +173115,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Pittsburgh Pirates"
     ],
-    "college": [],
+    "college": [
+      "University of Texas at San Antonio"
+    ],
     "numbers": [
       "64"
     ],
@@ -174011,7 +174522,9 @@ export const MLB_PLAYERS = [
       "San Diego Padres",
       "Tampa Bay Rays"
     ],
-    "college": [],
+    "college": [
+      "George Washington University"
+    ],
     "numbers": [
       "6",
       "15",
@@ -175051,7 +175564,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Pittsburgh Pirates"
     ],
-    "college": [],
+    "college": [
+      "Salt Lake Community College"
+    ],
     "numbers": [
       "43"
     ],
@@ -175220,7 +175735,9 @@ export const MLB_PLAYERS = [
       "Seattle Mariners",
       "Tampa Bay Rays"
     ],
-    "college": [],
+    "college": [
+      "Southwestern College"
+    ],
     "numbers": [
       "5",
       "27",
@@ -176170,7 +176687,9 @@ export const MLB_PLAYERS = [
       "Kansas City Royals",
       "Miami Marlins"
     ],
-    "college": [],
+    "college": [
+      "Texas Tech University"
+    ],
     "numbers": [
       "58",
       "66"
@@ -176640,7 +177159,9 @@ export const MLB_PLAYERS = [
       "Pittsburgh Pirates",
       "St. Louis Cardinals"
     ],
-    "college": [],
+    "college": [
+      "Florida State University"
+    ],
     "numbers": [
       "34",
       "69"
@@ -177190,7 +177711,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Kansas City Royals"
     ],
-    "college": [],
+    "college": [
+      "Illinois State University"
+    ],
     "numbers": [
       "16"
     ],
@@ -177369,7 +177892,9 @@ export const MLB_PLAYERS = [
       "Tampa Bay Rays",
       "Texas Rangers"
     ],
-    "college": [],
+    "college": [
+      "Mercer University"
+    ],
     "numbers": [
       "48",
       "49"
@@ -179611,7 +180136,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Milwaukee Brewers"
     ],
-    "college": [],
+    "college": [
+      "Florida State College at Jacksonville"
+    ],
     "numbers": [
       "40"
     ],
@@ -180085,7 +180612,9 @@ export const MLB_PLAYERS = [
       "New York Mets",
       "San Francisco Giants"
     ],
-    "college": [],
+    "college": [
+      "Seminole State College of Florida"
+    ],
     "numbers": [
       "12",
       "19"
@@ -181569,7 +182098,9 @@ export const MLB_PLAYERS = [
       "New York Yankees",
       "Toronto Blue Jays"
     ],
-    "college": [],
+    "college": [
+      "University of Central Arkansas"
+    ],
     "numbers": [
       "3",
       "36",
@@ -181601,7 +182132,9 @@ export const MLB_PLAYERS = [
       "Baltimore Orioles",
       "Kansas City Royals"
     ],
-    "college": [],
+    "college": [
+      "Oklahoma State University"
+    ],
     "numbers": [
       "49",
       "52"
@@ -181813,7 +182346,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "New York Mets"
     ],
-    "college": [],
+    "college": [
+      "Shorter University"
+    ],
     "numbers": [
       "91"
     ],
@@ -182007,7 +182542,9 @@ export const MLB_PLAYERS = [
       "Tampa Bay Rays",
       "Washington Nationals"
     ],
-    "college": [],
+    "college": [
+      "Indian River State College"
+    ],
     "numbers": [
       "39",
       "48",
@@ -182382,7 +182919,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Cincinnati Reds"
     ],
-    "college": [],
+    "college": [
+      "College of Southern Nevada"
+    ],
     "numbers": [
       "62"
     ],
@@ -182411,7 +182950,9 @@ export const MLB_PLAYERS = [
       "Los Angeles Angels",
       "St. Louis Cardinals"
     ],
-    "college": [],
+    "college": [
+      "Grayson College"
+    ],
     "numbers": [
       "51",
       "52",
@@ -183520,7 +184061,9 @@ export const MLB_PLAYERS = [
       "Kansas City Royals",
       "Toronto Blue Jays"
     ],
-    "college": [],
+    "college": [
+      "University of Maryland"
+    ],
     "numbers": [
       "74"
     ],
@@ -183532,7 +184075,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Boston Red Sox"
     ],
-    "college": [],
+    "college": [
+      "Texarkana College"
+    ],
     "numbers": [
       "65"
     ],
@@ -184997,7 +185542,9 @@ export const MLB_PLAYERS = [
       "Seattle Mariners",
       "Tampa Bay Rays"
     ],
-    "college": [],
+    "college": [
+      "Huntingdon College"
+    ],
     "numbers": [
       "54",
       "64"
@@ -185553,7 +186100,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Cleveland Guardians"
     ],
-    "college": [],
+    "college": [
+      "Indiana Institute of Technology"
+    ],
     "numbers": [
       "45"
     ],
@@ -185625,7 +186174,9 @@ export const MLB_PLAYERS = [
       "Baltimore Orioles",
       "Detroit Tigers"
     ],
-    "college": [],
+    "college": [
+      "University of Missouri"
+    ],
     "numbers": [
       "49",
       "58"
@@ -185678,7 +186229,9 @@ export const MLB_PLAYERS = [
       "Oakland Athletics",
       "St. Louis Cardinals"
     ],
-    "college": [],
+    "college": [
+      "State College of Florida, Manatee-Sarasota"
+    ],
     "numbers": [
       "54",
       "70",
@@ -185928,7 +186481,9 @@ export const MLB_PLAYERS = [
       "Los Angeles Dodgers",
       "Oakland Athletics"
     ],
-    "college": [],
+    "college": [
+      "Middle Georgia State University"
+    ],
     "numbers": [
       "11",
       "16",
@@ -189905,7 +190460,9 @@ export const MLB_PLAYERS = [
       "St. Louis Cardinals",
       "Toronto Blue Jays"
     ],
-    "college": [],
+    "college": [
+      "California Polytechnic State University, San Luis Obispo"
+    ],
     "numbers": [
       "47",
       "55",
@@ -189964,7 +190521,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Philadelphia Phillies"
     ],
-    "college": [],
+    "college": [
+      "Ventura College"
+    ],
     "numbers": [
       "30",
       "79"
@@ -190065,7 +190624,9 @@ export const MLB_PLAYERS = [
       "Cleveland Guardians",
       "New York Mets"
     ],
-    "college": [],
+    "college": [
+      "California State University, Fullerton"
+    ],
     "numbers": [
       "63",
       "71"
@@ -190123,7 +190684,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "New York Mets"
     ],
-    "college": [],
+    "college": [
+      "Pennsylvania State University"
+    ],
     "numbers": [
       "47",
       "51"
@@ -190452,7 +191015,9 @@ export const MLB_PLAYERS = [
       "Cleveland Guardians",
       "Los Angeles Dodgers"
     ],
-    "college": [],
+    "college": [
+      "California State University, Fullerton"
+    ],
     "numbers": [
       "1",
       "12"
@@ -190567,7 +191132,9 @@ export const MLB_PLAYERS = [
       "Oakland Athletics",
       "Tampa Bay Rays"
     ],
-    "college": [],
+    "college": [
+      "Brigham Young University"
+    ],
     "numbers": [
       "28",
       "60"
@@ -190616,7 +191183,9 @@ export const MLB_PLAYERS = [
       "Minnesota Twins",
       "Seattle Mariners"
     ],
-    "college": [],
+    "college": [
+      "Long Island University, Brooklyn Campus"
+    ],
     "numbers": [
       "48",
       "56"
@@ -190809,7 +191378,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "New York Mets"
     ],
-    "college": [],
+    "college": [
+      "Miami Dade College, Kendall Campus"
+    ],
     "numbers": [
       "27"
     ],
@@ -190948,7 +191519,9 @@ export const MLB_PLAYERS = [
       "Boston Red Sox",
       "Houston Astros"
     ],
-    "college": [],
+    "college": [
+      "Aquinas College"
+    ],
     "numbers": [
       "61",
       "63",
@@ -190984,7 +191557,9 @@ export const MLB_PLAYERS = [
       "Seattle Mariners",
       "Texas Rangers"
     ],
-    "college": [],
+    "college": [
+      "California State University, Northridge"
+    ],
     "numbers": [
       "31",
       "40",
@@ -191034,7 +191609,9 @@ export const MLB_PLAYERS = [
       "Kansas City Royals",
       "Seattle Mariners"
     ],
-    "college": [],
+    "college": [
+      "Saddleback College"
+    ],
     "numbers": [
       "50",
       "54"
@@ -191274,7 +191851,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "San Diego Padres"
     ],
-    "college": [],
+    "college": [
+      "Heisei Kokusai University"
+    ],
     "numbers": [
       "53"
     ],
@@ -191286,7 +191865,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Cleveland Guardians"
     ],
-    "college": [],
+    "college": [
+      "Rikkyo University"
+    ],
     "numbers": [
       "49"
     ],
@@ -191377,7 +191958,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "San Francisco Giants"
     ],
-    "college": [],
+    "college": [
+      "Iowa Western Community College"
+    ],
     "numbers": [
       "67"
     ],
@@ -191478,7 +192061,9 @@ export const MLB_PLAYERS = [
       "Oakland Athletics",
       "San Francisco Giants"
     ],
-    "college": [],
+    "college": [
+      "Tokyo Keizei University"
+    ],
     "numbers": [
       "13",
       "22"
@@ -191660,7 +192245,9 @@ export const MLB_PLAYERS = [
       "Arizona Diamondbacks",
       "San Diego Padres"
     ],
-    "college": [],
+    "college": [
+      "Coastal Carolina University"
+    ],
     "numbers": [
       "54",
       "56"
@@ -193362,7 +193949,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "New York Mets"
     ],
-    "college": [],
+    "college": [
+      "Takushoku University"
+    ],
     "numbers": [
       "36"
     ],
@@ -193649,7 +194238,9 @@ export const MLB_PLAYERS = [
       "Tampa Bay Rays",
       "Washington Nationals"
     ],
-    "college": [],
+    "college": [
+      "University of Miami"
+    ],
     "numbers": [
       "15",
       "29",
@@ -193729,7 +194320,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Los Angeles Angels"
     ],
-    "college": [],
+    "college": [
+      "California State University, Northridge"
+    ],
     "numbers": [
       "53",
       "78"
@@ -193754,7 +194347,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Atlanta Braves"
     ],
-    "college": [],
+    "college": [
+      "Meiji University"
+    ],
     "numbers": [
       "11"
     ],
@@ -193814,7 +194409,9 @@ export const MLB_PLAYERS = [
       "Houston Astros",
       "Miami Marlins"
     ],
-    "college": [],
+    "college": [
+      "University of North Carolina at Chapel Hill"
+    ],
     "numbers": [
       "0",
       "74"
@@ -193871,7 +194468,9 @@ export const MLB_PLAYERS = [
       "Los Angeles Angels",
       "St. Louis Cardinals"
     ],
-    "college": [],
+    "college": [
+      "Otterbein University"
+    ],
     "numbers": [
       "41",
       "43",
@@ -194797,7 +195396,9 @@ export const MLB_PLAYERS = [
       "New York Mets",
       "Tampa Bay Rays"
     ],
-    "college": [],
+    "college": [
+      "Kean University"
+    ],
     "numbers": [
       "44",
       "57"
@@ -194947,7 +195548,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Tampa Bay Rays"
     ],
-    "college": [],
+    "college": [
+      "James Madison University"
+    ],
     "numbers": [
       "49"
     ],
@@ -194961,7 +195564,9 @@ export const MLB_PLAYERS = [
       "Tampa Bay Rays",
       "Toronto Blue Jays"
     ],
-    "college": [],
+    "college": [
+      "Parkland College"
+    ],
     "numbers": [
       "39",
       "93"
@@ -195152,7 +195757,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "New York Mets"
     ],
-    "college": [],
+    "college": [
+      "Franklin Pierce University"
+    ],
     "numbers": [
       "61"
     ],
@@ -195564,7 +196171,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Texas Rangers"
     ],
-    "college": [],
+    "college": [
+      "Gonzaga University"
+    ],
     "numbers": [
       "61"
     ],
@@ -195686,7 +196295,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Cincinnati Reds"
     ],
-    "college": [],
+    "college": [
+      "Marshall University"
+    ],
     "numbers": [
       "41"
     ],
@@ -195699,7 +196310,9 @@ export const MLB_PLAYERS = [
       "Philadelphia Phillies",
       "St. Louis Cardinals"
     ],
-    "college": [],
+    "college": [
+      "Palm Beach State College"
+    ],
     "numbers": [
       "46",
       "54"
@@ -195813,7 +196426,9 @@ export const MLB_PLAYERS = [
       "Boston Red Sox",
       "Detroit Tigers"
     ],
-    "college": [],
+    "college": [
+      "State College of Florida, Manatee-Sarasota"
+    ],
     "numbers": [
       "51",
       "52"
@@ -196605,7 +197220,9 @@ export const MLB_PLAYERS = [
       "Seattle Mariners",
       "Toronto Blue Jays"
     ],
-    "college": [],
+    "college": [
+      "University of Florida"
+    ],
     "numbers": [
       "43",
       "54",
@@ -196636,7 +197253,9 @@ export const MLB_PLAYERS = [
       "Tampa Bay Rays",
       "Texas Rangers"
     ],
-    "college": [],
+    "college": [
+      "Yavapai College"
+    ],
     "numbers": [
       "22",
       "38",
@@ -197055,7 +197674,9 @@ export const MLB_PLAYERS = [
       "Chicago Cubs",
       "Texas Rangers"
     ],
-    "college": [],
+    "college": [
+      "Osaka Taiiku University"
+    ],
     "numbers": [
       "19"
     ],
@@ -197132,7 +197753,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Los Angeles Angels"
     ],
-    "college": [],
+    "college": [
+      "Columbus State University"
+    ],
     "numbers": [
       "66"
     ],
@@ -197154,7 +197777,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Baltimore Orioles"
     ],
-    "college": [],
+    "college": [
+      "University of Arizona"
+    ],
     "numbers": [
       "79"
     ],
@@ -197394,7 +198019,9 @@ export const MLB_PLAYERS = [
       "Atlanta Braves",
       "Kansas City Royals"
     ],
-    "college": [],
+    "college": [
+      "Santa Ana College"
+    ],
     "numbers": [
       "39",
       "47",
@@ -197454,7 +198081,9 @@ export const MLB_PLAYERS = [
       "Los Angeles Dodgers",
       "Seattle Mariners"
     ],
-    "college": [],
+    "college": [
+      "Cosumnes River College"
+    ],
     "numbers": [
       "9",
       "17",
@@ -197468,7 +198097,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Texas Rangers"
     ],
-    "college": [],
+    "college": [
+      "Vanderbilt University"
+    ],
     "numbers": [
       "80"
     ],
@@ -197484,7 +198115,9 @@ export const MLB_PLAYERS = [
       "New York Mets",
       "Oakland Athletics"
     ],
-    "college": [],
+    "college": [
+      "St. Petersburg College"
+    ],
     "numbers": [
       "7",
       "11",
@@ -197699,7 +198332,9 @@ export const MLB_PLAYERS = [
       "Arizona Diamondbacks",
       "Philadelphia Phillies"
     ],
-    "college": [],
+    "college": [
+      "Sam Houston State University"
+    ],
     "numbers": [
       "19",
       "43"
@@ -197749,7 +198384,9 @@ export const MLB_PLAYERS = [
       "San Diego Padres",
       "Texas Rangers"
     ],
-    "college": [],
+    "college": [
+      "Yavapai College"
+    ],
     "numbers": [
       "88"
     ],
@@ -197931,7 +198568,9 @@ export const MLB_PLAYERS = [
       "Pittsburgh Pirates",
       "Tampa Bay Rays"
     ],
-    "college": [],
+    "college": [
+      "Abraham Baldwin Agricultural College"
+    ],
     "numbers": [
       "25",
       "40",
@@ -198252,7 +198891,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "San Diego Padres"
     ],
-    "college": [],
+    "college": [
+      "University of Evansville"
+    ],
     "numbers": [
       "49"
     ],
@@ -198808,7 +199449,9 @@ export const MLB_PLAYERS = [
       "Minnesota Twins",
       "San Francisco Giants"
     ],
-    "college": [],
+    "college": [
+      "University of Maryland"
+    ],
     "numbers": [
       "30",
       "31",
@@ -201067,7 +201710,9 @@ export const MLB_PLAYERS = [
       "Arizona Diamondbacks",
       "San Francisco Giants"
     ],
-    "college": [],
+    "college": [
+      "California State University, Fullerton"
+    ],
     "numbers": [
       "4",
       "56"
@@ -202900,7 +203545,9 @@ export const MLB_PLAYERS = [
       "Milwaukee Brewers",
       "New York Mets"
     ],
-    "college": [],
+    "college": [
+      "Miami Dade College, North Campus"
+    ],
     "numbers": [
       "10",
       "16",
@@ -205789,7 +206436,9 @@ export const MLB_PLAYERS = [
       "Baltimore Orioles",
       "San Diego Padres"
     ],
-    "college": [],
+    "college": [
+      "Oxnard College"
+    ],
     "numbers": [
       "71"
     ],
@@ -205845,7 +206494,9 @@ export const MLB_PLAYERS = [
       "Seattle Mariners",
       "Tampa Bay Rays"
     ],
-    "college": [],
+    "college": [
+      "Metropolitan Community College-Maple Woods"
+    ],
     "numbers": [
       "5",
       "7",
@@ -205875,7 +206526,9 @@ export const MLB_PLAYERS = [
       "Baltimore Orioles",
       "Cincinnati Reds"
     ],
-    "college": [],
+    "college": [
+      "McLennan Community College"
+    ],
     "numbers": [
       "51",
       "66"
@@ -205920,7 +206573,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Houston Astros"
     ],
-    "college": [],
+    "college": [
+      "Missouri Southern State University"
+    ],
     "numbers": [
       "64"
     ],
@@ -206203,7 +206858,9 @@ export const MLB_PLAYERS = [
       "Kansas City Royals",
       "Milwaukee Brewers"
     ],
-    "college": [],
+    "college": [
+      "Tallahassee State College"
+    ],
     "numbers": [
       "6",
       "36"
@@ -207346,7 +208003,9 @@ export const MLB_PLAYERS = [
       "Minnesota Twins",
       "Toronto Blue Jays"
     ],
-    "college": [],
+    "college": [
+      "Concordia University"
+    ],
     "numbers": [
       "37",
       "49",
@@ -208213,7 +208872,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Baltimore Orioles"
     ],
-    "college": [],
+    "college": [
+      "St. Petersburg College"
+    ],
     "numbers": [
       "59"
     ],
@@ -209445,7 +210106,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Milwaukee Brewers"
     ],
-    "college": [],
+    "college": [
+      "California State University, Chico"
+    ],
     "numbers": [
       "49"
     ],
@@ -212024,7 +212687,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "St. Louis Cardinals"
     ],
-    "college": [],
+    "college": [
+      "Palomar College"
+    ],
     "numbers": [
       "67"
     ],
@@ -213228,7 +213893,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Texas Rangers"
     ],
-    "college": [],
+    "college": [
+      "Minnesota North College-Mesabi Range"
+    ],
     "numbers": [
       "58"
     ],
@@ -216033,7 +216700,9 @@ export const MLB_PLAYERS = [
       "Toronto Blue Jays",
       "Washington Nationals"
     ],
-    "college": [],
+    "college": [
+      "Broward College"
+    ],
     "numbers": [
       "35",
       "38",
@@ -216218,7 +216887,9 @@ export const MLB_PLAYERS = [
       "San Diego Padres",
       "San Francisco Giants"
     ],
-    "college": [],
+    "college": [
+      "Belmont University"
+    ],
     "numbers": [
       "27",
       "45"
@@ -216343,7 +217014,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Arizona Diamondbacks"
     ],
-    "college": [],
+    "college": [
+      "Vanderbilt University"
+    ],
     "numbers": [
       "45"
     ],
@@ -216448,7 +217121,9 @@ export const MLB_PLAYERS = [
       "Minnesota Twins",
       "Oakland Athletics"
     ],
-    "college": [],
+    "college": [
+      "Brigham Young University"
+    ],
     "numbers": [
       "7",
       "22",
@@ -216463,7 +217138,9 @@ export const MLB_PLAYERS = [
       "Miami Marlins",
       "Washington Nationals"
     ],
-    "college": [],
+    "college": [
+      "Missouri State University"
+    ],
     "numbers": [
       "43",
       "47"
@@ -216932,7 +217609,9 @@ export const MLB_PLAYERS = [
       "Los Angeles Dodgers",
       "Minnesota Twins"
     ],
-    "college": [],
+    "college": [
+      "Kent State University"
+    ],
     "numbers": [
       "51",
       "54",
@@ -217012,7 +217691,9 @@ export const MLB_PLAYERS = [
       "Anaheim Angels",
       "Los Angeles Angels"
     ],
-    "college": [],
+    "college": [
+      "Grossmont College"
+    ],
     "numbers": [
       "52"
     ],
@@ -217543,7 +218224,9 @@ export const MLB_PLAYERS = [
       "Chicago Cubs",
       "Miami Marlins"
     ],
-    "college": [],
+    "college": [
+      "Duke University"
+    ],
     "numbers": [
       "22",
       "36"
@@ -217696,7 +218379,9 @@ export const MLB_PLAYERS = [
       "Pittsburgh Pirates",
       "St. Louis Cardinals"
     ],
-    "college": [],
+    "college": [
+      "Central Arizona College"
+    ],
     "numbers": [
       "11",
       "15",
@@ -217779,7 +218464,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "St. Louis Cardinals"
     ],
-    "college": [],
+    "college": [
+      "University of Maine"
+    ],
     "numbers": [
       "67"
     ],
@@ -217903,7 +218590,9 @@ export const MLB_PLAYERS = [
       "Minnesota Twins",
       "Toronto Blue Jays"
     ],
-    "college": [],
+    "college": [
+      "Eastern Michigan University"
+    ],
     "numbers": [
       "32",
       "34",
@@ -218474,7 +219163,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Baltimore Orioles"
     ],
-    "college": [],
+    "college": [
+      "University of Pittsburgh"
+    ],
     "numbers": [
       "71"
     ],
@@ -218620,7 +219311,9 @@ export const MLB_PLAYERS = [
       "Minnesota Twins",
       "Washington Nationals"
     ],
-    "college": [],
+    "college": [
+      "Clemson University"
+    ],
     "numbers": [
       "18",
       "23",
@@ -218671,7 +219364,9 @@ export const MLB_PLAYERS = [
       "New York Mets",
       "Washington Nationals"
     ],
-    "college": [],
+    "college": [
+      "University of Florida"
+    ],
     "numbers": [
       "6",
       "21",
@@ -219499,7 +220194,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Colorado Rockies"
     ],
-    "college": [],
+    "college": [
+      "Indiana University Bloomington"
+    ],
     "numbers": [
       "51"
     ],
@@ -219553,7 +220250,9 @@ export const MLB_PLAYERS = [
       "Los Angeles Dodgers",
       "New York Mets"
     ],
-    "college": [],
+    "college": [
+      "Brigham Young University"
+    ],
     "numbers": [
       "23",
       "26",
@@ -221372,7 +222071,9 @@ export const MLB_PLAYERS = [
       "Seattle Mariners",
       "Toronto Blue Jays"
     ],
-    "college": [],
+    "college": [
+      "Tallahassee State College"
+    ],
     "numbers": [
       "5",
       "21",
@@ -221438,7 +222139,9 @@ export const MLB_PLAYERS = [
       "Los Angeles Angels",
       "Toronto Blue Jays"
     ],
-    "college": [],
+    "college": [
+      "Westmont College"
+    ],
     "numbers": [
       "16",
       "38"
@@ -222032,7 +222735,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Oakland Athletics"
     ],
-    "college": [],
+    "college": [
+      "University of Illinois at Chicago"
+    ],
     "numbers": [
       "79"
     ],
@@ -223285,7 +223990,9 @@ export const MLB_PLAYERS = [
       "Los Angeles Dodgers",
       "Toronto Blue Jays"
     ],
-    "college": [],
+    "college": [
+      "University of Arkansas"
+    ],
     "numbers": [
       "46",
       "49"
@@ -223361,7 +224068,9 @@ export const MLB_PLAYERS = [
       "Milwaukee Brewers",
       "Tampa Bay Rays"
     ],
-    "college": [],
+    "college": [
+      "Oakland University"
+    ],
     "numbers": [
       "10",
       "20",
@@ -224108,7 +224817,9 @@ export const MLB_PLAYERS = [
       "St. Louis Cardinals",
       "Tampa Bay Rays"
     ],
-    "college": [],
+    "college": [
+      "University of Tennessee"
+    ],
     "numbers": [
       "8",
       "9",
@@ -224145,7 +224856,8 @@ export const MLB_PLAYERS = [
       "Tampa Bay Rays"
     ],
     "college": [
-      "Tennessee"
+      "Tennessee",
+      "University of Tennessee"
     ],
     "numbers": [],
     "league": "MLB",
@@ -224237,7 +224949,9 @@ export const MLB_PLAYERS = [
       "Miami Marlins",
       "New York Yankees"
     ],
-    "college": [],
+    "college": [
+      "College of Southern Nevada"
+    ],
     "numbers": [
       "31",
       "38",
@@ -224617,7 +225331,9 @@ export const MLB_PLAYERS = [
       "San Francisco Giants",
       "Seattle Mariners"
     ],
-    "college": [],
+    "college": [
+      "Princeton University"
+    ],
     "numbers": [
       "20",
       "34",
@@ -224666,7 +225382,9 @@ export const MLB_PLAYERS = [
       "Los Angeles Dodgers",
       "Seattle Mariners"
     ],
-    "college": [],
+    "college": [
+      "Clemson University"
+    ],
     "numbers": [
       "4",
       "6",
@@ -224835,7 +225553,9 @@ export const MLB_PLAYERS = [
       "Detroit Tigers",
       "San Francisco Giants"
     ],
-    "college": [],
+    "college": [
+      "Creighton University"
+    ],
     "numbers": [
       "13",
       "34"
@@ -225596,7 +226316,9 @@ export const MLB_PLAYERS = [
       "Tampa Bay Rays",
       "Texas Rangers"
     ],
-    "college": [],
+    "college": [
+      "Grossmont College"
+    ],
     "numbers": [
       "50",
       "58",
@@ -226435,7 +227157,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Milwaukee Brewers"
     ],
-    "college": [],
+    "college": [
+      "Seminole State College of Florida"
+    ],
     "numbers": [
       "58"
     ],
@@ -228684,7 +229408,9 @@ export const MLB_PLAYERS = [
       "Chicago White Sox",
       "Seattle Mariners"
     ],
-    "college": [],
+    "college": [
+      "East Carolina University"
+    ],
     "numbers": [
       "41",
       "43",
@@ -229977,7 +230703,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Pittsburgh Pirates"
     ],
-    "college": [],
+    "college": [
+      "Bethune-Cookman University"
+    ],
     "numbers": [
       "64"
     ],
@@ -231287,7 +232015,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Chicago Cubs"
     ],
-    "college": [],
+    "college": [
+      "Rowan College of South Jersey-Gloucester"
+    ],
     "numbers": [
       "24"
     ],
@@ -231619,7 +232349,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "New York Mets"
     ],
-    "college": [],
+    "college": [
+      "University of Nebraska-Lincoln"
+    ],
     "numbers": [
       "64"
     ],
@@ -231752,7 +232484,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Oakland Athletics"
     ],
-    "college": [],
+    "college": [
+      "Wake Forest University"
+    ],
     "numbers": [
       "53"
     ],
@@ -231790,7 +232524,9 @@ export const MLB_PLAYERS = [
       "Milwaukee Brewers",
       "Oakland Athletics"
     ],
-    "college": [],
+    "college": [
+      "Baylor University"
+    ],
     "numbers": [
       "2",
       "45"
@@ -231986,7 +232722,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Toronto Blue Jays"
     ],
-    "college": [],
+    "college": [
+      "California State University, Sacramento"
+    ],
     "numbers": [
       "38"
     ],
@@ -232573,7 +233311,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Arizona Diamondbacks"
     ],
-    "college": [],
+    "college": [
+      "Cuesta College"
+    ],
     "numbers": [
       "76"
     ],
@@ -232952,7 +233692,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Milwaukee Brewers"
     ],
-    "college": [],
+    "college": [
+      "Indiana State University"
+    ],
     "numbers": [
       "5"
     ],
@@ -233062,7 +233804,9 @@ export const MLB_PLAYERS = [
       "Chicago Cubs",
       "Chicago White Sox"
     ],
-    "college": [],
+    "college": [
+      "Grayson College"
+    ],
     "numbers": [
       "58",
       "61"
@@ -233129,7 +233873,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Toronto Blue Jays"
     ],
-    "college": [],
+    "college": [
+      "University of Iowa"
+    ],
     "numbers": [
       "51"
     ],
@@ -233346,7 +234092,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Seattle Mariners"
     ],
-    "college": [],
+    "college": [
+      "University of South Florida"
+    ],
     "numbers": [
       "82"
     ],
@@ -233932,7 +234680,9 @@ export const MLB_PLAYERS = [
       "Milwaukee Brewers",
       "Pittsburgh Pirates"
     ],
-    "college": [],
+    "college": [
+      "Sacramento City College"
+    ],
     "numbers": [
       "25",
       "31",
@@ -234412,7 +235162,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Baltimore Orioles"
     ],
-    "college": [],
+    "college": [
+      "Palm Beach State College"
+    ],
     "numbers": [
       "79"
     ],
@@ -234881,7 +235633,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Colorado Rockies"
     ],
-    "college": [],
+    "college": [
+      "Universidad Interamericana"
+    ],
     "numbers": [
       "56"
     ],
@@ -234958,7 +235712,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Philadelphia Phillies"
     ],
-    "college": [],
+    "college": [
+      "Texas A&M University"
+    ],
     "numbers": [
       "47"
     ],
@@ -235195,7 +235951,9 @@ export const MLB_PLAYERS = [
       "Seattle Mariners",
       "Toronto Blue Jays"
     ],
-    "college": [],
+    "college": [
+      "Waseda University"
+    ],
     "numbers": [
       "3",
       "7",
@@ -238322,7 +239080,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Philadelphia Phillies"
     ],
-    "college": [],
+    "college": [
+      "Point Loma Nazarene University"
+    ],
     "numbers": [
       "4"
     ],
@@ -238847,7 +239607,9 @@ export const MLB_PLAYERS = [
       "Chicago Cubs",
       "Cincinnati Reds"
     ],
-    "college": [],
+    "college": [
+      "Old Dominion University"
+    ],
     "numbers": [
       "20",
       "48",
@@ -238861,7 +239623,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Washington Nationals"
     ],
-    "college": [],
+    "college": [
+      "University of Connecticut"
+    ],
     "numbers": [
       "50"
     ],
@@ -239090,7 +239854,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Los Angeles Dodgers"
     ],
-    "college": [],
+    "college": [
+      "University of Florida"
+    ],
     "numbers": [
       "75"
     ],
@@ -239341,7 +240107,9 @@ export const MLB_PLAYERS = [
       "Pittsburgh Pirates",
       "Seattle Mariners"
     ],
-    "college": [],
+    "college": [
+      "Yavapai College"
+    ],
     "numbers": [
       "37",
       "44",
@@ -240768,7 +241536,9 @@ export const MLB_PLAYERS = [
       "Seattle Mariners",
       "Toronto Blue Jays"
     ],
-    "college": [],
+    "college": [
+      "Creighton University"
+    ],
     "numbers": [
       "29",
       "43",
@@ -240927,7 +241697,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "New York Mets"
     ],
-    "college": [],
+    "college": [
+      "Stetson University"
+    ],
     "numbers": [
       "4",
       "76"
@@ -241439,7 +242211,9 @@ export const MLB_PLAYERS = [
       "Miami Marlins",
       "San Diego Padres"
     ],
-    "college": [],
+    "college": [
+      "Louisburg College"
+    ],
     "numbers": [
       "47",
       "50",
@@ -242336,7 +243110,9 @@ export const MLB_PLAYERS = [
       "Cincinnati Reds",
       "New York Yankees"
     ],
-    "college": [],
+    "college": [
+      "Otterbein University"
+    ],
     "numbers": [
       "21"
     ],
@@ -244971,7 +245747,9 @@ export const MLB_PLAYERS = [
       "San Diego Padres",
       "Tampa Bay Rays"
     ],
-    "college": [],
+    "college": [
+      "Fort Scott Community College"
+    ],
     "numbers": [],
     "league": "MLB",
     "display_name": "Pete LaForest"
@@ -244997,7 +245775,9 @@ export const MLB_PLAYERS = [
       "San Diego Padres",
       "Tampa Bay Rays"
     ],
-    "college": [],
+    "college": [
+      "Fort Scott Community College"
+    ],
     "numbers": [
       "39",
       "43",
@@ -246563,7 +247343,9 @@ export const MLB_PLAYERS = [
       "Tampa Bay Rays",
       "Texas Rangers"
     ],
-    "college": [],
+    "college": [
+      "Louisiana Tech University"
+    ],
     "numbers": [
       "88"
     ],
@@ -248875,7 +249657,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Pittsburgh Pirates"
     ],
-    "college": [],
+    "college": [
+      "Rio Hondo College"
+    ],
     "numbers": [
       "43"
     ],
@@ -251021,7 +251805,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Minnesota Twins"
     ],
-    "college": [],
+    "college": [
+      "Alderson Broaddus University"
+    ],
     "numbers": [
       "68"
     ],
@@ -254929,7 +255715,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Los Angeles Dodgers"
     ],
-    "college": [],
+    "college": [
+      "Southwestern Oklahoma State University"
+    ],
     "numbers": [
       "51"
     ],
@@ -255313,7 +256101,9 @@ export const MLB_PLAYERS = [
       "New York Mets",
       "Washington Nationals"
     ],
-    "college": [],
+    "college": [
+      "Virginia Military Institute"
+    ],
     "numbers": [
       "50",
       "53",
@@ -255518,7 +256308,9 @@ export const MLB_PLAYERS = [
       "Philadelphia Phillies",
       "Seattle Mariners"
     ],
-    "college": [],
+    "college": [
+      "University of Missouri"
+    ],
     "numbers": [
       "36",
       "39"
@@ -255989,7 +256781,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Minnesota Twins"
     ],
-    "college": [],
+    "college": [
+      "Chipola College"
+    ],
     "numbers": [
       "23"
     ],
@@ -256259,7 +257053,9 @@ export const MLB_PLAYERS = [
       "New York Mets",
       "Tampa Bay Rays"
     ],
-    "college": [],
+    "college": [
+      "Universidad Manuel Fajardo"
+    ],
     "numbers": [
       "10",
       "29"
@@ -256458,7 +257254,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Baltimore Orioles"
     ],
-    "college": [],
+    "college": [
+      "Pearl River Community College"
+    ],
     "numbers": [
       "40"
     ],
@@ -257369,7 +258167,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Chicago Cubs"
     ],
-    "college": [],
+    "college": [
+      "Quinsigamond Community College"
+    ],
     "numbers": [
       "58"
     ],
@@ -259148,7 +259948,9 @@ export const MLB_PLAYERS = [
       "San Francisco Giants",
       "Washington Nationals"
     ],
-    "college": [],
+    "college": [
+      "Hawaii Pacific University"
+    ],
     "numbers": [
       "39",
       "46",
@@ -259285,7 +260087,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Washington Nationals"
     ],
-    "college": [],
+    "college": [
+      "Texas Christian University"
+    ],
     "numbers": [
       "74"
     ],
@@ -259752,7 +260556,9 @@ export const MLB_PLAYERS = [
       "Minnesota Twins",
       "Tampa Bay Rays"
     ],
-    "college": [],
+    "college": [
+      "St. John's University"
+    ],
     "numbers": [
       "55",
       "56"
@@ -260381,7 +261187,9 @@ export const MLB_PLAYERS = [
       "Arizona Diamondbacks",
       "Boston Red Sox"
     ],
-    "college": [],
+    "college": [
+      "Florida State University"
+    ],
     "numbers": [
       "63"
     ],
@@ -260912,7 +261720,9 @@ export const MLB_PLAYERS = [
       "Boston Red Sox",
       "Cincinnati Reds"
     ],
-    "college": [],
+    "college": [
+      "Sam Houston State University"
+    ],
     "numbers": [
       "59",
       "60"
@@ -261817,7 +262627,9 @@ export const MLB_PLAYERS = [
       "Los Angeles Dodgers",
       "San Diego Padres"
     ],
-    "college": [],
+    "college": [
+      "University of Portland"
+    ],
     "numbers": [
       "58"
     ],
@@ -263230,7 +264042,9 @@ export const MLB_PLAYERS = [
       "Boston Red Sox",
       "Chicago White Sox"
     ],
-    "college": [],
+    "college": [
+      "University of Miami"
+    ],
     "numbers": [
       "12",
       "23"
@@ -263804,7 +264618,9 @@ export const MLB_PLAYERS = [
       "New York Yankees",
       "San Diego Padres"
     ],
-    "college": [],
+    "college": [
+      "University of Delaware"
+    ],
     "numbers": [
       "97"
     ],
@@ -264383,7 +265199,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Washington Nationals"
     ],
-    "college": [],
+    "college": [
+      "Ca\u00c3\u00b1ada College"
+    ],
     "numbers": [
       "22"
     ],
@@ -267270,7 +268088,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Houston Astros"
     ],
-    "college": [],
+    "college": [
+      "Chandler-Gilbert Community College"
+    ],
     "numbers": [
       "99"
     ],
@@ -267636,7 +268456,9 @@ export const MLB_PLAYERS = [
       "San Francisco Giants",
       "Seattle Mariners"
     ],
-    "college": [],
+    "college": [
+      "Shelton State Community College"
+    ],
     "numbers": [
       "18"
     ],
@@ -268628,7 +269450,9 @@ export const MLB_PLAYERS = [
       "Chicago White Sox",
       "New York Mets"
     ],
-    "college": [],
+    "college": [
+      "Liberty University"
+    ],
     "numbers": [
       "18",
       "49"
@@ -268800,7 +269624,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "St. Louis Cardinals"
     ],
-    "college": [],
+    "college": [
+      "Hillsborough Community College"
+    ],
     "numbers": [
       "64"
     ],
@@ -268812,7 +269638,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Minnesota Twins"
     ],
-    "college": [],
+    "college": [
+      "Creighton University"
+    ],
     "numbers": [
       "53"
     ],
@@ -269218,7 +270046,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Baltimore Orioles"
     ],
-    "college": [],
+    "college": [
+      "Butler Community College"
+    ],
     "numbers": [
       "59"
     ],
@@ -269263,7 +270093,9 @@ export const MLB_PLAYERS = [
       "New York Yankees",
       "Oakland Athletics"
     ],
-    "college": [],
+    "college": [
+      "University of Michigan"
+    ],
     "numbers": [
       "24",
       "25",
@@ -269354,7 +270186,9 @@ export const MLB_PLAYERS = [
       "St. Louis Cardinals",
       "Washington Nationals"
     ],
-    "college": [],
+    "college": [
+      "Washington University in St. Louis"
+    ],
     "numbers": [
       "52",
       "65",
@@ -269412,7 +270246,9 @@ export const MLB_PLAYERS = [
       "Los Angeles Angels",
       "Washington Nationals"
     ],
-    "college": [],
+    "college": [
+      "Sacramento City College"
+    ],
     "numbers": [
       "41",
       "47",
@@ -269426,7 +270262,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Kansas City Royals"
     ],
-    "college": [],
+    "college": [
+      "West Virginia University"
+    ],
     "numbers": [
       "9"
     ],
@@ -269491,7 +270329,9 @@ export const MLB_PLAYERS = [
       "Chicago Cubs",
       "St. Louis Cardinals"
     ],
-    "college": [],
+    "college": [
+      "Radford University"
+    ],
     "numbers": [
       "52",
       "64",
@@ -269629,7 +270469,9 @@ export const MLB_PLAYERS = [
       "Minnesota Twins",
       "New York Mets"
     ],
-    "college": [],
+    "college": [
+      "Merrimack College"
+    ],
     "numbers": [
       "61",
       "71"
@@ -269957,7 +270799,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Texas Rangers"
     ],
-    "college": [],
+    "college": [
+      "Indiana State University"
+    ],
     "numbers": [
       "20"
     ],
@@ -270149,7 +270993,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "San Francisco Giants"
     ],
-    "college": [],
+    "college": [
+      "Washington State University"
+    ],
     "numbers": [
       "74"
     ],
@@ -270342,7 +271188,9 @@ export const MLB_PLAYERS = [
       "Pittsburgh Pirates",
       "Seattle Mariners"
     ],
-    "college": [],
+    "college": [
+      "University of North Carolina at Chapel Hill"
+    ],
     "numbers": [
       "72",
       "77"
@@ -271043,7 +271891,9 @@ export const MLB_PLAYERS = [
       "New York Mets",
       "Washington Nationals"
     ],
-    "college": [],
+    "college": [
+      "Georgia Institute of Technology"
+    ],
     "numbers": [
       "46",
       "49"
@@ -271716,7 +272566,9 @@ export const MLB_PLAYERS = [
       "Oakland Athletics",
       "San Francisco Giants"
     ],
-    "college": [],
+    "college": [
+      "California State University, Sacramento"
+    ],
     "numbers": [
       "66",
       "73"
@@ -273198,7 +274050,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "New York Mets"
     ],
-    "college": [],
+    "college": [
+      "Waseda University"
+    ],
     "numbers": [
       "17"
     ],
@@ -273634,7 +274488,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Chicago White Sox"
     ],
-    "college": [],
+    "college": [
+      "Missouri State University"
+    ],
     "numbers": [
       "67"
     ],
@@ -273728,7 +274584,9 @@ export const MLB_PLAYERS = [
       "New York Mets",
       "Toronto Blue Jays"
     ],
-    "college": [],
+    "college": [
+      "University of Southern Mississippi"
+    ],
     "numbers": [
       "28",
       "62"
@@ -273770,7 +274628,9 @@ export const MLB_PLAYERS = [
       "Minnesota Twins",
       "Toronto Blue Jays"
     ],
-    "college": [],
+    "college": [
+      "State University of New York at Binghamton"
+    ],
     "numbers": [
       "32",
       "58"
@@ -273854,7 +274714,9 @@ export const MLB_PLAYERS = [
       "Chicago Cubs",
       "New York Yankees"
     ],
-    "college": [],
+    "college": [
+      "Indiana University Bloomington"
+    ],
     "numbers": [
       "57",
       "59"
@@ -274360,7 +275222,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Cincinnati Reds"
     ],
-    "college": [],
+    "college": [
+      "Valdosta State University"
+    ],
     "numbers": [
       "51"
     ],
@@ -274526,7 +275390,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "San Francisco Giants"
     ],
-    "college": [],
+    "college": [
+      "Butler Community College"
+    ],
     "numbers": [
       "54"
     ],
@@ -274847,7 +275713,9 @@ export const MLB_PLAYERS = [
       "Los Angeles Angels",
       "Los Angeles Dodgers"
     ],
-    "college": [],
+    "college": [
+      "Des Moines Area Community College"
+    ],
     "numbers": [
       "30",
       "43",
@@ -275659,7 +276527,9 @@ export const MLB_PLAYERS = [
       "Atlanta Braves",
       "San Diego Padres"
     ],
-    "college": [],
+    "college": [
+      "College of Southern Nevada"
+    ],
     "numbers": [
       "7",
       "53"
@@ -275825,7 +276695,9 @@ export const MLB_PLAYERS = [
       "Philadelphia Phillies",
       "San Diego Padres"
     ],
-    "college": [],
+    "college": [
+      "Grossmont College"
+    ],
     "numbers": [
       "37",
       "47",
@@ -276350,7 +277222,9 @@ export const MLB_PLAYERS = [
       "Chicago Cubs",
       "Seattle Mariners"
     ],
-    "college": [],
+    "college": [
+      "University of North Carolina at Wilmington"
+    ],
     "numbers": [
       "43",
       "60",
@@ -276443,7 +277317,9 @@ export const MLB_PLAYERS = [
       "Houston Astros",
       "Miami Marlins"
     ],
-    "college": [],
+    "college": [
+      "Arizona State University"
+    ],
     "numbers": [
       "40",
       "61"
@@ -276470,7 +277346,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "San Diego Padres"
     ],
-    "college": [],
+    "college": [
+      "University of Arizona"
+    ],
     "numbers": [
       "24"
     ],
@@ -276561,7 +277439,9 @@ export const MLB_PLAYERS = [
       "St. Louis Cardinals",
       "Toronto Blue Jays"
     ],
-    "college": [],
+    "college": [
+      "Dankook University"
+    ],
     "numbers": [
       "18",
       "22",
@@ -277004,7 +277884,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Chicago White Sox"
     ],
-    "college": [],
+    "college": [
+      "Wake Forest University"
+    ],
     "numbers": [
       "64"
     ],
@@ -278073,7 +278955,9 @@ export const MLB_PLAYERS = [
       "Los Angeles Angels",
       "Seattle Mariners"
     ],
-    "college": [],
+    "college": [
+      "Ritsumeikan University"
+    ],
     "numbers": [
       "17",
       "21"
@@ -278102,7 +278986,9 @@ export const MLB_PLAYERS = [
       "Chicago White Sox",
       "New York Mets"
     ],
-    "college": [],
+    "college": [
+      "Asia University"
+    ],
     "numbers": [
       "10"
     ],
@@ -278165,7 +279051,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Cincinnati Reds"
     ],
-    "college": [],
+    "college": [
+      "Hachinohe University"
+    ],
     "numbers": [
       "4"
     ],
@@ -279540,7 +280428,9 @@ export const MLB_PLAYERS = [
       "Philadelphia Phillies",
       "St. Louis Cardinals"
     ],
-    "college": [],
+    "college": [
+      "Kansai Gakuin University"
+    ],
     "numbers": [
       "99"
     ],
@@ -280187,7 +281077,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Toronto Blue Jays"
     ],
-    "college": [],
+    "college": [
+      "University of Missouri"
+    ],
     "numbers": [
       "62"
     ],
@@ -280631,7 +281523,9 @@ export const MLB_PLAYERS = [
       "Kansas City Royals",
       "Pittsburgh Pirates"
     ],
-    "college": [],
+    "college": [
+      "Allegany College of Maryland"
+    ],
     "numbers": [
       "36",
       "37"
@@ -281247,7 +282141,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Seattle Mariners"
     ],
-    "college": [],
+    "college": [
+      "Oregon State University"
+    ],
     "numbers": [
       "7",
       "17"
@@ -281260,7 +282156,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Colorado Rockies"
     ],
-    "college": [],
+    "college": [
+      "Florida State University"
+    ],
     "numbers": [
       "65"
     ],
@@ -281410,7 +282308,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "New York Yankees"
     ],
-    "college": [],
+    "college": [
+      "Haverford College"
+    ],
     "numbers": [
       "70"
     ],
@@ -282196,7 +283096,9 @@ export const MLB_PLAYERS = [
       "Seattle Mariners",
       "Toronto Blue Jays"
     ],
-    "college": [],
+    "college": [
+      "Volunteer State Community College"
+    ],
     "numbers": [
       "35",
       "50",
@@ -282532,7 +283434,9 @@ export const MLB_PLAYERS = [
       "Los Angeles Angels",
       "Tampa Bay Rays"
     ],
-    "college": [],
+    "college": [
+      "University at Buffalo, State University of New York"
+    ],
     "numbers": [
       "54",
       "65"
@@ -283286,7 +284190,9 @@ export const MLB_PLAYERS = [
       "Tampa Bay Rays",
       "Toronto Blue Jays"
     ],
-    "college": [],
+    "college": [
+      "University of St. Francis"
+    ],
     "numbers": [
       "39",
       "58"
@@ -283929,7 +284835,9 @@ export const MLB_PLAYERS = [
       "Oakland Athletics",
       "Toronto Blue Jays"
     ],
-    "college": [],
+    "college": [
+      "University of South Carolina"
+    ],
     "numbers": [
       "6",
       "18",
@@ -284455,7 +285363,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Baltimore Orioles"
     ],
-    "college": [],
+    "college": [
+      "Clemson University"
+    ],
     "numbers": [
       "12"
     ],
@@ -285363,7 +286273,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Cincinnati Reds"
     ],
-    "college": [],
+    "college": [
+      "University of Nevada, Reno"
+    ],
     "numbers": [
       "29"
     ],
@@ -285375,7 +286287,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Cincinnati Reds"
     ],
-    "college": [],
+    "college": [
+      "University of South Carolina"
+    ],
     "numbers": [
       "26"
     ],
@@ -285441,7 +286355,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "New York Mets"
     ],
-    "college": [],
+    "college": [
+      "Troy University"
+    ],
     "numbers": [
       "54"
     ],
@@ -285479,7 +286395,9 @@ export const MLB_PLAYERS = [
       "Cincinnati Reds",
       "Toronto Blue Jays"
     ],
-    "college": [],
+    "college": [
+      "University of Pittsburgh"
+    ],
     "numbers": [
       "29",
       "35",
@@ -285569,7 +286487,9 @@ export const MLB_PLAYERS = [
       "Philadelphia Phillies",
       "San Diego Padres"
     ],
-    "college": [],
+    "college": [
+      "Aoyama Gakuin University"
+    ],
     "numbers": [
       "9",
       "10",
@@ -285666,7 +286586,9 @@ export const MLB_PLAYERS = [
       "Los Angeles Dodgers",
       "Milwaukee Brewers"
     ],
-    "college": [],
+    "college": [
+      "Tohoku Fukushi University"
+    ],
     "numbers": [
       "24",
       "40",
@@ -285829,7 +286751,9 @@ export const MLB_PLAYERS = [
       "Toronto Blue Jays",
       "Washington Nationals"
     ],
-    "college": [],
+    "college": [
+      "University of Illinois at Urbana-Champaign"
+    ],
     "numbers": [
       "14",
       "35",
@@ -285876,7 +286800,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Cleveland Guardians"
     ],
-    "college": [],
+    "college": [
+      "The Ohio State University"
+    ],
     "numbers": [
       "56"
     ],
@@ -286088,7 +287014,9 @@ export const MLB_PLAYERS = [
       "Chicago Cubs",
       "Pittsburgh Pirates"
     ],
-    "college": [],
+    "college": [
+      "Morehead State University"
+    ],
     "numbers": [
       "2",
       "43",
@@ -286145,7 +287073,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Milwaukee Brewers"
     ],
-    "college": [],
+    "college": [
+      "Cypress College"
+    ],
     "numbers": [
       "5"
     ],
@@ -286231,7 +287161,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Houston Astros"
     ],
-    "college": [],
+    "college": [
+      "Gonzaga University"
+    ],
     "numbers": [
       "28"
     ],
@@ -286324,7 +287256,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Arizona Diamondbacks"
     ],
-    "college": [],
+    "college": [
+      "University of California, Irvine"
+    ],
     "numbers": [
       "54"
     ],
@@ -288490,7 +289424,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Washington Nationals"
     ],
-    "college": [],
+    "college": [
+      "University of Central Florida"
+    ],
     "numbers": [
       "68"
     ],
@@ -288617,7 +289553,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Baltimore Orioles"
     ],
-    "college": [],
+    "college": [
+      "California State University, Fullerton"
+    ],
     "numbers": [
       "32",
       "73"
@@ -288806,7 +289744,9 @@ export const MLB_PLAYERS = [
       "Cleveland Guardians",
       "New York Yankees"
     ],
-    "college": [],
+    "college": [
+      "Riverside City College"
+    ],
     "numbers": [
       "36",
       "40"
@@ -289115,7 +290055,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Cincinnati Reds"
     ],
-    "college": [],
+    "college": [
+      "Georgetown University"
+    ],
     "numbers": [
       "46"
     ],
@@ -289600,7 +290542,9 @@ export const MLB_PLAYERS = [
       "Los Angeles Dodgers",
       "New York Mets"
     ],
-    "college": [],
+    "college": [
+      "Montgomery College, Rockville Campus"
+    ],
     "numbers": [
       "46",
       "47"
@@ -289917,7 +290861,9 @@ export const MLB_PLAYERS = [
       "New York Mets",
       "New York Yankees"
     ],
-    "college": [],
+    "college": [
+      "Ithaca College"
+    ],
     "numbers": [
       "16",
       "26",
@@ -290436,7 +291382,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Arizona Diamondbacks"
     ],
-    "college": [],
+    "college": [
+      "Stanford University"
+    ],
     "numbers": [
       "13"
     ],
@@ -290552,7 +291500,9 @@ export const MLB_PLAYERS = [
       "Miami Marlins",
       "Pittsburgh Pirates"
     ],
-    "college": [],
+    "college": [
+      "Pima Community College"
+    ],
     "numbers": [
       "48",
       "64"
@@ -291418,7 +292368,9 @@ export const MLB_PLAYERS = [
       "Cincinnati Reds",
       "Toronto Blue Jays"
     ],
-    "college": [],
+    "college": [
+      "St. Petersburg College"
+    ],
     "numbers": [
       "58"
     ],
@@ -292173,7 +293125,9 @@ export const MLB_PLAYERS = [
       "Chicago Cubs",
       "San Diego Padres"
     ],
-    "college": [],
+    "college": [
+      "Manhattan University"
+    ],
     "numbers": [
       "38",
       "59"
@@ -295553,7 +296507,9 @@ export const MLB_PLAYERS = [
       "Los Angeles Angels",
       "Texas Rangers"
     ],
-    "college": [],
+    "college": [
+      "Texas State University"
+    ],
     "numbers": [
       "12",
       "14",
@@ -295656,7 +296612,9 @@ export const MLB_PLAYERS = [
       "Atlanta Braves",
       "Los Angeles Angels"
     ],
-    "college": [],
+    "college": [
+      "Riverside City College"
+    ],
     "numbers": [
       "48"
     ],
@@ -296126,7 +297084,9 @@ export const MLB_PLAYERS = [
       "Miami Marlins",
       "Toronto Blue Jays"
     ],
-    "college": [],
+    "college": [
+      "Santa Clara University"
+    ],
     "numbers": [
       "45",
       "51"
@@ -296504,7 +297464,9 @@ export const MLB_PLAYERS = [
       "Baltimore Orioles",
       "Colorado Rockies"
     ],
-    "college": [],
+    "college": [
+      "Tokai University"
+    ],
     "numbers": [
       "11",
       "19"
@@ -297224,7 +298186,9 @@ export const MLB_PLAYERS = [
       "Philadelphia Phillies",
       "San Diego Padres"
     ],
-    "college": [],
+    "college": [
+      "San Diego State University"
+    ],
     "numbers": [
       "10",
       "18",
@@ -298133,7 +299097,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Cleveland Guardians"
     ],
-    "college": [],
+    "college": [
+      "Osaka Taiiku University"
+    ],
     "numbers": [
       "61"
     ],
@@ -298934,7 +299900,9 @@ export const MLB_PLAYERS = [
       "Los Angeles Dodgers",
       "San Diego Padres"
     ],
-    "college": [],
+    "college": [
+      "Southern University and A&M College"
+    ],
     "numbers": [
       "12",
       "23",
@@ -299342,7 +300310,9 @@ export const MLB_PLAYERS = [
       "Milwaukee Brewers",
       "Minnesota Twins"
     ],
-    "college": [],
+    "college": [
+      "Loyola Marymount University"
+    ],
     "numbers": [
       "29",
       "58",
@@ -299396,7 +300366,9 @@ export const MLB_PLAYERS = [
       "Tampa Bay Rays",
       "Toronto Blue Jays"
     ],
-    "college": [],
+    "college": [
+      "Drury University"
+    ],
     "numbers": [
       "32",
       "33",
@@ -299509,7 +300481,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "New York Yankees"
     ],
-    "college": [],
+    "college": [
+      "St. Petersburg College"
+    ],
     "numbers": [
       "95"
     ],
@@ -300220,7 +301194,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Chicago Cubs"
     ],
-    "college": [],
+    "college": [
+      "Waseda University"
+    ],
     "numbers": [
       "18",
       "67"
@@ -300640,7 +301616,9 @@ export const MLB_PLAYERS = [
       "San Diego Padres",
       "Seattle Mariners"
     ],
-    "college": [],
+    "college": [
+      "Elon University"
+    ],
     "numbers": [
       "52",
       "70"
@@ -300825,7 +301803,9 @@ export const MLB_PLAYERS = [
       "Atlanta Braves",
       "Toronto Blue Jays"
     ],
-    "college": [],
+    "college": [
+      "University of Central Arkansas"
+    ],
     "numbers": [
       "60",
       "65"
@@ -300984,7 +301964,9 @@ export const MLB_PLAYERS = [
       "New York Mets",
       "Pittsburgh Pirates"
     ],
-    "college": [],
+    "college": [
+      "South Georgia College"
+    ],
     "numbers": [
       "49",
       "67"
@@ -301095,7 +302077,9 @@ export const MLB_PLAYERS = [
       "Philadelphia Phillies",
       "Seattle Mariners"
     ],
-    "college": [],
+    "college": [
+      "University of Nebraska Omaha"
+    ],
     "numbers": [
       "50",
       "67"
@@ -301168,7 +302152,9 @@ export const MLB_PLAYERS = [
       "Oakland Athletics",
       "Philadelphia Phillies"
     ],
-    "college": [],
+    "college": [
+      "Embry-Riddle Aeronautical University"
+    ],
     "numbers": [
       "57",
       "62",
@@ -301227,7 +302213,9 @@ export const MLB_PLAYERS = [
       "Chicago Cubs",
       "Oakland Athletics"
     ],
-    "college": [],
+    "college": [
+      "Vanderbilt University"
+    ],
     "numbers": [
       "44",
       "65"
@@ -301256,7 +302244,9 @@ export const MLB_PLAYERS = [
       "Atlanta Braves",
       "Chicago White Sox"
     ],
-    "college": [],
+    "college": [
+      "Chipola College"
+    ],
     "numbers": [
       "17",
       "21",
@@ -301392,7 +302382,9 @@ export const MLB_PLAYERS = [
       "San Francisco Giants",
       "Toronto Blue Jays"
     ],
-    "college": [],
+    "college": [
+      "University of California, Los Angeles"
+    ],
     "numbers": [
       "22",
       "32",
@@ -301427,7 +302419,9 @@ export const MLB_PLAYERS = [
       "Arizona Diamondbacks",
       "Detroit Tigers"
     ],
-    "college": [],
+    "college": [
+      "Florida State University"
+    ],
     "numbers": [
       "67",
       "87"
@@ -301814,7 +302808,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Chicago White Sox"
     ],
-    "college": [],
+    "college": [
+      "Ball State University"
+    ],
     "numbers": [
       "62"
     ],
@@ -301930,7 +302926,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Boston Red Sox"
     ],
-    "college": [],
+    "college": [
+      "Northwestern University"
+    ],
     "numbers": [
       "79"
     ],
@@ -302534,7 +303532,9 @@ export const MLB_PLAYERS = [
       "New York Mets",
       "Washington Nationals"
     ],
-    "college": [],
+    "college": [
+      "University of Oklahoma"
+    ],
     "numbers": [
       "15",
       "35"
@@ -303654,7 +304654,9 @@ export const MLB_PLAYERS = [
       "Minnesota Twins",
       "San Diego Padres"
     ],
-    "college": [],
+    "college": [
+      "Miami Dade College, Kendall Campus"
+    ],
     "numbers": [
       "7",
       "17",
@@ -304075,7 +305077,9 @@ export const MLB_PLAYERS = [
       "Baltimore Orioles",
       "Oakland Athletics"
     ],
-    "college": [],
+    "college": [
+      "Virginia Commonwealth University"
+    ],
     "numbers": [
       "31",
       "39",
@@ -304410,7 +305414,9 @@ export const MLB_PLAYERS = [
       "Tampa Bay Rays",
       "Washington Nationals"
     ],
-    "college": [],
+    "college": [
+      "Benito Ju\u00c3\u00a1rez Autonomous University of Oaxaca"
+    ],
     "numbers": [
       "9",
       "19"
@@ -304427,7 +305433,9 @@ export const MLB_PLAYERS = [
       "Philadelphia Phillies",
       "Seattle Mariners"
     ],
-    "college": [],
+    "college": [
+      "Xavier University"
+    ],
     "numbers": [
       "46",
       "48",
@@ -306605,7 +307613,9 @@ export const MLB_PLAYERS = [
       "Kansas City Royals",
       "Texas Rangers"
     ],
-    "college": [],
+    "college": [
+      "Colorado School of Mines"
+    ],
     "numbers": [
       "52",
       "65"
@@ -307976,7 +308986,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Texas Rangers"
     ],
-    "college": [],
+    "college": [
+      "University of Kansas"
+    ],
     "numbers": [
       "63",
       "75"
@@ -308173,7 +309185,9 @@ export const MLB_PLAYERS = [
       "Colorado Rockies",
       "Toronto Blue Jays"
     ],
-    "college": [],
+    "college": [
+      "Jackson State Community College"
+    ],
     "numbers": [
       "18",
       "46",
@@ -310185,7 +311199,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Miami Marlins"
     ],
-    "college": [],
+    "college": [
+      "Gonzaga University"
+    ],
     "numbers": [
       "71"
     ],
@@ -313136,7 +314152,9 @@ export const MLB_PLAYERS = [
       "Tampa Bay Rays",
       "Washington Nationals"
     ],
-    "college": [],
+    "college": [
+      "Miami Dade College, North Campus"
+    ],
     "numbers": [
       "29",
       "31",
@@ -313236,7 +314254,9 @@ export const MLB_PLAYERS = [
       "Miami Marlins",
       "St. Louis Cardinals"
     ],
-    "college": [],
+    "college": [
+      "University of Nevada, Las Vegas"
+    ],
     "numbers": [
       "53",
       "59"
@@ -314404,7 +315424,9 @@ export const MLB_PLAYERS = [
       "Arizona Diamondbacks",
       "Seattle Mariners"
     ],
-    "college": [],
+    "college": [
+      "Kyoto Sangyo University"
+    ],
     "numbers": [
       "6",
       "66"
@@ -314429,7 +315451,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Texas Rangers"
     ],
-    "college": [],
+    "college": [
+      "Koga Kenko Iryo Senmon Gakko"
+    ],
     "numbers": [
       "22"
     ],
@@ -314904,7 +315928,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Milwaukee Brewers"
     ],
-    "college": [],
+    "college": [
+      "Burlington County College"
+    ],
     "numbers": [
       "21"
     ],
@@ -314916,7 +315942,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Washington Nationals"
     ],
-    "college": [],
+    "college": [
+      "Virginia Polytechnic Institute and State University"
+    ],
     "numbers": [
       "66"
     ],
@@ -314928,7 +315956,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Baltimore Orioles"
     ],
-    "college": [],
+    "college": [
+      "University of Maryland, Baltimore County"
+    ],
     "numbers": [
       "64"
     ],
@@ -314982,7 +316012,9 @@ export const MLB_PLAYERS = [
       "Montreal Expos",
       "Washington Nationals"
     ],
-    "college": [],
+    "college": [
+      "University of Cincinnati"
+    ],
     "numbers": [
       "27",
       "40",
@@ -315006,7 +316038,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Houston Astros"
     ],
-    "college": [],
+    "college": [
+      "The Ohio State University"
+    ],
     "numbers": [
       "9"
     ],
@@ -315248,7 +316282,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "New York Mets"
     ],
-    "college": [],
+    "college": [
+      "University of North Dakota"
+    ],
     "numbers": [
       "71"
     ],
@@ -315275,7 +316311,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Los Angeles Angels"
     ],
-    "college": [],
+    "college": [
+      "Campbell University"
+    ],
     "numbers": [
       "9"
     ],
@@ -315303,7 +316341,9 @@ export const MLB_PLAYERS = [
       "Miami Marlins",
       "Pittsburgh Pirates"
     ],
-    "college": [],
+    "college": [
+      "Sacramento City College"
+    ],
     "numbers": [
       "53",
       "56",
@@ -315438,7 +316478,9 @@ export const MLB_PLAYERS = [
       "Miami Marlins",
       "Pittsburgh Pirates"
     ],
-    "college": [],
+    "college": [
+      "University of Texas at Arlington"
+    ],
     "numbers": [
       "39",
       "74"
@@ -315655,7 +316697,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "Boston Red Sox"
     ],
-    "college": [],
+    "college": [
+      "Newberry College"
+    ],
     "numbers": [
       "76"
     ],
@@ -315981,7 +317025,9 @@ export const MLB_PLAYERS = [
     "teams": [
       "New York Yankees"
     ],
-    "college": [],
+    "college": [
+      "Wallace State Community College"
+    ],
     "numbers": [
       "45"
     ],
