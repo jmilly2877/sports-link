@@ -10,12 +10,12 @@ import {
 import { getDailyLinkChallenge } from "./data/pathSolver.js";
 
 const TYPE_LABELS = { team: "TEAM", player: "PLAYER", college: "COLLEGE", number: "NUMBER" };
-const TYPE_COLORS = { team: "#ff4444", player: "#44aaff", college: "#ffaa00", number: "#44dd66" };
+const TYPE_COLORS = { team: "#dd2222", player: "#1177dd", college: "#bb7700", number: "#1a9944" };
 const TYPE_BG = {
-  team: "rgba(255,68,68,0.08)",
-  player: "rgba(68,170,255,0.08)",
-  college: "rgba(255,170,0,0.08)",
-  number: "rgba(68,221,102,0.08)",
+  team: "rgba(221,34,34,0.05)",
+  player: "rgba(17,119,221,0.05)",
+  college: "rgba(187,119,0,0.05)",
+  number: "rgba(26,153,68,0.05)",
 };
 const TYPE_HINTS = {
   team: "Name a player who played on this team",
@@ -84,34 +84,29 @@ function Landing({ onFreePlay, onDaily, onRarity }) {
   return (
     <div className="landing">
       <div className="logo-area">
-        <div className="logo-icon">🔗</div>
-        <h1 className="title">
-          SPORTS
-          <br />
-          LINK
-        </h1>
+        <h1 className="title">SPORTS LINK</h1>
+        <p className="tagline">Chain teams, players, colleges &amp; numbers.</p>
       </div>
-
-      <p className="tagline">
-        Chain teams, players, colleges & numbers.
-        <br />
-        How deep does your knowledge go?
-      </p>
 
       <div className="mode-buttons">
         <button className="mode-btn daily-btn" onClick={onDaily}>
-          <div className="mode-btn-top">
-            <span className="mode-btn-icon">🎯</span>
-            <span className="mode-btn-title">DAILY LINK</span>
+          <div className="daily-kicker">
+            <div className="daily-dot" />
+            <span className="daily-kicker-label">DAILY CHALLENGE</span>
           </div>
-
-          <div className="mode-btn-desc">
-  {daily.startName} → {daily.goalName}
-</div>
-
-<div className="mode-btn-date">
-  Par {daily.par} · {today}
-</div>
+          <div className="daily-card-route">
+            <div className="daily-card-node">
+              <div className="daily-card-label">START</div>
+              <div className="daily-card-name">{daily.startName}</div>
+            </div>
+            <div className="daily-card-arrow">→</div>
+            <div className="daily-card-node">
+              <div className="daily-card-label">GOAL</div>
+              <div className="daily-card-name">{daily.goalName}</div>
+            </div>
+          </div>
+          <div className="daily-card-divider" />
+          <div className="mode-btn-date">{daily.par} links · {today}</div>
         </button>
 
         <div className="mode-btn rarity-btn" onClick={() => onRarity(10)}>
@@ -119,52 +114,39 @@ function Landing({ onFreePlay, onDaily, onRarity }) {
             <span className="mode-btn-icon">💎</span>
             <span className="mode-btn-title">RARITY RUN</span>
           </div>
-
           <div className="mode-btn-desc">
-            Build the rarest chain possible. Higher score = rarer links.
-            Starting team is free. Click to play 10 links, or choose a length.
+            Build the rarest chain possible. Higher score = rarer links. Starting team is free.
           </div>
-
           <div className="rarity-options">
-            <button
-              onClick={(e) => {
-                e.stopPropagation();
-                onRarity(5);
-              }}
-            >
-              5 LINKS
-            </button>
-
-            <button
-              onClick={(e) => {
-                e.stopPropagation();
-                onRarity(10);
-              }}
-            >
-              10 LINKS
-            </button>
-
-            <button
-              onClick={(e) => {
-                e.stopPropagation();
-                onRarity(20);
-              }}
-            >
-              20 LINKS
-            </button>
+            <button onClick={(e) => { e.stopPropagation(); onRarity(5); }}>5 LINKS</button>
+            <button onClick={(e) => { e.stopPropagation(); onRarity(10); }}>10 LINKS</button>
+            <button onClick={(e) => { e.stopPropagation(); onRarity(20); }}>20 LINKS</button>
           </div>
         </div>
 
         <button className="mode-btn free-btn" onClick={onFreePlay}>
-          <div className="mode-btn-top">
-            <span className="mode-btn-icon">♾️</span>
-            <span className="mode-btn-title">FREE PLAY</span>
-          </div>
-
-          <div className="mode-btn-desc">
-            Pick any team. No limits. Go until you're stuck.
-          </div>
+          <div className="mode-btn-title" style={{ marginBottom: 6 }}>Free play</div>
+          <div className="mode-btn-desc">Pick any team. No limits.</div>
         </button>
+      </div>
+
+      <div className="how-it-works">
+        <div className="how-label">HOW IT WORKS</div>
+        <div className="how-chain">
+          <span className="how-pill how-team">Steelers</span>
+          <span className="how-arr">→</span>
+          <span className="how-pill how-player">Polamalu</span>
+          <span className="how-arr">→</span>
+          <span className="how-pill how-college">USC</span>
+          <span className="how-arr">→</span>
+          <span className="how-pill how-player">Palmer</span>
+          <span className="how-arr">→</span>
+          <span className="how-pill how-team">Bengals</span>
+          <span className="how-arr">→</span>
+          <span className="how-pill how-player">Burrow</span>
+          <span className="how-arr">→</span>
+          <span className="how-pill how-number">9</span>
+        </div>
       </div>
 
       <div className="stats-bar">
@@ -172,16 +154,12 @@ function Landing({ onFreePlay, onDaily, onRarity }) {
           <span className="stat-num">{stats.players}</span>
           <span className="stat-label">PLAYERS</span>
         </div>
-
         <div className="stat-divider" />
-
         <div className="stat">
           <span className="stat-num">{stats.teams}</span>
           <span className="stat-label">TEAMS</span>
         </div>
-
         <div className="stat-divider" />
-
         <div className="stat">
           <span className="stat-num">{stats.colleges}</span>
           <span className="stat-label">COLLEGES</span>
