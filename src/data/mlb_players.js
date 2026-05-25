@@ -4169,7 +4169,9 @@ export const MLB_PLAYERS = [
       "Detroit Tigers"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "6"
+    ],
     "league": "MLB",
     "display_name": "Al Kaline"
   },
@@ -4737,7 +4739,9 @@ export const MLB_PLAYERS = [
       "Toronto Blue Jays"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "16"
+    ],
     "league": "MLB",
     "display_name": "Al Oliver"
   },
@@ -5839,7 +5843,9 @@ export const MLB_PLAYERS = [
       "Detroit Tigers"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "3"
+    ],
     "league": "MLB",
     "display_name": "Alan Trammell"
   },
@@ -5865,7 +5871,9 @@ export const MLB_PLAYERS = [
       "San Diego Padres"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "24"
+    ],
     "league": "MLB",
     "display_name": "Alan Wiggins"
   },
@@ -5962,6 +5970,7 @@ export const MLB_PLAYERS = [
       "LSU"
     ],
     "numbers": [
+      "8",
       "88"
     ],
     "league": "MLB",
@@ -9722,7 +9731,9 @@ export const MLB_PLAYERS = [
       "Pittsburgh Pirates"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "26"
+    ],
     "league": "MLB",
     "display_name": "Amos Otis"
   },
@@ -9927,7 +9938,10 @@ export const MLB_PLAYERS = [
     "college": [
       "Florida Agricultural and Mechanical University"
     ],
-    "numbers": [],
+    "numbers": [
+      "8",
+      "10"
+    ],
     "league": "MLB",
     "display_name": "Andre Dawson"
   },
@@ -12421,7 +12435,9 @@ export const MLB_PLAYERS = [
       "St. Louis Cardinals"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "18"
+    ],
     "league": "MLB",
     "display_name": "Andy Van Slyke"
   },
@@ -17162,6 +17178,7 @@ export const MLB_PLAYERS = [
       "UNC"
     ],
     "numbers": [
+      "6",
       "15",
       "17"
     ],
@@ -17435,7 +17452,9 @@ export const MLB_PLAYERS = [
       "New York Yankees"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "3"
+    ],
     "league": "MLB",
     "display_name": "Babe Ruth"
   },
@@ -20341,7 +20360,9 @@ export const MLB_PLAYERS = [
       "Texas Rangers"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "28"
+    ],
     "league": "MLB",
     "display_name": "Bert Blyleven"
   },
@@ -20377,7 +20398,9 @@ export const MLB_PLAYERS = [
       "Texas Rangers"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "19"
+    ],
     "league": "MLB",
     "display_name": "Bert Campaneris"
   },
@@ -29054,7 +29077,9 @@ export const MLB_PLAYERS = [
       "Seattle Steelheads"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "26"
+    ],
     "league": "MLB",
     "display_name": "Billy Williams (MLB)"
   },
@@ -30445,7 +30470,9 @@ export const MLB_PLAYERS = [
     "college": [
       "Stanford"
     ],
-    "numbers": [],
+    "numbers": [
+      "7"
+    ],
     "league": "MLB",
     "display_name": "Bob Boone"
   },
@@ -31410,7 +31437,9 @@ export const MLB_PLAYERS = [
       "Bloomsburg University of Pennsylvania",
       "Creighton University"
     ],
-    "numbers": [],
+    "numbers": [
+      "45"
+    ],
     "league": "MLB",
     "display_name": "Bob Gibson"
   },
@@ -31811,7 +31840,9 @@ export const MLB_PLAYERS = [
     "college": [
       "Arizona State University"
     ],
-    "numbers": [],
+    "numbers": [
+      "5"
+    ],
     "league": "MLB",
     "display_name": "Bob Horner"
   },
@@ -32225,7 +32256,9 @@ export const MLB_PLAYERS = [
       "Cleveland Guardians"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "21"
+    ],
     "league": "MLB",
     "display_name": "Bob Lemon"
   },
@@ -33618,7 +33651,9 @@ export const MLB_PLAYERS = [
       "Boston Red Sox"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "46"
+    ],
     "league": "MLB",
     "display_name": "Bob Stanley"
   },
@@ -35991,7 +36026,8 @@ export const MLB_PLAYERS = [
     ],
     "numbers": [
       "3",
-      "8"
+      "8",
+      "26"
     ],
     "league": "MLB",
     "display_name": "Boog Powell"
@@ -42283,7 +42319,9 @@ export const MLB_PLAYERS = [
       "Baltimore Orioles"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "5"
+    ],
     "league": "MLB",
     "display_name": "Brooks Robinson"
   },
@@ -42644,7 +42682,9 @@ export const MLB_PLAYERS = [
       "Texas Rangers"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "47"
+    ],
     "league": "MLB",
     "display_name": "Bruce Hurst"
   },
@@ -42829,7 +42869,9 @@ export const MLB_PLAYERS = [
       "St. Louis Cardinals"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "42"
+    ],
     "league": "MLB",
     "display_name": "Bruce Sutter"
   },
@@ -44669,7 +44711,9 @@ export const MLB_PLAYERS = [
     "college": [
       "San Francisco State University"
     ],
-    "numbers": [],
+    "numbers": [
+      "3"
+    ],
     "league": "MLB",
     "display_name": "Bud Harrelson"
   },
@@ -48852,7 +48896,9 @@ export const MLB_PLAYERS = [
       "Boston Red Sox"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "8"
+    ],
     "league": "MLB",
     "display_name": "Carl Yastrzemski"
   },
@@ -51219,7 +51265,9 @@ export const MLB_PLAYERS = [
       "Oakland Athletics"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "27"
+    ],
     "league": "MLB",
     "display_name": "Catfish Hunter"
   },
@@ -52286,7 +52334,8 @@ export const MLB_PLAYERS = [
       "LSU"
     ],
     "numbers": [
-      "33"
+      "33",
+      "49"
     ],
     "league": "MLB",
     "display_name": "Chad Ogea"
@@ -53143,6 +53192,7 @@ export const MLB_PLAYERS = [
     ],
     "numbers": [
       "8",
+      "12",
       "21",
       "23",
       "24"
@@ -58510,7 +58560,9 @@ export const MLB_PLAYERS = [
       "MiraCosta College",
       "UCLA"
     ],
-    "numbers": [],
+    "numbers": [
+      "10"
+    ],
     "league": "MLB",
     "display_name": "Chris Chambliss"
   },
@@ -63235,7 +63287,9 @@ export const MLB_PLAYERS = [
       "Texas Rangers"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "19"
+    ],
     "league": "MLB",
     "display_name": "Claudell Washington"
   },
@@ -70583,7 +70637,9 @@ export const MLB_PLAYERS = [
       "Philadelphia Phillies"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "3"
+    ],
     "league": "MLB",
     "display_name": "Dale Murphy"
   },
@@ -72117,7 +72173,9 @@ export const MLB_PLAYERS = [
       "Detroit Tigers"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "46"
+    ],
     "league": "MLB",
     "display_name": "Dan Petry"
   },
@@ -72181,7 +72239,9 @@ export const MLB_PLAYERS = [
       "Orange Coast College",
       "University of La Verne"
     ],
-    "numbers": [],
+    "numbers": [
+      "29"
+    ],
     "league": "MLB",
     "display_name": "Dan Quisenberry"
   },
@@ -75413,7 +75473,9 @@ export const MLB_PLAYERS = [
       "Philadelphia Phillies"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "10"
+    ],
     "league": "MLB",
     "display_name": "Darren Daulton"
   },
@@ -75748,6 +75810,7 @@ export const MLB_PLAYERS = [
     ],
     "college": [],
     "numbers": [
+      "18",
       "39"
     ],
     "league": "MLB",
@@ -76200,7 +76263,9 @@ export const MLB_PLAYERS = [
     "college": [
       "Illinois State"
     ],
-    "numbers": [],
+    "numbers": [
+      "17"
+    ],
     "league": "MLB",
     "display_name": "Dave Bergman"
   },
@@ -77033,7 +77098,9 @@ export const MLB_PLAYERS = [
       "Seattle Mariners"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "42"
+    ],
     "league": "MLB",
     "display_name": "Dave Henderson (MLB)"
   },
@@ -77845,7 +77912,9 @@ export const MLB_PLAYERS = [
       "Toronto Blue Jays"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "39"
+    ],
     "league": "MLB",
     "display_name": "Dave Parker"
   },
@@ -78735,7 +78804,9 @@ export const MLB_PLAYERS = [
     "college": [
       "Minnesota"
     ],
-    "numbers": [],
+    "numbers": [
+      "31"
+    ],
     "league": "MLB",
     "display_name": "Dave Winfield"
   },
@@ -79041,7 +79112,8 @@ export const MLB_PLAYERS = [
     "college": [],
     "numbers": [
       "16",
-      "36"
+      "36",
+      "44"
     ],
     "league": "MLB",
     "display_name": "David Cone"
@@ -81766,7 +81838,9 @@ export const MLB_PLAYERS = [
       "St. Louis Cardinals"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "43"
+    ],
     "league": "MLB",
     "display_name": "Dennis Eckersley"
   },
@@ -81909,7 +81983,9 @@ export const MLB_PLAYERS = [
       "Seattle Mariners"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "32"
+    ],
     "league": "MLB",
     "display_name": "Dennis Martinez"
   },
@@ -82298,7 +82374,9 @@ export const MLB_PLAYERS = [
       "Washington Senators"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "17"
+    ],
     "league": "MLB",
     "display_name": "Denny McLain"
   },
@@ -83204,7 +83282,8 @@ export const MLB_PLAYERS = [
     ],
     "college": [],
     "numbers": [
-      "22"
+      "22",
+      "25"
     ],
     "league": "MLB",
     "display_name": "Devon White"
@@ -83440,7 +83519,9 @@ export const MLB_PLAYERS = [
       "St. Louis Cardinals"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "15"
+    ],
     "league": "MLB",
     "display_name": "Dick Allen"
   },
@@ -87249,7 +87330,9 @@ export const MLB_PLAYERS = [
       "Oakland Athletics"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "25"
+    ],
     "league": "MLB",
     "display_name": "Don Baylor"
   },
@@ -87557,7 +87640,9 @@ export const MLB_PLAYERS = [
       "Los Angeles Dodgers"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "53"
+    ],
     "league": "MLB",
     "display_name": "Don Drysdale"
   },
@@ -88186,7 +88271,9 @@ export const MLB_PLAYERS = [
       "New York Yankees"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "23"
+    ],
     "league": "MLB",
     "display_name": "Don Mattingly"
   },
@@ -89751,7 +89838,9 @@ export const MLB_PLAYERS = [
     "college": [
       "Houston"
     ],
-    "numbers": [],
+    "numbers": [
+      "34"
+    ],
     "league": "MLB",
     "display_name": "Doug Drabek"
   },
@@ -91566,7 +91655,9 @@ export const MLB_PLAYERS = [
       "San Francisco Giants"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "4"
+    ],
     "league": "MLB",
     "display_name": "Duke Snider"
   },
@@ -92400,7 +92491,9 @@ export const MLB_PLAYERS = [
       "Boston Red Sox"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "24"
+    ],
     "league": "MLB",
     "display_name": "Dwight Evans"
   },
@@ -93485,7 +93578,9 @@ export const MLB_PLAYERS = [
       "Washington Senators"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "24"
+    ],
     "league": "MLB",
     "display_name": "Early Wynn"
   },
@@ -97739,7 +97834,9 @@ export const MLB_PLAYERS = [
       "New York Mets"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "33"
+    ],
     "league": "MLB",
     "display_name": "Eddie Murray (MLB)"
   },
@@ -100363,7 +100460,9 @@ export const MLB_PLAYERS = [
       "Texas Rangers"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "17"
+    ],
     "league": "MLB",
     "display_name": "Ellis Valentine"
   },
@@ -101940,7 +102039,9 @@ export const MLB_PLAYERS = [
       "St. Louis Cardinals"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "9"
+    ],
     "league": "MLB",
     "display_name": "Enos Slaughter"
   },
@@ -106893,7 +106994,9 @@ export const MLB_PLAYERS = [
       "Texas Rangers"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "31"
+    ],
     "league": "MLB",
     "display_name": "Fergie Jenkins"
   },
@@ -111243,7 +111346,9 @@ export const MLB_PLAYERS = [
       "Los Angeles Dodgers"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "20"
+    ],
     "league": "MLB",
     "display_name": "Frank Robinson (MLB)"
   },
@@ -111877,7 +111982,9 @@ export const MLB_PLAYERS = [
       "Kansas City Royals"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "20"
+    ],
     "league": "MLB",
     "display_name": "Frank White"
   },
@@ -113576,7 +113683,9 @@ export const MLB_PLAYERS = [
     "college": [
       "USC"
     ],
-    "numbers": [],
+    "numbers": [
+      "19"
+    ],
     "league": "MLB",
     "display_name": "Fred Lynn"
   },
@@ -113688,6 +113797,7 @@ export const MLB_PLAYERS = [
     ],
     "college": [],
     "numbers": [
+      "27",
       "28",
       "29"
     ],
@@ -116538,7 +116648,9 @@ export const MLB_PLAYERS = [
       "San Francisco Giants"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "8"
+    ],
     "league": "MLB",
     "display_name": "Gary Carter"
   },
@@ -118584,7 +118696,9 @@ export const MLB_PLAYERS = [
       "St. Louis Cardinals"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "18"
+    ],
     "league": "MLB",
     "display_name": "Gene Tenace"
   },
@@ -119275,7 +119389,9 @@ export const MLB_PLAYERS = [
       "Kansas City Royals"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "5"
+    ],
     "league": "MLB",
     "display_name": "George Brett"
   },
@@ -125298,7 +125414,9 @@ export const MLB_PLAYERS = [
       "Seattle Mariners"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "25"
+    ],
     "league": "MLB",
     "display_name": "Gorman Thomas"
   },
@@ -125531,7 +125649,9 @@ export const MLB_PLAYERS = [
     "college": [
       "San Diego State University"
     ],
-    "numbers": [],
+    "numbers": [
+      "9"
+    ],
     "league": "MLB",
     "display_name": "Graig Nettles"
   },
@@ -126500,7 +126620,9 @@ export const MLB_PLAYERS = [
       "Philadelphia Phillies"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "19"
+    ],
     "league": "MLB",
     "display_name": "Greg Luzinski"
   },
@@ -128863,7 +128985,9 @@ export const MLB_PLAYERS = [
     "college": [
       "Florida Agricultural and Mechanical University"
     ],
-    "numbers": [],
+    "numbers": [
+      "11"
+    ],
     "league": "MLB",
     "display_name": "Hal McRae"
   },
@@ -129306,7 +129430,9 @@ export const MLB_PLAYERS = [
       "Milwaukee Brewers"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "44"
+    ],
     "league": "MLB",
     "display_name": "Hank Aaron"
   },
@@ -130480,7 +130606,9 @@ export const MLB_PLAYERS = [
       "Washington Senators"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "3"
+    ],
     "league": "MLB",
     "display_name": "Harmon Killebrew"
   },
@@ -136411,6 +136539,7 @@ export const MLB_PLAYERS = [
     "numbers": [
       "10",
       "11",
+      "16",
       "23",
       "91"
     ],
@@ -136919,6 +137048,7 @@ export const MLB_PLAYERS = [
     "college": [],
     "numbers": [
       "8",
+      "16",
       "18",
       "22"
     ],
@@ -137705,7 +137835,9 @@ export const MLB_PLAYERS = [
       "New York Mets"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "20"
+    ],
     "league": "MLB",
     "display_name": "Howard Johnson"
   },
@@ -142700,7 +142832,9 @@ export const MLB_PLAYERS = [
       "St. Louis Cardinals"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "22"
+    ],
     "league": "MLB",
     "display_name": "Jack Clark"
   },
@@ -144483,7 +144617,9 @@ export const MLB_PLAYERS = [
     "college": [
       "BYU"
     ],
-    "numbers": [],
+    "numbers": [
+      "47"
+    ],
     "league": "MLB",
     "display_name": "Jack Morris"
   },
@@ -145757,7 +145893,9 @@ export const MLB_PLAYERS = [
       "Pasadena City College",
       "UCLA"
     ],
-    "numbers": [],
+    "numbers": [
+      "42"
+    ],
     "league": "MLB",
     "display_name": "Jackie Robinson (MLB)"
   },
@@ -152022,6 +152160,7 @@ export const MLB_PLAYERS = [
     ],
     "college": [],
     "numbers": [
+      "5",
       "33",
       "44"
     ],
@@ -156770,7 +156909,9 @@ export const MLB_PLAYERS = [
       "Philadelphia Phillies"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "36"
+    ],
     "league": "MLB",
     "display_name": "Jerry Koosman"
   },
@@ -159348,7 +159489,9 @@ export const MLB_PLAYERS = [
     "college": [
       "Fayetteville State University"
     ],
-    "numbers": [],
+    "numbers": [
+      "40"
+    ],
     "league": "MLB",
     "display_name": "Jim Bibby"
   },
@@ -161912,7 +162055,9 @@ export const MLB_PLAYERS = [
     "college": [
       "Stanford"
     ],
-    "numbers": [],
+    "numbers": [
+      "16"
+    ],
     "league": "MLB",
     "display_name": "Jim Lonborg"
   },
@@ -162853,7 +162998,9 @@ export const MLB_PLAYERS = [
       "Baltimore Orioles"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "22"
+    ],
     "league": "MLB",
     "display_name": "Jim Palmer (MLB)"
   },
@@ -163202,7 +163349,9 @@ export const MLB_PLAYERS = [
       "Boston Red Sox"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "14"
+    ],
     "league": "MLB",
     "display_name": "Jim Rice"
   },
@@ -165110,7 +165259,9 @@ export const MLB_PLAYERS = [
     "college": [
       "Clemson"
     ],
-    "numbers": [],
+    "numbers": [
+      "22"
+    ],
     "league": "MLB",
     "display_name": "Jimmy Key"
   },
@@ -166021,7 +166172,9 @@ export const MLB_PLAYERS = [
       "St. Louis Cardinals"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "47"
+    ],
     "league": "MLB",
     "display_name": "Joaquin Andujar"
   },
@@ -166218,7 +166371,9 @@ export const MLB_PLAYERS = [
     "college": [
       "Middle Georgia College"
     ],
-    "numbers": [],
+    "numbers": [
+      "7"
+    ],
     "league": "MLB",
     "display_name": "Jody Davis"
   },
@@ -167060,7 +167215,9 @@ export const MLB_PLAYERS = [
     "college": [
       "Wichita State"
     ],
-    "numbers": [],
+    "numbers": [
+      "29"
+    ],
     "league": "MLB",
     "display_name": "Joe Carter"
   },
@@ -167554,7 +167711,9 @@ export const MLB_PLAYERS = [
       "New York Yankees"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "5"
+    ],
     "league": "MLB",
     "display_name": "Joe DiMaggio"
   },
@@ -168155,7 +168314,9 @@ export const MLB_PLAYERS = [
     "college": [
       "Oregon"
     ],
-    "numbers": [],
+    "numbers": [
+      "4"
+    ],
     "league": "MLB",
     "display_name": "Joe Gordon"
   },
@@ -169696,7 +169857,9 @@ export const MLB_PLAYERS = [
       "Boston College",
       "Merritt College"
     ],
-    "numbers": [],
+    "numbers": [
+      "8"
+    ],
     "league": "MLB",
     "display_name": "Joe Morgan (MLB)"
   },
@@ -170487,7 +170650,9 @@ export const MLB_PLAYERS = [
       "Oakland Athletics"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "20"
+    ],
     "league": "MLB",
     "display_name": "Joe Rudi"
   },
@@ -175863,7 +176028,9 @@ export const MLB_PLAYERS = [
       "San Diego Padres"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "29"
+    ],
     "league": "MLB",
     "display_name": "John Kruk"
   },
@@ -177073,6 +177240,7 @@ export const MLB_PLAYERS = [
     ],
     "numbers": [
       "5",
+      "9",
       "18",
       "19"
     ],
@@ -178581,7 +178749,9 @@ export const MLB_PLAYERS = [
       "Georgia Southern",
       "North Shore Community College"
     ],
-    "numbers": [],
+    "numbers": [
+      "37"
+    ],
     "league": "MLB",
     "display_name": "John Tudor"
   },
@@ -179355,7 +179525,9 @@ export const MLB_PLAYERS = [
       "Cincinnati Reds"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "5"
+    ],
     "league": "MLB",
     "display_name": "Johnny Bench"
   },
@@ -188392,7 +188564,9 @@ export const MLB_PLAYERS = [
       "Toronto Blue Jays"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "66"
+    ],
     "league": "MLB",
     "display_name": "Juan Guzman"
   },
@@ -188479,7 +188653,9 @@ export const MLB_PLAYERS = [
       "San Francisco Giants"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "27"
+    ],
     "league": "MLB",
     "display_name": "Juan Marichal"
   },
@@ -191996,7 +192172,10 @@ export const MLB_PLAYERS = [
       "St. Louis Cardinals"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "17",
+      "37"
+    ],
     "league": "MLB",
     "display_name": "Keith Hernandez"
   },
@@ -192195,7 +192374,9 @@ export const MLB_PLAYERS = [
     "college": [
       "Texas"
     ],
-    "numbers": [],
+    "numbers": [
+      "4"
+    ],
     "league": "MLB",
     "display_name": "Keith Moreland"
   },
@@ -192913,7 +193094,9 @@ export const MLB_PLAYERS = [
       "Seattle Mariners"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "30"
+    ],
     "league": "MLB",
     "display_name": "Ken Griffey"
   },
@@ -193665,7 +193848,9 @@ export const MLB_PLAYERS = [
     "college": [
       "Hofstra University"
     ],
-    "numbers": [],
+    "numbers": [
+      "29"
+    ],
     "league": "MLB",
     "display_name": "Ken Singleton"
   },
@@ -197063,7 +197248,9 @@ export const MLB_PLAYERS = [
     "college": [
       "Michigan State"
     ],
-    "numbers": [],
+    "numbers": [
+      "23"
+    ],
     "league": "MLB",
     "display_name": "Kirk Gibson"
   },
@@ -199647,7 +199834,9 @@ export const MLB_PLAYERS = [
       "Toronto Blue Jays"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "13"
+    ],
     "league": "MLB",
     "display_name": "Lance Parrish"
   },
@@ -199943,6 +200132,7 @@ export const MLB_PLAYERS = [
     ],
     "numbers": [
       "3",
+      "27",
       "33",
       "34"
     ],
@@ -199998,7 +200188,9 @@ export const MLB_PLAYERS = [
     "college": [
       "Sacramento City College"
     ],
-    "numbers": [],
+    "numbers": [
+      "10"
+    ],
     "league": "MLB",
     "display_name": "Larry Bowa"
   },
@@ -200439,7 +200631,9 @@ export const MLB_PLAYERS = [
       "St. Louis Cardinals"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "31"
+    ],
     "league": "MLB",
     "display_name": "Larry Herndon"
   },
@@ -200461,7 +200655,9 @@ export const MLB_PLAYERS = [
       "Philadelphia Phillies"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "4"
+    ],
     "league": "MLB",
     "display_name": "Larry Hisle"
   },
@@ -201922,7 +202118,9 @@ export const MLB_PLAYERS = [
       "Toronto Blue Jays"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "16"
+    ],
     "league": "MLB",
     "display_name": "Lee Mazzilli"
   },
@@ -202059,7 +202257,9 @@ export const MLB_PLAYERS = [
       "St. Louis Cardinals"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "46"
+    ],
     "league": "MLB",
     "display_name": "Lee Smith (MLB)"
   },
@@ -203252,7 +203452,9 @@ export const MLB_PLAYERS = [
       "Philadelphia Phillies"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "4"
+    ],
     "league": "MLB",
     "display_name": "Lenny Dykstra"
   },
@@ -206713,7 +206915,9 @@ export const MLB_PLAYERS = [
       "Southern",
       "Southern University and A&M College"
     ],
-    "numbers": [],
+    "numbers": [
+      "20"
+    ],
     "league": "MLB",
     "display_name": "Lou Brock"
   },
@@ -206922,7 +207126,9 @@ export const MLB_PLAYERS = [
     "college": [
       "Columbia"
     ],
-    "numbers": [],
+    "numbers": [
+      "4"
+    ],
     "league": "MLB",
     "display_name": "Lou Gehrig"
   },
@@ -207541,7 +207747,9 @@ export const MLB_PLAYERS = [
       "Detroit Tigers"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "1"
+    ],
     "league": "MLB",
     "display_name": "Lou Whitaker"
   },
@@ -208251,7 +208459,9 @@ export const MLB_PLAYERS = [
       "Chicago White Sox"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "11"
+    ],
     "league": "MLB",
     "display_name": "Luis Aparicio"
   },
@@ -210592,7 +210802,9 @@ export const MLB_PLAYERS = [
     "college": [
       "California State University Northridge"
     ],
-    "numbers": [],
+    "numbers": [
+      "24"
+    ],
     "league": "MLB",
     "display_name": "Lyman Bostock"
   },
@@ -213871,6 +214083,7 @@ export const MLB_PLAYERS = [
       "San Jose State"
     ],
     "numbers": [
+      "12",
       "22",
       "24"
     ],
@@ -214794,6 +215007,7 @@ export const MLB_PLAYERS = [
     "numbers": [
       "39",
       "43",
+      "49",
       "51"
     ],
     "league": "MLB",
@@ -214957,6 +215171,7 @@ export const MLB_PLAYERS = [
       "Florida Agricultural and Mechanical University"
     ],
     "numbers": [
+      "3",
       "9"
     ],
     "league": "MLB",
@@ -215292,7 +215507,9 @@ export const MLB_PLAYERS = [
       "Arizona State University",
       "Mesa Community College"
     ],
-    "numbers": [],
+    "numbers": [
+      "17"
+    ],
     "league": "MLB",
     "display_name": "Marty Barrett"
   },
@@ -222399,7 +222616,9 @@ export const MLB_PLAYERS = [
       "San Diego Padres"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "29"
+    ],
     "league": "MLB",
     "display_name": "Mickey Lolich"
   },
@@ -222441,7 +222660,9 @@ export const MLB_PLAYERS = [
       "New York Yankees"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "7"
+    ],
     "league": "MLB",
     "display_name": "Mickey Mantle"
   },
@@ -223709,7 +223930,9 @@ export const MLB_PLAYERS = [
     "college": [
       "Iowa"
     ],
-    "numbers": [],
+    "numbers": [
+      "14"
+    ],
     "league": "MLB",
     "display_name": "Mike Boddicker"
   },
@@ -223999,7 +224222,9 @@ export const MLB_PLAYERS = [
     "college": [
       "NC State"
     ],
-    "numbers": [],
+    "numbers": [
+      "32"
+    ],
     "league": "MLB",
     "display_name": "Mike Caldwell (MLB)"
   },
@@ -225001,7 +225226,9 @@ export const MLB_PLAYERS = [
     "college": [
       "UMass"
     ],
-    "numbers": [],
+    "numbers": [
+      "46"
+    ],
     "league": "MLB",
     "display_name": "Mike Flanagan (MLB)"
   },
@@ -225499,6 +225726,7 @@ export const MLB_PLAYERS = [
     "numbers": [
       "10",
       "11",
+      "18",
       "21",
       "32"
     ],
@@ -226767,7 +226995,9 @@ export const MLB_PLAYERS = [
       "Texas Rangers"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "28"
+    ],
     "league": "MLB",
     "display_name": "Mike Marshall"
   },
@@ -228296,7 +228526,9 @@ export const MLB_PLAYERS = [
     "college": [
       "Ohio"
     ],
-    "numbers": [],
+    "numbers": [
+      "20"
+    ],
     "league": "MLB",
     "display_name": "Mike Schmidt"
   },
@@ -228773,7 +229005,9 @@ export const MLB_PLAYERS = [
       "St. Louis Cardinals"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "37"
+    ],
     "league": "MLB",
     "display_name": "Mike Torrez"
   },
@@ -230658,7 +230892,9 @@ export const MLB_PLAYERS = [
       "South Carolina",
       "Spartanburg Methodist College"
     ],
-    "numbers": [],
+    "numbers": [
+      "1"
+    ],
     "league": "MLB",
     "display_name": "Mookie Wilson"
   },
@@ -233071,7 +233307,9 @@ export const MLB_PLAYERS = [
       "Philadelphia Athletics"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "2"
+    ],
     "league": "MLB",
     "display_name": "Nellie Fox"
   },
@@ -235498,7 +235736,10 @@ export const MLB_PLAYERS = [
       "Texas Rangers"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "30",
+      "34"
+    ],
     "league": "MLB",
     "display_name": "Nolan Ryan"
   },
@@ -235768,7 +236009,9 @@ export const MLB_PLAYERS = [
       "Angelo State University",
       "Sul Ross State University"
     ],
-    "numbers": [],
+    "numbers": [
+      "25"
+    ],
     "league": "MLB",
     "display_name": "Norm Cash"
   },
@@ -237362,7 +237605,9 @@ export const MLB_PLAYERS = [
       "St. Louis Cardinals"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "30"
+    ],
     "league": "MLB",
     "display_name": "Orlando Cepeda"
   },
@@ -239221,7 +239466,9 @@ export const MLB_PLAYERS = [
     "college": [
       "Cal Tech"
     ],
-    "numbers": [],
+    "numbers": [
+      "1"
+    ],
     "league": "MLB",
     "display_name": "Ozzie Smith"
   },
@@ -241068,6 +241315,7 @@ export const MLB_PLAYERS = [
     ],
     "numbers": [
       "28",
+      "30",
       "34"
     ],
     "league": "MLB",
@@ -242759,7 +243007,9 @@ export const MLB_PLAYERS = [
     "college": [
       "Minnesota"
     ],
-    "numbers": [],
+    "numbers": [
+      "4"
+    ],
     "league": "MLB",
     "display_name": "Paul Molitor"
   },
@@ -244020,7 +244270,9 @@ export const MLB_PLAYERS = [
       "San Diego Padres"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "45"
+    ],
     "league": "MLB",
     "display_name": "Pedro Martinez"
   },
@@ -244312,7 +244564,9 @@ export const MLB_PLAYERS = [
       "Los Angeles Dodgers"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "1"
+    ],
     "league": "MLB",
     "display_name": "Pee Wee Reese"
   },
@@ -245860,7 +246114,9 @@ export const MLB_PLAYERS = [
       "Philadelphia Phillies"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "14"
+    ],
     "league": "MLB",
     "display_name": "Pete Rose"
   },
@@ -247142,7 +247398,9 @@ export const MLB_PLAYERS = [
       "Toronto Blue Jays"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "35"
+    ],
     "league": "MLB",
     "display_name": "Phil Niekro"
   },
@@ -247288,7 +247546,9 @@ export const MLB_PLAYERS = [
       "New York Yankees"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "10"
+    ],
     "league": "MLB",
     "display_name": "Phil Rizzuto"
   },
@@ -249642,7 +249902,9 @@ export const MLB_PLAYERS = [
       "St. Louis Cardinals"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "3"
+    ],
     "league": "MLB",
     "display_name": "Rafael Santana"
   },
@@ -250252,7 +250514,9 @@ export const MLB_PLAYERS = [
       "Pittsburgh Pirates"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "4"
+    ],
     "league": "MLB",
     "display_name": "Ralph Kiner"
   },
@@ -250820,7 +251084,8 @@ export const MLB_PLAYERS = [
       "22",
       "34",
       "38",
-      "48"
+      "48",
+      "52"
     ],
     "league": "MLB",
     "display_name": "Ramon Martinez"
@@ -252459,7 +252724,9 @@ export const MLB_PLAYERS = [
       "Toronto Blue Jays"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "43"
+    ],
     "league": "MLB",
     "display_name": "Raul Mondesi"
   },
@@ -255526,7 +255793,9 @@ export const MLB_PLAYERS = [
       "St. Louis Cardinals"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "2"
+    ],
     "league": "MLB",
     "display_name": "Red Schoendienst"
   },
@@ -255974,7 +256243,10 @@ export const MLB_PLAYERS = [
     "college": [
       "Arizona State University"
     ],
-    "numbers": [],
+    "numbers": [
+      "9",
+      "44"
+    ],
     "league": "MLB",
     "display_name": "Reggie Jackson (MLB)"
   },
@@ -257422,7 +257694,9 @@ export const MLB_PLAYERS = [
       "Texas Rangers"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "54"
+    ],
     "league": "MLB",
     "display_name": "Rich Gossage"
   },
@@ -258047,7 +258321,9 @@ export const MLB_PLAYERS = [
       "Philadelphia Phillies"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "1"
+    ],
     "league": "MLB",
     "display_name": "Richie Ashburn"
   },
@@ -258457,7 +258733,9 @@ export const MLB_PLAYERS = [
       "New York Yankees"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "24"
+    ],
     "league": "MLB",
     "display_name": "Rick Dempsey"
   },
@@ -259067,7 +259345,9 @@ export const MLB_PLAYERS = [
       "St. Louis Cardinals"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "40"
+    ],
     "league": "MLB",
     "display_name": "Rick Sutcliffe"
   },
@@ -259252,6 +259532,7 @@ export const MLB_PLAYERS = [
     ],
     "college": [],
     "numbers": [
+      "22",
       "24",
       "25",
       "35"
@@ -260907,7 +261188,9 @@ export const MLB_PLAYERS = [
       "Florida",
       "Palm Beach Community College"
     ],
-    "numbers": [],
+    "numbers": [
+      "11"
+    ],
     "league": "MLB",
     "display_name": "Robby Thompson"
   },
@@ -261698,7 +261981,9 @@ export const MLB_PLAYERS = [
       "Pittsburgh Pirates"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "21"
+    ],
     "league": "MLB",
     "display_name": "Roberto Clemente"
   },
@@ -262017,7 +262302,9 @@ export const MLB_PLAYERS = [
       "Milwaukee Brewers"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "19"
+    ],
     "league": "MLB",
     "display_name": "Robin Yount"
   },
@@ -262458,7 +262745,9 @@ export const MLB_PLAYERS = [
       "Minnesota Twins"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "29"
+    ],
     "league": "MLB",
     "display_name": "Rod Carew"
   },
@@ -263126,7 +263415,9 @@ export const MLB_PLAYERS = [
       "St. Louis Cardinals"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "9"
+    ],
     "league": "MLB",
     "display_name": "Roger Maris"
   },
@@ -263528,7 +263819,9 @@ export const MLB_PLAYERS = [
       "San Diego Padres"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "34"
+    ],
     "league": "MLB",
     "display_name": "Rollie Fingers"
   },
@@ -263915,7 +264208,9 @@ export const MLB_PLAYERS = [
     "college": [
       "Yale"
     ],
-    "numbers": [],
+    "numbers": [
+      "12"
+    ],
     "league": "MLB",
     "display_name": "Ron Darling"
   },
@@ -264009,7 +264304,9 @@ export const MLB_PLAYERS = [
     "numbers": [
       "3",
       "5",
-      "9"
+      "9",
+      "10",
+      "23"
     ],
     "league": "MLB",
     "display_name": "Ron Gant"
@@ -264035,7 +264332,9 @@ export const MLB_PLAYERS = [
     "college": [
       "Louisiana Lafayette"
     ],
-    "numbers": [],
+    "numbers": [
+      "49"
+    ],
     "league": "MLB",
     "display_name": "Ron Guidry"
   },
@@ -264565,7 +264864,9 @@ export const MLB_PLAYERS = [
       "Chicago White Sox"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "10"
+    ],
     "league": "MLB",
     "display_name": "Ron Santo"
   },
@@ -264980,6 +265281,7 @@ export const MLB_PLAYERS = [
     ],
     "college": [],
     "numbers": [
+      "12",
       "14",
       "22",
       "24",
@@ -265858,7 +266160,9 @@ export const MLB_PLAYERS = [
       "Washington Elite Giants"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "39"
+    ],
     "league": "MLB",
     "display_name": "Roy Campanella"
   },
@@ -269717,6 +270021,7 @@ export const MLB_PLAYERS = [
     "numbers": [
       "18",
       "21",
+      "28",
       "30"
     ],
     "league": "MLB",
@@ -271115,7 +271420,9 @@ export const MLB_PLAYERS = [
     "college": [
       "Arizona State University"
     ],
-    "numbers": [],
+    "numbers": [
+      "6"
+    ],
     "league": "MLB",
     "display_name": "Sal Bando"
   },
@@ -273327,7 +273634,9 @@ export const MLB_PLAYERS = [
     "college": [
       "Cincinnati"
     ],
-    "numbers": [],
+    "numbers": [
+      "32"
+    ],
     "league": "MLB",
     "display_name": "Sandy Koufax"
   },
@@ -274992,7 +275301,9 @@ export const MLB_PLAYERS = [
       "Baltimore Orioles"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "23"
+    ],
     "league": "MLB",
     "display_name": "Scott McGregor"
   },
@@ -275361,7 +275672,9 @@ export const MLB_PLAYERS = [
     "college": [
       "Vanderbilt"
     ],
-    "numbers": [],
+    "numbers": [
+      "21"
+    ],
     "league": "MLB",
     "display_name": "Scott Sanderson (MLB)"
   },
@@ -278973,7 +279286,9 @@ export const MLB_PLAYERS = [
       "Philadelphia Phillies"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "50"
+    ],
     "league": "MLB",
     "display_name": "Sid Fernandez"
   },
@@ -281420,7 +281735,9 @@ export const MLB_PLAYERS = [
       "St. Louis Cardinals"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "6"
+    ],
     "league": "MLB",
     "display_name": "Stan Musial"
   },
@@ -282535,7 +282852,9 @@ export const MLB_PLAYERS = [
     "college": [
       "Miami Dade College"
     ],
-    "numbers": [],
+    "numbers": [
+      "32"
+    ],
     "league": "MLB",
     "display_name": "Steve Carlton"
   },
@@ -284082,7 +284401,9 @@ export const MLB_PLAYERS = [
     "college": [
       "Tulsa"
     ],
-    "numbers": [],
+    "numbers": [
+      "45"
+    ],
     "league": "MLB",
     "display_name": "Steve Rogers"
   },
@@ -287727,7 +288048,9 @@ export const MLB_PLAYERS = [
       "St. Louis Cardinals"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "23"
+    ],
     "league": "MLB",
     "display_name": "Ted Simmons"
   },
@@ -287897,7 +288220,9 @@ export const MLB_PLAYERS = [
       "Boston Red Sox"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "9"
+    ],
     "league": "MLB",
     "display_name": "Ted Williams"
   },
@@ -288650,6 +288975,7 @@ export const MLB_PLAYERS = [
       "Marietta College"
     ],
     "numbers": [
+      "23",
       "45"
     ],
     "league": "MLB",
@@ -288682,7 +289008,9 @@ export const MLB_PLAYERS = [
       "Fresno State",
       "Oxnard College"
     ],
-    "numbers": [],
+    "numbers": [
+      "9"
+    ],
     "league": "MLB",
     "display_name": "Terry Pendleton"
   },
@@ -289568,7 +289896,9 @@ export const MLB_PLAYERS = [
     "college": [
       "Kent State"
     ],
-    "numbers": [],
+    "numbers": [
+      "15"
+    ],
     "league": "MLB",
     "display_name": "Thurman Munson"
   },
@@ -290852,7 +291182,9 @@ export const MLB_PLAYERS = [
       "Oakland Athletics"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "30"
+    ],
     "league": "MLB",
     "display_name": "Tim Raines"
   },
@@ -291306,6 +291638,7 @@ export const MLB_PLAYERS = [
     ],
     "numbers": [
       "21",
+      "23",
       "24"
     ],
     "league": "MLB",
@@ -292235,7 +292568,9 @@ export const MLB_PLAYERS = [
     "college": [
       "Biola University"
     ],
-    "numbers": [],
+    "numbers": [
+      "38"
+    ],
     "league": "MLB",
     "display_name": "Todd Worrell"
   },
@@ -293743,7 +294078,9 @@ export const MLB_PLAYERS = [
       "St. Louis Cardinals"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "28"
+    ],
     "league": "MLB",
     "display_name": "Tom Herr"
   },
@@ -295132,7 +295469,9 @@ export const MLB_PLAYERS = [
       "Fresno City College",
       "USC"
     ],
-    "numbers": [],
+    "numbers": [
+      "41"
+    ],
     "league": "MLB",
     "display_name": "Tom Seaver"
   },
@@ -295839,7 +296178,9 @@ export const MLB_PLAYERS = [
     "college": [
       "Grambling State"
     ],
-    "numbers": [],
+    "numbers": [
+      "20"
+    ],
     "league": "MLB",
     "display_name": "Tommie Agee (MLB)"
   },
@@ -296447,7 +296788,9 @@ export const MLB_PLAYERS = [
       "Oakland Athletics"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "25"
+    ],
     "league": "MLB",
     "display_name": "Tommy John"
   },
@@ -297521,7 +297864,9 @@ export const MLB_PLAYERS = [
       "California Angels"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "25"
+    ],
     "league": "MLB",
     "display_name": "Tony Conigliaro"
   },
@@ -298138,7 +298483,9 @@ export const MLB_PLAYERS = [
       "Minnesota Twins"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "6"
+    ],
     "league": "MLB",
     "display_name": "Tony Oliva"
   },
@@ -298185,7 +298532,9 @@ export const MLB_PLAYERS = [
       "Philadelphia Phillies"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "24"
+    ],
     "league": "MLB",
     "display_name": "Tony Perez"
   },
@@ -301055,7 +301404,9 @@ export const MLB_PLAYERS = [
       "Philadelphia Phillies"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "45"
+    ],
     "league": "MLB",
     "display_name": "Tug McGraw"
   },
@@ -304623,7 +304974,9 @@ export const MLB_PLAYERS = [
       "San Francisco Giants"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "14"
+    ],
     "league": "MLB",
     "display_name": "Vida Blue"
   },
@@ -304826,7 +305179,9 @@ export const MLB_PLAYERS = [
     "college": [
       "Florida Agricultural and Mechanical University"
     ],
-    "numbers": [],
+    "numbers": [
+      "29"
+    ],
     "league": "MLB",
     "display_name": "Vince Coleman"
   },
@@ -305462,7 +305817,8 @@ export const MLB_PLAYERS = [
     ],
     "college": [],
     "numbers": [
-      "12"
+      "12",
+      "26"
     ],
     "league": "MLB",
     "display_name": "Wade Boggs"
@@ -307676,7 +308032,9 @@ export const MLB_PLAYERS = [
     "college": [
       "Miami Dade College"
     ],
-    "numbers": [],
+    "numbers": [
+      "20"
+    ],
     "league": "MLB",
     "display_name": "Warren Cromartie"
   },
@@ -307823,7 +308181,9 @@ export const MLB_PLAYERS = [
       "San Francisco Giants"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "21"
+    ],
     "league": "MLB",
     "display_name": "Warren Spahn"
   },
@@ -309041,7 +309401,9 @@ export const MLB_PLAYERS = [
       "New York Yankees"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "16"
+    ],
     "league": "MLB",
     "display_name": "Whitey Ford"
   },
@@ -309085,7 +309447,9 @@ export const MLB_PLAYERS = [
       "Washington Senators"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "24"
+    ],
     "league": "MLB",
     "display_name": "Whitey Herzog"
   },
@@ -312103,7 +312467,9 @@ export const MLB_PLAYERS = [
       "San Francisco Giants"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "24"
+    ],
     "league": "MLB",
     "display_name": "Willie Mays (MLB)"
   },
@@ -312115,7 +312481,9 @@ export const MLB_PLAYERS = [
       "San Francisco Giants"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "44"
+    ],
     "league": "MLB",
     "display_name": "Willie McCovey"
   },
@@ -312377,7 +312745,9 @@ export const MLB_PLAYERS = [
       "Pittsburgh Pirates"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "30"
+    ],
     "league": "MLB",
     "display_name": "Willie Randolph"
   },
@@ -312451,7 +312821,9 @@ export const MLB_PLAYERS = [
       "Pittsburgh Pirates"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "8"
+    ],
     "league": "MLB",
     "display_name": "Willie Stargell"
   },
@@ -314701,7 +315073,9 @@ export const MLB_PLAYERS = [
       "New York Yankees"
     ],
     "college": [],
-    "numbers": [],
+    "numbers": [
+      "8"
+    ],
     "league": "MLB",
     "display_name": "Yogi Berra"
   },
