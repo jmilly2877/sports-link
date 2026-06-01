@@ -74320,10 +74320,6 @@ export const NFL_PLAYERS = [
     "numbers": [],
     "league": "NFL"
   },
- 
-    "numbers": [],
-    "league": "NFL"
-  },
   {
     "name": "Buford Jordan",
     "display_name": "Buford Jordan",
@@ -405986,10 +405982,6 @@ export const NFL_PLAYERS = [
     "numbers": [],
     "league": "NFL"
   },
- 
-    "numbers": [],
-    "league": "NFL"
-  },
   {
     "name": "Oakley Dalton",
     "display_name": "Oakley Dalton",
@@ -545349,5 +545341,5 @@ export const NFL_PLAYERS = [
     ],
     "numbers": [],
     "league": "NFL"
-  },
-  
+  }
+];
