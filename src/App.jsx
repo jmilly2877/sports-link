@@ -109,20 +109,22 @@ function Landing({ onFreePlay, onDaily, onRarity }) {
           <div className="mode-btn-date">{daily.par} links · {today}</div>
         </button>
 
-        <div className="mode-btn rarity-btn" onClick={() => onRarity(10)}>
-          <div className="mode-btn-top">
-            <span className="mode-btn-icon">💎</span>
-            <span className="mode-btn-title">RARITY RUN</span>
-          </div>
-          <div className="mode-btn-desc">
-            Build the rarest chain possible. Higher score = rarer links. Starting team is free.
-          </div>
-          <div className="rarity-options">
-            <button onClick={(e) => { e.stopPropagation(); onRarity(5); }}>5 LINKS</button>
-            <button onClick={(e) => { e.stopPropagation(); onRarity(10); }}>10 LINKS</button>
-            <button onClick={(e) => { e.stopPropagation(); onRarity(20); }}>20 LINKS</button>
-          </div>
-        </div>
+        {/*
+<div className="mode-btn rarity-btn" onClick={() => onRarity(10)}>
+  <div className="mode-btn-top">
+    <span className="mode-btn-icon">💎</span>
+    <span className="mode-btn-title">RARITY RUN</span>
+  </div>
+  <div className="mode-btn-desc">
+    Build the rarest chain possible. Higher score = rarer links. Starting team is free.
+  </div>
+  <div className="rarity-options">
+    <button onClick={(e) => { e.stopPropagation(); onRarity(5); }}>5 LINKS</button>
+    <button onClick={(e) => { e.stopPropagation(); onRarity(10); }}>10 LINKS</button>
+    <button onClick={(e) => { e.stopPropagation(); onRarity(20); }}>20 LINKS</button>
+  </div>
+</div>
+*/}
 
         <button className="mode-btn free-btn" onClick={onFreePlay}>
           <div className="mode-btn-title" style={{ marginBottom: 6 }}>Free play</div>
