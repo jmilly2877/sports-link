@@ -131,7 +131,7 @@ function Landing({ onFreePlay, onDaily, onRarity }) {
       </div>
 
       <div className="how-it-works">
-        <div className="how-label">HOW IT WORKS</div>
+        <div className="how-label">EXAMPLE CHAIN</div>
         <div className="how-chain">
           <span className="how-pill how-team">Pirates</span>
           <span className="how-arr">→</span>
