@@ -86,18 +86,26 @@ def alpha(name: str) -> str:
     return re.sub(r"[^a-z]", "", name.lower())
 
 
-def wiki_get(url: str, retries: int = 4):
+LAST_429 = [0.0]
+
+def wiki_get(url: str, retries: int = 5):
     for attempt in range(retries):
+        wait_needed = LAST_429[0] + 30 - time.time()
+        if wait_needed > 0:
+            time.sleep(wait_needed)
         try:
             req = urllib.request.Request(url, headers=HEADERS)
             with urllib.request.urlopen(req, context=ctx, timeout=15) as r:
                 return json.loads(r.read())
         except Exception as e:
-            if "429" in str(e) and attempt < retries - 1:
-                wait = 3 * (2 ** attempt)  # 3s, 6s, 12s, 24s
+            msg = str(e)
+            if "429" in msg:
+                LAST_429[0] = time.time()
+                wait = 30 * (attempt + 1)
+                print(f"\n  Rate limited — waiting {wait}s...", flush=True)
                 time.sleep(wait)
             elif attempt < retries - 1:
-                time.sleep(2)
+                time.sleep(3)
             else:
                 raise
 
@@ -186,7 +194,7 @@ try:
 
         if not results:
             progress[name] = "no_results"
-            time.sleep(1)
+            time.sleep(0.5)
             continue
 
         title = results[0]["title"]
@@ -194,10 +202,10 @@ try:
         # Strict name match: both first AND last name must be in the title
         if not name_in_title(name, title):
             progress[name] = f"name_mismatch:{title}"
-            time.sleep(1)
+            time.sleep(0.5)
             continue
 
-        time.sleep(1)  # between the two API calls
+        time.sleep(0.8)  # between the two API calls
 
         # ── Step 2: Fetch wikitext ──
         try:

@@ -1038,8 +1038,7 @@ export const NBA_PLAYERS = [
       "Oklahoma City Thunder"
     ],
     "college": [
-      "Cal State Santa Barbara",
-      "California-Santa Barbara"
+      "UC Santa Barbara"
     ],
     "numbers": [
       25
@@ -1471,7 +1470,7 @@ export const NBA_PLAYERS = [
       "Seattle SuperSonics"
     ],
     "college": [
-      "UNC"
+      "North Carolina"
     ],
     "numbers": [
       4
@@ -1612,8 +1611,7 @@ export const NBA_PLAYERS = [
       "Phoenix Suns"
     ],
     "college": [
-      "Cal State Santa Barbara",
-      "California-Santa Barbara"
+      "UC Santa Barbara"
     ],
     "numbers": [
       15
@@ -1982,8 +1980,7 @@ export const NBA_PLAYERS = [
       "Oklahoma City Thunder"
     ],
     "college": [
-      "St Mary's",
-      "St. Mary's"
+      "St. Mary's (CA)"
     ],
     "numbers": [
       88
@@ -2467,7 +2464,6 @@ export const NBA_PLAYERS = [
       "Toronto Raptors"
     ],
     "college": [
-      "Wisc.-Green Bay",
       "Wisconsin-Green Bay"
     ],
     "numbers": [
@@ -2866,7 +2862,7 @@ export const NBA_PLAYERS = [
       "Golden State Warriors"
     ],
     "college": [
-      "NC A&T"
+      "North Carolina A&T"
     ],
     "numbers": [
       16
@@ -3821,7 +3817,7 @@ export const NBA_PLAYERS = [
       "Philadelphia 76ers"
     ],
     "college": [
-      "Louisiana Lafayette"
+      "Louisiana-Lafayette"
     ],
     "numbers": [
       22
@@ -3836,7 +3832,7 @@ export const NBA_PLAYERS = [
       "Boston Celtics"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       4
@@ -3945,7 +3941,7 @@ export const NBA_PLAYERS = [
     "name": "Andy O'Donnell",
     "teams": [],
     "college": [
-      "Loyola-Maryland"
+      "Loyola (MD)"
     ],
     "numbers": [],
     "league": "NBA",
@@ -3989,7 +3985,7 @@ export const NBA_PLAYERS = [
       "Toronto Raptors"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       11
@@ -4044,8 +4040,7 @@ export const NBA_PLAYERS = [
       "Phoenix Suns"
     ],
     "college": [
-      "Memphis",
-      "Memphis State"
+      "Memphis"
     ],
     "numbers": [
       1,
@@ -4163,7 +4158,7 @@ export const NBA_PLAYERS = [
       "Washington Wizards"
     ],
     "college": [
-      "UNC"
+      "North Carolina"
     ],
     "numbers": [
       4,
@@ -4260,7 +4255,6 @@ export const NBA_PLAYERS = [
       "Sacramento Kings"
     ],
     "college": [
-      "Saint Louis",
       "St. Louis"
     ],
     "numbers": [
@@ -5163,7 +5157,7 @@ export const NBA_PLAYERS = [
       "Golden State Warriors"
     ],
     "college": [
-      "S.E. Missouri"
+      "Southeast Missouri State"
     ],
     "numbers": [
       0,
@@ -5316,7 +5310,7 @@ export const NBA_PLAYERS = [
       "Orlando Magic"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       21,
@@ -5367,7 +5361,7 @@ export const NBA_PLAYERS = [
       "Memphis Grizzlies"
     ],
     "college": [
-      "UNC"
+      "North Carolina"
     ],
     "numbers": [],
     "league": "NBA",
@@ -5773,7 +5767,7 @@ export const NBA_PLAYERS = [
       "Houston Rockets"
     ],
     "college": [
-      "California State-Poly Pomona"
+      "Cal Poly Pomona"
     ],
     "numbers": [
       7
@@ -5967,7 +5961,7 @@ export const NBA_PLAYERS = [
       "Los Angeles Lakers"
     ],
     "college": [
-      "St Mary's"
+      "St. Mary's (CA)"
     ],
     "numbers": [],
     "league": "NBA",
@@ -6602,7 +6596,7 @@ export const NBA_PLAYERS = [
       "Syracuse Nationals"
     ],
     "college": [
-      "App State"
+      "Appalachian State"
     ],
     "numbers": [],
     "league": "NBA",
@@ -7353,7 +7347,7 @@ export const NBA_PLAYERS = [
       "Phoenix Suns"
     ],
     "college": [
-      "UNC"
+      "North Carolina"
     ],
     "numbers": [
       24
@@ -7669,7 +7663,7 @@ export const NBA_PLAYERS = [
     "name": "Bill Miller",
     "teams": [],
     "college": [
-      "UNC"
+      "North Carolina"
     ],
     "numbers": [],
     "league": "NBA",
@@ -7753,8 +7747,8 @@ export const NBA_PLAYERS = [
       "Portland Trail Blazers"
     ],
     "college": [
-      "St. Peter's",
-      "Syracuse"
+      "Rich Manning",
+      "St. Peter's"
     ],
     "numbers": [
       43
@@ -7893,7 +7887,7 @@ export const NBA_PLAYERS = [
       "Philadelphia 76ers"
     ],
     "college": [
-      "UNC"
+      "North Carolina"
     ],
     "numbers": [
       32
@@ -7921,7 +7915,7 @@ export const NBA_PLAYERS = [
       "Syracuse Nationals"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       7
@@ -8001,7 +7995,7 @@ export const NBA_PLAYERS = [
       "Seattle SuperSonics"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       2,
@@ -8323,8 +8317,7 @@ export const NBA_PLAYERS = [
       "Vancouver Grizzlies"
     ],
     "college": [
-      "East Carolina",
-      "East Carolina University"
+      "East Carolina"
     ],
     "numbers": [
       30,
@@ -8366,7 +8359,7 @@ export const NBA_PLAYERS = [
       "New York Knicks"
     ],
     "college": [
-      "Loyola-Marymount"
+      "Loyola Marymount"
     ],
     "numbers": [
       16
@@ -8380,7 +8373,7 @@ export const NBA_PLAYERS = [
       "Los Angeles Lakers"
     ],
     "college": [
-      "Louisiana Lafayette"
+      "Louisiana-Lafayette"
     ],
     "numbers": [
       11
@@ -8523,7 +8516,7 @@ export const NBA_PLAYERS = [
     "name": "Bob Brown",
     "teams": [],
     "college": [
-      "Miami Ohio"
+      "Miami (OH)"
     ],
     "numbers": [],
     "league": "NBA",
@@ -9088,7 +9081,7 @@ export const NBA_PLAYERS = [
       "Philadelphia 76ers"
     ],
     "college": [
-      "UNC"
+      "North Carolina"
     ],
     "numbers": [
       11
@@ -9571,7 +9564,7 @@ export const NBA_PLAYERS = [
       "Sacramento Kings"
     ],
     "college": [
-      "Cal St Fullerton"
+      "Cal State Fullerton"
     ],
     "numbers": [
       1,
@@ -9658,7 +9651,7 @@ export const NBA_PLAYERS = [
       "San Antonio Spurs"
     ],
     "college": [
-      "UNC",
+      "North Carolina",
       "Washington"
     ],
     "numbers": [
@@ -9679,7 +9672,7 @@ export const NBA_PLAYERS = [
       "Golden State Warriors"
     ],
     "college": [
-      "UNC"
+      "North Carolina"
     ],
     "numbers": [
       5
@@ -10118,7 +10111,7 @@ export const NBA_PLAYERS = [
       "Cleveland Cavaliers"
     ],
     "college": [
-      "UNC"
+      "North Carolina"
     ],
     "numbers": [
       43
@@ -10346,7 +10339,7 @@ export const NBA_PLAYERS = [
       "Phoenix Suns"
     ],
     "college": [
-      "UNC"
+      "North Carolina"
     ],
     "numbers": [
       12,
@@ -10888,7 +10881,7 @@ export const NBA_PLAYERS = [
       "Washington Wizards"
     ],
     "college": [
-      "UNC"
+      "North Carolina"
     ],
     "numbers": [
       0,
@@ -11355,8 +11348,8 @@ export const NBA_PLAYERS = [
       "Portland Trail Blazers"
     ],
     "college": [
-      "California-Santa Barbara",
-      "Saint Mary's, UC Santa Barbara"
+      "Saint Mary's, UC Santa Barbara",
+      "UC Santa Barbara"
     ],
     "numbers": [
       7,
@@ -11451,7 +11444,7 @@ export const NBA_PLAYERS = [
       "Memphis Grizzlies"
     ],
     "college": [
-      "UNC"
+      "North Carolina"
     ],
     "numbers": [
       10,
@@ -11659,7 +11652,7 @@ export const NBA_PLAYERS = [
       "San Antonio Spurs"
     ],
     "college": [
-      "Cal St Fullerton"
+      "Cal State Fullerton"
     ],
     "numbers": [
       3,
@@ -11679,7 +11672,7 @@ export const NBA_PLAYERS = [
       "Toronto Raptors"
     ],
     "college": [
-      "Miami"
+      "Miami (FL)"
     ],
     "numbers": [
       0,
@@ -12164,7 +12157,7 @@ export const NBA_PLAYERS = [
       "Oklahoma City Thunder"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       27,
@@ -12536,7 +12529,7 @@ export const NBA_PLAYERS = [
       "Phoenix Suns"
     ],
     "college": [
-      "App State"
+      "Appalachian State"
     ],
     "numbers": [
       22
@@ -12550,7 +12543,7 @@ export const NBA_PLAYERS = [
       "Phoenix Suns"
     ],
     "college": [
-      "Appalachian State University"
+      "Appalachian State"
     ],
     "numbers": [
       22
@@ -12813,7 +12806,7 @@ export const NBA_PLAYERS = [
     ],
     "college": [
       "Arizona",
-      "UNC"
+      "North Carolina"
     ],
     "numbers": [
       2
@@ -13061,8 +13054,8 @@ export const NBA_PLAYERS = [
       "Phoenix Suns"
     ],
     "college": [
-      "Pitt",
-      "UNC"
+      "North Carolina",
+      "Pitt"
     ],
     "numbers": [
       2,
@@ -13675,7 +13668,7 @@ export const NBA_PLAYERS = [
       "Portland Trail Blazers"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       0,
@@ -13982,7 +13975,7 @@ export const NBA_PLAYERS = [
       "Phoenix Suns"
     ],
     "college": [
-      "Cal St Fullerton"
+      "Cal State Fullerton"
     ],
     "numbers": [
       1,
@@ -14828,7 +14821,7 @@ export const NBA_PLAYERS = [
       "Phoenix Suns"
     ],
     "college": [
-      "UNC"
+      "North Carolina"
     ],
     "numbers": [
       11
@@ -15228,9 +15221,8 @@ export const NBA_PLAYERS = [
       "Sacramento Kings"
     ],
     "college": [
-      "Cal-Davis",
       "Northeast Community College",
-      "UC-Davis"
+      "UC Davis"
     ],
     "numbers": [
       19
@@ -15294,8 +15286,7 @@ export const NBA_PLAYERS = [
       "New Orleans Hornets"
     ],
     "college": [
-      "Blinn",
-      "Blinn J.C."
+      "Blinn College"
     ],
     "numbers": [
       0,
@@ -15913,7 +15904,7 @@ export const NBA_PLAYERS = [
       "Washington Wizards"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       1
@@ -16344,7 +16335,7 @@ export const NBA_PLAYERS = [
     "college": [
       "Alabama",
       "Kennesaw State",
-      "USF"
+      "South Florida"
     ],
     "numbers": [
       11
@@ -16466,7 +16457,7 @@ export const NBA_PLAYERS = [
       "New Orleans Pelicans"
     ],
     "college": [
-      "Mc Neese State"
+      "McNeese State"
     ],
     "numbers": [],
     "league": "NBA",
@@ -16770,7 +16761,7 @@ export const NBA_PLAYERS = [
       "Washington Wizards"
     ],
     "college": [
-      "USF"
+      "South Florida"
     ],
     "numbers": [
       3,
@@ -16885,7 +16876,7 @@ export const NBA_PLAYERS = [
       "Philadelphia 76ers"
     ],
     "college": [
-      "Southern Mississippi"
+      "Southern Miss"
     ],
     "numbers": [
       30
@@ -17515,7 +17506,7 @@ export const NBA_PLAYERS = [
       "Chicago Bulls"
     ],
     "college": [
-      "UNC"
+      "North Carolina"
     ],
     "numbers": [
       0,
@@ -17641,7 +17632,7 @@ export const NBA_PLAYERS = [
       "Orlando Magic"
     ],
     "college": [
-      "UNC"
+      "North Carolina"
     ],
     "numbers": [
       50
@@ -17659,7 +17650,7 @@ export const NBA_PLAYERS = [
       "Toronto Raptors"
     ],
     "college": [
-      "Syracuse",
+      "Rich Manning",
       "Villanova"
     ],
     "numbers": [
@@ -17774,7 +17765,7 @@ export const NBA_PLAYERS = [
       "Sacramento Kings"
     ],
     "college": [
-      "California-Santa Barbara"
+      "UC Santa Barbara"
     ],
     "numbers": [],
     "league": "NBA",
@@ -17962,7 +17953,7 @@ export const NBA_PLAYERS = [
       "Philadelphia 76ers"
     ],
     "college": [
-      "Loyola-Marymount"
+      "Loyola Marymount"
     ],
     "numbers": [
       5
@@ -18119,7 +18110,7 @@ export const NBA_PLAYERS = [
       "Oklahoma City Thunder"
     ],
     "college": [
-      "UNC"
+      "North Carolina"
     ],
     "numbers": [
       30
@@ -18133,9 +18124,9 @@ export const NBA_PLAYERS = [
       "Milwaukee Bucks"
     ],
     "college": [
+      "North Carolina",
       "Notre Dame",
-      "Stanford",
-      "UNC"
+      "Stanford"
     ],
     "numbers": [
       30
@@ -18552,7 +18543,7 @@ export const NBA_PLAYERS = [
       "Cleveland Cavaliers"
     ],
     "college": [
-      "Vincennes University",
+      "Rickey Green",
       "Wichita State"
     ],
     "numbers": [
@@ -18762,7 +18753,7 @@ export const NBA_PLAYERS = [
       "Seattle SuperSonics"
     ],
     "college": [
-      "USF"
+      "South Florida"
     ],
     "numbers": [
       42
@@ -19798,7 +19789,7 @@ export const NBA_PLAYERS = [
       "Washington Wizards"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       10,
@@ -19885,8 +19876,7 @@ export const NBA_PLAYERS = [
       "Minnesota Timberwolves"
     ],
     "college": [
-      "Evansville",
-      "University of Evansville"
+      "Evansville"
     ],
     "numbers": [
       35,
@@ -20035,7 +20025,7 @@ export const NBA_PLAYERS = [
       "Utah Jazz"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       24
@@ -20541,7 +20531,7 @@ export const NBA_PLAYERS = [
       "Toronto Raptors"
     ],
     "college": [
-      "UNC"
+      "North Carolina"
     ],
     "numbers": [
       4,
@@ -20579,7 +20569,7 @@ export const NBA_PLAYERS = [
       "Miami Heat"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       24
@@ -21202,7 +21192,7 @@ export const NBA_PLAYERS = [
       "Indiana Pacers"
     ],
     "college": [
-      "UNC"
+      "North Carolina"
     ],
     "numbers": [
       15
@@ -21426,7 +21416,7 @@ export const NBA_PLAYERS = [
       "San Antonio Spurs"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       13,
@@ -21545,7 +21535,7 @@ export const NBA_PLAYERS = [
       "Washington Bullets"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       21
@@ -21751,7 +21741,7 @@ export const NBA_PLAYERS = [
       "Portland Trail Blazers"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       8
@@ -21857,7 +21847,7 @@ export const NBA_PLAYERS = [
       "Milwaukee Bucks"
     ],
     "college": [
-      "UNC"
+      "North Carolina"
     ],
     "numbers": [
       41,
@@ -21981,7 +21971,7 @@ export const NBA_PLAYERS = [
       "Cincinnati Royals"
     ],
     "college": [
-      "Miami Ohio"
+      "Miami (OH)"
     ],
     "numbers": [
       18
@@ -22101,7 +22091,7 @@ export const NBA_PLAYERS = [
       "Sacramento Kings"
     ],
     "college": [
-      "St Mary's"
+      "St. Mary's (CA)"
     ],
     "numbers": [
       14
@@ -22314,7 +22304,7 @@ export const NBA_PLAYERS = [
       "Milwaukee Bucks"
     ],
     "college": [
-      "UNC"
+      "North Carolina"
     ],
     "numbers": [
       34
@@ -22333,8 +22323,7 @@ export const NBA_PLAYERS = [
       "Oklahoma City Thunder"
     ],
     "college": [
-      "Cal Poly",
-      "Cal Poly-Obispo"
+      "Cal Poly"
     ],
     "numbers": [
       0,
@@ -22694,7 +22683,7 @@ export const NBA_PLAYERS = [
       "Phoenix Suns"
     ],
     "college": [
-      "Miami"
+      "Miami (FL)"
     ],
     "numbers": [
       9,
@@ -22740,7 +22729,7 @@ export const NBA_PLAYERS = [
       "Brooklyn Nets"
     ],
     "college": [
-      "UNC"
+      "North Carolina"
     ],
     "numbers": [
       20
@@ -23028,7 +23017,7 @@ export const NBA_PLAYERS = [
       "Sacramento Kings"
     ],
     "college": [
-      "Miami"
+      "Miami (FL)"
     ],
     "numbers": [
       20
@@ -23469,7 +23458,7 @@ export const NBA_PLAYERS = [
       "Utah Jazz"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       35
@@ -23672,7 +23661,7 @@ export const NBA_PLAYERS = [
       "Washington Bullets"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       21
@@ -24320,7 +24309,7 @@ export const NBA_PLAYERS = [
       "Philadelphia 76ers"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       44
@@ -24435,7 +24424,7 @@ export const NBA_PLAYERS = [
       "Sacramento Kings"
     ],
     "college": [
-      "UNC"
+      "North Carolina"
     ],
     "numbers": [
       5
@@ -24632,8 +24621,7 @@ export const NBA_PLAYERS = [
       "Portland Trail Blazers"
     ],
     "college": [
-      "Detroit",
-      "Detroit Mercy"
+      "Detroit"
     ],
     "numbers": [
       5
@@ -24971,8 +24959,7 @@ export const NBA_PLAYERS = [
       "San Antonio Spurs"
     ],
     "college": [
-      "UNC Wilmington",
-      "UNC-Wilmington"
+      "UNC Wilmington"
     ],
     "numbers": [
       12,
@@ -25031,7 +25018,7 @@ export const NBA_PLAYERS = [
       "Toronto Raptors"
     ],
     "college": [
-      "Miami"
+      "Miami (FL)"
     ],
     "numbers": [
       20
@@ -25194,7 +25181,7 @@ export const NBA_PLAYERS = [
       "Houston Rockets"
     ],
     "college": [
-      "St. Mary's"
+      "St. Mary's (CA)"
     ],
     "numbers": [
       20
@@ -25312,7 +25299,7 @@ export const NBA_PLAYERS = [
       "Atlanta Hawks"
     ],
     "college": [
-      "Southeast Missouri"
+      "Southeast Missouri State"
     ],
     "numbers": [],
     "league": "NBA",
@@ -25841,7 +25828,7 @@ export const NBA_PLAYERS = [
       "Oklahoma City Thunder"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       3,
@@ -26045,7 +26032,7 @@ export const NBA_PLAYERS = [
       "Dallas Mavericks"
     ],
     "college": [
-      "USF"
+      "South Florida"
     ],
     "numbers": [
       20
@@ -26237,7 +26224,7 @@ export const NBA_PLAYERS = [
       "Los Angeles Lakers"
     ],
     "college": [
-      "California-Santa Barbara"
+      "UC Santa Barbara"
     ],
     "numbers": [
       35
@@ -26936,7 +26923,7 @@ export const NBA_PLAYERS = [
       "Sacramento Kings"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       13
@@ -27395,7 +27382,7 @@ export const NBA_PLAYERS = [
       "Brooklyn Nets"
     ],
     "college": [
-      "UNC"
+      "North Carolina"
     ],
     "numbers": [
       4
@@ -27606,8 +27593,8 @@ export const NBA_PLAYERS = [
       "Miami Heat"
     ],
     "college": [
-      "Missouri",
-      "University of Evansville"
+      "Evansville",
+      "Missouri"
     ],
     "numbers": [
       9,
@@ -27723,7 +27710,7 @@ export const NBA_PLAYERS = [
       "Washington Bullets"
     ],
     "college": [
-      "UNC"
+      "North Carolina"
     ],
     "numbers": [
       22
@@ -27941,7 +27928,7 @@ export const NBA_PLAYERS = [
       "Miami Heat"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       31
@@ -27955,8 +27942,7 @@ export const NBA_PLAYERS = [
       "Toronto Raptors"
     ],
     "college": [
-      "Jackson State",
-      "Jackson State University"
+      "Jackson State"
     ],
     "numbers": [
       23
@@ -28243,7 +28229,7 @@ export const NBA_PLAYERS = [
       "Utah Jazz"
     ],
     "college": [
-      "Houston Baptist"
+      "Houston Christian"
     ],
     "numbers": [
       12
@@ -28405,7 +28391,6 @@ export const NBA_PLAYERS = [
     ],
     "college": [
       "Detroit",
-      "Detroit Mercy",
       "Robert Morris University (PA), Detroit Mercy"
     ],
     "numbers": [
@@ -28660,7 +28645,7 @@ export const NBA_PLAYERS = [
       "Utah Jazz"
     ],
     "college": [
-      "UNC"
+      "North Carolina"
     ],
     "numbers": [
       17,
@@ -29216,7 +29201,7 @@ export const NBA_PLAYERS = [
       "Atlanta Hawks"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NBA",
@@ -29591,9 +29576,8 @@ export const NBA_PLAYERS = [
       "Phoenix Suns"
     ],
     "college": [
-      "Louisana-Lafayette",
       "Louisiana",
-      "Louisiana Lafayette"
+      "Louisiana-Lafayette"
     ],
     "numbers": [
       2,
@@ -29730,7 +29714,7 @@ export const NBA_PLAYERS = [
       "Utah Jazz"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       19,
@@ -30550,7 +30534,7 @@ export const NBA_PLAYERS = [
       "Toronto Raptors"
     ],
     "college": [
-      "UNC"
+      "North Carolina"
     ],
     "numbers": [
       0
@@ -31110,7 +31094,7 @@ export const NBA_PLAYERS = [
       "Washington Wizards"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       36
@@ -31348,7 +31332,7 @@ export const NBA_PLAYERS = [
       "Dallas Mavericks"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       13
@@ -31753,7 +31737,7 @@ export const NBA_PLAYERS = [
       "San Antonio Spurs"
     ],
     "college": [
-      "Loyola-Marymount"
+      "Loyola Marymount"
     ],
     "numbers": [
       7
@@ -32026,7 +32010,7 @@ export const NBA_PLAYERS = [
       "Golden State Warriors"
     ],
     "college": [
-      "St Mary's"
+      "St. Mary's (CA)"
     ],
     "numbers": [
       14
@@ -32142,7 +32126,7 @@ export const NBA_PLAYERS = [
       "Cincinnati Royals"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       21
@@ -32414,7 +32398,7 @@ export const NBA_PLAYERS = [
       "Philadelphia 76ers"
     ],
     "college": [
-      "Miami Ohio"
+      "Miami (OH)"
     ],
     "numbers": [
       5
@@ -32567,7 +32551,7 @@ export const NBA_PLAYERS = [
       "Utah Jazz"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       12
@@ -32891,8 +32875,7 @@ export const NBA_PLAYERS = [
       "Miami Heat"
     ],
     "college": [
-      "Cal State Santa Barbara",
-      "California-Santa Barbara"
+      "UC Santa Barbara"
     ],
     "numbers": [
       2,
@@ -33229,8 +33212,7 @@ export const NBA_PLAYERS = [
       "Miami Heat"
     ],
     "college": [
-      "South Florida",
-      "USF"
+      "South Florida"
     ],
     "numbers": [
       16,
@@ -33660,8 +33642,7 @@ export const NBA_PLAYERS = [
       "Washington Wizards"
     ],
     "college": [
-      "Northwestern Oklahoma",
-      "Nortwestern Oklahoma State"
+      "Northwestern Oklahoma State"
     ],
     "numbers": [
       9
@@ -33773,7 +33754,7 @@ export const NBA_PLAYERS = [
     "name": "Gene Gillette",
     "teams": [],
     "college": [
-      "St Mary's"
+      "St. Mary's (CA)"
     ],
     "numbers": [],
     "league": "NBA",
@@ -34077,7 +34058,7 @@ export const NBA_PLAYERS = [
     "name": "George Glamack",
     "teams": [],
     "college": [
-      "UNC"
+      "North Carolina"
     ],
     "numbers": [],
     "league": "NBA",
@@ -34178,7 +34159,7 @@ export const NBA_PLAYERS = [
       "San Antonio Spurs"
     ],
     "college": [
-      "UNC"
+      "North Carolina"
     ],
     "numbers": [
       22
@@ -34197,8 +34178,7 @@ export const NBA_PLAYERS = [
     ],
     "college": [
       "Colorado",
-      "University of Charleston",
-      "University of Colorado Boulder"
+      "University of Charleston"
     ],
     "numbers": [
       8,
@@ -34248,7 +34228,7 @@ export const NBA_PLAYERS = [
       "Vancouver Grizzlies"
     ],
     "college": [
-      "UNC"
+      "North Carolina"
     ],
     "numbers": [
       9,
@@ -35718,7 +35698,7 @@ export const NBA_PLAYERS = [
       "New York Knicks"
     ],
     "college": [
-      "Cal St Fullerton"
+      "Cal State Fullerton"
     ],
     "numbers": [
       30
@@ -36242,7 +36222,7 @@ export const NBA_PLAYERS = [
       "Los Angeles Clippers"
     ],
     "college": [
-      "Miami"
+      "Miami (FL)"
     ],
     "numbers": [],
     "league": "NBA",
@@ -36522,7 +36502,7 @@ export const NBA_PLAYERS = [
       "Phoenix Suns"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       1,
@@ -36820,7 +36800,7 @@ export const NBA_PLAYERS = [
       "Los Angeles Clippers"
     ],
     "college": [
-      "Morehouse"
+      "Morehouse College"
     ],
     "numbers": [
       3
@@ -36944,7 +36924,7 @@ export const NBA_PLAYERS = [
       "San Antonio Spurs"
     ],
     "college": [
-      "UNC"
+      "North Carolina"
     ],
     "numbers": [
       40
@@ -36958,8 +36938,8 @@ export const NBA_PLAYERS = [
       "San Antonio Spurs"
     ],
     "college": [
-      "Stanford",
-      "UNC"
+      "North Carolina",
+      "Stanford"
     ],
     "numbers": [
       55
@@ -36973,8 +36953,8 @@ export const NBA_PLAYERS = [
       "San Antonio Spurs"
     ],
     "college": [
-      "Stanford",
-      "UNC"
+      "North Carolina",
+      "Stanford"
     ],
     "numbers": [
       55
@@ -37103,7 +37083,7 @@ export const NBA_PLAYERS = [
     "name": "Harry Miller",
     "teams": [],
     "college": [
-      "UNC"
+      "North Carolina"
     ],
     "numbers": [],
     "league": "NBA",
@@ -37270,7 +37250,6 @@ export const NBA_PLAYERS = [
       "Utah Jazz"
     ],
     "college": [
-      "California-San Diego",
       "UC San Diego"
     ],
     "numbers": [
@@ -37513,7 +37492,7 @@ export const NBA_PLAYERS = [
       "Sacramento Kings"
     ],
     "college": [
-      "Cal St Fullerton"
+      "Cal State Fullerton"
     ],
     "numbers": [
       9
@@ -37875,7 +37854,7 @@ export const NBA_PLAYERS = [
       "Boston Celtics"
     ],
     "college": [
-      "UNC"
+      "North Carolina"
     ],
     "numbers": [
       17
@@ -38206,7 +38185,7 @@ export const NBA_PLAYERS = [
       "Washington Wizards"
     ],
     "college": [
-      "UNC"
+      "North Carolina"
     ],
     "numbers": [
       24,
@@ -38680,7 +38659,7 @@ export const NBA_PLAYERS = [
       "Seattle SuperSonics"
     ],
     "college": [
-      "Miami Ohio"
+      "Miami (OH)"
     ],
     "numbers": [
       3,
@@ -39006,7 +38985,7 @@ export const NBA_PLAYERS = [
       "New York Knicks"
     ],
     "college": [
-      "UNC"
+      "North Carolina"
     ],
     "numbers": [
       4
@@ -39094,7 +39073,7 @@ export const NBA_PLAYERS = [
       "Portland Trail Blazers"
     ],
     "college": [
-      "UNC-Greensboro"
+      "UNC Greensboro"
     ],
     "numbers": [],
     "league": "NBA",
@@ -39275,7 +39254,7 @@ export const NBA_PLAYERS = [
       "Washington Wizards"
     ],
     "college": [
-      "G League Ignite"
+      "NBA G League Ignite"
     ],
     "numbers": [
       14
@@ -39342,7 +39321,7 @@ export const NBA_PLAYERS = [
       "Utah Jazz"
     ],
     "college": [
-      "Miami"
+      "Miami (FL)"
     ],
     "numbers": [
       21
@@ -39460,8 +39439,7 @@ export const NBA_PLAYERS = [
       "Dallas Mavericks"
     ],
     "college": [
-      "Cal State-San Bernardino",
-      "California State-San Bernardino"
+      "Cal State San Bernardino"
     ],
     "numbers": [
       44
@@ -39672,7 +39650,7 @@ export const NBA_PLAYERS = [
       "San Antonio Spurs"
     ],
     "college": [
-      "UNC"
+      "North Carolina"
     ],
     "numbers": [
       7,
@@ -39921,7 +39899,7 @@ export const NBA_PLAYERS = [
       "Dallas Mavericks"
     ],
     "college": [
-      "Cal State Santa Barbara"
+      "UC Santa Barbara"
     ],
     "numbers": [
       30
@@ -40241,7 +40219,7 @@ export const NBA_PLAYERS = [
       "Detroit Pistons"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       10
@@ -40621,7 +40599,6 @@ export const NBA_PLAYERS = [
       "Golden State Warriors"
     ],
     "college": [
-      "Cal St Fullerton",
       "Cal State Fullerton"
     ],
     "numbers": [
@@ -40982,8 +40959,8 @@ export const NBA_PLAYERS = [
       "Miami Heat"
     ],
     "college": [
-      "Maryland",
-      "UNC Charlotte"
+      "Charlotte",
+      "Maryland"
     ],
     "numbers": [
       17
@@ -41479,7 +41456,7 @@ export const NBA_PLAYERS = [
     ],
     "college": [
       "Penn State",
-      "Siena College"
+      "Siena"
     ],
     "numbers": [
       24
@@ -42064,8 +42041,7 @@ export const NBA_PLAYERS = [
       "Charlotte Hornets"
     ],
     "college": [
-      "Dartmouth",
-      "Dartmouth College"
+      "Dartmouth"
     ],
     "numbers": [
       7,
@@ -42182,8 +42158,6 @@ export const NBA_PLAYERS = [
       "Philadelphia 76ers"
     ],
     "college": [
-      "Cal State-Long Beach",
-      "California State-Long Beach",
       "Long Beach State"
     ],
     "numbers": [
@@ -42279,7 +42253,7 @@ export const NBA_PLAYERS = [
       "Portland Trail Blazers"
     ],
     "college": [
-      "Miami"
+      "Miami (FL)"
     ],
     "numbers": [
       1,
@@ -42324,7 +42298,7 @@ export const NBA_PLAYERS = [
       "Philadelphia 76ers"
     ],
     "college": [
-      "UNC"
+      "North Carolina"
     ],
     "numbers": [
       14,
@@ -42344,8 +42318,7 @@ export const NBA_PLAYERS = [
       "Phoenix Suns"
     ],
     "college": [
-      "Cal State Santa Barbara",
-      "California-Santa Barbara"
+      "UC Santa Barbara"
     ],
     "numbers": [
       2,
@@ -42475,7 +42448,7 @@ export const NBA_PLAYERS = [
       "Portland Trail Blazers"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       31
@@ -42576,7 +42549,7 @@ export const NBA_PLAYERS = [
       "Los Angeles Lakers"
     ],
     "college": [
-      "UNC"
+      "North Carolina"
     ],
     "numbers": [
       42
@@ -43307,7 +43280,7 @@ export const NBA_PLAYERS = [
       "Indiana Pacers"
     ],
     "college": [
-      "USF"
+      "South Florida"
     ],
     "numbers": [],
     "league": "NBA",
@@ -43514,7 +43487,7 @@ export const NBA_PLAYERS = [
       "Utah Jazz"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       1,
@@ -43796,7 +43769,7 @@ export const NBA_PLAYERS = [
       "Los Angeles Lakers"
     ],
     "college": [
-      "Boston U."
+      "Boston University"
     ],
     "numbers": [],
     "league": "NBA",
@@ -43906,7 +43879,7 @@ export const NBA_PLAYERS = [
       "Portland Trail Blazers"
     ],
     "college": [
-      "Winston-Salem"
+      "Winston-Salem State"
     ],
     "numbers": [],
     "league": "NBA",
@@ -43964,7 +43937,7 @@ export const NBA_PLAYERS = [
       "San Antonio Spurs"
     ],
     "college": [
-      "UNC"
+      "North Carolina"
     ],
     "numbers": [
       31
@@ -44369,8 +44342,7 @@ export const NBA_PLAYERS = [
       "Charlotte Hornets"
     ],
     "college": [
-      "UNC Wilmington",
-      "UNC-Wilmington"
+      "UNC Wilmington"
     ],
     "numbers": [],
     "league": "NBA",
@@ -44382,7 +44354,7 @@ export const NBA_PLAYERS = [
       "Memphis Grizzlies"
     ],
     "college": [
-      "Sonoma State University",
+      "Sonoma State",
       "Washington State"
     ],
     "numbers": [
@@ -44671,7 +44643,6 @@ export const NBA_PLAYERS = [
       "Indiana Pacers"
     ],
     "college": [
-      "Southwest Texas State",
       "Texas State"
     ],
     "numbers": [
@@ -44798,7 +44769,7 @@ export const NBA_PLAYERS = [
       "San Antonio Spurs"
     ],
     "college": [
-      "UNC"
+      "North Carolina"
     ],
     "numbers": [
       12
@@ -44851,7 +44822,7 @@ export const NBA_PLAYERS = [
       "Washington Wizards"
     ],
     "college": [
-      "UNC"
+      "North Carolina"
     ],
     "numbers": [
       0,
@@ -44924,8 +44895,7 @@ export const NBA_PLAYERS = [
       "Chicago Bulls"
     ],
     "college": [
-      "Georgia Southern",
-      "Georgia Southern University"
+      "Georgia Southern"
     ],
     "numbers": [
       20,
@@ -45143,7 +45113,7 @@ export const NBA_PLAYERS = [
       "San Antonio Spurs"
     ],
     "college": [
-      "UNC"
+      "North Carolina"
     ],
     "numbers": [
       41
@@ -45216,7 +45186,7 @@ export const NBA_PLAYERS = [
       "Portland Trail Blazers"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       9,
@@ -45530,8 +45500,7 @@ export const NBA_PLAYERS = [
       "Toronto Raptors"
     ],
     "college": [
-      "Detroit",
-      "Detroit Mercy"
+      "Detroit"
     ],
     "numbers": [
       5,
@@ -46038,7 +46007,7 @@ export const NBA_PLAYERS = [
       "Los Angeles Lakers"
     ],
     "college": [
-      "Loyola-Marymount"
+      "Loyola Marymount"
     ],
     "numbers": [
       32
@@ -46196,7 +46165,7 @@ export const NBA_PLAYERS = [
       "Washington Wizards"
     ],
     "college": [
-      "UNC"
+      "North Carolina"
     ],
     "numbers": [
       24,
@@ -46307,7 +46276,7 @@ export const NBA_PLAYERS = [
       "Minnesota Timberwolves"
     ],
     "college": [
-      "Syracuse",
+      "Rich Manning",
       "West Virginia"
     ],
     "numbers": [
@@ -46728,7 +46697,7 @@ export const NBA_PLAYERS = [
       "Dallas Mavericks"
     ],
     "college": [
-      "USF"
+      "South Florida"
     ],
     "numbers": [
       50
@@ -47633,8 +47602,7 @@ export const NBA_PLAYERS = [
       "San Antonio Spurs"
     ],
     "college": [
-      "St Mary's",
-      "St. Mary's"
+      "St. Mary's (CA)"
     ],
     "numbers": [
       2,
@@ -47721,7 +47689,7 @@ export const NBA_PLAYERS = [
       "Portland Trail Blazers"
     ],
     "college": [
-      "NC A&T"
+      "North Carolina A&T"
     ],
     "numbers": [
       50
@@ -47854,7 +47822,7 @@ export const NBA_PLAYERS = [
       "San Antonio Spurs"
     ],
     "college": [
-      "Southern Mississippi"
+      "Southern Miss"
     ],
     "numbers": [
       21,
@@ -48360,7 +48328,7 @@ export const NBA_PLAYERS = [
       "Portland Trail Blazers"
     ],
     "college": [
-      "UNC"
+      "North Carolina"
     ],
     "numbers": [
       12,
@@ -48966,7 +48934,7 @@ export const NBA_PLAYERS = [
     "name": "John Dillon",
     "teams": [],
     "college": [
-      "UNC"
+      "North Carolina"
     ],
     "numbers": [],
     "league": "NBA",
@@ -49138,7 +49106,7 @@ export const NBA_PLAYERS = [
       "Milwaukee Bucks"
     ],
     "college": [
-      "UNC"
+      "North Carolina"
     ],
     "numbers": [
       31
@@ -49153,7 +49121,6 @@ export const NBA_PLAYERS = [
       "Cleveland Cavaliers"
     ],
     "college": [
-      "Boston U.",
       "Boston University"
     ],
     "numbers": [
@@ -49254,7 +49221,7 @@ export const NBA_PLAYERS = [
       "Sacramento Kings"
     ],
     "college": [
-      "UNC"
+      "North Carolina"
     ],
     "numbers": [
       5
@@ -49301,8 +49268,7 @@ export const NBA_PLAYERS = [
       "Toronto Raptors"
     ],
     "college": [
-      "Detroit",
-      "Detroit Mercy"
+      "Detroit"
     ],
     "numbers": [
       25
@@ -49708,7 +49674,7 @@ export const NBA_PLAYERS = [
       "Toronto Raptors"
     ],
     "college": [
-      "Miami"
+      "Miami (FL)"
     ],
     "numbers": [
       5,
@@ -49952,7 +49918,7 @@ export const NBA_PLAYERS = [
       "Philadelphia 76ers"
     ],
     "college": [
-      "California-Santa Barbara"
+      "UC Santa Barbara"
     ],
     "numbers": [
       26
@@ -50029,7 +49995,7 @@ export const NBA_PLAYERS = [
       "Toronto Raptors"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       22,
@@ -51045,7 +51011,7 @@ export const NBA_PLAYERS = [
       "Portland Trail Blazers"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       3,
@@ -51224,7 +51190,7 @@ export const NBA_PLAYERS = [
       "Sacramento Kings"
     ],
     "college": [
-      "St Mary's"
+      "St. Mary's (CA)"
     ],
     "numbers": [
       31
@@ -51241,7 +51207,6 @@ export const NBA_PLAYERS = [
       "Washington Wizards"
     ],
     "college": [
-      "Saint Louis",
       "St. Louis"
     ],
     "numbers": [
@@ -51427,7 +51392,7 @@ export const NBA_PLAYERS = [
     ],
     "college": [
       "George Mason",
-      "Miami"
+      "Miami (FL)"
     ],
     "numbers": [
       11,
@@ -51591,8 +51556,7 @@ export const NBA_PLAYERS = [
       "Milwaukee Bucks"
     ],
     "college": [
-      "California",
-      "California-Berkeley"
+      "California"
     ],
     "numbers": [
       12
@@ -51687,7 +51651,7 @@ export const NBA_PLAYERS = [
       "Seattle SuperSonics"
     ],
     "college": [
-      "UNC"
+      "North Carolina"
     ],
     "numbers": [
       40
@@ -51711,7 +51675,7 @@ export const NBA_PLAYERS = [
       "Dallas Mavericks"
     ],
     "college": [
-      "Cal St Fullerton"
+      "Cal State Fullerton"
     ],
     "numbers": [
       10
@@ -52365,7 +52329,7 @@ export const NBA_PLAYERS = [
       "Philadelphia 76ers"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NBA",
@@ -52884,7 +52848,7 @@ export const NBA_PLAYERS = [
       "Sacramento Kings"
     ],
     "college": [
-      "UNC"
+      "North Carolina"
     ],
     "numbers": [
       25,
@@ -53692,7 +53656,7 @@ export const NBA_PLAYERS = [
       "Miami Heat"
     ],
     "college": [
-      "Illinois-Urbana-Champaign"
+      "Illinois"
     ],
     "numbers": [
       25
@@ -53818,8 +53782,7 @@ export const NBA_PLAYERS = [
       "Philadelphia 76ers"
     ],
     "college": [
-      "Cal State-Bakersfield",
-      "California State-Bakersfield"
+      "Cal State Bakersfield"
     ],
     "numbers": [
       41
@@ -53875,7 +53838,6 @@ export const NBA_PLAYERS = [
       "San Antonio Spurs"
     ],
     "college": [
-      "Wisc.-Green Bay",
       "Wisconsin-Green Bay"
     ],
     "numbers": [
@@ -54191,7 +54153,7 @@ export const NBA_PLAYERS = [
       "Milwaukee Bucks"
     ],
     "college": [
-      "Loyola-Marymount"
+      "Loyola Marymount"
     ],
     "numbers": [
       11
@@ -54351,7 +54313,7 @@ export const NBA_PLAYERS = [
       "Indiana Pacers"
     ],
     "college": [
-      "Southern Mississippi"
+      "Southern Miss"
     ],
     "numbers": [
       11
@@ -54787,7 +54749,7 @@ export const NBA_PLAYERS = [
       "Phoenix Suns"
     ],
     "college": [
-      "UNC"
+      "North Carolina"
     ],
     "numbers": [
       5,
@@ -55214,7 +55176,7 @@ export const NBA_PLAYERS = [
       "Sacramento Kings"
     ],
     "college": [
-      "UNC"
+      "North Carolina"
     ],
     "numbers": [
       30
@@ -55623,7 +55585,7 @@ export const NBA_PLAYERS = [
       "Denver Nuggets"
     ],
     "college": [
-      "Louisiana Lafayette"
+      "Louisiana-Lafayette"
     ],
     "numbers": [
       43
@@ -55768,7 +55730,7 @@ export const NBA_PLAYERS = [
       "Golden State Warriors"
     ],
     "college": [
-      "Cal St Fullerton"
+      "Cal State Fullerton"
     ],
     "numbers": [
       12
@@ -56248,7 +56210,7 @@ export const NBA_PLAYERS = [
       "Sacramento Kings"
     ],
     "college": [
-      "UNC"
+      "North Carolina"
     ],
     "numbers": [
       32
@@ -57105,7 +57067,7 @@ export const NBA_PLAYERS = [
       "Orlando Magic"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       24,
@@ -57677,7 +57639,7 @@ export const NBA_PLAYERS = [
       "Washington Wizards"
     ],
     "college": [
-      "Miami"
+      "Miami (FL)"
     ],
     "numbers": [
       18
@@ -57867,7 +57829,7 @@ export const NBA_PLAYERS = [
       "Chicago Bulls"
     ],
     "college": [
-      "Cal",
+      "California",
       "UC Riverside"
     ],
     "numbers": [
@@ -58450,7 +58412,6 @@ export const NBA_PLAYERS = [
       "Washington Wizards"
     ],
     "college": [
-      "Saint Louis",
       "St. Louis"
     ],
     "numbers": [
@@ -58996,7 +58957,7 @@ export const NBA_PLAYERS = [
       "Washington Wizards"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       3,
@@ -59108,7 +59069,7 @@ export const NBA_PLAYERS = [
     ],
     "college": [
       "Kentucky, Syracuse",
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       28,
@@ -59124,7 +59085,7 @@ export const NBA_PLAYERS = [
       "Washington Wizards"
     ],
     "college": [
-      "UNC"
+      "North Carolina"
     ],
     "numbers": [
       12
@@ -59138,7 +59099,7 @@ export const NBA_PLAYERS = [
       "Washington Wizards"
     ],
     "college": [
-      "UNC"
+      "North Carolina"
     ],
     "numbers": [
       14
@@ -59304,7 +59265,7 @@ export const NBA_PLAYERS = [
       "Syracuse Nationals"
     ],
     "college": [
-      "UNC"
+      "North Carolina"
     ],
     "numbers": [
       22
@@ -59396,7 +59357,7 @@ export const NBA_PLAYERS = [
       "Golden State Warriors"
     ],
     "college": [
-      "UNC"
+      "North Carolina"
     ],
     "numbers": [
       18
@@ -59503,7 +59464,7 @@ export const NBA_PLAYERS = [
       "Philadelphia 76ers"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       7
@@ -59624,7 +59585,7 @@ export const NBA_PLAYERS = [
       "Washington Bullets"
     ],
     "college": [
-      "Cal St Fullerton"
+      "Cal State Fullerton"
     ],
     "numbers": [],
     "league": "NBA",
@@ -59965,7 +59926,7 @@ export const NBA_PLAYERS = [
       "New Orleans Pelicans"
     ],
     "college": [
-      "Drake University",
+      "Drake",
       "Minnesota",
       "Vanderbilt"
     ],
@@ -60400,7 +60361,7 @@ export const NBA_PLAYERS = [
       "San Antonio Spurs"
     ],
     "college": [
-      "Miami"
+      "Miami (FL)"
     ],
     "numbers": [
       1,
@@ -60576,8 +60537,7 @@ export const NBA_PLAYERS = [
       "Washington Wizards"
     ],
     "college": [
-      "Stetson",
-      "Stetson University"
+      "Stetson"
     ],
     "numbers": [
       40,
@@ -60666,7 +60626,7 @@ export const NBA_PLAYERS = [
     "name": "Lou Spicer",
     "teams": [],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NBA",
@@ -60758,7 +60718,7 @@ export const NBA_PLAYERS = [
       "New York Knicks"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       55
@@ -60952,7 +60912,7 @@ export const NBA_PLAYERS = [
       "Memphis Grizzlies"
     ],
     "college": [
-      "Loyola (IL)"
+      "Loyola Chicago"
     ],
     "numbers": [],
     "league": "NBA",
@@ -61883,7 +61843,7 @@ export const NBA_PLAYERS = [
       "Memphis Grizzlies"
     ],
     "college": [
-      "UNC"
+      "North Carolina"
     ],
     "numbers": [
       40
@@ -61957,7 +61917,7 @@ export const NBA_PLAYERS = [
       "Toronto Raptors"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       5,
@@ -61975,7 +61935,7 @@ export const NBA_PLAYERS = [
     "college": [
       "Chattanooga",
       "Gonzaga",
-      "Wright State University"
+      "Wright State"
     ],
     "numbers": [
       18
@@ -62241,7 +62201,7 @@ export const NBA_PLAYERS = [
       "Utah Jazz"
     ],
     "college": [
-      "St Mary's"
+      "St. Mary's (CA)"
     ],
     "numbers": [
       8,
@@ -62479,8 +62439,7 @@ export const NBA_PLAYERS = [
       "Washington Bullets"
     ],
     "college": [
-      "Bridgeport",
-      "University of Bridgeport"
+      "Bridgeport"
     ],
     "numbers": [
       1,
@@ -63075,7 +63034,7 @@ export const NBA_PLAYERS = [
       "Utah Jazz"
     ],
     "college": [
-      "UNC"
+      "North Carolina"
     ],
     "numbers": [
       4
@@ -64097,8 +64056,8 @@ export const NBA_PLAYERS = [
       "Toronto Raptors"
     ],
     "college": [
-      "Kansas State",
-      "Little Rock"
+      "Arkansas-Little Rock",
+      "Kansas State"
     ],
     "numbers": [
       24
@@ -64484,7 +64443,7 @@ export const NBA_PLAYERS = [
       "Utah Jazz"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       11
@@ -64585,7 +64544,7 @@ export const NBA_PLAYERS = [
       "Milwaukee Bucks"
     ],
     "college": [
-      "Louisiana Lafayette"
+      "Louisiana-Lafayette"
     ],
     "numbers": [
       5
@@ -64654,7 +64613,7 @@ export const NBA_PLAYERS = [
       "Utah Jazz"
     ],
     "college": [
-      "UNC"
+      "North Carolina"
     ],
     "numbers": [
       2,
@@ -65212,7 +65171,7 @@ export const NBA_PLAYERS = [
       "Boston Celtics"
     ],
     "college": [
-      "UNC"
+      "North Carolina"
     ],
     "numbers": [
       50
@@ -65248,7 +65207,7 @@ export const NBA_PLAYERS = [
       "Dallas Mavericks"
     ],
     "college": [
-      "Miami"
+      "Miami (FL)"
     ],
     "numbers": [],
     "league": "NBA",
@@ -65262,10 +65221,7 @@ export const NBA_PLAYERS = [
       "Sacramento Kings"
     ],
     "college": [
-      "Saint Mary's (CA)",
-      "St Mary's",
-      "St. Mary's",
-      "St.Mary's College of California"
+      "St. Mary's (CA)"
     ],
     "numbers": [
       8,
@@ -65602,7 +65558,7 @@ export const NBA_PLAYERS = [
       "Chicago Bulls"
     ],
     "college": [
-      "Cal State Santa Barbara"
+      "UC Santa Barbara"
     ],
     "numbers": [],
     "league": "NBA",
@@ -66415,7 +66371,7 @@ export const NBA_PLAYERS = [
       "Philadelphia 76ers"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       1,
@@ -66597,7 +66553,7 @@ export const NBA_PLAYERS = [
       "Golden State Warriors"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       9
@@ -66682,7 +66638,7 @@ export const NBA_PLAYERS = [
       "Washington Wizards"
     ],
     "college": [
-      "UNC"
+      "North Carolina"
     ],
     "numbers": [
       23
@@ -67724,7 +67680,7 @@ export const NBA_PLAYERS = [
       "Phoenix Suns"
     ],
     "college": [
-      "Loyola-Maryland"
+      "Loyola (MD)"
     ],
     "numbers": [
       32
@@ -67779,7 +67735,7 @@ export const NBA_PLAYERS = [
       "Phoenix Suns"
     ],
     "college": [
-      "Cal St Fullerton"
+      "Cal State Fullerton"
     ],
     "numbers": [
       40
@@ -67810,7 +67766,7 @@ export const NBA_PLAYERS = [
       "Washington Bullets"
     ],
     "college": [
-      "UNC"
+      "North Carolina"
     ],
     "numbers": [
       31
@@ -68217,9 +68173,9 @@ export const NBA_PLAYERS = [
       "Memphis Grizzlies"
     ],
     "college": [
-      "Cal State Santa Barbara",
       "City College of San Francisco",
-      "Oregon"
+      "Oregon",
+      "UC Santa Barbara"
     ],
     "numbers": [
       0,
@@ -68349,7 +68305,7 @@ export const NBA_PLAYERS = [
       "Miami Heat"
     ],
     "college": [
-      "Tennessee Technological University"
+      "Tennessee Tech"
     ],
     "numbers": [
       0
@@ -68429,7 +68385,6 @@ export const NBA_PLAYERS = [
       "Chicago Bulls"
     ],
     "college": [
-      "Loyola (IL)",
       "Loyola Chicago"
     ],
     "numbers": [
@@ -68564,7 +68519,7 @@ export const NBA_PLAYERS = [
       "Washington Bullets"
     ],
     "college": [
-      "UNC"
+      "North Carolina"
     ],
     "numbers": [
       25
@@ -69044,7 +68999,6 @@ export const NBA_PLAYERS = [
       "San Antonio Spurs"
     ],
     "college": [
-      "Cal State Long Beach",
       "Long Beach State"
     ],
     "numbers": [
@@ -69504,8 +69458,7 @@ export const NBA_PLAYERS = [
       "Minnesota Timberwolves"
     ],
     "college": [
-      "Slippery Rock",
-      "Slippery Rock University of Pennsylvania"
+      "Slippery Rock"
     ],
     "numbers": [
       34
@@ -69521,7 +69474,6 @@ export const NBA_PLAYERS = [
     "college": [
       "Arkansas-Little Rock",
       "Georgetown",
-      "Little Rock",
       "South Plains College"
     ],
     "numbers": [
@@ -69629,7 +69581,7 @@ export const NBA_PLAYERS = [
       "Portland Trail Blazers"
     ],
     "college": [
-      "UNC"
+      "North Carolina"
     ],
     "numbers": [
       9,
@@ -70263,8 +70215,7 @@ export const NBA_PLAYERS = [
       "Sacramento Kings"
     ],
     "college": [
-      "Fenerbahce",
-      "Fenerbahce Ulker"
+      "Fenerbahce"
     ],
     "numbers": [
       8,
@@ -71318,7 +71269,7 @@ export const NBA_PLAYERS = [
       "Los Angeles Clippers"
     ],
     "college": [
-      "Miami"
+      "Miami (FL)"
     ],
     "numbers": [],
     "league": "NBA",
@@ -71330,9 +71281,9 @@ export const NBA_PLAYERS = [
       "Los Angeles Clippers"
     ],
     "college": [
-      "Arkansas State University",
+      "Arkansas State",
       "Baylor",
-      "Miami"
+      "Miami (FL)"
     ],
     "numbers": [
       55
@@ -71472,7 +71423,7 @@ export const NBA_PLAYERS = [
       "Los Angeles Lakers"
     ],
     "college": [
-      "Loyola-Marymount"
+      "Loyola Marymount"
     ],
     "numbers": [
       20
@@ -72170,7 +72121,7 @@ export const NBA_PLAYERS = [
       "Sacramento Kings"
     ],
     "college": [
-      "Louisiana Lafayette"
+      "Louisiana-Lafayette"
     ],
     "numbers": [
       0,
@@ -72203,8 +72154,7 @@ export const NBA_PLAYERS = [
       "Sacramento Kings"
     ],
     "college": [
-      "Cal State Santa Barbara",
-      "California-Santa Barbara"
+      "UC Santa Barbara"
     ],
     "numbers": [
       0,
@@ -72344,7 +72294,7 @@ export const NBA_PLAYERS = [
       "Toronto Raptors"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       12,
@@ -72639,7 +72589,7 @@ export const NBA_PLAYERS = [
       "San Antonio Spurs"
     ],
     "college": [
-      "Cal St Fullerton"
+      "Cal State Fullerton"
     ],
     "numbers": [
       20
@@ -72734,7 +72684,7 @@ export const NBA_PLAYERS = [
       "Memphis Grizzlies"
     ],
     "college": [
-      "UNC"
+      "North Carolina"
     ],
     "numbers": [
       19
@@ -72894,7 +72844,7 @@ export const NBA_PLAYERS = [
       "Toronto Raptors"
     ],
     "college": [
-      "Cal St Fullerton"
+      "Cal State Fullerton"
     ],
     "numbers": [
       9
@@ -72922,7 +72872,7 @@ export const NBA_PLAYERS = [
       "Phoenix Suns"
     ],
     "college": [
-      "Detroit Mercy"
+      "Detroit"
     ],
     "numbers": [
       30
@@ -73145,7 +73095,7 @@ export const NBA_PLAYERS = [
       "Golden State Warriors"
     ],
     "college": [
-      "UW Milwaukee"
+      "Wisconsin-Milwaukee"
     ],
     "numbers": [],
     "league": "NBA",
@@ -73161,8 +73111,7 @@ export const NBA_PLAYERS = [
       "Washington Wizards"
     ],
     "college": [
-      "UW Milwaukee",
-      "UW-Milwaukee"
+      "Wisconsin-Milwaukee"
     ],
     "numbers": [
       7,
@@ -73177,7 +73126,7 @@ export const NBA_PLAYERS = [
       "Sacramento Kings"
     ],
     "college": [
-      "UW-Milwaukee"
+      "Wisconsin-Milwaukee"
     ],
     "numbers": [
       23
@@ -73357,10 +73306,7 @@ export const NBA_PLAYERS = [
       "Utah Jazz"
     ],
     "college": [
-      "Saint Mary's (CA)",
-      "St Mary's",
-      "St. Mary's",
-      "St.Mary's College of California"
+      "St. Mary's (CA)"
     ],
     "numbers": [
       8,
@@ -73613,7 +73559,7 @@ export const NBA_PLAYERS = [
       "Houston Rockets"
     ],
     "college": [
-      "California State-Northridge"
+      "Cal State Northridge"
     ],
     "numbers": [
       7
@@ -74031,7 +73977,7 @@ export const NBA_PLAYERS = [
       "Miami Heat"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       31
@@ -74237,7 +74183,7 @@ export const NBA_PLAYERS = [
       "New York Knicks"
     ],
     "college": [
-      "UNC"
+      "North Carolina"
     ],
     "numbers": [],
     "league": "NBA",
@@ -74256,7 +74202,7 @@ export const NBA_PLAYERS = [
       "Vancouver Grizzlies"
     ],
     "college": [
-      "UNC"
+      "North Carolina"
     ],
     "numbers": [
       23,
@@ -74336,8 +74282,7 @@ export const NBA_PLAYERS = [
       "San Antonio Spurs"
     ],
     "college": [
-      "Arkansas-Little Rock",
-      "Little Rock"
+      "Arkansas-Little Rock"
     ],
     "numbers": [
       8,
@@ -74354,8 +74299,8 @@ export const NBA_PLAYERS = [
       "Philadelphia 76ers"
     ],
     "college": [
-      "Northwestern",
-      "UNC"
+      "North Carolina",
+      "Northwestern"
     ],
     "numbers": [
       8,
@@ -74451,7 +74396,7 @@ export const NBA_PLAYERS = [
       "Golden State Warriors"
     ],
     "college": [
-      "St Mary's"
+      "St. Mary's (CA)"
     ],
     "numbers": [
       7
@@ -74599,7 +74544,7 @@ export const NBA_PLAYERS = [
       "Sacramento Kings"
     ],
     "college": [
-      "UNC"
+      "North Carolina"
     ],
     "numbers": [
       1
@@ -74691,7 +74636,7 @@ export const NBA_PLAYERS = [
       "Portland Trail Blazers"
     ],
     "college": [
-      "Miami Ohio"
+      "Miami (OH)"
     ],
     "numbers": [
       10
@@ -75377,7 +75322,7 @@ export const NBA_PLAYERS = [
       "Los Angeles Lakers"
     ],
     "college": [
-      "UNC"
+      "North Carolina"
     ],
     "numbers": [],
     "league": "NBA",
@@ -75525,7 +75470,7 @@ export const NBA_PLAYERS = [
       "Phoenix Suns"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       7
@@ -75656,7 +75601,7 @@ export const NBA_PLAYERS = [
       "Indiana Pacers"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       25
@@ -75944,8 +75889,7 @@ export const NBA_PLAYERS = [
       "Milwaukee Bucks"
     ],
     "college": [
-      "Southern Miss",
-      "Southern Mississippi"
+      "Southern Miss"
     ],
     "numbers": [
       31
@@ -76178,7 +76122,7 @@ export const NBA_PLAYERS = [
       "Sacramento Kings"
     ],
     "college": [
-      "UNC"
+      "North Carolina"
     ],
     "numbers": [
       1,
@@ -76265,7 +76209,7 @@ export const NBA_PLAYERS = [
       "Washington Bullets"
     ],
     "college": [
-      "UNC"
+      "North Carolina"
     ],
     "numbers": [
       30,
@@ -76566,8 +76510,7 @@ export const NBA_PLAYERS = [
       "San Antonio Spurs"
     ],
     "college": [
-      "Detroit",
-      "Detroit Mercy"
+      "Detroit"
     ],
     "numbers": [
       3,
@@ -76828,7 +76771,7 @@ export const NBA_PLAYERS = [
       "Portland Trail Blazers"
     ],
     "college": [
-      "UNC"
+      "North Carolina"
     ],
     "numbers": [
       2,
@@ -76986,7 +76929,7 @@ export const NBA_PLAYERS = [
       "Phoenix Suns"
     ],
     "college": [
-      "UNC"
+      "North Carolina"
     ],
     "numbers": [
       25,
@@ -77294,7 +77237,7 @@ export const NBA_PLAYERS = [
     ],
     "college": [
       "Georgetown",
-      "Virginia Military Institute"
+      "VMI"
     ],
     "numbers": [
       5,
@@ -77570,7 +77513,7 @@ export const NBA_PLAYERS = [
       "San Antonio Spurs"
     ],
     "college": [
-      "UNC"
+      "North Carolina"
     ],
     "numbers": [
       43
@@ -77588,7 +77531,6 @@ export const NBA_PLAYERS = [
       "Portland Trail Blazers"
     ],
     "college": [
-      "California-Santa Barbara",
       "UC Santa Barbara"
     ],
     "numbers": [
@@ -77750,7 +77692,7 @@ export const NBA_PLAYERS = [
       "Indiana Pacers"
     ],
     "college": [
-      "Cal St Fullerton"
+      "Cal State Fullerton"
     ],
     "numbers": [
       4
@@ -77892,7 +77834,7 @@ export const NBA_PLAYERS = [
       "Utah Jazz"
     ],
     "college": [
-      "Loyola-Marymount"
+      "Loyola Marymount"
     ],
     "numbers": [
       5
@@ -77917,7 +77859,7 @@ export const NBA_PLAYERS = [
       "Houston Rockets"
     ],
     "college": [
-      "Miami"
+      "Miami (FL)"
     ],
     "numbers": [
       24
@@ -77986,7 +77928,7 @@ export const NBA_PLAYERS = [
       "Los Angeles Lakers"
     ],
     "college": [
-      "UNC"
+      "North Carolina"
     ],
     "numbers": [
       17,
@@ -78636,7 +78578,7 @@ export const NBA_PLAYERS = [
       "Phoenix Suns"
     ],
     "college": [
-      "Miami"
+      "Miami (FL)"
     ],
     "numbers": [
       22
@@ -79874,7 +79816,7 @@ export const NBA_PLAYERS = [
       "Los Angeles Lakers"
     ],
     "college": [
-      "Virginia Military Institute"
+      "VMI"
     ],
     "numbers": [
       13
@@ -79980,7 +79922,7 @@ export const NBA_PLAYERS = [
       "Los Angeles Lakers"
     ],
     "college": [
-      "Miami Ohio"
+      "Miami (OH)"
     ],
     "numbers": [
       4,
@@ -80501,7 +80443,7 @@ export const NBA_PLAYERS = [
       "Orlando Magic"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       2,
@@ -80912,7 +80854,7 @@ export const NBA_PLAYERS = [
       "Indiana Pacers"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       45
@@ -81737,8 +81679,7 @@ export const NBA_PLAYERS = [
       "Minnesota Timberwolves"
     ],
     "college": [
-      "Mercer",
-      "Mercer University"
+      "Mercer"
     ],
     "numbers": [
       42
@@ -81771,7 +81712,7 @@ export const NBA_PLAYERS = [
       "Seattle SuperSonics"
     ],
     "college": [
-      "UNC"
+      "North Carolina"
     ],
     "numbers": [
       14
@@ -82062,8 +82003,7 @@ export const NBA_PLAYERS = [
       "Memphis Grizzlies"
     ],
     "college": [
-      "Loyola (MD)",
-      "Loyola-Maryland"
+      "Loyola (MD)"
     ],
     "numbers": [
       7
@@ -82577,7 +82517,7 @@ export const NBA_PLAYERS = [
       "Phoenix Suns"
     ],
     "college": [
-      "UNC"
+      "North Carolina"
     ],
     "numbers": [
       42,
@@ -82864,7 +82804,7 @@ export const NBA_PLAYERS = [
       "Sacramento Kings"
     ],
     "college": [
-      "UNC"
+      "North Carolina"
     ],
     "numbers": [
       42
@@ -83433,7 +83373,7 @@ export const NBA_PLAYERS = [
       "Seattle SuperSonics"
     ],
     "college": [
-      "UNC"
+      "North Carolina"
     ],
     "numbers": [
       1,
@@ -83532,7 +83472,7 @@ export const NBA_PLAYERS = [
       "New York Knicks"
     ],
     "college": [
-      "Miami"
+      "Miami (FL)"
     ],
     "numbers": [
       0,
@@ -83857,7 +83797,7 @@ export const NBA_PLAYERS = [
       "Philadelphia 76ers"
     ],
     "college": [
-      "Louisiana Lafayette"
+      "Louisiana-Lafayette"
     ],
     "numbers": [
       36
@@ -84014,7 +83954,7 @@ export const NBA_PLAYERS = [
       "Washington Wizards"
     ],
     "college": [
-      "Miami"
+      "Miami (FL)"
     ],
     "numbers": [
       9
@@ -84103,7 +84043,7 @@ export const NBA_PLAYERS = [
       "New Jersey Nets"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       11,
@@ -84698,7 +84638,7 @@ export const NBA_PLAYERS = [
       "Phoenix Suns"
     ],
     "college": [
-      "USF"
+      "South Florida"
     ],
     "numbers": [
       18,
@@ -85436,7 +85376,7 @@ export const NBA_PLAYERS = [
       "Sacramento Kings"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       5
@@ -85573,7 +85513,7 @@ export const NBA_PLAYERS = [
       "Los Angeles Lakers"
     ],
     "college": [
-      "UNC"
+      "North Carolina"
     ],
     "numbers": [
       24
@@ -86510,7 +86450,7 @@ export const NBA_PLAYERS = [
     "college": [
       "Arkansas Tech University",
       "Liberty",
-      "Tennessee Technological University"
+      "Tennessee Tech"
     ],
     "numbers": [],
     "league": "NBA",
@@ -86943,7 +86883,7 @@ export const NBA_PLAYERS = [
       "Portland Trail Blazers"
     ],
     "college": [
-      "Cal State-Bakersfield",
+      "Cal State Bakersfield",
       "Houston"
     ],
     "numbers": [
@@ -87487,7 +87427,6 @@ export const NBA_PLAYERS = [
       "San Antonio Spurs"
     ],
     "college": [
-      "University of Wisconsin-Stevens Point",
       "Wisconsin-Stevens Point"
     ],
     "numbers": [
@@ -87709,7 +87648,7 @@ export const NBA_PLAYERS = [
       "New York Knicks"
     ],
     "college": [
-      "UNC"
+      "North Carolina"
     ],
     "numbers": [
       1,
@@ -88225,7 +88164,6 @@ export const NBA_PLAYERS = [
       "Miami Heat"
     ],
     "college": [
-      "Texas-El Paso",
       "UTEP"
     ],
     "numbers": [
@@ -88265,7 +88203,7 @@ export const NBA_PLAYERS = [
       "Philadelphia 76ers"
     ],
     "college": [
-      "Miami"
+      "Miami (FL)"
     ],
     "numbers": [
       23,
@@ -88494,7 +88432,7 @@ export const NBA_PLAYERS = [
       "Washington Bullets"
     ],
     "college": [
-      "Miami"
+      "Miami (FL)"
     ],
     "numbers": [
       42
@@ -89228,7 +89166,7 @@ export const NBA_PLAYERS = [
       "Seattle SuperSonics"
     ],
     "college": [
-      "UNC"
+      "North Carolina"
     ],
     "numbers": [
       34
@@ -89275,7 +89213,7 @@ export const NBA_PLAYERS = [
       "Seattle SuperSonics"
     ],
     "college": [
-      "St Mary's"
+      "St. Mary's (CA)"
     ],
     "numbers": [
       14
@@ -89568,7 +89506,7 @@ export const NBA_PLAYERS = [
       "Syracuse Nationals"
     ],
     "college": [
-      "UNC"
+      "North Carolina"
     ],
     "numbers": [
       3
@@ -89728,7 +89666,6 @@ export const NBA_PLAYERS = [
       "Charlotte Hornets"
     ],
     "college": [
-      "Green Bay",
       "Wisconsin-Green Bay"
     ],
     "numbers": [
@@ -89772,7 +89709,7 @@ export const NBA_PLAYERS = [
       "Utah Jazz"
     ],
     "college": [
-      "UNC"
+      "North Carolina"
     ],
     "numbers": [
       11,
@@ -90296,8 +90233,7 @@ export const NBA_PLAYERS = [
       "Phoenix Suns"
     ],
     "college": [
-      "South Carolina Upstate",
-      "USC Upstate"
+      "South Carolina Upstate"
     ],
     "numbers": [
       0,
@@ -90687,7 +90623,7 @@ export const NBA_PLAYERS = [
       "Detroit Pistons"
     ],
     "college": [
-      "Chicago St."
+      "Chicago State"
     ],
     "numbers": [
       31
@@ -91066,9 +91002,7 @@ export const NBA_PLAYERS = [
       "Houston Rockets"
     ],
     "college": [
-      "Northwest Missouri St.",
-      "Northwest Missouri State",
-      "Northwest Missouri State University"
+      "Northwest Missouri State"
     ],
     "numbers": [
       12
@@ -91338,7 +91272,7 @@ export const NBA_PLAYERS = [
       "Milwaukee Bucks"
     ],
     "college": [
-      "Miami"
+      "Miami (FL)"
     ],
     "numbers": [
       10
@@ -91724,7 +91658,7 @@ export const NBA_PLAYERS = [
       "Washington Wizards"
     ],
     "college": [
-      "UNC"
+      "North Carolina"
     ],
     "numbers": [
       3,
@@ -91885,7 +91819,7 @@ export const NBA_PLAYERS = [
       "Phoenix Suns"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       4,
@@ -91919,7 +91853,7 @@ export const NBA_PLAYERS = [
       "Toronto Raptors"
     ],
     "college": [
-      "UNC"
+      "North Carolina"
     ],
     "numbers": [
       50
@@ -91999,7 +91933,7 @@ export const NBA_PLAYERS = [
       "Sacramento Kings"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       20
@@ -92074,7 +92008,7 @@ export const NBA_PLAYERS = [
       "San Antonio Spurs"
     ],
     "college": [
-      "UNC"
+      "North Carolina"
     ],
     "numbers": [
       40,
@@ -93123,7 +93057,7 @@ export const NBA_PLAYERS = [
       "Toronto Raptors"
     ],
     "college": [
-      "UNC"
+      "North Carolina"
     ],
     "numbers": [
       15,
@@ -93702,7 +93636,7 @@ export const NBA_PLAYERS = [
     ],
     "college": [
       "Auburn",
-      "UNC"
+      "North Carolina"
     ],
     "numbers": [
       24
@@ -93816,7 +93750,7 @@ export const NBA_PLAYERS = [
       "Seattle SuperSonics"
     ],
     "college": [
-      "Miami Ohio"
+      "Miami (OH)"
     ],
     "numbers": [
       3,
@@ -94103,7 +94037,7 @@ export const NBA_PLAYERS = [
       "Portland Trail Blazers"
     ],
     "college": [
-      "UNC"
+      "North Carolina"
     ],
     "numbers": [
       6
@@ -94413,7 +94347,7 @@ export const NBA_PLAYERS = [
       "New York Knicks"
     ],
     "college": [
-      "UNC"
+      "North Carolina"
     ],
     "numbers": [
       2,
@@ -94435,7 +94369,7 @@ export const NBA_PLAYERS = [
       "Milwaukee Bucks"
     ],
     "college": [
-      "Miami Ohio"
+      "Miami (OH)"
     ],
     "numbers": [
       15
@@ -94784,7 +94718,7 @@ export const NBA_PLAYERS = [
       "Washington Wizards"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       2,
@@ -95152,8 +95086,7 @@ export const NBA_PLAYERS = [
       "Washington Wizards"
     ],
     "college": [
-      "Illinois",
-      "Illinois-Urbana-Champaign"
+      "Illinois"
     ],
     "numbers": [
       27
@@ -95379,7 +95312,7 @@ export const NBA_PLAYERS = [
       "Philadelphia 76ers"
     ],
     "college": [
-      "Detroit Mercy"
+      "Detroit"
     ],
     "numbers": [
       33,
@@ -95464,7 +95397,6 @@ export const NBA_PLAYERS = [
       "Sacramento Kings"
     ],
     "college": [
-      "Saint Louis",
       "St. Louis"
     ],
     "numbers": [
@@ -96424,7 +96356,7 @@ export const NBA_PLAYERS = [
       "Golden State Warriors"
     ],
     "college": [
-      "UNC"
+      "North Carolina"
     ],
     "numbers": [
       34
@@ -96550,7 +96482,6 @@ export const NBA_PLAYERS = [
       "Golden State Warriors"
     ],
     "college": [
-      "Saint Louis",
       "St. Louis"
     ],
     "numbers": [
@@ -97221,7 +97152,6 @@ export const NBA_PLAYERS = [
       "Utah Jazz"
     ],
     "college": [
-      "Arizona St.",
       "Arizona State"
     ],
     "numbers": [
@@ -97239,7 +97169,7 @@ export const NBA_PLAYERS = [
       "Minnesota Timberwolves"
     ],
     "college": [
-      "Cal",
+      "California",
       "Florida",
       "UC Riverside"
     ],
@@ -97256,7 +97186,7 @@ export const NBA_PLAYERS = [
       "Minnesota Timberwolves"
     ],
     "college": [
-      "Cal",
+      "California",
       "Florida",
       "UC Riverside"
     ],

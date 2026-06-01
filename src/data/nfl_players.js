@@ -347,7 +347,7 @@ export const NFL_PLAYERS = [
     "display_name": "A. Z. Drones",
     "teams": [],
     "college": [
-      "W. Texas State"
+      "West Texas A&M"
     ],
     "numbers": [],
     "league": "NFL"
@@ -425,7 +425,6 @@ export const NFL_PLAYERS = [
       "Jacksonville Jaguars"
     ],
     "college": [
-      "Central Florida",
       "UCF"
     ],
     "numbers": [
@@ -443,7 +442,6 @@ export const NFL_PLAYERS = [
       "Tennessee Titans"
     ],
     "college": [
-      "Mississippi",
       "Ole Miss"
     ],
     "numbers": [
@@ -786,8 +784,8 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Southwest Texas State",
-      "Tennessee"
+      "Tennessee",
+      "Texas State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -832,7 +830,7 @@ export const NFL_PLAYERS = [
       "Tennessee Titans"
     ],
     "college": [
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [
       33
@@ -875,7 +873,7 @@ export const NFL_PLAYERS = [
       "Cleveland Browns"
     ],
     "college": [
-      "Ohio U."
+      "Ohio"
     ],
     "numbers": [
       1
@@ -1012,7 +1010,7 @@ export const NFL_PLAYERS = [
       "Philadelphia Eagles"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       20,
@@ -1096,8 +1094,7 @@ export const NFL_PLAYERS = [
       "Oakland Raiders"
     ],
     "college": [
-      "N.C. State",
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [
       6
@@ -1128,7 +1125,6 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "Mississippi",
       "Ole Miss"
     ],
     "numbers": [
@@ -1178,7 +1174,7 @@ export const NFL_PLAYERS = [
       "Green Bay Packers"
     ],
     "college": [
-      "Southeast Missouri"
+      "Southeast Missouri State"
     ],
     "numbers": [
       50,
@@ -1256,7 +1252,7 @@ export const NFL_PLAYERS = [
       "New York Jets"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       22,
@@ -1298,8 +1294,7 @@ export const NFL_PLAYERS = [
       "Tennessee Titans"
     ],
     "college": [
-      "Texas State",
-      "Texas State-San Marcos"
+      "Texas State"
     ],
     "numbers": [
       46,
@@ -1501,7 +1496,7 @@ export const NFL_PLAYERS = [
       "St. Louis Rams"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       99
@@ -1571,7 +1566,7 @@ export const NFL_PLAYERS = [
       "Philadelphia Eagles"
     ],
     "college": [
-      "Central Florida"
+      "UCF"
     ],
     "numbers": [
       63
@@ -1585,7 +1580,7 @@ export const NFL_PLAYERS = [
       "Dallas Cowboys"
     ],
     "college": [
-      "Troy State"
+      "Troy"
     ],
     "numbers": [
       97
@@ -1696,7 +1691,7 @@ export const NFL_PLAYERS = [
       "Los Angeles Rams"
     ],
     "college": [
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [
       36
@@ -1736,8 +1731,7 @@ export const NFL_PLAYERS = [
       "Dallas Cowboys"
     ],
     "college": [
-      "M",
-      "Texas A&amp"
+      "Texas A&M"
     ],
     "numbers": [
       43
@@ -1810,7 +1804,7 @@ export const NFL_PLAYERS = [
       "Minnesota Vikings"
     ],
     "college": [
-      "Texas-El Paso"
+      "UTEP"
     ],
     "numbers": [
       33,
@@ -2214,7 +2208,6 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "Central Florida",
       "UCF"
     ],
     "numbers": [
@@ -2580,7 +2573,7 @@ export const NFL_PLAYERS = [
     "display_name": "Aatron Kenney",
     "teams": [],
     "college": [
-      "Wisconsin\u2013Stevens Point"
+      "Wisconsin-Stevens Point"
     ],
     "numbers": [],
     "league": "NFL"
@@ -2725,7 +2718,7 @@ export const NFL_PLAYERS = [
       "Boston Patriots"
     ],
     "college": [
-      "Tennessee-Chattanooga"
+      "Chattanooga"
     ],
     "numbers": [],
     "league": "NFL"
@@ -2834,7 +2827,7 @@ export const NFL_PLAYERS = [
       "New York Jets"
     ],
     "college": [
-      "North Texas State"
+      "North Texas"
     ],
     "numbers": [],
     "league": "NFL"
@@ -3016,7 +3009,7 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "Southern California"
+      "USC"
     ],
     "numbers": [
       33,
@@ -3043,7 +3036,7 @@ export const NFL_PLAYERS = [
       "Green Bay Packers"
     ],
     "college": [
-      "UW\u2013La Crosse"
+      "Wisconsin-La Crosse"
     ],
     "numbers": [],
     "league": "NFL"
@@ -3190,7 +3183,7 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       66,
@@ -3554,7 +3547,7 @@ export const NFL_PLAYERS = [
       "Las Vegas Raiders"
     ],
     "college": [
-      "Nevada-Las Vegas"
+      "UNLV"
     ],
     "numbers": [
       52
@@ -3738,7 +3731,7 @@ export const NFL_PLAYERS = [
       "San Diego Chargers"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       78,
@@ -3756,7 +3749,6 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "Minn. State-Mankato",
       "Minnesota State"
     ],
     "numbers": [
@@ -3916,8 +3908,7 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "FAU",
-      "Florida Atlantic"
+      "FAU"
     ],
     "numbers": [
       53,
@@ -3948,7 +3939,7 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "Florida Atlantic"
+      "FAU"
     ],
     "numbers": [
       53,
@@ -4203,7 +4194,7 @@ export const NFL_PLAYERS = [
     "display_name": "Adolph Bellizeare",
     "teams": [],
     "college": [
-      "Pennsylvania"
+      "Penn"
     ],
     "numbers": [],
     "league": "NFL"
@@ -4334,7 +4325,6 @@ export const NFL_PLAYERS = [
       "Tennessee Titans"
     ],
     "college": [
-      "Southern California",
       "USC"
     ],
     "numbers": [
@@ -4427,8 +4417,7 @@ export const NFL_PLAYERS = [
       "Philadelphia Eagles"
     ],
     "college": [
-      "Baylor",
-      "Baylor (Redrafted Colt)"
+      "Baylor"
     ],
     "numbers": [],
     "league": "NFL"
@@ -4462,7 +4451,6 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "Miami",
       "Miami (FL)"
     ],
     "numbers": [
@@ -4606,7 +4594,7 @@ export const NFL_PLAYERS = [
       "Philadelphia Eagles"
     ],
     "college": [
-      "Central Florida"
+      "UCF"
     ],
     "numbers": [
       17,
@@ -5420,7 +5408,7 @@ export const NFL_PLAYERS = [
       "Cleveland Browns"
     ],
     "college": [
-      "Brigham Young"
+      "BYU"
     ],
     "numbers": [
       49
@@ -5435,7 +5423,7 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "Duluth/University of Minnesota"
+      "Minnesota"
     ],
     "numbers": [
       65,
@@ -5462,9 +5450,7 @@ export const NFL_PLAYERS = [
       "Philadelphia Eagles"
     ],
     "college": [
-      "M",
-      "Texas A&M",
-      "Texas A&amp"
+      "Texas A&M"
     ],
     "numbers": [
       80,
@@ -5524,7 +5510,7 @@ export const NFL_PLAYERS = [
       "Arizona Cardinals"
     ],
     "college": [
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [
       50
@@ -5752,7 +5738,7 @@ export const NFL_PLAYERS = [
       "New York Jets"
     ],
     "college": [
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [
       36,
@@ -6157,7 +6143,7 @@ export const NFL_PLAYERS = [
       "Buffalo Bills"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -6167,7 +6153,7 @@ export const NFL_PLAYERS = [
     "display_name": "Al Benecick",
     "teams": [],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -6417,7 +6403,7 @@ export const NFL_PLAYERS = [
       "Philadelphia Eagles"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -6638,7 +6624,7 @@ export const NFL_PLAYERS = [
       "San Diego Chargers"
     ],
     "college": [
-      "Grambling State",
+      "Grambling",
       "Middlebury"
     ],
     "numbers": [],
@@ -6682,7 +6668,7 @@ export const NFL_PLAYERS = [
       "New Orleans Saints"
     ],
     "college": [
-      "N.W. Louisiana"
+      "Northwestern State"
     ],
     "numbers": [
       23
@@ -6828,7 +6814,7 @@ export const NFL_PLAYERS = [
     "display_name": "Al Fleming",
     "teams": [],
     "college": [
-      "Wichita"
+      "Wichita State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -6890,7 +6876,7 @@ export const NFL_PLAYERS = [
     "display_name": "Al Goddard",
     "teams": [],
     "college": [
-      "J.C. Smith"
+      "Johnson C. Smith"
     ],
     "numbers": [],
     "league": "NFL"
@@ -7524,7 +7510,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Weber"
+      "Weber State"
     ],
     "numbers": [
       26
@@ -7552,7 +7538,7 @@ export const NFL_PLAYERS = [
       "Carolina Panthers"
     ],
     "college": [
-      "Troy State"
+      "Troy"
     ],
     "numbers": [
       71
@@ -7641,7 +7627,7 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "Texas A&I"
+      "Texas A&M-Kingsville"
     ],
     "numbers": [],
     "league": "NFL"
@@ -7962,7 +7948,7 @@ export const NFL_PLAYERS = [
     "display_name": "Al Romano",
     "teams": [],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -8018,7 +8004,7 @@ export const NFL_PLAYERS = [
     "display_name": "Al Sanders",
     "teams": [],
     "college": [
-      "Mississippi Southern"
+      "Southern Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -8322,7 +8308,7 @@ export const NFL_PLAYERS = [
       "Buffalo Bills"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       60
@@ -8524,7 +8510,6 @@ export const NFL_PLAYERS = [
       "New Orleans Saints"
     ],
     "college": [
-      "Miami",
       "Miami (FL)"
     ],
     "numbers": [
@@ -8625,7 +8610,7 @@ export const NFL_PLAYERS = [
       "Minnesota Vikings"
     ],
     "college": [
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [
       66
@@ -8712,7 +8697,7 @@ export const NFL_PLAYERS = [
     "display_name": "Alan Bush",
     "teams": [],
     "college": [
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -9031,7 +9016,7 @@ export const NFL_PLAYERS = [
       "Baltimore Ravens"
     ],
     "college": [
-      "Northeast Louisiana"
+      "Louisiana-Monroe"
     ],
     "numbers": [
       39
@@ -9056,7 +9041,7 @@ export const NFL_PLAYERS = [
     "display_name": "Alan Spencer",
     "teams": [],
     "college": [
-      "Pittsburg (KS)"
+      "Pittsburg State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -9079,7 +9064,7 @@ export const NFL_PLAYERS = [
       "Green Bay Packers"
     ],
     "college": [
-      "East Texas State",
+      "East Texas A&M",
       "Texas A&M-Commerce"
     ],
     "numbers": [],
@@ -9116,7 +9101,7 @@ export const NFL_PLAYERS = [
       "Arizona Cardinals"
     ],
     "college": [
-      "Brigham Young"
+      "BYU"
     ],
     "numbers": [
       59
@@ -9188,7 +9173,7 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "Miami"
+      "Miami (FL)"
     ],
     "numbers": [],
     "league": "NFL"
@@ -9358,7 +9343,7 @@ export const NFL_PLAYERS = [
       "Oakland Raiders"
     ],
     "college": [
-      "Grambling State"
+      "Grambling"
     ],
     "numbers": [
       29
@@ -9420,7 +9405,7 @@ export const NFL_PLAYERS = [
     "display_name": "Albert Schmidt",
     "teams": [],
     "college": [
-      "Pittsburg State (KS)"
+      "Pittsburg State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -9443,7 +9428,7 @@ export const NFL_PLAYERS = [
     "teams": [],
     "college": [
       "Capital",
-      "Ft. Valley State"
+      "Fort Valley State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -9565,8 +9550,7 @@ export const NFL_PLAYERS = [
     "display_name": "Albin Collins",
     "teams": [],
     "college": [
-      "LSU",
-      "LSU (Redrafted Colt)"
+      "LSU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -9676,7 +9660,7 @@ export const NFL_PLAYERS = [
     "display_name": "Aldo\u00a0Dellosobelle",
     "teams": [],
     "college": [
-      "Loyola (CA)"
+      "Loyola Marymount"
     ],
     "numbers": [],
     "league": "NFL"
@@ -9692,8 +9676,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "SMU",
-      "Southern Methodist"
+      "SMU"
     ],
     "numbers": [
       8,
@@ -9773,7 +9756,7 @@ export const NFL_PLAYERS = [
       "Arizona Cardinals"
     ],
     "college": [
-      "Connecticut"
+      "UConn"
     ],
     "numbers": [
       87
@@ -9809,7 +9792,7 @@ export const NFL_PLAYERS = [
       "Dallas Cowboys"
     ],
     "college": [
-      "Central Florida"
+      "UCF"
     ],
     "numbers": [
       49
@@ -9968,7 +9951,7 @@ export const NFL_PLAYERS = [
       "Detroit Lions"
     ],
     "college": [
-      "Pennsylvania"
+      "Penn"
     ],
     "numbers": [
       9
@@ -10740,8 +10723,7 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "Charlotte",
-      "North Carolina-Charlotte"
+      "Charlotte"
     ],
     "numbers": [
       56
@@ -10794,7 +10776,7 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "Incarnate Word (Tex.)"
+      "Incarnate Word"
     ],
     "numbers": [
       69,
@@ -10876,7 +10858,7 @@ export const NFL_PLAYERS = [
       "Carolina Panthers"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       3
@@ -11114,8 +11096,7 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "FIU",
-      "Florida International"
+      "FIU"
     ],
     "numbers": [
       2,
@@ -11187,7 +11168,7 @@ export const NFL_PLAYERS = [
       "Kansas City Chiefs"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -11532,7 +11513,7 @@ export const NFL_PLAYERS = [
       "Baltimore Ravens"
     ],
     "college": [
-      "Monmouth (N.J.)"
+      "Monmouth"
     ],
     "numbers": [
       61
@@ -11572,7 +11553,7 @@ export const NFL_PLAYERS = [
       "Kansas City Chiefs"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       10
@@ -11598,7 +11579,6 @@ export const NFL_PLAYERS = [
       "Los Angeles Rams"
     ],
     "college": [
-      "Central Florida",
       "UCF"
     ],
     "numbers": [
@@ -11640,7 +11620,7 @@ export const NFL_PLAYERS = [
       "Minnesota Vikings"
     ],
     "college": [
-      "Middle Tennessee State",
+      "Middle Tennessee",
       "Ohio State",
       "Vanderbilt"
     ],
@@ -11692,7 +11672,6 @@ export const NFL_PLAYERS = [
       "Cleveland Browns"
     ],
     "college": [
-      "Alabama-Birmingham",
       "UAB"
     ],
     "numbers": [
@@ -11992,7 +11971,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Connecticut"
+      "UConn"
     ],
     "numbers": [
       51,
@@ -12078,7 +12057,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Florida Atlantic"
+      "FAU"
     ],
     "numbers": [
       36,
@@ -12230,7 +12209,7 @@ export const NFL_PLAYERS = [
       "New York Jets"
     ],
     "college": [
-      "Brigham Young"
+      "BYU"
     ],
     "numbers": [
       30,
@@ -12333,8 +12312,8 @@ export const NFL_PLAYERS = [
       "Dallas Cowboys"
     ],
     "college": [
-      "Rutgers",
-      "Syracuse"
+      "Rich Manning",
+      "Rutgers"
     ],
     "numbers": [
       38
@@ -12380,7 +12359,6 @@ export const NFL_PLAYERS = [
       "New York Jets"
     ],
     "college": [
-      "Southern California",
       "USC"
     ],
     "numbers": [
@@ -12395,9 +12373,7 @@ export const NFL_PLAYERS = [
       "Detroit Lions"
     ],
     "college": [
-      "N.C. State",
-      "NC State",
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [
       54
@@ -12540,7 +12516,7 @@ export const NFL_PLAYERS = [
     "display_name": "Allan Robinson",
     "teams": [],
     "college": [
-      "Brigham Young"
+      "BYU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -12610,7 +12586,6 @@ export const NFL_PLAYERS = [
       "Kansas City Chiefs"
     ],
     "college": [
-      "Miami",
       "Miami (FL)"
     ],
     "numbers": [
@@ -12630,8 +12605,7 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "Missouri Southern",
-      "Missouri Southern State"
+      "Missouri Southern"
     ],
     "numbers": [
       67,
@@ -12661,7 +12635,6 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "Southern California",
       "USC"
     ],
     "numbers": [
@@ -12679,7 +12652,7 @@ export const NFL_PLAYERS = [
       "Green Bay Packers"
     ],
     "college": [
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -12745,7 +12718,7 @@ export const NFL_PLAYERS = [
       "Dallas Cowboys"
     ],
     "college": [
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -12769,7 +12742,6 @@ export const NFL_PLAYERS = [
       "Miami Dolphins"
     ],
     "college": [
-      "Miami",
       "Miami (FL)"
     ],
     "numbers": [
@@ -13057,7 +13029,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Southern Mississippi"
+      "Southern Miss"
     ],
     "numbers": [
       6
@@ -13278,7 +13250,7 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -13306,7 +13278,6 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "Miami",
       "Miami (FL)"
     ],
     "numbers": [],
@@ -13683,7 +13654,7 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       98
@@ -13930,7 +13901,7 @@ export const NFL_PLAYERS = [
       "Baltimore Ravens"
     ],
     "college": [
-      "Texas-El Paso"
+      "UTEP"
     ],
     "numbers": [
       58
@@ -14174,7 +14145,7 @@ export const NFL_PLAYERS = [
       "Oakland Raiders"
     ],
     "college": [
-      "Bethune\u2013Cookman"
+      "Bethune-Cookman"
     ],
     "numbers": [],
     "league": "NFL"
@@ -14247,7 +14218,7 @@ export const NFL_PLAYERS = [
       "Oakland Raiders"
     ],
     "college": [
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [
       86,
@@ -14425,7 +14396,7 @@ export const NFL_PLAYERS = [
     "display_name": "Al\u00a0Lezouski",
     "teams": [],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -14792,7 +14763,7 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       6,
@@ -15026,8 +14997,8 @@ export const NFL_PLAYERS = [
       "Dallas Cowboys"
     ],
     "college": [
-      "M-Commerce",
-      "Texas A&amp"
+      "Texas A&M",
+      "Texas A&M-Commerce"
     ],
     "numbers": [
       61
@@ -15041,7 +15012,6 @@ export const NFL_PLAYERS = [
       "Detroit Lions"
     ],
     "college": [
-      "Southern California",
       "USC"
     ],
     "numbers": [
@@ -15471,7 +15441,7 @@ export const NFL_PLAYERS = [
       "New York Jets"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       5,
@@ -16082,8 +16052,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Kutztown",
-      "Kutztown (PA)"
+      "Kutztown"
     ],
     "numbers": [
       83,
@@ -16179,7 +16148,7 @@ export const NFL_PLAYERS = [
     "display_name": "Andre Samuels",
     "teams": [],
     "college": [
-      "Bethune\u2013Cookman"
+      "Bethune-Cookman"
     ],
     "numbers": [],
     "league": "NFL"
@@ -16257,7 +16226,7 @@ export const NFL_PLAYERS = [
       "Cleveland Browns"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       25,
@@ -16501,7 +16470,7 @@ export const NFL_PLAYERS = [
       "Indianapolis Colts"
     ],
     "college": [
-      "Connecticut"
+      "UConn"
     ],
     "numbers": [
       73,
@@ -16533,7 +16502,6 @@ export const NFL_PLAYERS = [
       "Tennessee Titans"
     ],
     "college": [
-      "Connecticut",
       "UConn"
     ],
     "numbers": [
@@ -16694,8 +16662,7 @@ export const NFL_PLAYERS = [
       "Cincinnati Bengals"
     ],
     "college": [
-      "TCU",
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [
       79
@@ -17170,7 +17137,7 @@ export const NFL_PLAYERS = [
       "Miami Dolphins"
     ],
     "college": [
-      "Texas-El Paso"
+      "UTEP"
     ],
     "numbers": [
       60
@@ -17334,7 +17301,7 @@ export const NFL_PLAYERS = [
       "Detroit Lions"
     ],
     "college": [
-      "Nevada-Las Vegas"
+      "UNLV"
     ],
     "numbers": [
       47
@@ -17393,8 +17360,7 @@ export const NFL_PLAYERS = [
       "Tennessee Titans"
     ],
     "college": [
-      "Culver-Stockton",
-      "Culver-Stockton College"
+      "Culver-Stockton"
     ],
     "numbers": [
       67,
@@ -17431,7 +17397,7 @@ export const NFL_PLAYERS = [
       "Kansas City Chiefs"
     ],
     "college": [
-      "Florida Atlantic"
+      "FAU"
     ],
     "numbers": [
       31
@@ -17493,7 +17459,7 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       60,
@@ -17510,7 +17476,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Mary",
-      "William &amp"
+      "William & Mary"
     ],
     "numbers": [
       62
@@ -17555,7 +17521,7 @@ export const NFL_PLAYERS = [
       "Minnesota Vikings"
     ],
     "college": [
-      "Iowa Western CC",
+      "Iowa Western",
       "South Dakota",
       "Wisconsin"
     ],
@@ -17589,7 +17555,6 @@ export const NFL_PLAYERS = [
       "Baltimore Ravens"
     ],
     "college": [
-      "Southern California",
       "USC"
     ],
     "numbers": [
@@ -17925,7 +17890,7 @@ export const NFL_PLAYERS = [
       "New England Patriots"
     ],
     "college": [
-      "Miami"
+      "Miami (FL)"
     ],
     "numbers": [
       36
@@ -17965,7 +17930,7 @@ export const NFL_PLAYERS = [
     "display_name": "Andy Browder",
     "teams": [],
     "college": [
-      "Texas A&I"
+      "Texas A&M-Kingsville"
     ],
     "numbers": [],
     "league": "NFL"
@@ -18018,8 +17983,7 @@ export const NFL_PLAYERS = [
       "New Orleans Saints"
     ],
     "college": [
-      "TCU",
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [
       14
@@ -18200,7 +18164,7 @@ export const NFL_PLAYERS = [
     "display_name": "Andy Gissinger",
     "teams": [],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -18301,7 +18265,7 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "Texas A&I"
+      "Texas A&M-Kingsville"
     ],
     "numbers": [],
     "league": "NFL"
@@ -18380,7 +18344,6 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "Massachusetts",
       "UMass"
     ],
     "numbers": [
@@ -18518,7 +18481,7 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       2,
@@ -18554,7 +18517,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Phoenix College"
     ],
-    "numbers": [],
+    "numbers": [
+      48
+    ],
     "league": "NFL"
   },
   {
@@ -18694,7 +18659,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Fordham"
     ],
-    "numbers": [],
+    "numbers": [
+      87
+    ],
     "league": "NFL"
   },
   {
@@ -18715,9 +18682,11 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "Memphis State"
+      "Memphis"
     ],
-    "numbers": [],
+    "numbers": [
+      80
+    ],
     "league": "NFL"
   },
   {
@@ -18834,7 +18803,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Arnold"
     ],
-    "numbers": [],
+    "numbers": [
+      84
+    ],
     "league": "NFL"
   },
   {
@@ -19008,7 +18979,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Minnesota"
     ],
-    "numbers": [],
+    "numbers": [
+      8
+    ],
     "league": "NFL"
   },
   {
@@ -19052,7 +19025,7 @@ export const NFL_PLAYERS = [
     "display_name": "Andy\u00a0Katoa",
     "teams": [],
     "college": [
-      "Southern Oregon State"
+      "Southern Oregon"
     ],
     "numbers": [],
     "league": "NFL"
@@ -19166,7 +19139,7 @@ export const NFL_PLAYERS = [
     "display_name": "Angelo Carlaccini",
     "teams": [],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -19447,7 +19420,7 @@ export const NFL_PLAYERS = [
       "San Diego Chargers"
     ],
     "college": [
-      "Grambling State",
+      "Grambling",
       "Temple"
     ],
     "numbers": [],
@@ -19575,7 +19548,6 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Georgia Military",
-      "N.C. State",
       "NC State"
     ],
     "numbers": [
@@ -19739,7 +19711,7 @@ export const NFL_PLAYERS = [
     "college": [
       "Independence Comm. College",
       "Louisiana-Monroe",
-      "Miami"
+      "Miami (FL)"
     ],
     "numbers": [
       60,
@@ -19832,7 +19804,6 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "Miami",
       "Miami (FL)"
     ],
     "numbers": [
@@ -19846,7 +19817,7 @@ export const NFL_PLAYERS = [
     "display_name": "Anthony Christnovich",
     "teams": [],
     "college": [
-      "LaCrosse (Wisc)"
+      "Wisconsin-La Crosse"
     ],
     "numbers": [],
     "league": "NFL"
@@ -19976,7 +19947,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Southern Connecticut State"
     ],
-    "numbers": [],
+    "numbers": [
+      67
+    ],
     "league": "NFL"
   },
   {
@@ -20149,7 +20122,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Duke"
     ],
-    "numbers": [],
+    "numbers": [
+      8
+    ],
     "league": "NFL"
   },
   {
@@ -20177,7 +20152,7 @@ export const NFL_PLAYERS = [
       "Tennessee Titans"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       30,
@@ -20306,9 +20281,11 @@ export const NFL_PLAYERS = [
       "Cleveland Browns"
     ],
     "college": [
-      "Bethune\u2013Cookman"
+      "Bethune-Cookman"
     ],
-    "numbers": [],
+    "numbers": [
+      25
+    ],
     "league": "NFL"
   },
   {
@@ -20528,7 +20505,7 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "Troy State"
+      "Troy"
     ],
     "numbers": [],
     "league": "NFL"
@@ -20569,7 +20546,7 @@ export const NFL_PLAYERS = [
       "Green Bay Packers"
     ],
     "college": [
-      "Middle Tennessee State"
+      "Middle Tennessee"
     ],
     "numbers": [
       50
@@ -20599,8 +20576,7 @@ export const NFL_PLAYERS = [
       "Los Angeles Rams"
     ],
     "college": [
-      "M",
-      "Texas A&amp"
+      "Texas A&M"
     ],
     "numbers": [
       57
@@ -20615,8 +20591,7 @@ export const NFL_PLAYERS = [
       "New York Jets"
     ],
     "college": [
-      "M",
-      "Texas A&amp"
+      "Texas A&M"
     ],
     "numbers": [
       45,
@@ -20781,8 +20756,7 @@ export const NFL_PLAYERS = [
       "Tennessee Titans"
     ],
     "college": [
-      "Baldwin Wallace College",
-      "Baldwin-Wallace"
+      "Baldwin Wallace"
     ],
     "numbers": [
       33,
@@ -21068,7 +21042,7 @@ export const NFL_PLAYERS = [
       "Tennessee Titans"
     ],
     "college": [
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [
       61
@@ -21157,7 +21131,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Central Florida"
+      "UCF"
     ],
     "numbers": [
       68
@@ -21234,7 +21208,7 @@ export const NFL_PLAYERS = [
       "Miami Dolphins"
     ],
     "college": [
-      "Miami (Fla.)"
+      "Miami (FL)"
     ],
     "numbers": [
       43
@@ -21374,7 +21348,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Oklahoma",
-      "Texas A&M\u2013Kingsville"
+      "Texas A&M-Kingsville"
     ],
     "numbers": [
       26,
@@ -21518,7 +21492,7 @@ export const NFL_PLAYERS = [
       "Philadelphia Eagles"
     ],
     "college": [
-      "Alabama-Birmingham"
+      "UAB"
     ],
     "numbers": [
       66,
@@ -21626,7 +21600,7 @@ export const NFL_PLAYERS = [
       "Kansas City Chiefs"
     ],
     "college": [
-      "Connecticut"
+      "UConn"
     ],
     "numbers": [
       35,
@@ -21775,7 +21749,7 @@ export const NFL_PLAYERS = [
     "display_name": "Anthony Terry",
     "teams": [],
     "college": [
-      "California-Davis"
+      "UC Davis"
     ],
     "numbers": [],
     "league": "NFL"
@@ -21811,7 +21785,9 @@ export const NFL_PLAYERS = [
       "East Carolina",
       "Indiana"
     ],
-    "numbers": [],
+    "numbers": [
+      34
+    ],
     "league": "NFL"
   },
   {
@@ -22002,7 +21978,7 @@ export const NFL_PLAYERS = [
       "New York Jets"
     ],
     "college": [
-      "Florida International"
+      "FIU"
     ],
     "numbers": [
       52
@@ -22507,7 +22483,7 @@ export const NFL_PLAYERS = [
       "Dallas Cowboys"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       96
@@ -22537,7 +22513,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Texas A&M"
     ],
-    "numbers": [],
+    "numbers": [
+      58
+    ],
     "league": "NFL"
   },
   {
@@ -22599,7 +22577,7 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       81,
@@ -22913,7 +22891,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Arkansas",
-      "University of South Florida"
+      "South Florida"
     ],
     "numbers": [
       48
@@ -22980,9 +22958,7 @@ export const NFL_PLAYERS = [
       "Jacksonville Jaguars"
     ],
     "college": [
-      "M",
-      "Texas A&M",
-      "Texas A&amp"
+      "Texas A&M"
     ],
     "numbers": [
       6,
@@ -23047,7 +23023,7 @@ export const NFL_PLAYERS = [
       "Green Bay Packers"
     ],
     "college": [
-      "Miami"
+      "Miami (FL)"
     ],
     "numbers": [
       64
@@ -23075,7 +23051,7 @@ export const NFL_PLAYERS = [
       "Chicago Bears"
     ],
     "college": [
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -23195,7 +23171,7 @@ export const NFL_PLAYERS = [
       "Minnesota Vikings"
     ],
     "college": [
-      "Texas A&M\u2013Commerce"
+      "Texas A&M-Commerce"
     ],
     "numbers": [
       54,
@@ -23264,8 +23240,7 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "Miami (FL)",
-      "Miami (Fla.)"
+      "Miami (FL)"
     ],
     "numbers": [
       21,
@@ -23468,7 +23443,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "James Madison",
-      "Mississippi",
+      "Ole Miss",
       "South Carolina"
     ],
     "numbers": [
@@ -23523,7 +23498,6 @@ export const NFL_PLAYERS = [
       "Tennessee Titans"
     ],
     "college": [
-      "Southern California",
       "USC"
     ],
     "numbers": [
@@ -23542,7 +23516,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       51
@@ -23597,7 +23571,6 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "Texas-El Paso",
       "UTEP"
     ],
     "numbers": [
@@ -23705,8 +23678,7 @@ export const NFL_PLAYERS = [
       "Baltimore Ravens"
     ],
     "college": [
-      "TCU",
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [
       24,
@@ -23824,7 +23796,9 @@ export const NFL_PLAYERS = [
     "college": [
       "William & Mary"
     ],
-    "numbers": [],
+    "numbers": [
+      76
+    ],
     "league": "NFL"
   },
   {
@@ -23930,7 +23904,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Illinois"
     ],
-    "numbers": [],
+    "numbers": [
+      72
+    ],
     "league": "NFL"
   },
   {
@@ -23948,7 +23924,7 @@ export const NFL_PLAYERS = [
     "display_name": "Archie\u00a0Pearmon",
     "teams": [],
     "college": [
-      "N.E. Oklahoma"
+      "Northeastern Oklahoma"
     ],
     "numbers": [],
     "league": "NFL"
@@ -24328,9 +24304,7 @@ export const NFL_PLAYERS = [
       "Kansas City Chiefs"
     ],
     "college": [
-      "M",
-      "Texas A&M",
-      "Texas A&amp"
+      "Texas A&M"
     ],
     "numbers": [
       23,
@@ -24467,8 +24441,7 @@ export const NFL_PLAYERS = [
       "Detroit Lions"
     ],
     "college": [
-      "East Central",
-      "East Central (OK)"
+      "East Central"
     ],
     "numbers": [
       95,
@@ -24984,7 +24957,7 @@ export const NFL_PLAYERS = [
       "Buffalo Bills"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -25041,7 +25014,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Tennessee"
     ],
-    "numbers": [],
+    "numbers": [
+      79
+    ],
     "league": "NFL"
   },
   {
@@ -25049,7 +25024,7 @@ export const NFL_PLAYERS = [
     "display_name": "Art Brandriff",
     "teams": [],
     "college": [
-      "Virginia Military Inst"
+      "VMI"
     ],
     "numbers": [],
     "league": "NFL"
@@ -25153,10 +25128,11 @@ export const NFL_PLAYERS = [
       "New York Yanks"
     ],
     "college": [
-      "Boston College",
-      "Boston College (Redrafted Colt)"
+      "Boston College"
     ],
-    "numbers": [],
+    "numbers": [
+      49
+    ],
     "league": "NFL"
   },
   {
@@ -25208,7 +25184,9 @@ export const NFL_PLAYERS = [
     "college": [
       "NC State"
     ],
-    "numbers": [],
+    "numbers": [
+      18
+    ],
     "league": "NFL"
   },
   {
@@ -25251,7 +25229,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -25505,7 +25483,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Western Michigan"
     ],
-    "numbers": [],
+    "numbers": [
+      31
+    ],
     "league": "NFL"
   },
   {
@@ -25518,7 +25498,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Arizona State"
     ],
-    "numbers": [],
+    "numbers": [
+      25
+    ],
     "league": "NFL"
   },
   {
@@ -25573,7 +25555,7 @@ export const NFL_PLAYERS = [
       "New England Patriots"
     ],
     "college": [
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -25611,7 +25593,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -25635,7 +25617,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Northwestern"
     ],
-    "numbers": [],
+    "numbers": [
+      35
+    ],
     "league": "NFL"
   },
   {
@@ -25645,7 +25629,7 @@ export const NFL_PLAYERS = [
       "Los Angeles Rams"
     ],
     "college": [
-      "North Texas State"
+      "North Texas"
     ],
     "numbers": [],
     "league": "NFL"
@@ -25766,7 +25750,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Ohio State"
     ],
-    "numbers": [],
+    "numbers": [
+      10
+    ],
     "league": "NFL"
   },
   {
@@ -25811,8 +25797,7 @@ export const NFL_PLAYERS = [
       "Baltimore Colts"
     ],
     "college": [
-      "Boston College",
-      "Boston College (Redrafted Colt)"
+      "Boston College"
     ],
     "numbers": [],
     "league": "NFL"
@@ -25937,7 +25922,7 @@ export const NFL_PLAYERS = [
       "Philadelphia Eagles"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -26047,7 +26032,7 @@ export const NFL_PLAYERS = [
       "Dallas Cowboys"
     ],
     "college": [
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [
       49
@@ -26158,7 +26143,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       61,
@@ -26229,7 +26214,7 @@ export const NFL_PLAYERS = [
       "Indianapolis Colts"
     ],
     "college": [
-      "Southern University"
+      "Southern"
     ],
     "numbers": [
       76
@@ -26293,7 +26278,7 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "Grambling State"
+      "Grambling"
     ],
     "numbers": [],
     "league": "NFL"
@@ -26313,7 +26298,7 @@ export const NFL_PLAYERS = [
     "display_name": "Arthur\u00a0King",
     "teams": [],
     "college": [
-      "Grambling State"
+      "Grambling"
     ],
     "numbers": [],
     "league": "NFL"
@@ -26328,7 +26313,6 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "Miami",
       "Miami (FL)"
     ],
     "numbers": [
@@ -26628,7 +26612,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Notre Dame"
     ],
-    "numbers": [],
+    "numbers": [
+      61
+    ],
     "league": "NFL"
   },
   {
@@ -26636,7 +26622,7 @@ export const NFL_PLAYERS = [
     "display_name": "Arvie Martin",
     "teams": [],
     "college": [
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -26650,8 +26636,7 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "Cal Poly",
-      "Cal Poly-S.L.O."
+      "Cal Poly"
     ],
     "numbers": [
       25,
@@ -26695,7 +26680,7 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "Miami (Fla.)"
+      "Miami (FL)"
     ],
     "numbers": [
       44,
@@ -26743,7 +26728,7 @@ export const NFL_PLAYERS = [
       "New Orleans Saints"
     ],
     "college": [
-      "Texas-San Antonio"
+      "UTSA"
     ],
     "numbers": [
       72,
@@ -26773,7 +26758,7 @@ export const NFL_PLAYERS = [
       "Detroit Lions"
     ],
     "college": [
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [
       58,
@@ -27256,8 +27241,7 @@ export const NFL_PLAYERS = [
       "New Orleans Saints"
     ],
     "college": [
-      "NC State",
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [
       57
@@ -27352,9 +27336,11 @@ export const NFL_PLAYERS = [
       "San Diego Chargers"
     ],
     "college": [
-      "East Texas State"
+      "East Texas A&M"
     ],
-    "numbers": [],
+    "numbers": [
+      43
+    ],
     "league": "NFL"
   },
   {
@@ -27453,7 +27439,6 @@ export const NFL_PLAYERS = [
       "Indianapolis Colts"
     ],
     "college": [
-      "Nevada-Las Vegas",
       "UNLV"
     ],
     "numbers": [
@@ -27673,7 +27658,7 @@ export const NFL_PLAYERS = [
       "Tennessee Titans"
     ],
     "college": [
-      "Southern Mississippi"
+      "Southern Miss"
     ],
     "numbers": [
       4,
@@ -27729,7 +27714,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Tennessee"
     ],
-    "numbers": [],
+    "numbers": [
+      84
+    ],
     "league": "NFL"
   },
   {
@@ -27739,7 +27726,7 @@ export const NFL_PLAYERS = [
       "Carolina Panthers"
     ],
     "college": [
-      "North Carolina-Charlotte"
+      "Charlotte"
     ],
     "numbers": [
       8,
@@ -27845,7 +27832,7 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "Miami (Ohio)"
+      "Miami (OH)"
     ],
     "numbers": [
       49
@@ -27921,7 +27908,6 @@ export const NFL_PLAYERS = [
       "Miami Dolphins"
     ],
     "college": [
-      "Southern California",
       "USC"
     ],
     "numbers": [
@@ -27972,7 +27958,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Southern California"
+      "USC"
     ],
     "numbers": [
       46
@@ -27988,7 +27974,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Auburn",
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [
       53,
@@ -28067,7 +28053,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Austin Peay State"
+      "Austin Peay"
     ],
     "numbers": [
       92
@@ -28228,8 +28214,7 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "TCU",
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [
       51,
@@ -28394,7 +28379,6 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "Alabama-Birmingham",
       "UAB"
     ],
     "numbers": [
@@ -28411,7 +28395,7 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "Alabama-Birmingham"
+      "UAB"
     ],
     "numbers": [
       41,
@@ -28483,7 +28467,7 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "East Texas State"
+      "East Texas A&M"
     ],
     "numbers": [
       27
@@ -28533,7 +28517,7 @@ export const NFL_PLAYERS = [
       "Baltimore Colts"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -28546,7 +28530,7 @@ export const NFL_PLAYERS = [
       "Green Bay Packers"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -28758,7 +28742,7 @@ export const NFL_PLAYERS = [
       "Minnesota Vikings"
     ],
     "college": [
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [
       74,
@@ -28804,7 +28788,9 @@ export const NFL_PLAYERS = [
     "college": [
       "UCLA"
     ],
-    "numbers": [],
+    "numbers": [
+      53
+    ],
     "league": "NFL"
   },
   {
@@ -28815,7 +28801,7 @@ export const NFL_PLAYERS = [
       "Philadelphia Eagles"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       29
@@ -28935,7 +28921,7 @@ export const NFL_PLAYERS = [
       "Tennessee Titans"
     ],
     "college": [
-      "Florida Atlantic"
+      "FAU"
     ],
     "numbers": [
       2,
@@ -29180,7 +29166,7 @@ export const NFL_PLAYERS = [
       "Jacksonville Jaguars"
     ],
     "college": [
-      "Florida Atlantic"
+      "FAU"
     ],
     "numbers": [
       35
@@ -29229,9 +29215,7 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "N.C. State",
-      "NC State",
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [
       92,
@@ -29382,8 +29366,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Mary",
-      "William & Mary",
-      "William &amp"
+      "William & Mary"
     ],
     "numbers": [
       20,
@@ -29456,8 +29439,7 @@ export const NFL_PLAYERS = [
       "Kansas City Chiefs"
     ],
     "college": [
-      "Stephen F. Austin",
-      "Stephen F. Austin State"
+      "Stephen F. Austin"
     ],
     "numbers": [
       53
@@ -29701,7 +29683,7 @@ export const NFL_PLAYERS = [
       "New England Patriots"
     ],
     "college": [
-      "Houston Christian University",
+      "Houston Christian",
       "Western Kentucky"
     ],
     "numbers": [
@@ -29750,7 +29732,7 @@ export const NFL_PLAYERS = [
       "Baltimore Ravens"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       53
@@ -29766,8 +29748,7 @@ export const NFL_PLAYERS = [
       "New York Jets"
     ],
     "college": [
-      "N.C. State",
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [
       20,
@@ -29833,7 +29814,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Clemson"
     ],
-    "numbers": [],
+    "numbers": [
+      26
+    ],
     "league": "NFL"
   },
   {
@@ -29946,7 +29929,9 @@ export const NFL_PLAYERS = [
     "college": [
       "South Carolina State"
     ],
-    "numbers": [],
+    "numbers": [
+      8
+    ],
     "league": "NFL"
   },
   {
@@ -29983,7 +29968,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Utah"
     ],
-    "numbers": [],
+    "numbers": [
+      84
+    ],
     "league": "NFL"
   },
   {
@@ -30313,7 +30300,7 @@ export const NFL_PLAYERS = [
       "Tennessee Titans"
     ],
     "college": [
-      "Texas-El Paso"
+      "UTEP"
     ],
     "numbers": [
       52,
@@ -30431,7 +30418,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Montana"
     ],
-    "numbers": [],
+    "numbers": [
+      63
+    ],
     "league": "NFL"
   },
   {
@@ -30443,7 +30432,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Arkansas"
     ],
-    "numbers": [],
+    "numbers": [
+      29
+    ],
     "league": "NFL"
   },
   {
@@ -30546,7 +30537,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Alabama"
     ],
-    "numbers": [],
+    "numbers": [
+      55
+    ],
     "league": "NFL"
   },
   {
@@ -30605,7 +30598,7 @@ export const NFL_PLAYERS = [
       "Houston Oilers"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -30659,7 +30652,7 @@ export const NFL_PLAYERS = [
       "Denver Broncos"
     ],
     "college": [
-      "Wisconsin\u2013Stevens Point"
+      "Wisconsin-Stevens Point"
     ],
     "numbers": [],
     "league": "NFL"
@@ -30786,7 +30779,6 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Mississippi",
       "Ole Miss"
     ],
     "numbers": [
@@ -30806,7 +30798,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Virginia"
     ],
-    "numbers": [],
+    "numbers": [
+      34
+    ],
     "league": "NFL"
   },
   {
@@ -31209,8 +31203,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "New Mexico",
-      "South Florida",
-      "University of South Florida"
+      "South Florida"
     ],
     "numbers": [
       70,
@@ -31282,8 +31275,7 @@ export const NFL_PLAYERS = [
     "display_name": "Bear French",
     "teams": [],
     "college": [
-      "Purdue",
-      "Purdue (Redrafted Colt)"
+      "Purdue"
     ],
     "numbers": [],
     "league": "NFL"
@@ -31315,9 +31307,11 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "North Texas State"
+      "North Texas"
     ],
-    "numbers": [],
+    "numbers": [
+      82
+    ],
     "league": "NFL"
   },
   {
@@ -31606,8 +31600,7 @@ export const NFL_PLAYERS = [
       "Indianapolis Colts"
     ],
     "college": [
-      "TCU",
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [
       52,
@@ -31633,7 +31626,6 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "Saint John's (MN)",
       "St. John's (MN)",
       "St. John's, Minn."
     ],
@@ -31688,7 +31680,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Duke"
     ],
-    "numbers": [],
+    "numbers": [
+      14
+    ],
     "league": "NFL"
   },
   {
@@ -31787,7 +31781,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Baylor"
     ],
-    "numbers": [],
+    "numbers": [
+      18
+    ],
     "league": "NFL"
   },
   {
@@ -31799,7 +31795,6 @@ export const NFL_PLAYERS = [
       "New England Patriots"
     ],
     "college": [
-      "Mississippi",
       "Ole Miss"
     ],
     "numbers": [
@@ -31929,7 +31924,7 @@ export const NFL_PLAYERS = [
       "New England Patriots"
     ],
     "college": [
-      "Livingstone College"
+      "Livingstone"
     ],
     "numbers": [
       81,
@@ -31960,7 +31955,7 @@ export const NFL_PLAYERS = [
     "display_name": "Ben Collins",
     "teams": [],
     "college": [
-      "West Texas State"
+      "West Texas A&M"
     ],
     "numbers": [],
     "league": "NFL"
@@ -32033,7 +32028,7 @@ export const NFL_PLAYERS = [
       "Los Angeles Chargers"
     ],
     "college": [
-      "North Carolina-Charlotte"
+      "Charlotte"
     ],
     "numbers": [
       46
@@ -32643,7 +32638,7 @@ export const NFL_PLAYERS = [
       "Philadelphia Eagles"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -33148,7 +33143,7 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       29,
@@ -33378,7 +33373,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Auburn"
     ],
-    "numbers": [],
+    "numbers": [
+      61
+    ],
     "league": "NFL"
   },
   {
@@ -33777,7 +33774,6 @@ export const NFL_PLAYERS = [
       "Miami Dolphins"
     ],
     "college": [
-      "Mississippi",
       "Ole Miss"
     ],
     "numbers": [
@@ -33886,7 +33882,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Auburn"
     ],
-    "numbers": [],
+    "numbers": [
+      93
+    ],
     "league": "NFL"
   },
   {
@@ -33910,7 +33908,7 @@ export const NFL_PLAYERS = [
     "display_name": "Benjie\u00a0Pryor",
     "teams": [],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -33994,7 +33992,7 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "Miami"
+      "Miami (FL)"
     ],
     "numbers": [
       36
@@ -34065,7 +34063,7 @@ export const NFL_PLAYERS = [
     "display_name": "Bennie Francis",
     "teams": [],
     "college": [
-      "Chadron St. (Neb.)"
+      "Chadron State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -34112,7 +34110,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Michigan"
     ],
-    "numbers": [],
+    "numbers": [
+      26
+    ],
     "league": "NFL"
   },
   {
@@ -34125,7 +34125,7 @@ export const NFL_PLAYERS = [
       "New Orleans Saints"
     ],
     "college": [
-      "Grambling State"
+      "Grambling"
     ],
     "numbers": [
       37
@@ -34137,7 +34137,7 @@ export const NFL_PLAYERS = [
     "display_name": "Bennie\u00a0Leverett",
     "teams": [],
     "college": [
-      "Bethune\u2013Cookman"
+      "Bethune-Cookman"
     ],
     "numbers": [],
     "league": "NFL"
@@ -34204,8 +34204,7 @@ export const NFL_PLAYERS = [
       "St. Louis Rams"
     ],
     "college": [
-      "Middle Tennessee",
-      "Middle Tennessee State"
+      "Middle Tennessee"
     ],
     "numbers": [
       23,
@@ -34270,7 +34269,7 @@ export const NFL_PLAYERS = [
       "Indianapolis Colts"
     ],
     "college": [
-      "North Carolina-Charlotte"
+      "Charlotte"
     ],
     "numbers": [
       40,
@@ -34288,7 +34287,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Arizona State"
     ],
-    "numbers": [],
+    "numbers": [
+      32
+    ],
     "league": "NFL"
   },
   {
@@ -34500,7 +34501,7 @@ export const NFL_PLAYERS = [
     "display_name": "Ben\u00a0Jessie",
     "teams": [],
     "college": [
-      "Southwest Texas State"
+      "Texas State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -34604,7 +34605,7 @@ export const NFL_PLAYERS = [
     "display_name": "Bernard Chapman",
     "teams": [],
     "college": [
-      "Texas-El Paso"
+      "UTEP"
     ],
     "numbers": [],
     "league": "NFL"
@@ -34949,7 +34950,7 @@ export const NFL_PLAYERS = [
     "display_name": "Bernard\u00a0King",
     "teams": [],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -34988,7 +34989,7 @@ export const NFL_PLAYERS = [
     "display_name": "Bernie Barkouskie",
     "teams": [],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -35013,7 +35014,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Bowling Green"
     ],
-    "numbers": [],
+    "numbers": [
+      30
+    ],
     "league": "NFL"
   },
   {
@@ -35051,7 +35054,7 @@ export const NFL_PLAYERS = [
     "display_name": "Bernie Custis",
     "teams": [],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -35215,7 +35218,6 @@ export const NFL_PLAYERS = [
       "Miami Dolphins"
     ],
     "college": [
-      "Miami",
       "Miami (FL)"
     ],
     "numbers": [
@@ -35362,7 +35364,7 @@ export const NFL_PLAYERS = [
     "display_name": "Bernie Smith",
     "teams": [],
     "college": [
-      "Texas Mines"
+      "UTEP"
     ],
     "numbers": [],
     "league": "NFL"
@@ -35386,7 +35388,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Kansas State"
     ],
-    "numbers": [],
+    "numbers": [
+      33
+    ],
     "league": "NFL"
   },
   {
@@ -35480,7 +35484,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Kansas"
     ],
-    "numbers": [],
+    "numbers": [
+      26
+    ],
     "league": "NFL"
   },
   {
@@ -35582,7 +35588,7 @@ export const NFL_PLAYERS = [
     "display_name": "Bert Hayes",
     "teams": [],
     "college": [
-      "Wichita"
+      "Wichita State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -35728,7 +35734,7 @@ export const NFL_PLAYERS = [
       "New York Jets"
     ],
     "college": [
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -35924,7 +35930,7 @@ export const NFL_PLAYERS = [
       "Miami Dolphins"
     ],
     "college": [
-      "Central Florida"
+      "UCF"
     ],
     "numbers": [
       56
@@ -36381,7 +36387,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Northern Iowa"
     ],
-    "numbers": [],
+    "numbers": [
+      65
+    ],
     "league": "NFL"
   },
   {
@@ -36449,7 +36457,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Arkansas State"
     ],
-    "numbers": [],
+    "numbers": [
+      66
+    ],
     "league": "NFL"
   },
   {
@@ -36493,7 +36503,7 @@ export const NFL_PLAYERS = [
       "Minnesota Vikings"
     ],
     "college": [
-      "North Texas State"
+      "North Texas"
     ],
     "numbers": [],
     "league": "NFL"
@@ -36596,7 +36606,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Texas"
     ],
-    "numbers": [],
+    "numbers": [
+      28
+    ],
     "league": "NFL"
   },
   {
@@ -36648,7 +36660,7 @@ export const NFL_PLAYERS = [
     "display_name": "Bill Brehany",
     "teams": [],
     "college": [
-      "Virginia Military Inst"
+      "VMI"
     ],
     "numbers": [],
     "league": "NFL"
@@ -36722,8 +36734,8 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Illinois",
-      "Syracuse",
-      "Texas Western"
+      "Rich Manning",
+      "UTEP"
     ],
     "numbers": [
       30
@@ -36850,7 +36862,7 @@ export const NFL_PLAYERS = [
     "display_name": "Bill Busarello",
     "teams": [],
     "college": [
-      "Glassboro St"
+      "Glassboro State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -36867,8 +36879,8 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "Kansas State",
-      "Tennessee-Chattanooga"
+      "Chattanooga",
+      "Kansas State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -36934,7 +36946,7 @@ export const NFL_PLAYERS = [
       "Buffalo Bills"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -36948,7 +36960,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Nebraska"
     ],
-    "numbers": [],
+    "numbers": [
+      45
+    ],
     "league": "NFL"
   },
   {
@@ -36986,7 +37000,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Florida State"
     ],
-    "numbers": [],
+    "numbers": [
+      17
+    ],
     "league": "NFL"
   },
   {
@@ -37035,7 +37051,7 @@ export const NFL_PLAYERS = [
     "display_name": "Bill Carrico",
     "teams": [],
     "college": [
-      "North Texas State"
+      "North Texas"
     ],
     "numbers": [],
     "league": "NFL"
@@ -37089,7 +37105,7 @@ export const NFL_PLAYERS = [
       "Green Bay Packers"
     ],
     "college": [
-      "Middle Tennessee State"
+      "Middle Tennessee"
     ],
     "numbers": [],
     "league": "NFL"
@@ -37306,7 +37322,7 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "Massachusetts"
+      "UMass"
     ],
     "numbers": [],
     "league": "NFL"
@@ -37476,7 +37492,7 @@ export const NFL_PLAYERS = [
     "display_name": "Bill Curtis",
     "teams": [],
     "college": [
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -37489,7 +37505,7 @@ export const NFL_PLAYERS = [
       "Chicago Cardinals"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -37519,7 +37535,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Emporia State"
     ],
-    "numbers": [],
+    "numbers": [
+      76
+    ],
     "league": "NFL"
   },
   {
@@ -37640,7 +37658,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Arizona"
     ],
-    "numbers": [],
+    "numbers": [
+      6
+    ],
     "league": "NFL"
   },
   {
@@ -37648,7 +37668,7 @@ export const NFL_PLAYERS = [
     "display_name": "Bill Devrow",
     "teams": [],
     "college": [
-      "Southern Mississippi"
+      "Southern Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -37782,7 +37802,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Virginia"
     ],
-    "numbers": [],
+    "numbers": [
+      35
+    ],
     "league": "NFL"
   },
   {
@@ -37874,7 +37896,7 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -37933,7 +37955,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Virginia Tech"
     ],
-    "numbers": [],
+    "numbers": [
+      65
+    ],
     "league": "NFL"
   },
   {
@@ -38022,7 +38046,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Colorado"
     ],
-    "numbers": [],
+    "numbers": [
+      86
+    ],
     "league": "NFL"
   },
   {
@@ -38164,7 +38190,9 @@ export const NFL_PLAYERS = [
     "college": [
       "SMU"
     ],
-    "numbers": [],
+    "numbers": [
+      69
+    ],
     "league": "NFL"
   },
   {
@@ -38196,7 +38224,7 @@ export const NFL_PLAYERS = [
       "Detroit Lions"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -38228,7 +38256,7 @@ export const NFL_PLAYERS = [
     "display_name": "Bill Freeman",
     "teams": [],
     "college": [
-      "Southern Mississippi"
+      "Southern Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -38272,7 +38300,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Minnesota"
     ],
-    "numbers": [],
+    "numbers": [
+      30
+    ],
     "league": "NFL"
   },
   {
@@ -38313,7 +38343,7 @@ export const NFL_PLAYERS = [
     "display_name": "Bill Gentry",
     "teams": [],
     "college": [
-      "North Carolina St"
+      "NC State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -38376,7 +38406,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Baylor"
     ],
-    "numbers": [],
+    "numbers": [
+      64
+    ],
     "league": "NFL"
   },
   {
@@ -38384,7 +38416,7 @@ export const NFL_PLAYERS = [
     "display_name": "Bill Glassford",
     "teams": [],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -38417,7 +38449,7 @@ export const NFL_PLAYERS = [
       "Chicago Bears"
     ],
     "college": [
-      "Eastern Illinois State"
+      "Eastern Illinois"
     ],
     "numbers": [],
     "league": "NFL"
@@ -38574,7 +38606,7 @@ export const NFL_PLAYERS = [
     "display_name": "Bill Groce",
     "teams": [],
     "college": [
-      "North Texas State"
+      "North Texas"
     ],
     "numbers": [],
     "league": "NFL"
@@ -38672,7 +38704,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Oregon State"
     ],
-    "numbers": [],
+    "numbers": [
+      75
+    ],
     "league": "NFL"
   },
   {
@@ -38750,7 +38784,9 @@ export const NFL_PLAYERS = [
     "college": [
       "USC"
     ],
-    "numbers": [],
+    "numbers": [
+      77
+    ],
     "league": "NFL"
   },
   {
@@ -38778,7 +38814,7 @@ export const NFL_PLAYERS = [
     "display_name": "Bill Hedges",
     "teams": [],
     "college": [
-      "West Texas State"
+      "West Texas A&M"
     ],
     "numbers": [],
     "league": "NFL"
@@ -39040,7 +39076,7 @@ export const NFL_PLAYERS = [
     "display_name": "Bill Howley",
     "teams": [],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -39112,7 +39148,7 @@ export const NFL_PLAYERS = [
       "New Orleans Saints"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -39163,7 +39199,7 @@ export const NFL_PLAYERS = [
     "display_name": "Bill Irwin",
     "teams": [],
     "college": [
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -39277,7 +39313,7 @@ export const NFL_PLAYERS = [
       "Kansas City Chiefs"
     ],
     "college": [
-      "Southwest Texas State"
+      "Texas State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -39317,7 +39353,7 @@ export const NFL_PLAYERS = [
     "display_name": "Bill Kaczmarek",
     "teams": [],
     "college": [
-      "Southwest Missouri State"
+      "Missouri State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -39435,7 +39471,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Northern Colorado"
     ],
-    "numbers": [],
+    "numbers": [
+      9
+    ],
     "league": "NFL"
   },
   {
@@ -39587,7 +39625,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Montana State"
     ],
-    "numbers": [],
+    "numbers": [
+      68
+    ],
     "league": "NFL"
   },
   {
@@ -39602,7 +39642,9 @@ export const NFL_PLAYERS = [
     "college": [
       "North Carolina"
     ],
-    "numbers": [],
+    "numbers": [
+      65
+    ],
     "league": "NFL"
   },
   {
@@ -39956,7 +39998,7 @@ export const NFL_PLAYERS = [
     "display_name": "Bill Livingston",
     "teams": [],
     "college": [
-      "Southern Methodist"
+      "SMU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -39968,7 +40010,7 @@ export const NFL_PLAYERS = [
       "Denver Broncos"
     ],
     "college": [
-      "Wisconsin\u2013Whitewater"
+      "Wisconsin-Whitewater"
     ],
     "numbers": [],
     "league": "NFL"
@@ -40031,7 +40073,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Case Western Reserve"
     ],
-    "numbers": [],
+    "numbers": [
+      82
+    ],
     "league": "NFL"
   },
   {
@@ -40042,7 +40086,7 @@ export const NFL_PLAYERS = [
       "Kansas City Chiefs"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -40081,7 +40125,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Indiana"
     ],
-    "numbers": [],
+    "numbers": [
+      81
+    ],
     "league": "NFL"
   },
   {
@@ -40089,7 +40135,7 @@ export const NFL_PLAYERS = [
     "display_name": "Bill Malouf",
     "teams": [],
     "college": [
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -40223,7 +40269,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Arkansas"
     ],
-    "numbers": [],
+    "numbers": [
+      10
+    ],
     "league": "NFL"
   },
   {
@@ -40245,7 +40293,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Stanford"
     ],
-    "numbers": [],
+    "numbers": [
+      83
+    ],
     "league": "NFL"
   },
   {
@@ -40319,7 +40369,7 @@ export const NFL_PLAYERS = [
       "Chicago Bears"
     ],
     "college": [
-      "West Texas State"
+      "West Texas A&M"
     ],
     "numbers": [],
     "league": "NFL"
@@ -40374,9 +40424,11 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
-    "numbers": [],
+    "numbers": [
+      37
+    ],
     "league": "NFL"
   },
   {
@@ -40396,7 +40448,7 @@ export const NFL_PLAYERS = [
       "Minnesota Vikings"
     ],
     "college": [
-      "North Texas State"
+      "North Texas"
     ],
     "numbers": [],
     "league": "NFL"
@@ -40641,8 +40693,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Mary",
-      "William & Mary",
-      "William &amp"
+      "William & Mary"
     ],
     "numbers": [
       60,
@@ -40724,7 +40775,7 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -40927,7 +40978,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Ashland"
     ],
-    "numbers": [],
+    "numbers": [
+      56
+    ],
     "league": "NFL"
   },
   {
@@ -40948,7 +41001,7 @@ export const NFL_PLAYERS = [
     "display_name": "Bill Palmer",
     "teams": [],
     "college": [
-      "St. Thomas"
+      "St. Thomas (MN)"
     ],
     "numbers": [],
     "league": "NFL"
@@ -41047,7 +41100,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Rutgers"
     ],
-    "numbers": [],
+    "numbers": [
+      65
+    ],
     "league": "NFL"
   },
   {
@@ -41127,7 +41182,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Rutgers"
     ],
-    "numbers": [],
+    "numbers": [
+      71
+    ],
     "league": "NFL"
   },
   {
@@ -41145,7 +41202,7 @@ export const NFL_PLAYERS = [
     "display_name": "Bill Pilconis",
     "teams": [],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -41361,7 +41418,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Iowa"
     ],
-    "numbers": [],
+    "numbers": [
+      37
+    ],
     "league": "NFL"
   },
   {
@@ -41478,7 +41537,7 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "Brigham Young"
+      "BYU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -41529,7 +41588,7 @@ export const NFL_PLAYERS = [
     "teams": [],
     "college": [
       "Austin",
-      "Memphis State"
+      "Memphis"
     ],
     "numbers": [],
     "league": "NFL"
@@ -41710,7 +41769,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Penn State"
     ],
-    "numbers": [],
+    "numbers": [
+      50
+    ],
     "league": "NFL"
   },
   {
@@ -41980,7 +42041,7 @@ export const NFL_PLAYERS = [
     "display_name": "Bill Skyinskus",
     "teams": [],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -42086,7 +42147,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Georgia"
     ],
-    "numbers": [],
+    "numbers": [
+      84
+    ],
     "league": "NFL"
   },
   {
@@ -42322,7 +42385,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Tulane"
     ],
-    "numbers": [],
+    "numbers": [
+      67
+    ],
     "league": "NFL"
   },
   {
@@ -42679,7 +42744,7 @@ export const NFL_PLAYERS = [
     "display_name": "Bill Wallace",
     "teams": [],
     "college": [
-      "Pittsburgh",
+      "Pitt",
       "Rice"
     ],
     "numbers": [],
@@ -42810,7 +42875,7 @@ export const NFL_PLAYERS = [
     "display_name": "Bill Wetzel",
     "teams": [],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -42855,7 +42920,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Missouri"
     ],
-    "numbers": [],
+    "numbers": [
+      30
+    ],
     "league": "NFL"
   },
   {
@@ -42875,7 +42942,7 @@ export const NFL_PLAYERS = [
     "display_name": "Bill Wilderson",
     "teams": [],
     "college": [
-      "Texas Western"
+      "UTEP"
     ],
     "numbers": [],
     "league": "NFL"
@@ -42934,7 +43001,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Iowa"
     ],
-    "numbers": [],
+    "numbers": [
+      65
+    ],
     "league": "NFL"
   },
   {
@@ -42979,7 +43048,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Notre Dame"
     ],
-    "numbers": [],
+    "numbers": [
+      44
+    ],
     "league": "NFL"
   },
   {
@@ -43019,7 +43090,7 @@ export const NFL_PLAYERS = [
     "display_name": "Bill Wosilius",
     "teams": [],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -43347,7 +43418,7 @@ export const NFL_PLAYERS = [
     "display_name": "Billy Bob Stewart",
     "teams": [],
     "college": [
-      "Southern Methodist"
+      "SMU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -43393,7 +43464,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -43470,7 +43541,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Kansas"
     ],
-    "numbers": [],
+    "numbers": [
+      37
+    ],
     "league": "NFL"
   },
   {
@@ -43517,7 +43590,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -43564,7 +43637,7 @@ export const NFL_PLAYERS = [
     "display_name": "Billy Cross",
     "teams": [],
     "college": [
-      "West Texas State"
+      "West Texas A&M"
     ],
     "numbers": [],
     "league": "NFL"
@@ -43675,7 +43748,7 @@ export const NFL_PLAYERS = [
     "display_name": "Billy Dunn",
     "teams": [],
     "college": [
-      "Southern Methodist"
+      "SMU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -43708,9 +43781,11 @@ export const NFL_PLAYERS = [
       "Minnesota Vikings"
     ],
     "college": [
-      "Texas Christian"
+      "TCU"
     ],
-    "numbers": [],
+    "numbers": [
+      44
+    ],
     "league": "NFL"
   },
   {
@@ -43819,7 +43894,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Indiana"
     ],
-    "numbers": [],
+    "numbers": [
+      66
+    ],
     "league": "NFL"
   },
   {
@@ -43842,7 +43919,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Arkansas",
-      "Middle Tennessee State"
+      "Middle Tennessee"
     ],
     "numbers": [],
     "league": "NFL"
@@ -43864,7 +43941,7 @@ export const NFL_PLAYERS = [
       "Detroit Lions"
     ],
     "college": [
-      "Alcorn A&M"
+      "Alcorn State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -43911,7 +43988,7 @@ export const NFL_PLAYERS = [
     "display_name": "Billy Hurst",
     "teams": [],
     "college": [
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -44166,7 +44243,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Henderson State"
     ],
-    "numbers": [],
+    "numbers": [
+      19
+    ],
     "league": "NFL"
   },
   {
@@ -44191,7 +44270,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Georgia Tech"
     ],
-    "numbers": [],
+    "numbers": [
+      18
+    ],
     "league": "NFL"
   },
   {
@@ -44203,7 +44284,7 @@ export const NFL_PLAYERS = [
       "Oakland Raiders"
     ],
     "college": [
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -44394,7 +44475,7 @@ export const NFL_PLAYERS = [
       "Dallas Cowboys"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -44423,7 +44504,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Long Beach State"
     ],
-    "numbers": [],
+    "numbers": [
+      32
+    ],
     "league": "NFL"
   },
   {
@@ -44490,7 +44573,7 @@ export const NFL_PLAYERS = [
       "Cleveland Browns"
     ],
     "college": [
-      "West Texas State"
+      "West Texas A&M"
     ],
     "numbers": [],
     "league": "NFL"
@@ -44530,7 +44613,7 @@ export const NFL_PLAYERS = [
     "display_name": "Billy Ray Adams",
     "teams": [],
     "college": [
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -44590,7 +44673,7 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -44632,7 +44715,7 @@ export const NFL_PLAYERS = [
     "display_name": "Billy Scott",
     "teams": [],
     "college": [
-      "Northeast Oklahoma"
+      "Northeastern Oklahoma"
     ],
     "numbers": [],
     "league": "NFL"
@@ -44683,7 +44766,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Alabama"
     ],
-    "numbers": [],
+    "numbers": [
+      74
+    ],
     "league": "NFL"
   },
   {
@@ -44740,7 +44825,7 @@ export const NFL_PLAYERS = [
       "Green Bay Packers"
     ],
     "college": [
-      "Texas\u2013El Paso"
+      "UTEP"
     ],
     "numbers": [],
     "league": "NFL"
@@ -44763,8 +44848,7 @@ export const NFL_PLAYERS = [
       "Chicago Bears"
     ],
     "college": [
-      "Bradley",
-      "Bradley (Redrafted Colt)"
+      "Bradley"
     ],
     "numbers": [],
     "league": "NFL"
@@ -44812,7 +44896,7 @@ export const NFL_PLAYERS = [
     "display_name": "Billy Templeton",
     "teams": [],
     "college": [
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -44948,7 +45032,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Michigan State"
     ],
-    "numbers": [],
+    "numbers": [
+      41
+    ],
     "league": "NFL"
   },
   {
@@ -45018,7 +45104,7 @@ export const NFL_PLAYERS = [
     "display_name": "Billy Woods",
     "teams": [],
     "college": [
-      "North Texas State"
+      "North Texas"
     ],
     "numbers": [],
     "league": "NFL"
@@ -45244,7 +45330,7 @@ export const NFL_PLAYERS = [
     "display_name": "Bill\u00a0Carroll",
     "teams": [],
     "college": [
-      "East Texas State"
+      "East Texas A&M"
     ],
     "numbers": [],
     "league": "NFL"
@@ -45414,7 +45500,7 @@ export const NFL_PLAYERS = [
     "display_name": "Bill\u00a0Maddox",
     "teams": [],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -45454,7 +45540,7 @@ export const NFL_PLAYERS = [
     "display_name": "Bill\u00a0Moll",
     "teams": [],
     "college": [
-      "Connecticut"
+      "UConn"
     ],
     "numbers": [],
     "league": "NFL"
@@ -45555,7 +45641,7 @@ export const NFL_PLAYERS = [
     "display_name": "Bill\u00a0Schmitt",
     "teams": [],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -45696,7 +45782,7 @@ export const NFL_PLAYERS = [
     "display_name": "Bimbo Cecconi",
     "teams": [],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -45843,7 +45929,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Prairie View A&M"
     ],
-    "numbers": [],
+    "numbers": [
+      11
+    ],
     "league": "NFL"
   },
   {
@@ -46067,7 +46155,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Washington"
     ],
-    "numbers": [],
+    "numbers": [
+      58
+    ],
     "league": "NFL"
   },
   {
@@ -46091,7 +46181,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Notre Dame"
     ],
-    "numbers": [],
+    "numbers": [
+      16
+    ],
     "league": "NFL"
   },
   {
@@ -46185,7 +46277,7 @@ export const NFL_PLAYERS = [
       "San Diego Chargers"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -46248,7 +46340,6 @@ export const NFL_PLAYERS = [
       "New Orleans Saints"
     ],
     "college": [
-      "Central Florida",
       "UCF"
     ],
     "numbers": [
@@ -46382,7 +46473,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Michigan State"
     ],
-    "numbers": [],
+    "numbers": [
+      35
+    ],
     "league": "NFL"
   },
   {
@@ -46425,8 +46518,7 @@ export const NFL_PLAYERS = [
       "Indianapolis Colts"
     ],
     "college": [
-      "BYU",
-      "Brigham Young"
+      "BYU"
     ],
     "numbers": [
       73
@@ -46779,7 +46871,9 @@ export const NFL_PLAYERS = [
     "college": [
       "UCLA"
     ],
-    "numbers": [],
+    "numbers": [
+      61
+    ],
     "league": "NFL"
   },
   {
@@ -46861,7 +46955,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Purdue"
     ],
-    "numbers": [],
+    "numbers": [
+      56
+    ],
     "league": "NFL"
   },
   {
@@ -46925,7 +47021,7 @@ export const NFL_PLAYERS = [
       "Tennessee Titans"
     ],
     "college": [
-      "Connecticut"
+      "UConn"
     ],
     "numbers": [
       25,
@@ -47037,9 +47133,11 @@ export const NFL_PLAYERS = [
       "Oakland Raiders"
     ],
     "college": [
-      "Mississippi Southern"
+      "Southern Miss"
     ],
-    "numbers": [],
+    "numbers": [
+      85
+    ],
     "league": "NFL"
   },
   {
@@ -47293,7 +47391,7 @@ export const NFL_PLAYERS = [
       "New England Patriots"
     ],
     "college": [
-      "West Texas State"
+      "West Texas A&M"
     ],
     "numbers": [],
     "league": "NFL"
@@ -47479,7 +47577,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Michigan State"
     ],
-    "numbers": [],
+    "numbers": [
+      28
+    ],
     "league": "NFL"
   },
   {
@@ -47591,7 +47691,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Maryland"
     ],
-    "numbers": [],
+    "numbers": [
+      7
+    ],
     "league": "NFL"
   },
   {
@@ -47664,7 +47766,7 @@ export const NFL_PLAYERS = [
       "Green Bay Packers"
     ],
     "college": [
-      "Grambling State"
+      "Grambling"
     ],
     "numbers": [],
     "league": "NFL"
@@ -47778,7 +47880,7 @@ export const NFL_PLAYERS = [
     "display_name": "Bob Baxter",
     "teams": [],
     "college": [
-      "Memphis State"
+      "Memphis"
     ],
     "numbers": [],
     "league": "NFL"
@@ -47855,8 +47957,8 @@ export const NFL_PLAYERS = [
     "display_name": "Bob Benton",
     "teams": [],
     "college": [
-      "Mississippi",
-      "Mississippi State"
+      "Mississippi State",
+      "Ole Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -47888,7 +47990,7 @@ export const NFL_PLAYERS = [
     "display_name": "Bob Bergum",
     "teams": [],
     "college": [
-      "Platteville (Wis)"
+      "Wisconsin-Platteville"
     ],
     "numbers": [],
     "league": "NFL"
@@ -47911,7 +48013,7 @@ export const NFL_PLAYERS = [
     "display_name": "Bob Bestwick",
     "teams": [],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -47941,7 +48043,7 @@ export const NFL_PLAYERS = [
     "display_name": "Bob Biletnikoff",
     "teams": [],
     "college": [
-      "University of Miami"
+      "Miami (FL)"
     ],
     "numbers": [],
     "league": "NFL"
@@ -47975,7 +48077,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Minnesota"
     ],
-    "numbers": [],
+    "numbers": [
+      50
+    ],
     "league": "NFL"
   },
   {
@@ -48015,7 +48119,7 @@ export const NFL_PLAYERS = [
     "display_name": "Bob Bobo",
     "teams": [],
     "college": [
-      "Texas-El Paso"
+      "UTEP"
     ],
     "numbers": [],
     "league": "NFL"
@@ -48077,7 +48181,7 @@ export const NFL_PLAYERS = [
       "Los Angeles Rams"
     ],
     "college": [
-      "Loyola (CA)"
+      "Loyola Marymount"
     ],
     "numbers": [],
     "league": "NFL"
@@ -48125,7 +48229,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Arizona State"
     ],
-    "numbers": [],
+    "numbers": [
+      53
+    ],
     "league": "NFL"
   },
   {
@@ -48176,9 +48282,11 @@ export const NFL_PLAYERS = [
       "Indianapolis Colts"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
-    "numbers": [],
+    "numbers": [
+      74
+    ],
     "league": "NFL"
   },
   {
@@ -48236,9 +48344,11 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "Mankato State"
+      "Minnesota State"
     ],
-    "numbers": [],
+    "numbers": [
+      82
+    ],
     "league": "NFL"
   },
   {
@@ -48306,7 +48416,7 @@ export const NFL_PLAYERS = [
       "Phoenix Cardinals"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -48328,7 +48438,7 @@ export const NFL_PLAYERS = [
     "display_name": "Bob Burrows",
     "teams": [],
     "college": [
-      "East Texas State"
+      "East Texas A&M"
     ],
     "numbers": [],
     "league": "NFL"
@@ -48395,7 +48505,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Michigan"
     ],
-    "numbers": [],
+    "numbers": [
+      23
+    ],
     "league": "NFL"
   },
   {
@@ -48454,7 +48566,7 @@ export const NFL_PLAYERS = [
     "college": [
       "Arizona",
       "Denver",
-      "Grambling State"
+      "Grambling"
     ],
     "numbers": [],
     "league": "NFL"
@@ -48469,7 +48581,9 @@ export const NFL_PLAYERS = [
     "college": [
       "California"
     ],
-    "numbers": [],
+    "numbers": [
+      17
+    ],
     "league": "NFL"
   },
   {
@@ -48578,7 +48692,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Tennessee"
     ],
-    "numbers": [],
+    "numbers": [
+      84
+    ],
     "league": "NFL"
   },
   {
@@ -48603,7 +48719,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Georgia",
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -48679,7 +48795,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Richmond"
     ],
-    "numbers": [],
+    "numbers": [
+      43
+    ],
     "league": "NFL"
   },
   {
@@ -48736,7 +48854,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Notre Dame"
     ],
-    "numbers": [],
+    "numbers": [
+      50
+    ],
     "league": "NFL"
   },
   {
@@ -48947,7 +49067,7 @@ export const NFL_PLAYERS = [
       "Green Bay Packers"
     ],
     "college": [
-      "Southwest Missouri State"
+      "Missouri State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -49073,7 +49193,7 @@ export const NFL_PLAYERS = [
       "St. Louis Cardinals"
     ],
     "college": [
-      "W. Texas State"
+      "West Texas A&M"
     ],
     "numbers": [],
     "league": "NFL"
@@ -49166,7 +49286,7 @@ export const NFL_PLAYERS = [
     "display_name": "Bob Ellis",
     "teams": [],
     "college": [
-      "Massachusetts"
+      "UMass"
     ],
     "numbers": [],
     "league": "NFL"
@@ -49212,7 +49332,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Georgia"
     ],
-    "numbers": [],
+    "numbers": [
+      3
+    ],
     "league": "NFL"
   },
   {
@@ -49222,8 +49344,7 @@ export const NFL_PLAYERS = [
       "Houston Oilers"
     ],
     "college": [
-      "Penn",
-      "Pennsylvania"
+      "Penn"
     ],
     "numbers": [],
     "league": "NFL"
@@ -49342,7 +49463,7 @@ export const NFL_PLAYERS = [
     "display_name": "Bob Fleck",
     "teams": [],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -49493,7 +49614,9 @@ export const NFL_PLAYERS = [
       "Glendale Community College",
       "Utah State"
     ],
-    "numbers": [],
+    "numbers": [
+      10
+    ],
     "league": "NFL"
   },
   {
@@ -49691,7 +49814,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Notre Dame"
     ],
-    "numbers": [],
+    "numbers": [
+      51
+    ],
     "league": "NFL"
   },
   {
@@ -49723,7 +49848,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Vanderbilt"
     ],
-    "numbers": [],
+    "numbers": [
+      82
+    ],
     "league": "NFL"
   },
   {
@@ -49931,7 +50058,7 @@ export const NFL_PLAYERS = [
     "display_name": "Bob Haack",
     "teams": [],
     "college": [
-      "Linfield (Ore.)"
+      "Linfield"
     ],
     "numbers": [],
     "league": "NFL"
@@ -50049,7 +50176,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Nevada"
     ],
-    "numbers": [],
+    "numbers": [
+      90
+    ],
     "league": "NFL"
   },
   {
@@ -50246,7 +50375,7 @@ export const NFL_PLAYERS = [
     "display_name": "Bob Heaston",
     "teams": [],
     "college": [
-      "Cal Poly-San Luis Obispo"
+      "Cal Poly"
     ],
     "numbers": [],
     "league": "NFL"
@@ -50448,7 +50577,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Nebraska"
     ],
-    "numbers": [],
+    "numbers": [
+      29
+    ],
     "league": "NFL"
   },
   {
@@ -50616,7 +50747,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Jackson State",
-      "Mississippi Southern"
+      "Southern Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -50639,7 +50770,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Heidelberg",
-      "Southern Methodist"
+      "SMU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -50656,7 +50787,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Boston College"
     ],
-    "numbers": [],
+    "numbers": [
+      50
+    ],
     "league": "NFL"
   },
   {
@@ -50678,7 +50811,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Detroit"
     ],
-    "numbers": [],
+    "numbers": [
+      42
+    ],
     "league": "NFL"
   },
   {
@@ -50736,7 +50871,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Miami (OH)"
     ],
-    "numbers": [],
+    "numbers": [
+      80
+    ],
     "league": "NFL"
   },
   {
@@ -50869,7 +51006,7 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -50947,7 +51084,7 @@ export const NFL_PLAYERS = [
       "Philadelphia Eagles"
     ],
     "college": [
-      "West Texas State"
+      "West Texas A&M"
     ],
     "numbers": [],
     "league": "NFL"
@@ -51030,7 +51167,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -51280,7 +51417,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -51317,7 +51454,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Cornell"
     ],
-    "numbers": [],
+    "numbers": [
+      58
+    ],
     "league": "NFL"
   },
   {
@@ -51338,7 +51477,7 @@ export const NFL_PLAYERS = [
     "teams": [],
     "college": [
       "Baylor",
-      "Northeast Louisiana"
+      "Louisiana-Monroe"
     ],
     "numbers": [],
     "league": "NFL"
@@ -51358,7 +51497,7 @@ export const NFL_PLAYERS = [
     "display_name": "Bob Langford",
     "teams": [],
     "college": [
-      "Middle Tennessee State"
+      "Middle Tennessee"
     ],
     "numbers": [],
     "league": "NFL"
@@ -51391,9 +51530,11 @@ export const NFL_PLAYERS = [
       "San Diego Chargers"
     ],
     "college": [
-      "Texas-El Paso"
+      "UTEP"
     ],
-    "numbers": [],
+    "numbers": [
+      17
+    ],
     "league": "NFL"
   },
   {
@@ -51426,7 +51567,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Elon"
     ],
-    "numbers": [],
+    "numbers": [
+      50
+    ],
     "league": "NFL"
   },
   {
@@ -51448,7 +51591,7 @@ export const NFL_PLAYERS = [
       "Baltimore Colts"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -51511,7 +51654,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Nebraska"
     ],
-    "numbers": [],
+    "numbers": [
+      62
+    ],
     "league": "NFL"
   },
   {
@@ -51521,7 +51666,7 @@ export const NFL_PLAYERS = [
       "Dallas Cowboys"
     ],
     "college": [
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -51569,8 +51714,7 @@ export const NFL_PLAYERS = [
       "Chicago Rockets"
     ],
     "college": [
-      "Notre Dame",
-      "Notre Dame (Redrafted Colt)"
+      "Notre Dame"
     ],
     "numbers": [],
     "league": "NFL"
@@ -51621,7 +51765,7 @@ export const NFL_PLAYERS = [
     "display_name": "Bob Longo",
     "teams": [],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -51680,7 +51824,7 @@ export const NFL_PLAYERS = [
     "display_name": "Bob Lyles",
     "teams": [],
     "college": [
-      "Memphis State"
+      "Memphis"
     ],
     "numbers": [],
     "league": "NFL"
@@ -51715,8 +51859,7 @@ export const NFL_PLAYERS = [
       "Kansas City Chiefs"
     ],
     "college": [
-      "Frostburg State",
-      "Frostburg State (MD)"
+      "Frostburg State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -51917,7 +52060,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Hardin\u2013Simmons"
+      "Hardin-Simmons"
     ],
     "numbers": [],
     "league": "NFL"
@@ -51976,7 +52119,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Miami (FL)"
     ],
-    "numbers": [],
+    "numbers": [
+      19
+    ],
     "league": "NFL"
   },
   {
@@ -52091,7 +52236,7 @@ export const NFL_PLAYERS = [
     "display_name": "Bob Meehan",
     "teams": [],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -52105,7 +52250,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Auburn"
     ],
-    "numbers": [],
+    "numbers": [
+      61
+    ],
     "league": "NFL"
   },
   {
@@ -52113,7 +52260,7 @@ export const NFL_PLAYERS = [
     "display_name": "Bob Meers",
     "teams": [],
     "college": [
-      "Massachusetts"
+      "UMass"
     ],
     "numbers": [],
     "league": "NFL"
@@ -52368,7 +52515,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Northwestern"
     ],
-    "numbers": [],
+    "numbers": [
+      54
+    ],
     "league": "NFL"
   },
   {
@@ -52434,7 +52583,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Illinois"
     ],
-    "numbers": [],
+    "numbers": [
+      14
+    ],
     "league": "NFL"
   },
   {
@@ -52630,7 +52781,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Michigan"
     ],
-    "numbers": [],
+    "numbers": [
+      48
+    ],
     "league": "NFL"
   },
   {
@@ -52719,7 +52872,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Penn State"
     ],
-    "numbers": [],
+    "numbers": [
+      51
+    ],
     "league": "NFL"
   },
   {
@@ -52742,7 +52897,7 @@ export const NFL_PLAYERS = [
       "Philadelphia Eagles"
     ],
     "college": [
-      "Penn (Redrafted Colt)"
+      "Penn"
     ],
     "numbers": [],
     "league": "NFL"
@@ -52790,7 +52945,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Minnesota"
     ],
-    "numbers": [],
+    "numbers": [
+      61
+    ],
     "league": "NFL"
   },
   {
@@ -52837,7 +52994,9 @@ export const NFL_PLAYERS = [
       "Clemson",
       "Delaware"
     ],
-    "numbers": [],
+    "numbers": [
+      65
+    ],
     "league": "NFL"
   },
   {
@@ -52862,7 +53021,7 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "Alcorn A&M"
+      "Alcorn State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -52872,7 +53031,7 @@ export const NFL_PLAYERS = [
     "display_name": "Bob Pepe",
     "teams": [],
     "college": [
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -52935,7 +53094,7 @@ export const NFL_PLAYERS = [
       "San Diego Chargers"
     ],
     "college": [
-      "West Texas State"
+      "West Texas A&M"
     ],
     "numbers": [],
     "league": "NFL"
@@ -52985,7 +53144,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Eastern Washington"
     ],
-    "numbers": [],
+    "numbers": [
+      82
+    ],
     "league": "NFL"
   },
   {
@@ -53030,7 +53191,7 @@ export const NFL_PLAYERS = [
     "display_name": "Bob Plotz",
     "teams": [],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -53054,7 +53215,7 @@ export const NFL_PLAYERS = [
     "display_name": "Bob Pollock",
     "teams": [],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -53098,7 +53259,7 @@ export const NFL_PLAYERS = [
     "display_name": "Bob Price",
     "teams": [],
     "college": [
-      "North Texas State"
+      "North Texas"
     ],
     "numbers": [],
     "league": "NFL"
@@ -53226,7 +53387,7 @@ export const NFL_PLAYERS = [
     "display_name": "Bob Ratliff",
     "teams": [],
     "college": [
-      "West Texas State"
+      "West Texas A&M"
     ],
     "numbers": [],
     "league": "NFL"
@@ -53240,7 +53401,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Indiana"
     ],
-    "numbers": [],
+    "numbers": [
+      61
+    ],
     "league": "NFL"
   },
   {
@@ -53278,7 +53441,7 @@ export const NFL_PLAYERS = [
     "display_name": "Bob Reed",
     "teams": [],
     "college": [
-      "Tennessee A&I"
+      "Tennessee State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -53520,7 +53683,7 @@ export const NFL_PLAYERS = [
       "San Diego Chargers"
     ],
     "college": [
-      "Memphis State"
+      "Memphis"
     ],
     "numbers": [],
     "league": "NFL"
@@ -53657,7 +53820,7 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "Memphis State",
+      "Memphis",
       "Minnesota"
     ],
     "numbers": [],
@@ -53741,7 +53904,7 @@ export const NFL_PLAYERS = [
     "display_name": "Bob Schultz",
     "teams": [],
     "college": [
-      "Wisconsin\u2013Stevens Point"
+      "Wisconsin-Stevens Point"
     ],
     "numbers": [],
     "league": "NFL"
@@ -53755,7 +53918,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Virginia Tech"
     ],
-    "numbers": [],
+    "numbers": [
+      20
+    ],
     "league": "NFL"
   },
   {
@@ -53877,7 +54042,7 @@ export const NFL_PLAYERS = [
       "Atlanta Falcons"
     ],
     "college": [
-      "Memphis State"
+      "Memphis"
     ],
     "numbers": [],
     "league": "NFL"
@@ -53960,7 +54125,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Notre Dame"
     ],
-    "numbers": [],
+    "numbers": [
+      52
+    ],
     "league": "NFL"
   },
   {
@@ -54095,7 +54262,7 @@ export const NFL_PLAYERS = [
       "St. Louis Rams"
     ],
     "college": [
-      "Central Florida"
+      "UCF"
     ],
     "numbers": [
       58
@@ -54154,7 +54321,7 @@ export const NFL_PLAYERS = [
     "display_name": "Bob Stem",
     "teams": [],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -54171,7 +54338,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Missouri"
     ],
-    "numbers": [],
+    "numbers": [
+      28
+    ],
     "league": "NFL"
   },
   {
@@ -54297,7 +54466,9 @@ export const NFL_PLAYERS = [
     "college": [
       "USC"
     ],
-    "numbers": [],
+    "numbers": [
+      76
+    ],
     "league": "NFL"
   },
   {
@@ -54372,7 +54543,7 @@ export const NFL_PLAYERS = [
     "display_name": "Bob Tackett",
     "teams": [],
     "college": [
-      "Texas-El Paso"
+      "UTEP"
     ],
     "numbers": [],
     "league": "NFL"
@@ -54428,7 +54599,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Miami (FL)"
     ],
-    "numbers": [],
+    "numbers": [
+      71
+    ],
     "league": "NFL"
   },
   {
@@ -54525,9 +54698,11 @@ export const NFL_PLAYERS = [
       "P-P"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
-    "numbers": [],
+    "numbers": [
+      49
+    ],
     "league": "NFL"
   },
   {
@@ -54668,7 +54843,9 @@ export const NFL_PLAYERS = [
     "college": [
       "USC"
     ],
-    "numbers": [],
+    "numbers": [
+      89
+    ],
     "league": "NFL"
   },
   {
@@ -54700,7 +54877,7 @@ export const NFL_PLAYERS = [
       "Denver Broncos"
     ],
     "college": [
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -54724,7 +54901,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Ohio State"
     ],
-    "numbers": [],
+    "numbers": [
+      72
+    ],
     "league": "NFL"
   },
   {
@@ -54800,7 +54979,7 @@ export const NFL_PLAYERS = [
       "Chicago Bears"
     ],
     "college": [
-      "Texas\u2013El Paso"
+      "UTEP"
     ],
     "numbers": [],
     "league": "NFL"
@@ -54821,7 +55000,7 @@ export const NFL_PLAYERS = [
     "display_name": "Bob Warner",
     "teams": [],
     "college": [
-      "Bloomsburg (PA)"
+      "Bloomsburg"
     ],
     "numbers": [],
     "league": "NFL"
@@ -54836,7 +55015,9 @@ export const NFL_PLAYERS = [
     "college": [
       "UCLA"
     ],
-    "numbers": [],
+    "numbers": [
+      7
+    ],
     "league": "NFL"
   },
   {
@@ -54968,7 +55149,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Notre Dame"
     ],
-    "numbers": [],
+    "numbers": [
+      63
+    ],
     "league": "NFL"
   },
   {
@@ -55117,7 +55300,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Kentucky"
     ],
-    "numbers": [],
+    "numbers": [
+      89
+    ],
     "league": "NFL"
   },
   {
@@ -55222,7 +55407,7 @@ export const NFL_PLAYERS = [
       "Boston Patriots"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -55299,7 +55484,9 @@ export const NFL_PLAYERS = [
     "college": [
       "USC"
     ],
-    "numbers": [],
+    "numbers": [
+      65
+    ],
     "league": "NFL"
   },
   {
@@ -55356,7 +55543,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Michigan"
     ],
-    "numbers": [],
+    "numbers": [
+      51
+    ],
     "league": "NFL"
   },
   {
@@ -55526,9 +55715,7 @@ export const NFL_PLAYERS = [
       "Los Angeles Rams"
     ],
     "college": [
-      "M",
-      "Texas A&M",
-      "Texas A&amp"
+      "Texas A&M"
     ],
     "numbers": [
       95,
@@ -55646,7 +55833,9 @@ export const NFL_PLAYERS = [
     "college": [
       "SMU"
     ],
-    "numbers": [],
+    "numbers": [
+      72
+    ],
     "league": "NFL"
   },
   {
@@ -55690,7 +55879,7 @@ export const NFL_PLAYERS = [
     "display_name": "Bobby Crespino",
     "teams": [],
     "college": [
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -55803,7 +55992,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Arkansas"
     ],
-    "numbers": [],
+    "numbers": [
+      82
+    ],
     "league": "NFL"
   },
   {
@@ -55842,7 +56033,7 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -55903,7 +56094,7 @@ export const NFL_PLAYERS = [
     "display_name": "Bobby Fox",
     "teams": [],
     "college": [
-      "East Texas State"
+      "East Texas A&M"
     ],
     "numbers": [],
     "league": "NFL"
@@ -55915,7 +56106,7 @@ export const NFL_PLAYERS = [
       "Cleveland Browns"
     ],
     "college": [
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -55974,7 +56165,7 @@ export const NFL_PLAYERS = [
     "display_name": "Bobby Garner",
     "teams": [],
     "college": [
-      "Winston-Salem"
+      "Winston-Salem State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -56043,7 +56234,7 @@ export const NFL_PLAYERS = [
     "display_name": "Bobby Hall",
     "teams": [],
     "college": [
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -56053,7 +56244,7 @@ export const NFL_PLAYERS = [
     "display_name": "Bobby Halum",
     "teams": [],
     "college": [
-      "Middle Tennessee State"
+      "Middle Tennessee"
     ],
     "numbers": [],
     "league": "NFL"
@@ -56101,7 +56292,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Miami (FL)"
     ],
-    "numbers": [],
+    "numbers": [
+      45
+    ],
     "league": "NFL"
   },
   {
@@ -56131,7 +56324,7 @@ export const NFL_PLAYERS = [
       "Chicago Bears"
     ],
     "college": [
-      "Southern California"
+      "USC"
     ],
     "numbers": [
       73
@@ -56146,8 +56339,7 @@ export const NFL_PLAYERS = [
       "New Orleans Saints"
     ],
     "college": [
-      "Northwestern State",
-      "Northwestern State (LA)"
+      "Northwestern State"
     ],
     "numbers": [
       3
@@ -56159,7 +56351,7 @@ export const NFL_PLAYERS = [
     "display_name": "Bobby Hendrix",
     "teams": [],
     "college": [
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -56269,7 +56461,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Alabama"
     ],
-    "numbers": [],
+    "numbers": [
+      26
+    ],
     "league": "NFL"
   },
   {
@@ -56456,7 +56650,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Cal State Fullerton"
     ],
-    "numbers": [],
+    "numbers": [
+      26
+    ],
     "league": "NFL"
   },
   {
@@ -56549,7 +56745,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Notre Dame"
     ],
-    "numbers": [],
+    "numbers": [
+      52
+    ],
     "league": "NFL"
   },
   {
@@ -56598,7 +56796,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Baylor"
     ],
-    "numbers": [],
+    "numbers": [
+      50
+    ],
     "league": "NFL"
   },
   {
@@ -56641,7 +56841,6 @@ export const NFL_PLAYERS = [
       "Denver Broncos"
     ],
     "college": [
-      "Mississippi",
       "Ole Miss"
     ],
     "numbers": [
@@ -57055,7 +57254,7 @@ export const NFL_PLAYERS = [
     "display_name": "Bobby Robinson",
     "teams": [],
     "college": [
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -57134,7 +57333,7 @@ export const NFL_PLAYERS = [
       "Houston Oilers"
     ],
     "college": [
-      "Grambling State"
+      "Grambling"
     ],
     "numbers": [],
     "league": "NFL"
@@ -57163,7 +57362,7 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "North Texas State",
+      "North Texas",
       "UCLA"
     ],
     "numbers": [],
@@ -57292,7 +57491,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Georgia"
     ],
-    "numbers": [],
+    "numbers": [
+      83
+    ],
     "league": "NFL"
   },
   {
@@ -57325,7 +57526,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Ohio State",
-      "Southwest Texas State"
+      "Texas State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -57335,7 +57536,7 @@ export const NFL_PLAYERS = [
     "display_name": "Bobby Webb",
     "teams": [],
     "college": [
-      "Southern Mississippi"
+      "Southern Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -57422,7 +57623,7 @@ export const NFL_PLAYERS = [
     "display_name": "Bobby\u00a0Larue",
     "teams": [],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -57597,7 +57798,7 @@ export const NFL_PLAYERS = [
     "display_name": "Bob\u00a0Craighead",
     "teams": [],
     "college": [
-      "Northeast Louisiana"
+      "Louisiana-Monroe"
     ],
     "numbers": [],
     "league": "NFL"
@@ -57637,7 +57838,7 @@ export const NFL_PLAYERS = [
     "display_name": "Bob\u00a0Dannies",
     "teams": [],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -57657,7 +57858,7 @@ export const NFL_PLAYERS = [
     "display_name": "Bob\u00a0DeMent",
     "teams": [],
     "college": [
-      "Mississippi Southern"
+      "Southern Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -57667,7 +57868,7 @@ export const NFL_PLAYERS = [
     "display_name": "Bob\u00a0DiDonato",
     "teams": [],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -57827,7 +58028,7 @@ export const NFL_PLAYERS = [
     "display_name": "Bob\u00a0Jordan",
     "teams": [],
     "college": [
-      "Memphis State"
+      "Memphis"
     ],
     "numbers": [],
     "league": "NFL"
@@ -57847,7 +58048,7 @@ export const NFL_PLAYERS = [
     "display_name": "Bob\u00a0Kotzur",
     "teams": [],
     "college": [
-      "Southwest Texas State"
+      "Texas State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -57967,7 +58168,7 @@ export const NFL_PLAYERS = [
     "display_name": "Bob\u00a0Parker",
     "teams": [],
     "college": [
-      "Memphis State"
+      "Memphis"
     ],
     "numbers": [],
     "league": "NFL"
@@ -58314,7 +58515,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Duke"
     ],
-    "numbers": [],
+    "numbers": [
+      24
+    ],
     "league": "NFL"
   },
   {
@@ -58485,9 +58688,11 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "Bethune\u2013Cookman"
+      "Bethune-Cookman"
     ],
-    "numbers": [],
+    "numbers": [
+      66
+    ],
     "league": "NFL"
   },
   {
@@ -58728,9 +58933,11 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "Carson\u2013Newman"
+      "Carson-Newman"
     ],
-    "numbers": [],
+    "numbers": [
+      30
+    ],
     "league": "NFL"
   },
   {
@@ -58741,7 +58948,7 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "Alcorn A&M"
+      "Alcorn State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -58897,7 +59104,7 @@ export const NFL_PLAYERS = [
       "Atlanta Falcons"
     ],
     "college": [
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [
       88
@@ -59013,7 +59220,7 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "Nebraska\u2013Omaha"
+      "Nebraska-Omaha"
     ],
     "numbers": [],
     "league": "NFL"
@@ -59082,7 +59289,9 @@ export const NFL_PLAYERS = [
     "college": [
       "USC"
     ],
-    "numbers": [],
+    "numbers": [
+      66
+    ],
     "league": "NFL"
   },
   {
@@ -59177,7 +59386,7 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "Miami"
+      "Miami (FL)"
     ],
     "numbers": [],
     "league": "NFL"
@@ -59238,7 +59447,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Texas A&M"
     ],
-    "numbers": [],
+    "numbers": [
+      59
+    ],
     "league": "NFL"
   },
   {
@@ -59292,7 +59503,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Eastern Illinois"
     ],
-    "numbers": [],
+    "numbers": [
+      68
+    ],
     "league": "NFL"
   },
   {
@@ -59317,7 +59530,7 @@ export const NFL_PLAYERS = [
       "Jacksonville Jaguars"
     ],
     "college": [
-      "Louisiana\u2013Lafayette"
+      "Louisiana-Lafayette"
     ],
     "numbers": [
       21,
@@ -59346,7 +59559,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Baylor"
     ],
-    "numbers": [],
+    "numbers": [
+      8
+    ],
     "league": "NFL"
   },
   {
@@ -59480,8 +59695,7 @@ export const NFL_PLAYERS = [
       "Indianapolis Colts"
     ],
     "college": [
-      "Miami (FL)",
-      "Miami (Fla.)"
+      "Miami (FL)"
     ],
     "numbers": [
       9
@@ -59750,7 +59964,9 @@ export const NFL_PLAYERS = [
     "college": [
       "McMurry"
     ],
-    "numbers": [],
+    "numbers": [
+      86
+    ],
     "league": "NFL"
   },
   {
@@ -59869,7 +60085,7 @@ export const NFL_PLAYERS = [
       "Cincinnati Bengals"
     ],
     "college": [
-      "Southwest Missouri State"
+      "Missouri State"
     ],
     "numbers": [
       48
@@ -59897,7 +60113,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Michigan State"
     ],
-    "numbers": [],
+    "numbers": [
+      10
+    ],
     "league": "NFL"
   },
   {
@@ -60005,9 +60223,7 @@ export const NFL_PLAYERS = [
       "Philadelphia Eagles"
     ],
     "college": [
-      "M",
-      "Texas A&M",
-      "Texas A&amp"
+      "Texas A&M"
     ],
     "numbers": [
       7,
@@ -60164,9 +60380,7 @@ export const NFL_PLAYERS = [
       "Miami Dolphins"
     ],
     "college": [
-      "N.C. State",
-      "NC State",
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [
       2,
@@ -60278,7 +60492,7 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [
       60,
@@ -60338,8 +60552,7 @@ export const NFL_PLAYERS = [
       "Carolina Panthers"
     ],
     "college": [
-      "BYU",
-      "Brigham Young"
+      "BYU"
     ],
     "numbers": [
       70
@@ -60750,7 +60963,7 @@ export const NFL_PLAYERS = [
       "New York Jets"
     ],
     "college": [
-      "Florida Atlantic"
+      "FAU"
     ],
     "numbers": [
       74,
@@ -60929,7 +61142,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "North Carolina-Charlotte"
+      "Charlotte"
     ],
     "numbers": [
       16,
@@ -61022,7 +61235,6 @@ export const NFL_PLAYERS = [
       "New England Patriots"
     ],
     "college": [
-      "Mississippi",
       "Ole Miss"
     ],
     "numbers": [
@@ -61056,7 +61268,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Connecticut"
+      "UConn"
     ],
     "numbers": [
       46
@@ -61307,7 +61519,6 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "TCU",
-      "Texas Christian",
       "Trinity Valley CC"
     ],
     "numbers": [
@@ -61327,7 +61538,7 @@ export const NFL_PLAYERS = [
       "New York Jets"
     ],
     "college": [
-      "Pennsylvania"
+      "Penn"
     ],
     "numbers": [
       49,
@@ -61626,7 +61837,7 @@ export const NFL_PLAYERS = [
       "Kansas City Chiefs"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       50
@@ -61828,7 +62039,7 @@ export const NFL_PLAYERS = [
       "Las Vegas Raiders"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       36
@@ -62006,7 +62217,6 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "Central Florida",
       "Tennessee",
       "UCF"
     ],
@@ -62216,7 +62426,6 @@ export const NFL_PLAYERS = [
       "Jacksonville Jaguars"
     ],
     "college": [
-      "Miami",
       "Miami (FL)"
     ],
     "numbers": [
@@ -62310,7 +62519,7 @@ export const NFL_PLAYERS = [
       "New York Jets"
     ],
     "college": [
-      "Central Florida"
+      "UCF"
     ],
     "numbers": [
       15,
@@ -62343,7 +62552,7 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "Texas-San Antonio"
+      "UTSA"
     ],
     "numbers": [
       56
@@ -62473,8 +62682,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Miami (FL)",
-      "Miami (Fla.)"
+      "Miami (FL)"
     ],
     "numbers": [
       22,
@@ -62528,7 +62736,7 @@ export const NFL_PLAYERS = [
       "Green Bay Packers"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       40
@@ -62650,7 +62858,6 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "North Carolina A&T",
-      "North Carolina A&amp",
       "T"
     ],
     "numbers": [
@@ -62708,7 +62915,6 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "Southern California",
       "USC"
     ],
     "numbers": [
@@ -63037,7 +63243,6 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "SMU",
-      "Southern Methodist",
       "UCLA"
     ],
     "numbers": [
@@ -63070,7 +63275,7 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "Southwestern Louisiana"
+      "Louisiana-Lafayette"
     ],
     "numbers": [
       14,
@@ -63188,7 +63393,7 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "Florida Atlantic"
+      "FAU"
     ],
     "numbers": [
       67,
@@ -63389,8 +63594,7 @@ export const NFL_PLAYERS = [
       "Houston Texans"
     ],
     "college": [
-      "M",
-      "Texas A&amp"
+      "Texas A&M"
     ],
     "numbers": [
       26,
@@ -63471,8 +63675,7 @@ export const NFL_PLAYERS = [
       "Minnesota Vikings"
     ],
     "college": [
-      "Concordia, Minn",
-      "Concordia\u2013Moorhead"
+      "Concordia (Moorhead)"
     ],
     "numbers": [
       11,
@@ -63578,7 +63781,7 @@ export const NFL_PLAYERS = [
       "Buffalo Bills"
     ],
     "college": [
-      "Miami"
+      "Miami (FL)"
     ],
     "numbers": [
       53
@@ -63592,7 +63795,7 @@ export const NFL_PLAYERS = [
       "Los Angeles Chargers"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       71
@@ -63676,7 +63879,7 @@ export const NFL_PLAYERS = [
       "Kansas City Chiefs"
     ],
     "college": [
-      "Miami",
+      "Miami (FL)",
       "SMU"
     ],
     "numbers": [
@@ -63723,7 +63926,6 @@ export const NFL_PLAYERS = [
       "New York Jets"
     ],
     "college": [
-      "Miami",
       "Miami (FL)"
     ],
     "numbers": [
@@ -63772,8 +63974,7 @@ export const NFL_PLAYERS = [
       "Chicago Bears"
     ],
     "college": [
-      "Southern Utah",
-      "Southern Utah State"
+      "Southern Utah"
     ],
     "numbers": [
       70
@@ -63818,7 +64019,7 @@ export const NFL_PLAYERS = [
       "Tennessee Titans"
     ],
     "college": [
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [
       7
@@ -63897,7 +64098,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [
       80,
@@ -63951,7 +64152,6 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "Mississippi",
       "Ole Miss"
     ],
     "numbers": [
@@ -64051,7 +64251,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Boston College"
     ],
-    "numbers": [],
+    "numbers": [
+      41
+    ],
     "league": "NFL"
   },
   {
@@ -64143,7 +64345,6 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Colorado",
-      "Southern California",
       "USC"
     ],
     "numbers": [
@@ -64414,7 +64615,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Auburn"
     ],
-    "numbers": [],
+    "numbers": [
+      21
+    ],
     "league": "NFL"
   },
   {
@@ -64424,7 +64627,7 @@ export const NFL_PLAYERS = [
       "Buffalo Bills"
     ],
     "college": [
-      "Minnesota Duluth"
+      "Minnesota-Duluth"
     ],
     "numbers": [],
     "league": "NFL"
@@ -64479,8 +64682,7 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "Santa Clara",
-      "Santa Clara University"
+      "Santa Clara"
     ],
     "numbers": [
       84
@@ -64536,7 +64738,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Wisconsin"
     ],
-    "numbers": [],
+    "numbers": [
+      31
+    ],
     "league": "NFL"
   },
   {
@@ -64590,7 +64794,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Elon"
     ],
-    "numbers": [],
+    "numbers": [
+      29
+    ],
     "league": "NFL"
   },
   {
@@ -64724,7 +64930,7 @@ export const NFL_PLAYERS = [
     "display_name": "Brent\u00a0Collins",
     "teams": [],
     "college": [
-      "Carson\u2013Newman"
+      "Carson-Newman"
     ],
     "numbers": [],
     "league": "NFL"
@@ -64804,7 +65010,7 @@ export const NFL_PLAYERS = [
     "display_name": "Brent\u00a0Ziegler",
     "teams": [],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -64846,7 +65052,6 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "Central Florida",
       "UCF"
     ],
     "numbers": [
@@ -64867,7 +65072,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Nebraska"
     ],
-    "numbers": [],
+    "numbers": [
+      10
+    ],
     "league": "NFL"
   },
   {
@@ -64929,7 +65136,7 @@ export const NFL_PLAYERS = [
       "San Diego Chargers"
     ],
     "college": [
-      "Nevada-Las Vegas"
+      "UNLV"
     ],
     "numbers": [
       67
@@ -65024,7 +65231,7 @@ export const NFL_PLAYERS = [
       "New York Jets"
     ],
     "college": [
-      "Southern Mississippi"
+      "Southern Miss"
     ],
     "numbers": [
       4
@@ -65420,7 +65627,7 @@ export const NFL_PLAYERS = [
     "display_name": "Brett\u00a0Tucker",
     "teams": [],
     "college": [
-      "NIU"
+      "Northern Illinois"
     ],
     "numbers": [],
     "league": "NFL"
@@ -65482,7 +65689,6 @@ export const NFL_PLAYERS = [
       "Houston Texans"
     ],
     "college": [
-      "Miami",
       "Miami (FL)"
     ],
     "numbers": [
@@ -65691,7 +65897,7 @@ export const NFL_PLAYERS = [
     "display_name": "Brian Billick",
     "teams": [],
     "college": [
-      "Brigham Young"
+      "BYU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -65771,7 +65977,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Oklahoma"
     ],
-    "numbers": [],
+    "numbers": [
+      55
+    ],
     "league": "NFL"
   },
   {
@@ -66092,7 +66300,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Redlands"
     ],
-    "numbers": [],
+    "numbers": [
+      87
+    ],
     "league": "NFL"
   },
   {
@@ -66284,7 +66494,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Alberta"
     ],
-    "numbers": [],
+    "numbers": [
+      85
+    ],
     "league": "NFL"
   },
   {
@@ -66304,7 +66516,7 @@ export const NFL_PLAYERS = [
     "display_name": "Brian Generalovich",
     "teams": [],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -66353,7 +66565,7 @@ export const NFL_PLAYERS = [
       "Cleveland Browns"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -66672,7 +66884,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Richmond"
     ],
-    "numbers": [],
+    "numbers": [
+      40
+    ],
     "league": "NFL"
   },
   {
@@ -66694,7 +66908,7 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "Cal Lutheran"
+      "California Lutheran"
     ],
     "numbers": [],
     "league": "NFL"
@@ -66742,7 +66956,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Connecticut"
+      "UConn"
     ],
     "numbers": [
       21,
@@ -66873,7 +67087,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Bowling Green"
     ],
-    "numbers": [],
+    "numbers": [
+      13
+    ],
     "league": "NFL"
   },
   {
@@ -67008,7 +67224,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Arizona State",
-      "Fullerton"
+      "Cal State Fullerton"
     ],
     "numbers": [],
     "league": "NFL"
@@ -67033,7 +67249,7 @@ export const NFL_PLAYERS = [
       "Minnesota Vikings"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       75
@@ -67092,7 +67308,7 @@ export const NFL_PLAYERS = [
       "Houston Texans"
     ],
     "college": [
-      "Northwestern (Ia)"
+      "Northwestern (IA)"
     ],
     "numbers": [
       52
@@ -67163,7 +67379,7 @@ export const NFL_PLAYERS = [
       "Jacksonville Jaguars"
     ],
     "college": [
-      "Texas-San Antonio"
+      "UTSA"
     ],
     "numbers": [
       76,
@@ -67221,7 +67437,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Notre Dame"
     ],
-    "numbers": [],
+    "numbers": [
+      52
+    ],
     "league": "NFL"
   },
   {
@@ -67393,7 +67611,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Montana"
     ],
-    "numbers": [],
+    "numbers": [
+      89
+    ],
     "league": "NFL"
   },
   {
@@ -67580,10 +67800,11 @@ export const NFL_PLAYERS = [
       "Miami Dolphins"
     ],
     "college": [
-      "Northwestern Oklahoma State",
-      "Northwestern Oklahoma State University"
+      "Northwestern Oklahoma State"
     ],
-    "numbers": [],
+    "numbers": [
+      72
+    ],
     "league": "NFL"
   },
   {
@@ -68105,7 +68326,7 @@ export const NFL_PLAYERS = [
     "display_name": "Brian\u00a0Sweeney",
     "teams": [],
     "college": [
-      "Texas A&I"
+      "Texas A&M-Kingsville"
     ],
     "numbers": [],
     "league": "NFL"
@@ -68127,7 +68348,7 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "Southern Mississippi"
+      "Southern Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -68272,7 +68493,7 @@ export const NFL_PLAYERS = [
       "New York Jets"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       3
@@ -68289,7 +68510,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Arkansas"
     ],
-    "numbers": [],
+    "numbers": [
+      66
+    ],
     "league": "NFL"
   },
   {
@@ -68752,7 +68975,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Baylor"
     ],
-    "numbers": [],
+    "numbers": [
+      39
+    ],
     "league": "NFL"
   },
   {
@@ -68819,7 +69044,7 @@ export const NFL_PLAYERS = [
     "display_name": "Broderick\u00a0Graves",
     "teams": [],
     "college": [
-      "Winston-Salem"
+      "Winston-Salem State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -68998,8 +69223,7 @@ export const NFL_PLAYERS = [
       "New York Jets"
     ],
     "college": [
-      "BYU",
-      "Brigham Young"
+      "BYU"
     ],
     "numbers": [
       45,
@@ -69027,7 +69251,7 @@ export const NFL_PLAYERS = [
       "Los Angeles Rams"
     ],
     "college": [
-      "Alabama-Birmingham"
+      "UAB"
     ],
     "numbers": [
       35
@@ -69127,7 +69351,7 @@ export const NFL_PLAYERS = [
     "display_name": "Brooks West",
     "teams": [],
     "college": [
-      "Texas-El Paso"
+      "UTEP"
     ],
     "numbers": [],
     "league": "NFL"
@@ -69238,8 +69462,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "TCU",
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -69351,7 +69574,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Oregon"
     ],
-    "numbers": [],
+    "numbers": [
+      58
+    ],
     "league": "NFL"
   },
   {
@@ -69471,8 +69696,7 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "Texas\u2013Arlington",
-      "University of Texas-Arlington"
+      "Texas-Arlington"
     ],
     "numbers": [
       69
@@ -69561,7 +69785,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Ohio State"
     ],
-    "numbers": [],
+    "numbers": [
+      50
+    ],
     "league": "NFL"
   },
   {
@@ -69716,7 +69942,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Kutztown"
     ],
-    "numbers": [],
+    "numbers": [
+      42
+    ],
     "league": "NFL"
   },
   {
@@ -69740,8 +69968,7 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "South Florida",
-      "University of South Florida"
+      "South Florida"
     ],
     "numbers": [
       60,
@@ -69821,7 +70048,9 @@ export const NFL_PLAYERS = [
     "college": [
       "New Hampshire"
     ],
-    "numbers": [],
+    "numbers": [
+      57
+    ],
     "league": "NFL"
   },
   {
@@ -69971,7 +70200,9 @@ export const NFL_PLAYERS = [
     "college": [
       "American International"
     ],
-    "numbers": [],
+    "numbers": [
+      40
+    ],
     "league": "NFL"
   },
   {
@@ -69983,7 +70214,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Cal State Northridge"
     ],
-    "numbers": [],
+    "numbers": [
+      18
+    ],
     "league": "NFL"
   },
   {
@@ -70020,7 +70253,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Nebraska"
     ],
-    "numbers": [],
+    "numbers": [
+      12
+    ],
     "league": "NFL"
   },
   {
@@ -70113,7 +70348,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Hillsdale"
     ],
-    "numbers": [],
+    "numbers": [
+      24
+    ],
     "league": "NFL"
   },
   {
@@ -70150,7 +70387,6 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "Central Florida",
       "UCF"
     ],
     "numbers": [
@@ -70230,7 +70466,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Nebraska"
     ],
-    "numbers": [],
+    "numbers": [
+      39
+    ],
     "league": "NFL"
   },
   {
@@ -70268,7 +70506,7 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "Grambling State"
+      "Grambling"
     ],
     "numbers": [],
     "league": "NFL"
@@ -70307,7 +70545,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Texas"
     ],
-    "numbers": [],
+    "numbers": [
+      58
+    ],
     "league": "NFL"
   },
   {
@@ -70399,7 +70639,7 @@ export const NFL_PLAYERS = [
       "Los Angeles Rams"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -70452,7 +70692,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Mississippi State"
     ],
-    "numbers": [],
+    "numbers": [
+      23
+    ],
     "league": "NFL"
   },
   {
@@ -70510,7 +70752,9 @@ export const NFL_PLAYERS = [
     "college": [
       "UCLA"
     ],
-    "numbers": [],
+    "numbers": [
+      78
+    ],
     "league": "NFL"
   },
   {
@@ -70548,7 +70792,7 @@ export const NFL_PLAYERS = [
       "Detroit Lions"
     ],
     "college": [
-      "West Texas State"
+      "West Texas A&M"
     ],
     "numbers": [],
     "league": "NFL"
@@ -70689,7 +70933,7 @@ export const NFL_PLAYERS = [
     "display_name": "Bruno Ashley",
     "teams": [],
     "college": [
-      "East Texas State"
+      "East Texas A&M"
     ],
     "numbers": [],
     "league": "NFL"
@@ -70782,7 +71026,7 @@ export const NFL_PLAYERS = [
       "Chicago Bears"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       68
@@ -70880,7 +71124,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Arizona State"
     ],
-    "numbers": [],
+    "numbers": [
+      79
+    ],
     "league": "NFL"
   },
   {
@@ -71156,7 +71402,7 @@ export const NFL_PLAYERS = [
       "Chicago Bears"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       90
@@ -71229,7 +71475,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Texas"
     ],
-    "numbers": [],
+    "numbers": [
+      76
+    ],
     "league": "NFL"
   },
   {
@@ -71428,7 +71676,7 @@ export const NFL_PLAYERS = [
       "New York Jets"
     ],
     "college": [
-      "Pittsburgh",
+      "Pitt",
       "UAB"
     ],
     "numbers": [
@@ -71463,8 +71711,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Cal State Northridge",
-      "California Lutheran University",
-      "California State-Northridge"
+      "California Lutheran"
     ],
     "numbers": [],
     "league": "NFL"
@@ -71684,7 +71931,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -71787,7 +72034,7 @@ export const NFL_PLAYERS = [
     "display_name": "Bryan\u00a0Tobey",
     "teams": [],
     "college": [
-      "Grambling State"
+      "Grambling"
     ],
     "numbers": [],
     "league": "NFL"
@@ -71878,7 +72125,7 @@ export const NFL_PLAYERS = [
       "Jacksonville Jaguars"
     ],
     "college": [
-      "Florida International"
+      "FIU"
     ],
     "numbers": [
       34
@@ -72156,7 +72403,7 @@ export const NFL_PLAYERS = [
       "Atlanta Falcons"
     ],
     "college": [
-      "California-Davis"
+      "UC Davis"
     ],
     "numbers": [
       98
@@ -72328,7 +72575,7 @@ export const NFL_PLAYERS = [
       "Buffalo Bills"
     ],
     "college": [
-      "Miami (Ohio)"
+      "Miami (OH)"
     ],
     "numbers": [
       49,
@@ -72418,7 +72665,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Louisiana Tech",
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       16
@@ -72457,7 +72704,7 @@ export const NFL_PLAYERS = [
       "Cleveland Browns"
     ],
     "college": [
-      "Miami"
+      "Miami (FL)"
     ],
     "numbers": [
       36
@@ -72498,7 +72745,9 @@ export const NFL_PLAYERS = [
     "college": [
       "UTEP"
     ],
-    "numbers": [],
+    "numbers": [
+      80
+    ],
     "league": "NFL"
   },
   {
@@ -72597,7 +72846,7 @@ export const NFL_PLAYERS = [
       "Buffalo Bills"
     ],
     "college": [
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -72624,7 +72873,6 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Louisiana-Monroe",
-      "Northeast Louisiana",
       "Tulane"
     ],
     "numbers": [
@@ -72931,7 +73179,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Georgia"
     ],
-    "numbers": [],
+    "numbers": [
+      10
+    ],
     "league": "NFL"
   },
   {
@@ -72964,7 +73214,7 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "Virginia Military Inst.",
+      "VMI",
       "Virginia Tech"
     ],
     "numbers": [
@@ -72995,7 +73245,7 @@ export const NFL_PLAYERS = [
       "Chicago Bears"
     ],
     "college": [
-      "Mississippi Southern"
+      "Southern Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -73033,7 +73283,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Texas A&M"
     ],
-    "numbers": [],
+    "numbers": [
+      7
+    ],
     "league": "NFL"
   },
   {
@@ -73046,7 +73298,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Kansas"
     ],
-    "numbers": [],
+    "numbers": [
+      13
+    ],
     "league": "NFL"
   },
   {
@@ -73273,7 +73527,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Minnesota"
     ],
-    "numbers": [],
+    "numbers": [
+      86
+    ],
     "league": "NFL"
   },
   {
@@ -73375,7 +73631,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Texas"
     ],
-    "numbers": [],
+    "numbers": [
+      62
+    ],
     "league": "NFL"
   },
   {
@@ -73674,7 +73932,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Rice"
     ],
-    "numbers": [],
+    "numbers": [
+      83
+    ],
     "league": "NFL"
   },
   {
@@ -73682,7 +73942,7 @@ export const NFL_PLAYERS = [
     "display_name": "Buddy Dike",
     "teams": [],
     "college": [
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -73735,7 +73995,7 @@ export const NFL_PLAYERS = [
       "Los Angeles Rams"
     ],
     "college": [
-      "Florida Atlantic"
+      "FAU"
     ],
     "numbers": [
       38
@@ -73777,9 +74037,7 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "M",
-      "Texas A&M",
-      "Texas A&amp"
+      "Texas A&M"
     ],
     "numbers": [
       32,
@@ -73954,7 +74212,7 @@ export const NFL_PLAYERS = [
     "display_name": "Buddy Tomlinson",
     "teams": [],
     "college": [
-      "Hardin\u2013Simmons"
+      "Hardin-Simmons"
     ],
     "numbers": [],
     "league": "NFL"
@@ -74081,7 +74339,9 @@ export const NFL_PLAYERS = [
     "college": [
       "McNeese State"
     ],
-    "numbers": [],
+    "numbers": [
+      24
+    ],
     "league": "NFL"
   },
   {
@@ -74105,7 +74365,6 @@ export const NFL_PLAYERS = [
       "San Diego Chargers"
     ],
     "college": [
-      "Mississippi",
       "Ole Miss"
     ],
     "numbers": [],
@@ -74226,9 +74485,11 @@ export const NFL_PLAYERS = [
       "Chicago Bears"
     ],
     "college": [
-      "Hardin\u2013Simmons"
+      "Hardin-Simmons"
     ],
-    "numbers": [],
+    "numbers": [
+      66
+    ],
     "league": "NFL"
   },
   {
@@ -74401,7 +74662,7 @@ export const NFL_PLAYERS = [
     "display_name": "Burley Polk",
     "teams": [],
     "college": [
-      "Hardin\u2013Simmons"
+      "Hardin-Simmons"
     ],
     "numbers": [],
     "league": "NFL"
@@ -74512,7 +74773,7 @@ export const NFL_PLAYERS = [
       "San Diego Chargers"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -74548,7 +74809,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Florida"
     ],
-    "numbers": [],
+    "numbers": [
+      66
+    ],
     "league": "NFL"
   },
   {
@@ -74778,7 +75041,7 @@ export const NFL_PLAYERS = [
     "display_name": "Busty Underwood",
     "teams": [],
     "college": [
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -74916,7 +75179,7 @@ export const NFL_PLAYERS = [
     "display_name": "Butch Parker",
     "teams": [],
     "college": [
-      "Loyola (CA)"
+      "Loyola Marymount"
     ],
     "numbers": [],
     "league": "NFL"
@@ -74928,7 +75191,7 @@ export const NFL_PLAYERS = [
       "Baltimore Colts"
     ],
     "college": [
-      "Texas A&I"
+      "Texas A&M-Kingsville"
     ],
     "numbers": [],
     "league": "NFL"
@@ -74943,7 +75206,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Michigan State"
     ],
-    "numbers": [],
+    "numbers": [
+      87
+    ],
     "league": "NFL"
   },
   {
@@ -75005,7 +75270,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Michigan"
     ],
-    "numbers": [],
+    "numbers": [
+      25
+    ],
     "league": "NFL"
   },
   {
@@ -75053,7 +75320,7 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "VPI"
+      "Virginia Tech"
     ],
     "numbers": [],
     "league": "NFL"
@@ -75163,7 +75430,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Notre Dame"
     ],
-    "numbers": [],
+    "numbers": [
+      72
+    ],
     "league": "NFL"
   },
   {
@@ -75214,7 +75483,7 @@ export const NFL_PLAYERS = [
     "display_name": "Byron Buelow",
     "teams": [],
     "college": [
-      "Lacrosse"
+      "Wisconsin-La Crosse"
     ],
     "numbers": [],
     "league": "NFL"
@@ -75418,10 +75687,9 @@ export const NFL_PLAYERS = [
       "Miami Dolphins"
     ],
     "college": [
-      "Connecticut",
       "Tulsa",
       "UConn",
-      "W. Texas State"
+      "West Texas A&M"
     ],
     "numbers": [
       24,
@@ -75670,7 +75938,7 @@ export const NFL_PLAYERS = [
       "Philadelphia Eagles"
     ],
     "college": [
-      "Texas Arlington"
+      "Texas-Arlington"
     ],
     "numbers": [],
     "league": "NFL"
@@ -75777,7 +76045,7 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "Louisiana\u2013Lafayette"
+      "Louisiana-Lafayette"
     ],
     "numbers": [
       24,
@@ -76022,8 +76290,7 @@ export const NFL_PLAYERS = [
       "Bethany West",
       "California (PA)",
       "California, Pa.",
-      "Fairmont State",
-      "PennWest California"
+      "Fairmont State"
     ],
     "numbers": [
       29,
@@ -76131,7 +76398,6 @@ export const NFL_PLAYERS = [
       "Detroit Lions"
     ],
     "college": [
-      "Mississippi",
       "Ole Miss"
     ],
     "numbers": [
@@ -76439,7 +76705,7 @@ export const NFL_PLAYERS = [
       "Atlanta Falcons"
     ],
     "college": [
-      "Florida International"
+      "FIU"
     ],
     "numbers": [
       7
@@ -76551,7 +76817,7 @@ export const NFL_PLAYERS = [
       "Cleveland Browns"
     ],
     "college": [
-      "Miami (Ohio)",
+      "Miami (OH)",
       "Michigan State"
     ],
     "numbers": [
@@ -76634,7 +76900,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Memphis",
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [
       83,
@@ -76803,7 +77069,7 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       48,
@@ -76874,7 +77140,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Tulsa"
     ],
-    "numbers": [],
+    "numbers": [
+      11
+    ],
     "league": "NFL"
   },
   {
@@ -76908,7 +77176,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Indiana"
     ],
-    "numbers": [],
+    "numbers": [
+      87
+    ],
     "league": "NFL"
   },
   {
@@ -76944,7 +77214,6 @@ export const NFL_PLAYERS = [
       "Miami Dolphins"
     ],
     "college": [
-      "Miami",
       "Miami (FL)"
     ],
     "numbers": [
@@ -77127,8 +77396,7 @@ export const NFL_PLAYERS = [
       "Miami Dolphins"
     ],
     "college": [
-      "Houston Baptist",
-      "Houston Christian University"
+      "Houston Christian"
     ],
     "numbers": [
       51,
@@ -77145,7 +77413,7 @@ export const NFL_PLAYERS = [
       "Cleveland Browns"
     ],
     "college": [
-      "Miami"
+      "Miami (FL)"
     ],
     "numbers": [
       38,
@@ -77392,7 +77660,6 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Oklahoma",
-      "Southern California",
       "USC"
     ],
     "numbers": [
@@ -77424,7 +77691,6 @@ export const NFL_PLAYERS = [
       "Houston Texans"
     ],
     "college": [
-      "Southern California",
       "USC"
     ],
     "numbers": [
@@ -77440,7 +77706,7 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       94
@@ -77454,7 +77720,7 @@ export const NFL_PLAYERS = [
       "Green Bay Packers"
     ],
     "college": [
-      "Florida Atlantic"
+      "FAU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -77673,7 +77939,7 @@ export const NFL_PLAYERS = [
       "Green Bay Packers"
     ],
     "college": [
-      "Miami (Fla.)"
+      "Miami (FL)"
     ],
     "numbers": [
       72
@@ -77706,7 +77972,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Baylor"
     ],
-    "numbers": [],
+    "numbers": [
+      54
+    ],
     "league": "NFL"
   },
   {
@@ -77878,7 +78146,7 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "Grambling State"
+      "Grambling"
     ],
     "numbers": [],
     "league": "NFL"
@@ -77892,7 +78160,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Oregon State"
     ],
-    "numbers": [],
+    "numbers": [
+      38
+    ],
     "league": "NFL"
   },
   {
@@ -77976,7 +78246,9 @@ export const NFL_PLAYERS = [
     "college": [
       "USC"
     ],
-    "numbers": [],
+    "numbers": [
+      85
+    ],
     "league": "NFL"
   },
   {
@@ -78033,7 +78305,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Georgia Tech"
     ],
-    "numbers": [],
+    "numbers": [
+      58
+    ],
     "league": "NFL"
   },
   {
@@ -78682,7 +78956,6 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Incarnate Word",
-      "Miami",
       "Miami (FL)",
       "Washington State"
     ],
@@ -78699,7 +78972,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Colorado",
-      "Jackson State University"
+      "Jackson State"
     ],
     "numbers": [
       24,
@@ -78823,8 +79096,7 @@ export const NFL_PLAYERS = [
       "New York Jets"
     ],
     "college": [
-      "Charlotte",
-      "North Carolina-Charlotte"
+      "Charlotte"
     ],
     "numbers": [
       72
@@ -79129,7 +79401,7 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       50,
@@ -79146,7 +79418,7 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "North Carolina-Charlotte"
+      "Charlotte"
     ],
     "numbers": [
       43,
@@ -79360,7 +79632,6 @@ export const NFL_PLAYERS = [
       "Minnesota Vikings"
     ],
     "college": [
-      "Southern California",
       "USC"
     ],
     "numbers": [
@@ -79458,7 +79729,7 @@ export const NFL_PLAYERS = [
       "Philadelphia Eagles"
     ],
     "college": [
-      "Southern Mississippi"
+      "Southern Miss"
     ],
     "numbers": [
       63,
@@ -79659,7 +79930,9 @@ export const NFL_PLAYERS = [
       "Illinois",
       "Joliet Junior College"
     ],
-    "numbers": [],
+    "numbers": [
+      89
+    ],
     "league": "NFL"
   },
   {
@@ -79902,7 +80175,7 @@ export const NFL_PLAYERS = [
       "St. Louis Cardinals"
     ],
     "college": [
-      "Southern Mississippi"
+      "Southern Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -80023,7 +80296,7 @@ export const NFL_PLAYERS = [
     "display_name": "Carl Bolt",
     "teams": [],
     "college": [
-      "Mississippi Southern"
+      "Southern Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -80134,7 +80407,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Mississippi Valley State"
     ],
-    "numbers": [],
+    "numbers": [
+      35
+    ],
     "league": "NFL"
   },
   {
@@ -80198,7 +80473,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Michigan State"
     ],
-    "numbers": [],
+    "numbers": [
+      43
+    ],
     "league": "NFL"
   },
   {
@@ -80288,7 +80565,7 @@ export const NFL_PLAYERS = [
     "display_name": "Carl DePasqua",
     "teams": [],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -80302,7 +80579,9 @@ export const NFL_PLAYERS = [
     "college": [
       "San Jose State"
     ],
-    "numbers": [],
+    "numbers": [
+      55
+    ],
     "league": "NFL"
   },
   {
@@ -80418,7 +80697,7 @@ export const NFL_PLAYERS = [
       "Oakland Raiders"
     ],
     "college": [
-      "N.M. Highlands"
+      "New Mexico Highlands"
     ],
     "numbers": [],
     "league": "NFL"
@@ -80444,9 +80723,11 @@ export const NFL_PLAYERS = [
       "St. Louis Cardinals"
     ],
     "college": [
-      "West Chester State"
+      "West Chester"
     ],
-    "numbers": [],
+    "numbers": [
+      69
+    ],
     "league": "NFL"
   },
   {
@@ -80663,7 +80944,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Pacific"
     ],
-    "numbers": [],
+    "numbers": [
+      66
+    ],
     "league": "NFL"
   },
   {
@@ -80697,7 +80980,7 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -80837,7 +81120,7 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "North Texas State"
+      "North Texas"
     ],
     "numbers": [],
     "league": "NFL"
@@ -80942,7 +81225,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Utah State"
     ],
-    "numbers": [],
+    "numbers": [
+      19
+    ],
     "league": "NFL"
   },
   {
@@ -81124,7 +81409,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Texas A&M"
     ],
-    "numbers": [],
+    "numbers": [
+      85
+    ],
     "league": "NFL"
   },
   {
@@ -81249,7 +81536,9 @@ export const NFL_PLAYERS = [
     "college": [
       "East Carolina"
     ],
-    "numbers": [],
+    "numbers": [
+      19
+    ],
     "league": "NFL"
   },
   {
@@ -81292,7 +81581,7 @@ export const NFL_PLAYERS = [
     "display_name": "Carl Taylor",
     "teams": [],
     "college": [
-      "Memphis State"
+      "Memphis"
     ],
     "numbers": [],
     "league": "NFL"
@@ -81343,7 +81632,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Georgia Tech"
     ],
-    "numbers": [],
+    "numbers": [
+      74
+    ],
     "league": "NFL"
   },
   {
@@ -81425,7 +81716,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Tennessee"
     ],
-    "numbers": [],
+    "numbers": [
+      91
+    ],
     "league": "NFL"
   },
   {
@@ -81463,7 +81756,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Florida A&M"
     ],
-    "numbers": [],
+    "numbers": [
+      85
+    ],
     "league": "NFL"
   },
   {
@@ -81604,7 +81899,7 @@ export const NFL_PLAYERS = [
       "Los Angeles Rams"
     ],
     "college": [
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [
       33
@@ -81815,7 +82110,7 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [
       35
@@ -81829,7 +82124,7 @@ export const NFL_PLAYERS = [
       "New England Patriots"
     ],
     "college": [
-      "Grambling State"
+      "Grambling"
     ],
     "numbers": [],
     "league": "NFL"
@@ -81876,7 +82171,9 @@ export const NFL_PLAYERS = [
     "college": [
       "UTEP"
     ],
-    "numbers": [],
+    "numbers": [
+      56
+    ],
     "league": "NFL"
   },
   {
@@ -81897,7 +82194,7 @@ export const NFL_PLAYERS = [
       "Los Angeles Rams"
     ],
     "college": [
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [
       44,
@@ -82044,7 +82341,7 @@ export const NFL_PLAYERS = [
     "display_name": "Carlton Buchanan",
     "teams": [],
     "college": [
-      "SW Oklahoma State"
+      "Southwestern Oklahoma"
     ],
     "numbers": [],
     "league": "NFL"
@@ -82241,7 +82538,7 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       27
@@ -82279,7 +82576,7 @@ export const NFL_PLAYERS = [
     "display_name": "Carl\u00a0Brown",
     "teams": [],
     "college": [
-      "West Texas State"
+      "West Texas A&M"
     ],
     "numbers": [],
     "league": "NFL"
@@ -82429,7 +82726,7 @@ export const NFL_PLAYERS = [
     "display_name": "Carnel\u00a0Smith",
     "teams": [],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -82486,7 +82783,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Colorado"
     ],
-    "numbers": [],
+    "numbers": [
+      27
+    ],
     "league": "NFL"
   },
   {
@@ -82615,8 +82914,7 @@ export const NFL_PLAYERS = [
       "Tennessee Titans"
     ],
     "college": [
-      "M",
-      "Texas A&amp"
+      "Texas A&M"
     ],
     "numbers": [
       62
@@ -82630,7 +82928,7 @@ export const NFL_PLAYERS = [
       "Buffalo Bills"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -82912,7 +83210,7 @@ export const NFL_PLAYERS = [
       "New York Jets"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       66,
@@ -82966,7 +83264,7 @@ export const NFL_PLAYERS = [
       "Philadelphia Eagles"
     ],
     "college": [
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [
       83
@@ -83085,7 +83383,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Northwestern"
     ],
-    "numbers": [],
+    "numbers": [
+      79
+    ],
     "league": "NFL"
   },
   {
@@ -83103,7 +83403,7 @@ export const NFL_PLAYERS = [
     "display_name": "Case Boyett",
     "teams": [],
     "college": [
-      "Brigham Young"
+      "BYU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -83160,7 +83460,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Idaho State"
     ],
-    "numbers": [],
+    "numbers": [
+      5
+    ],
     "league": "NFL"
   },
   {
@@ -83182,7 +83484,7 @@ export const NFL_PLAYERS = [
     "display_name": "Casey Boyett",
     "teams": [],
     "college": [
-      "Brigham Young"
+      "BYU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -83441,7 +83743,7 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "Ohio U."
+      "Ohio"
     ],
     "numbers": [
       70,
@@ -83670,7 +83972,7 @@ export const NFL_PLAYERS = [
       "San Diego Chargers"
     ],
     "college": [
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [
       20,
@@ -83776,7 +84078,7 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "Florida International"
+      "FIU"
     ],
     "numbers": [
       74
@@ -83909,7 +84211,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Purdue"
     ],
-    "numbers": [],
+    "numbers": [
+      17
+    ],
     "league": "NFL"
   },
   {
@@ -83920,7 +84224,7 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -84048,7 +84352,7 @@ export const NFL_PLAYERS = [
       "Chicago Bears"
     ],
     "college": [
-      "Cal Poly-San Luis Obispo"
+      "Cal Poly"
     ],
     "numbers": [],
     "league": "NFL"
@@ -84130,7 +84434,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Kent State"
     ],
-    "numbers": [],
+    "numbers": [
+      21
+    ],
     "league": "NFL"
   },
   {
@@ -84265,7 +84571,7 @@ export const NFL_PLAYERS = [
       "Detroit Lions"
     ],
     "college": [
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -84294,7 +84600,6 @@ export const NFL_PLAYERS = [
       "Cincinnati Bengals"
     ],
     "college": [
-      "Mississippi",
       "Ole Miss"
     ],
     "numbers": [
@@ -84339,7 +84644,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Carson\u2013Newman"
+      "Carson-Newman"
     ],
     "numbers": [
       71,
@@ -84364,7 +84669,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Baylor"
     ],
-    "numbers": [],
+    "numbers": [
+      47
+    ],
     "league": "NFL"
   },
   {
@@ -84404,9 +84711,7 @@ export const NFL_PLAYERS = [
       "Tennessee Titans"
     ],
     "college": [
-      "M",
-      "Texas A&M",
-      "Texas A&amp"
+      "Texas A&M"
     ],
     "numbers": [
       67,
@@ -84600,9 +84905,11 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "North Texas State"
+      "North Texas"
     ],
-    "numbers": [],
+    "numbers": [
+      86
+    ],
     "league": "NFL"
   },
   {
@@ -84613,7 +84920,7 @@ export const NFL_PLAYERS = [
       "Minnesota Vikings"
     ],
     "college": [
-      "Texas-El Paso"
+      "UTEP"
     ],
     "numbers": [
       68,
@@ -85168,7 +85475,6 @@ export const NFL_PLAYERS = [
       "Indianapolis Colts"
     ],
     "college": [
-      "Mississippi",
       "Ole Miss"
     ],
     "numbers": [
@@ -85585,7 +85891,9 @@ export const NFL_PLAYERS = [
     "college": [
       "North Dakota State"
     ],
-    "numbers": [],
+    "numbers": [
+      37
+    ],
     "league": "NFL"
   },
   {
@@ -85595,7 +85903,6 @@ export const NFL_PLAYERS = [
       "Cleveland Browns"
     ],
     "college": [
-      "Miami",
       "Miami (FL)"
     ],
     "numbers": [
@@ -85635,7 +85942,6 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "Southern California",
       "USC"
     ],
     "numbers": [
@@ -85684,7 +85990,7 @@ export const NFL_PLAYERS = [
     "display_name": "Chadwick Brown",
     "teams": [],
     "college": [
-      "East Texas State"
+      "East Texas A&M"
     ],
     "numbers": [],
     "league": "NFL"
@@ -85809,7 +86115,6 @@ export const NFL_PLAYERS = [
       "Tennessee Titans"
     ],
     "college": [
-      "Mississippi",
       "Ole Miss"
     ],
     "numbers": [
@@ -85867,7 +86172,7 @@ export const NFL_PLAYERS = [
     "display_name": "Chance\u00a0McCarty",
     "teams": [],
     "college": [
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -85905,8 +86210,7 @@ export const NFL_PLAYERS = [
       "Tennessee Titans"
     ],
     "college": [
-      "Middle Tennessee",
-      "Middle Tennessee State"
+      "Middle Tennessee"
     ],
     "numbers": [
       67
@@ -85981,7 +86285,7 @@ export const NFL_PLAYERS = [
       "New England Patriots"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       55,
@@ -86069,9 +86373,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Fairmont State",
-      "N.C. State",
-      "NC State",
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [
       62
@@ -86085,7 +86387,7 @@ export const NFL_PLAYERS = [
       "Tennessee Titans"
     ],
     "college": [
-      "Brigham Young"
+      "BYU"
     ],
     "numbers": [
       68
@@ -86164,7 +86466,7 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [
       71
@@ -86542,7 +86844,7 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "Bethune\u2013Cookman"
+      "Bethune-Cookman"
     ],
     "numbers": [],
     "league": "NFL"
@@ -86617,7 +86919,7 @@ export const NFL_PLAYERS = [
       "St. Louis Cardinals"
     ],
     "college": [
-      "Alcorn A&M",
+      "Alcorn State",
       "Purdue"
     ],
     "numbers": [],
@@ -86633,7 +86935,9 @@ export const NFL_PLAYERS = [
     "college": [
       "San Jose State"
     ],
-    "numbers": [],
+    "numbers": [
+      75
+    ],
     "league": "NFL"
   },
   {
@@ -87245,7 +87549,7 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "Cal Lutheran"
+      "California Lutheran"
     ],
     "numbers": [],
     "league": "NFL"
@@ -87327,7 +87631,7 @@ export const NFL_PLAYERS = [
     "display_name": "Charles Noggle",
     "teams": [],
     "college": [
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -87389,7 +87693,7 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "Bethune\u2013Cookman"
+      "Bethune-Cookman"
     ],
     "numbers": [],
     "league": "NFL"
@@ -87521,7 +87825,7 @@ export const NFL_PLAYERS = [
       "Jacksonville Jaguars"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       72,
@@ -87610,8 +87914,7 @@ export const NFL_PLAYERS = [
       "Chicago Bears"
     ],
     "college": [
-      "Louisiana-Lafayette",
-      "Louisiana\u2013Lafayette"
+      "Louisiana-Lafayette"
     ],
     "numbers": [
       31,
@@ -87730,7 +88033,7 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "Texas-San Antonio"
+      "UTSA"
     ],
     "numbers": [
       57
@@ -87785,7 +88088,6 @@ export const NFL_PLAYERS = [
     "college": [
       "Illinois State",
       "SMU",
-      "Southern Methodist",
       "West Virginia"
     ],
     "numbers": [
@@ -87832,7 +88134,7 @@ export const NFL_PLAYERS = [
       "Philadelphia Eagles"
     ],
     "college": [
-      "Miami"
+      "Miami (FL)"
     ],
     "numbers": [
       43,
@@ -87915,7 +88217,7 @@ export const NFL_PLAYERS = [
     "display_name": "Charles\u00a0Daum",
     "teams": [],
     "college": [
-      "Cal Poly-San Luis Obispo"
+      "Cal Poly"
     ],
     "numbers": [],
     "league": "NFL"
@@ -88025,7 +88327,7 @@ export const NFL_PLAYERS = [
     "display_name": "Charley Barnes",
     "teams": [],
     "college": [
-      "Northwest Louisiana"
+      "Northwestern State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -88091,7 +88393,7 @@ export const NFL_PLAYERS = [
     "display_name": "Charley Brooks",
     "teams": [],
     "college": [
-      "Memphis State",
+      "Memphis",
       "Michigan"
     ],
     "numbers": [],
@@ -88255,7 +88557,7 @@ export const NFL_PLAYERS = [
       "St. Louis Cardinals"
     ],
     "college": [
-      "Southern Mississippi"
+      "Southern Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -88468,7 +88770,6 @@ export const NFL_PLAYERS = [
       "Philadelphia Eagles"
     ],
     "college": [
-      "Central Florida",
       "UCF"
     ],
     "numbers": [
@@ -88659,7 +88960,7 @@ export const NFL_PLAYERS = [
     "display_name": "Charley Montgomery",
     "teams": [],
     "college": [
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -88764,7 +89065,7 @@ export const NFL_PLAYERS = [
     "display_name": "Charley Sanders",
     "teams": [],
     "college": [
-      "West Texas State"
+      "West Texas A&M"
     ],
     "numbers": [],
     "league": "NFL"
@@ -88778,7 +89079,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Oklahoma"
     ],
-    "numbers": [],
+    "numbers": [
+      40
+    ],
     "league": "NFL"
   },
   {
@@ -88826,7 +89129,7 @@ export const NFL_PLAYERS = [
     "display_name": "Charley Shephard",
     "teams": [],
     "college": [
-      "North Texas State"
+      "North Texas"
     ],
     "numbers": [],
     "league": "NFL"
@@ -88847,7 +89150,7 @@ export const NFL_PLAYERS = [
     "display_name": "Charley Steed",
     "teams": [],
     "college": [
-      "Arkansas\u2013Monticello"
+      "Arkansas-Monticello"
     ],
     "numbers": [],
     "league": "NFL"
@@ -88859,7 +89162,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [
       42
@@ -88893,9 +89196,11 @@ export const NFL_PLAYERS = [
       "Houston Oilers"
     ],
     "college": [
-      "Northwestern State (LA)"
+      "Northwestern State"
     ],
-    "numbers": [],
+    "numbers": [
+      44
+    ],
     "league": "NFL"
   },
   {
@@ -88984,7 +89289,7 @@ export const NFL_PLAYERS = [
     "display_name": "Charley Wrenn",
     "teams": [],
     "college": [
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -88996,7 +89301,7 @@ export const NFL_PLAYERS = [
     "college": [
       "Iowa State",
       "Prairie View A&M",
-      "West Texas State"
+      "West Texas A&M"
     ],
     "numbers": [],
     "league": "NFL"
@@ -89202,7 +89507,7 @@ export const NFL_PLAYERS = [
       "Miami Dolphins"
     ],
     "college": [
-      "Memphis State"
+      "Memphis"
     ],
     "numbers": [],
     "league": "NFL"
@@ -89277,7 +89582,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Morris Brown"
     ],
-    "numbers": [],
+    "numbers": [
+      49
+    ],
     "league": "NFL"
   },
   {
@@ -89351,8 +89658,8 @@ export const NFL_PLAYERS = [
     "college": [
       "Missouri",
       "Northern Arizona",
+      "Rich Manning",
       "South Carolina State",
-      "Syracuse",
       "Tulsa"
     ],
     "numbers": [],
@@ -89376,7 +89683,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -89470,7 +89777,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Ole Miss"
     ],
-    "numbers": [],
+    "numbers": [
+      42
+    ],
     "league": "NFL"
   },
   {
@@ -89617,7 +89926,7 @@ export const NFL_PLAYERS = [
       "San Diego Chargers"
     ],
     "college": [
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -89736,7 +90045,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Penn State"
     ],
-    "numbers": [],
+    "numbers": [
+      77
+    ],
     "league": "NFL"
   },
   {
@@ -89844,7 +90155,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Houston",
-      "Pittsburgh",
+      "Pitt",
       "Tulane"
     ],
     "numbers": [],
@@ -90004,7 +90315,7 @@ export const NFL_PLAYERS = [
       "Dallas Texans"
     ],
     "college": [
-      "Southern Methodist"
+      "SMU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -90163,7 +90474,7 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "Memphis State"
+      "Memphis"
     ],
     "numbers": [],
     "league": "NFL"
@@ -90232,7 +90543,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Texas A&M"
     ],
-    "numbers": [],
+    "numbers": [
+      70
+    ],
     "league": "NFL"
   },
   {
@@ -90283,7 +90596,7 @@ export const NFL_PLAYERS = [
     "display_name": "Charlie Leyendecker",
     "teams": [],
     "college": [
-      "Southern Methodist"
+      "SMU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -90344,7 +90657,7 @@ export const NFL_PLAYERS = [
     "display_name": "Charlie McGinty",
     "teams": [],
     "college": [
-      "North Texas State"
+      "North Texas"
     ],
     "numbers": [],
     "league": "NFL"
@@ -90473,7 +90786,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Boston College"
     ],
-    "numbers": [],
+    "numbers": [
+      48
+    ],
     "league": "NFL"
   },
   {
@@ -90493,7 +90808,7 @@ export const NFL_PLAYERS = [
       "Denver Broncos"
     ],
     "college": [
-      "Southern Mississippi"
+      "Southern Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -90557,7 +90872,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Penn State"
     ],
-    "numbers": [],
+    "numbers": [
+      28
+    ],
     "league": "NFL"
   },
   {
@@ -90704,7 +91021,7 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "Grambling State",
+      "Grambling",
       "Utah"
     ],
     "numbers": [],
@@ -90788,7 +91105,9 @@ export const NFL_PLAYERS = [
     "college": [
       "William & Mary"
     ],
-    "numbers": [],
+    "numbers": [
+      26
+    ],
     "league": "NFL"
   },
   {
@@ -90855,7 +91174,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Clemson"
     ],
-    "numbers": [],
+    "numbers": [
+      22
+    ],
     "league": "NFL"
   },
   {
@@ -90985,7 +91306,7 @@ export const NFL_PLAYERS = [
       "Minnesota Vikings"
     ],
     "college": [
-      "Texas\u2013El Paso"
+      "UTEP"
     ],
     "numbers": [],
     "league": "NFL"
@@ -91246,8 +91567,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Hinds CC",
-      "Middle Tennessee",
-      "Middle Tennessee State"
+      "Middle Tennessee"
     ],
     "numbers": [
       7,
@@ -91531,7 +91851,6 @@ export const NFL_PLAYERS = [
       "Minnesota Vikings"
     ],
     "college": [
-      "Miami",
       "Miami (FL)"
     ],
     "numbers": [
@@ -91636,7 +91955,6 @@ export const NFL_PLAYERS = [
       "Buffalo Bills"
     ],
     "college": [
-      "Connecticut",
       "UConn"
     ],
     "numbers": [
@@ -91906,7 +92224,7 @@ export const NFL_PLAYERS = [
       "Oakland Raiders"
     ],
     "college": [
-      "Southern Methodist"
+      "SMU"
     ],
     "numbers": [
       64
@@ -92192,8 +92510,7 @@ export const NFL_PLAYERS = [
       "Tennessee Titans"
     ],
     "college": [
-      "Grambling",
-      "Grambling State"
+      "Grambling"
     ],
     "numbers": [
       80,
@@ -92417,7 +92734,7 @@ export const NFL_PLAYERS = [
     "display_name": "Chet Lyssy",
     "teams": [],
     "college": [
-      "Hardin\u2013Simmons"
+      "Hardin-Simmons"
     ],
     "numbers": [],
     "league": "NFL"
@@ -92442,10 +92759,11 @@ export const NFL_PLAYERS = [
       "Buffalo Bills"
     ],
     "college": [
-      "Xavier",
-      "Xavier (Redrafted Colt)"
+      "Xavier"
     ],
-    "numbers": [],
+    "numbers": [
+      89
+    ],
     "league": "NFL"
   },
   {
@@ -92512,7 +92830,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Illinois Wesleyan"
     ],
-    "numbers": [],
+    "numbers": [
+      40
+    ],
     "league": "NFL"
   },
   {
@@ -93105,7 +93425,9 @@ export const NFL_PLAYERS = [
     "college": [
       "USC"
     ],
-    "numbers": [],
+    "numbers": [
+      56
+    ],
     "league": "NFL"
   },
   {
@@ -93138,7 +93460,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Vanderbilt"
     ],
-    "numbers": [],
+    "numbers": [
+      56
+    ],
     "league": "NFL"
   },
   {
@@ -93384,8 +93708,7 @@ export const NFL_PLAYERS = [
       "New Orleans Saints"
     ],
     "college": [
-      "SMU",
-      "Southern Methodist"
+      "SMU"
     ],
     "numbers": [
       31,
@@ -93476,7 +93799,7 @@ export const NFL_PLAYERS = [
       "Arizona Cardinals"
     ],
     "college": [
-      "Grambling State"
+      "Grambling"
     ],
     "numbers": [
       81
@@ -93517,7 +93840,7 @@ export const NFL_PLAYERS = [
       "Cleveland Browns"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       12
@@ -93550,7 +93873,7 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "Nebraska\u2013Omaha"
+      "Nebraska-Omaha"
     ],
     "numbers": [
       67
@@ -93581,7 +93904,7 @@ export const NFL_PLAYERS = [
       "New Orleans Saints"
     ],
     "college": [
-      "Southern Methodist"
+      "SMU"
     ],
     "numbers": [
       55,
@@ -93725,7 +94048,6 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "BYU",
-      "Brigham Young",
       "California"
     ],
     "numbers": [
@@ -93851,8 +94173,7 @@ export const NFL_PLAYERS = [
       "New York Jets"
     ],
     "college": [
-      "Jackson State",
-      "Jackson State University"
+      "Jackson State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -94052,7 +94373,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Duke"
     ],
-    "numbers": [],
+    "numbers": [
+      83
+    ],
     "league": "NFL"
   },
   {
@@ -94154,8 +94477,7 @@ export const NFL_PLAYERS = [
       "Houston Texans"
     ],
     "college": [
-      "Southern Miss",
-      "Southern Mississippi"
+      "Southern Miss"
     ],
     "numbers": [
       74,
@@ -94266,8 +94588,7 @@ export const NFL_PLAYERS = [
       "Las Vegas Raiders"
     ],
     "college": [
-      "Lock Haven",
-      "University of Lock Haven"
+      "Lock Haven"
     ],
     "numbers": [
       33,
@@ -94435,7 +94756,7 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "Nebraska\u2013Omaha"
+      "Nebraska-Omaha"
     ],
     "numbers": [
       75,
@@ -94800,7 +95121,7 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       56
@@ -94880,7 +95201,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Washington State"
     ],
-    "numbers": [],
+    "numbers": [
+      68
+    ],
     "league": "NFL"
   },
   {
@@ -95169,7 +95492,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Iowa"
     ],
-    "numbers": [],
+    "numbers": [
+      74
+    ],
     "league": "NFL"
   },
   {
@@ -95180,7 +95505,7 @@ export const NFL_PLAYERS = [
       "San Diego Chargers"
     ],
     "college": [
-      "Southwestern Louisiana"
+      "Louisiana-Lafayette"
     ],
     "numbers": [],
     "league": "NFL"
@@ -95223,8 +95548,7 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "Concordia, St. Paul",
-      "Concordia\u2013St. Paul"
+      "Concordia-St. Paul"
     ],
     "numbers": [
       48,
@@ -95252,7 +95576,7 @@ export const NFL_PLAYERS = [
       "Chicago Bears"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       84
@@ -95268,7 +95592,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Eastern Illinois"
     ],
-    "numbers": [],
+    "numbers": [
+      71
+    ],
     "league": "NFL"
   },
   {
@@ -95408,7 +95734,7 @@ export const NFL_PLAYERS = [
       "New York Jets"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -95523,7 +95849,7 @@ export const NFL_PLAYERS = [
       "Dallas Cowboys"
     ],
     "college": [
-      "NW Missouri State"
+      "Northwest Missouri State"
     ],
     "numbers": [
       14,
@@ -95739,7 +96065,7 @@ export const NFL_PLAYERS = [
       "Jacksonville Jaguars"
     ],
     "college": [
-      "Louisiana\u2013Monroe"
+      "Louisiana-Monroe"
     ],
     "numbers": [
       43,
@@ -95855,7 +96181,6 @@ export const NFL_PLAYERS = [
       "New York Jets"
     ],
     "college": [
-      "Miami",
       "Miami (FL)"
     ],
     "numbers": [
@@ -95920,7 +96245,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Northwestern"
     ],
-    "numbers": [],
+    "numbers": [
+      75
+    ],
     "league": "NFL"
   },
   {
@@ -96059,7 +96386,6 @@ export const NFL_PLAYERS = [
       "Tennessee Titans"
     ],
     "college": [
-      "Alabama-Birmingham",
       "UAB"
     ],
     "numbers": [
@@ -96326,7 +96652,7 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "Bowling Green State"
+      "Bowling Green"
     ],
     "numbers": [
       63,
@@ -96620,8 +96946,7 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "Chattanooga",
-      "Tennessee-Chattanooga"
+      "Chattanooga"
     ],
     "numbers": [
       31,
@@ -96669,7 +96994,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Washington"
     ],
-    "numbers": [],
+    "numbers": [
+      74
+    ],
     "league": "NFL"
   },
   {
@@ -97226,7 +97553,7 @@ export const NFL_PLAYERS = [
       "Cleveland Browns"
     ],
     "college": [
-      "Southern Methodist"
+      "SMU"
     ],
     "numbers": [
       8
@@ -97759,7 +98086,6 @@ export const NFL_PLAYERS = [
       "New Orleans Saints"
     ],
     "college": [
-      "Minn. State-Mankato",
       "Minnesota State"
     ],
     "numbers": [
@@ -97945,8 +98271,7 @@ export const NFL_PLAYERS = [
       "Green Bay Packers"
     ],
     "college": [
-      "M",
-      "Texas A&amp"
+      "Texas A&M"
     ],
     "numbers": [
       46,
@@ -98012,7 +98337,7 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "Alabama-Birmingham"
+      "UAB"
     ],
     "numbers": [
       74
@@ -98169,7 +98494,7 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       79,
@@ -98337,7 +98662,7 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "Southern California"
+      "USC"
     ],
     "numbers": [
       29,
@@ -98491,7 +98816,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Minnesota"
     ],
-    "numbers": [],
+    "numbers": [
+      67
+    ],
     "league": "NFL"
   },
   {
@@ -98555,7 +98882,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Chico State"
     ],
-    "numbers": [],
+    "numbers": [
+      88
+    ],
     "league": "NFL"
   },
   {
@@ -98650,7 +98979,7 @@ export const NFL_PLAYERS = [
     "display_name": "Chris Warriner",
     "teams": [],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -98817,8 +99146,7 @@ export const NFL_PLAYERS = [
       "Los Angeles Chargers"
     ],
     "college": [
-      "BYU",
-      "Brigham Young"
+      "BYU"
     ],
     "numbers": [
       29,
@@ -99349,7 +99677,6 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "Connecticut",
       "UConn"
     ],
     "numbers": [
@@ -99434,9 +99761,7 @@ export const NFL_PLAYERS = [
       "Jacksonville Jaguars"
     ],
     "college": [
-      "M",
-      "Texas A&M",
-      "Texas A&amp"
+      "Texas A&M"
     ],
     "numbers": [
       3,
@@ -99671,8 +99996,7 @@ export const NFL_PLAYERS = [
       "New Orleans Saints"
     ],
     "college": [
-      "Louisiana-Lafayette",
-      "Louisiana\u2013Lafayette"
+      "Louisiana-Lafayette"
     ],
     "numbers": [
       55,
@@ -99691,7 +100015,6 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Arizona",
-      "Southern California",
       "USC"
     ],
     "numbers": [
@@ -99915,7 +100238,7 @@ export const NFL_PLAYERS = [
     "display_name": "Christian\u00a0Ferrara",
     "teams": [],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -100010,7 +100333,7 @@ export const NFL_PLAYERS = [
       "New York Jets"
     ],
     "college": [
-      "Miami"
+      "Miami (FL)"
     ],
     "numbers": [
       89
@@ -100041,7 +100364,6 @@ export const NFL_PLAYERS = [
       "Tennessee Titans"
     ],
     "college": [
-      "Alabama-Birmingham",
       "UAB"
     ],
     "numbers": [
@@ -100250,7 +100572,7 @@ export const NFL_PLAYERS = [
     "display_name": "Chris\u00a0Leuneberg",
     "teams": [],
     "college": [
-      "West Chester (PA)"
+      "West Chester"
     ],
     "numbers": [],
     "league": "NFL"
@@ -100371,7 +100693,7 @@ export const NFL_PLAYERS = [
     "display_name": "Chuck Bailey",
     "teams": [],
     "college": [
-      "Cal State-Humboldt"
+      "Humboldt State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -100397,7 +100719,7 @@ export const NFL_PLAYERS = [
       "St. Louis Cardinals"
     ],
     "college": [
-      "North Texas State",
+      "North Texas",
       "Penn State"
     ],
     "numbers": [],
@@ -100412,7 +100734,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Penn"
     ],
-    "numbers": [],
+    "numbers": [
+      60
+    ],
     "league": "NFL"
   },
   {
@@ -100480,7 +100804,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Illinois"
     ],
-    "numbers": [],
+    "numbers": [
+      65
+    ],
     "league": "NFL"
   },
   {
@@ -100786,7 +101112,7 @@ export const NFL_PLAYERS = [
       "Buffalo Bills"
     ],
     "college": [
-      "Memphis State"
+      "Memphis"
     ],
     "numbers": [],
     "league": "NFL"
@@ -100832,7 +101158,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Arkansas"
     ],
-    "numbers": [],
+    "numbers": [
+      28
+    ],
     "league": "NFL"
   },
   {
@@ -100890,7 +101218,9 @@ export const NFL_PLAYERS = [
     "college": [
       "BYU"
     ],
-    "numbers": [],
+    "numbers": [
+      78
+    ],
     "league": "NFL"
   },
   {
@@ -100927,7 +101257,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Maryland"
     ],
-    "numbers": [],
+    "numbers": [
+      57
+    ],
     "league": "NFL"
   },
   {
@@ -101166,8 +101498,8 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "Mississippi",
-      "North Carolina Central"
+      "North Carolina Central",
+      "Ole Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -101177,7 +101509,7 @@ export const NFL_PLAYERS = [
     "display_name": "Chuck Hixson",
     "teams": [],
     "college": [
-      "Southern Methodist"
+      "SMU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -101215,7 +101547,7 @@ export const NFL_PLAYERS = [
       "Philadelphia Eagles"
     ],
     "college": [
-      "Texas Western"
+      "UTEP"
     ],
     "numbers": [],
     "league": "NFL"
@@ -101326,7 +101658,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Northern Michigan"
     ],
-    "numbers": [],
+    "numbers": [
+      99
+    ],
     "league": "NFL"
   },
   {
@@ -101408,7 +101742,9 @@ export const NFL_PLAYERS = [
     "college": [
       "South Dakota State"
     ],
-    "numbers": [],
+    "numbers": [
+      64
+    ],
     "league": "NFL"
   },
   {
@@ -101525,7 +101861,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Yale"
     ],
-    "numbers": [],
+    "numbers": [
+      29
+    ],
     "league": "NFL"
   },
   {
@@ -101713,7 +102051,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Tulane"
     ],
-    "numbers": [],
+    "numbers": [
+      64
+    ],
     "league": "NFL"
   },
   {
@@ -101725,7 +102065,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Wake Forest"
     ],
-    "numbers": [],
+    "numbers": [
+      15
+    ],
     "league": "NFL"
   },
   {
@@ -101875,7 +102217,7 @@ export const NFL_PLAYERS = [
     "display_name": "Chuck Strid",
     "teams": [],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -102005,7 +102347,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Houston"
     ],
-    "numbers": [],
+    "numbers": [
+      37
+    ],
     "league": "NFL"
   },
   {
@@ -102017,7 +102361,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Tennessee"
     ],
-    "numbers": [],
+    "numbers": [
+      30
+    ],
     "league": "NFL"
   },
   {
@@ -102029,7 +102375,7 @@ export const NFL_PLAYERS = [
       "Philadelphia Eagles"
     ],
     "college": [
-      "West Chester (PA)"
+      "West Chester"
     ],
     "numbers": [],
     "league": "NFL"
@@ -102085,7 +102431,9 @@ export const NFL_PLAYERS = [
     "college": [
       "Wisconsin"
     ],
-    "numbers": [],
+    "numbers": [
+      36
+    ],
     "league": "NFL"
   },
   {
@@ -102296,7 +102644,6 @@ export const NFL_PLAYERS = [
       "New York Jets"
     ],
     "college": [
-      "Southern California",
       "USC"
     ],
     "numbers": [
@@ -102435,7 +102782,7 @@ export const NFL_PLAYERS = [
     "display_name": "Claire Rasmussen",
     "teams": [],
     "college": [
-      "Wisconsin\u2013Oshkosh"
+      "Wisconsin-Oshkosh"
     ],
     "numbers": [],
     "league": "NFL"
@@ -102767,7 +103114,7 @@ export const NFL_PLAYERS = [
       "Cincinnati Bengals"
     ],
     "college": [
-      "Texas-San Antonio"
+      "UTSA"
     ],
     "numbers": [
       50
@@ -102868,7 +103215,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Notre Dame",
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       35,
@@ -103379,7 +103726,7 @@ export const NFL_PLAYERS = [
     "display_name": "Claude \"Hoot\" Gibson",
     "teams": [],
     "college": [
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -103458,7 +103805,7 @@ export const NFL_PLAYERS = [
       "Detroit Lions"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       70
@@ -103482,7 +103829,7 @@ export const NFL_PLAYERS = [
     "display_name": "Claude Herard",
     "teams": [],
     "college": [
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -103692,7 +104039,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Alcorn State",
-      "UMass Amherst"
+      "UMass"
     ],
     "numbers": [
       53
@@ -103851,7 +104198,7 @@ export const NFL_PLAYERS = [
       "Los Angeles Rams"
     ],
     "college": [
-      "Southern California"
+      "USC"
     ],
     "numbers": [
       52
@@ -103987,7 +104334,6 @@ export const NFL_PLAYERS = [
       "Indianapolis Colts"
     ],
     "college": [
-      "Central Florida",
       "UCF"
     ],
     "numbers": [
@@ -104017,7 +104363,7 @@ export const NFL_PLAYERS = [
       "Miami Dolphins"
     ],
     "college": [
-      "Carson\u2013Newman"
+      "Carson-Newman"
     ],
     "numbers": [
       47
@@ -104043,8 +104389,8 @@ export const NFL_PLAYERS = [
     "display_name": "Clayton Korver",
     "teams": [],
     "college": [
-      "Northwestern (Iowa)",
-      "Southern Methodist"
+      "Northwestern (IA)",
+      "SMU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -104294,7 +104640,7 @@ export const NFL_PLAYERS = [
     "display_name": "Clemente Gordon",
     "teams": [],
     "college": [
-      "Grambling State"
+      "Grambling"
     ],
     "numbers": [],
     "league": "NFL"
@@ -104329,7 +104675,7 @@ export const NFL_PLAYERS = [
       "Jacksonville Jaguars"
     ],
     "college": [
-      "Southwest Texas State"
+      "Texas State"
     ],
     "numbers": [
       97,
@@ -104372,7 +104718,7 @@ export const NFL_PLAYERS = [
       "Kansas City Chiefs"
     ],
     "college": [
-      "Arkansas\u2013Pine Bluff"
+      "Arkansas-Pine Bluff"
     ],
     "numbers": [],
     "league": "NFL"
@@ -104420,7 +104766,7 @@ export const NFL_PLAYERS = [
     "display_name": "Cleo\u00a0Johnson",
     "teams": [],
     "college": [
-      "Alcorn A&M"
+      "Alcorn State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -105092,8 +105438,7 @@ export const NFL_PLAYERS = [
       "Miami Dolphins"
     ],
     "college": [
-      "Texas\u2013Arlington",
-      "University of Texas-Arlington"
+      "Texas-Arlington"
     ],
     "numbers": [],
     "league": "NFL"
@@ -105252,7 +105597,7 @@ export const NFL_PLAYERS = [
       "Green Bay Packers"
     ],
     "college": [
-      "Memphis State"
+      "Memphis"
     ],
     "numbers": [],
     "league": "NFL"
@@ -105358,7 +105703,7 @@ export const NFL_PLAYERS = [
       "Atlanta Falcons"
     ],
     "college": [
-      "Texas-San Antonio"
+      "UTSA"
     ],
     "numbers": [
       39
@@ -105382,7 +105727,7 @@ export const NFL_PLAYERS = [
     "display_name": "Clifford Ivory",
     "teams": [],
     "college": [
-      "Troy State"
+      "Troy"
     ],
     "numbers": [],
     "league": "NFL"
@@ -105412,7 +105757,7 @@ export const NFL_PLAYERS = [
     "display_name": "Cliffton\u00a0Black",
     "teams": [],
     "college": [
-      "Southwest Texas State"
+      "Texas State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -105432,7 +105777,7 @@ export const NFL_PLAYERS = [
     "display_name": "Cliff\u00a0Coggin",
     "teams": [],
     "college": [
-      "Mississippi Southern"
+      "Southern Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -105487,7 +105832,7 @@ export const NFL_PLAYERS = [
     "display_name": "Clifton Davis",
     "teams": [],
     "college": [
-      "Alcorn A&M"
+      "Alcorn State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -105672,7 +106017,7 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [
       49
@@ -105742,7 +106087,7 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "Wisconsin\u2013Stevens Point"
+      "Wisconsin-Stevens Point"
     ],
     "numbers": [
       57,
@@ -105842,7 +106187,7 @@ export const NFL_PLAYERS = [
       "Jacksonville Jaguars"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       55
@@ -105854,7 +106199,7 @@ export const NFL_PLAYERS = [
     "display_name": "Clint Shipman",
     "teams": [],
     "college": [
-      "East Texas State"
+      "East Texas A&M"
     ],
     "numbers": [],
     "league": "NFL"
@@ -106050,7 +106395,6 @@ export const NFL_PLAYERS = [
       "Oakland Raiders"
     ],
     "college": [
-      "Miami",
       "Miami (FL)"
     ],
     "numbers": [
@@ -106079,7 +106423,7 @@ export const NFL_PLAYERS = [
       "Detroit Lions"
     ],
     "college": [
-      "West Texas State"
+      "West Texas A&M"
     ],
     "numbers": [],
     "league": "NFL"
@@ -106608,7 +106952,7 @@ export const NFL_PLAYERS = [
       "Arizona Cardinals"
     ],
     "college": [
-      "Southern Methodist"
+      "SMU"
     ],
     "numbers": [
       23
@@ -106623,7 +106967,7 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "Southeastern Oklahoma"
+      "Southeastern Oklahoma State"
     ],
     "numbers": [
       47,
@@ -106680,7 +107024,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Arkansas State",
-      "Connecticut"
+      "UConn"
     ],
     "numbers": [],
     "league": "NFL"
@@ -106720,7 +107064,7 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       64,
@@ -106737,7 +107081,6 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "Mississippi",
       "Ole Miss"
     ],
     "numbers": [
@@ -106864,7 +107207,6 @@ export const NFL_PLAYERS = [
       "New England Patriots"
     ],
     "college": [
-      "Southern California",
       "USC"
     ],
     "numbers": [
@@ -106992,7 +107334,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Missouri",
-      "Truman State University"
+      "Truman State"
     ],
     "numbers": [
       5,
@@ -107225,7 +107567,7 @@ export const NFL_PLAYERS = [
       "Green Bay Packers"
     ],
     "college": [
-      "Brigham Young"
+      "BYU"
     ],
     "numbers": [
       13,
@@ -107255,8 +107597,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Mary",
-      "William & Mary",
-      "William &amp"
+      "William & Mary"
     ],
     "numbers": [
       75
@@ -107271,7 +107612,6 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "California-Davis",
       "UC Davis"
     ],
     "numbers": [
@@ -107319,8 +107659,7 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "SMU",
-      "Southern Methodist"
+      "SMU"
     ],
     "numbers": [
       9,
@@ -107520,7 +107859,7 @@ export const NFL_PLAYERS = [
       "Los Angeles Chargers"
     ],
     "college": [
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [
       81,
@@ -107629,7 +107968,7 @@ export const NFL_PLAYERS = [
       "Green Bay Packers"
     ],
     "college": [
-      "Central Florida"
+      "UCF"
     ],
     "numbers": [
       61
@@ -107659,8 +107998,7 @@ export const NFL_PLAYERS = [
       "New England Patriots"
     ],
     "college": [
-      "Chattanooga",
-      "Tennessee-Chattanooga"
+      "Chattanooga"
     ],
     "numbers": [
       69
@@ -107982,8 +108320,7 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "TCU",
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [
       42,
@@ -108192,7 +108529,7 @@ export const NFL_PLAYERS = [
       "Dallas Cowboys"
     ],
     "college": [
-      "Central Missouri State"
+      "Central Missouri"
     ],
     "numbers": [
       95
@@ -108260,7 +108597,6 @@ export const NFL_PLAYERS = [
       "Tennessee Titans"
     ],
     "college": [
-      "Tennessee-Martin",
       "UT Martin"
     ],
     "numbers": [
@@ -108305,7 +108641,6 @@ export const NFL_PLAYERS = [
       "Buffalo Bills"
     ],
     "college": [
-      "California-Davis",
       "UC Davis"
     ],
     "numbers": [
@@ -108360,7 +108695,7 @@ export const NFL_PLAYERS = [
     "display_name": "Connie Baird",
     "teams": [],
     "college": [
-      "Hardin\u2013Simmons"
+      "Hardin-Simmons"
     ],
     "numbers": [],
     "league": "NFL"
@@ -108525,7 +108860,7 @@ export const NFL_PLAYERS = [
       "Oakland Raiders"
     ],
     "college": [
-      "Central Missouri State"
+      "Central Missouri"
     ],
     "numbers": [
       93
@@ -109225,7 +109560,7 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "Brigham Young"
+      "BYU"
     ],
     "numbers": [
       62,
@@ -109329,7 +109664,7 @@ export const NFL_PLAYERS = [
       "San Diego Chargers"
     ],
     "college": [
-      "Southern Mississippi"
+      "Southern Miss"
     ],
     "numbers": [
       99
@@ -109343,7 +109678,7 @@ export const NFL_PLAYERS = [
       "Cleveland Browns"
     ],
     "college": [
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [
       67
@@ -110012,8 +110347,7 @@ export const NFL_PLAYERS = [
       "Tennessee Titans"
     ],
     "college": [
-      "Chattanooga",
-      "Tennessee-Chattanooga"
+      "Chattanooga"
     ],
     "numbers": [
       60,
@@ -110138,7 +110472,7 @@ export const NFL_PLAYERS = [
       "Baltimore Ravens"
     ],
     "college": [
-      "Texas-San Antonio"
+      "UTSA"
     ],
     "numbers": [
       39
@@ -110734,7 +111068,6 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Miami",
       "Miami (FL)"
     ],
     "numbers": [
@@ -110970,7 +111303,7 @@ export const NFL_PLAYERS = [
     "display_name": "Cornelius\u00a0Benton",
     "teams": [],
     "college": [
-      "Connecticut"
+      "UConn"
     ],
     "numbers": [],
     "league": "NFL"
@@ -110995,8 +111328,7 @@ export const NFL_PLAYERS = [
       "Miami Dolphins"
     ],
     "college": [
-      "Southern Miss",
-      "Southern Mississippi"
+      "Southern Miss"
     ],
     "numbers": [
       3,
@@ -111100,7 +111432,7 @@ export const NFL_PLAYERS = [
       "Indianapolis Colts"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -111174,7 +111506,7 @@ export const NFL_PLAYERS = [
     "display_name": "Corny Salvaterra",
     "teams": [],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -111380,7 +111712,7 @@ export const NFL_PLAYERS = [
     "display_name": "Corwyn Aldredge",
     "teams": [],
     "college": [
-      "Northwestern State (LA)"
+      "Northwestern State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -111450,8 +111782,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Florida State",
-      "N.C. State",
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [
       69,
@@ -111957,8 +112288,7 @@ export const NFL_PLAYERS = [
       "Denver Broncos"
     ],
     "college": [
-      "SMU",
-      "Southern Methodist"
+      "SMU"
     ],
     "numbers": [
       14
@@ -112180,7 +112510,7 @@ export const NFL_PLAYERS = [
       "San Diego Chargers"
     ],
     "college": [
-      "Arkansas\u2013Pine Bluff"
+      "Arkansas-Pine Bluff"
     ],
     "numbers": [
       71,
@@ -112365,7 +112695,7 @@ export const NFL_PLAYERS = [
       "San Diego Chargers"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -112377,7 +112707,7 @@ export const NFL_PLAYERS = [
       "Houston Oilers"
     ],
     "college": [
-      "North Texas State"
+      "North Texas"
     ],
     "numbers": [],
     "league": "NFL"
@@ -112644,7 +112974,7 @@ export const NFL_PLAYERS = [
       "St. Louis Rams"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       33,
@@ -112741,7 +113071,7 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "Lenoir\u2013Rhyne"
+      "Lenoir-Rhyne"
     ],
     "numbers": [],
     "league": "NFL"
@@ -113287,7 +113617,7 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -113482,7 +113812,7 @@ export const NFL_PLAYERS = [
       "Philadelphia Eagles"
     ],
     "college": [
-      "Florida Atlantic"
+      "FAU"
     ],
     "numbers": [
       21,
@@ -113716,9 +114046,7 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "M",
-      "Texas A&M",
-      "Texas A&amp"
+      "Texas A&M"
     ],
     "numbers": [
       36,
@@ -113800,7 +114128,7 @@ export const NFL_PLAYERS = [
     "display_name": "Curg Belcher",
     "teams": [],
     "college": [
-      "Brigham Young"
+      "BYU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -113916,7 +114244,7 @@ export const NFL_PLAYERS = [
     "display_name": "Curry Juneau",
     "teams": [],
     "college": [
-      "Southern Mississippi"
+      "Southern Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -114263,7 +114591,7 @@ export const NFL_PLAYERS = [
       "San Diego Chargers"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       36,
@@ -114335,7 +114663,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "East Texas"
+      "East Texas A&M"
     ],
     "numbers": [
       25,
@@ -114790,7 +115118,7 @@ export const NFL_PLAYERS = [
       "New York Jets"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       28
@@ -114805,7 +115133,7 @@ export const NFL_PLAYERS = [
       "Cincinnati Bengals"
     ],
     "college": [
-      "Grambling State"
+      "Grambling"
     ],
     "numbers": [],
     "league": "NFL"
@@ -114853,7 +115181,7 @@ export const NFL_PLAYERS = [
       "Los Angeles Rams"
     ],
     "college": [
-      "Southern Mississippi"
+      "Southern Miss"
     ],
     "numbers": [
       33
@@ -114941,7 +115269,7 @@ export const NFL_PLAYERS = [
       "San Diego Chargers"
     ],
     "college": [
-      "Tennessee-Chattanooga"
+      "Chattanooga"
     ],
     "numbers": [],
     "league": "NFL"
@@ -115047,7 +115375,7 @@ export const NFL_PLAYERS = [
     "display_name": "Curtis Wester",
     "teams": [],
     "college": [
-      "East Texas State"
+      "East Texas A&M"
     ],
     "numbers": [],
     "league": "NFL"
@@ -115189,7 +115517,7 @@ export const NFL_PLAYERS = [
       "Detroit Lions"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -115477,7 +115805,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Brigham Young"
+      "BYU"
     ],
     "numbers": [
       38
@@ -115649,7 +115977,7 @@ export const NFL_PLAYERS = [
       "Carolina Panthers"
     ],
     "college": [
-      "Miami"
+      "Miami (FL)"
     ],
     "numbers": [],
     "league": "NFL"
@@ -115665,8 +115993,7 @@ export const NFL_PLAYERS = [
       "New England Patriots"
     ],
     "college": [
-      "South Florida",
-      "University of South Florida"
+      "South Florida"
     ],
     "numbers": [
       2,
@@ -115697,7 +116024,7 @@ export const NFL_PLAYERS = [
       "Tennessee Titans"
     ],
     "college": [
-      "Florida Atlantic"
+      "FAU"
     ],
     "numbers": [
       20,
@@ -115883,7 +116210,7 @@ export const NFL_PLAYERS = [
       "Indianapolis Colts"
     ],
     "college": [
-      "Florida International"
+      "FIU"
     ],
     "numbers": [
       27
@@ -115895,7 +116222,7 @@ export const NFL_PLAYERS = [
     "display_name": "D. C. Andrews",
     "teams": [],
     "college": [
-      "Hardin\u2013Simmons"
+      "Hardin-Simmons"
     ],
     "numbers": [],
     "league": "NFL"
@@ -116171,7 +116498,6 @@ export const NFL_PLAYERS = [
       "Cincinnati Bengals"
     ],
     "college": [
-      "Miami",
       "Miami (FL)"
     ],
     "numbers": [
@@ -116228,7 +116554,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "East Mississippi JC",
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [
       71,
@@ -116247,7 +116573,7 @@ export const NFL_PLAYERS = [
       "Philadelphia Eagles"
     ],
     "college": [
-      "Central Florida"
+      "UCF"
     ],
     "numbers": [
       29,
@@ -116645,7 +116971,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Miami",
+      "Miami (FL)",
       "Oregon"
     ],
     "numbers": [
@@ -116710,7 +117036,7 @@ export const NFL_PLAYERS = [
       "Houston Texans"
     ],
     "college": [
-      "Miami"
+      "Miami (FL)"
     ],
     "numbers": [
       61
@@ -116726,7 +117052,7 @@ export const NFL_PLAYERS = [
     "college": [
       "Maryland",
       "Michigan",
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       19
@@ -116771,7 +117097,6 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "Mississippi",
       "Ole Miss"
     ],
     "numbers": [
@@ -116996,7 +117321,7 @@ export const NFL_PLAYERS = [
       "Cincinnati Bengals"
     ],
     "college": [
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [
       18,
@@ -117226,9 +117551,7 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "M",
-      "Texas A&M",
-      "Texas A&amp"
+      "Texas A&M"
     ],
     "numbers": [
       74,
@@ -117255,7 +117578,7 @@ export const NFL_PLAYERS = [
     "display_name": "Dag Azam",
     "teams": [],
     "college": [
-      "West Texas State"
+      "West Texas A&M"
     ],
     "numbers": [],
     "league": "NFL"
@@ -117294,7 +117617,6 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Liberty",
-      "Mississippi",
       "Ole Miss"
     ],
     "numbers": [
@@ -117508,7 +117830,7 @@ export const NFL_PLAYERS = [
     "display_name": "Dale Brady",
     "teams": [],
     "college": [
-      "Memphis State"
+      "Memphis"
     ],
     "numbers": [],
     "league": "NFL"
@@ -117929,7 +118251,7 @@ export const NFL_PLAYERS = [
     "display_name": "Dale Stewart",
     "teams": [],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -118167,8 +118489,7 @@ export const NFL_PLAYERS = [
       "Philadelphia Eagles"
     ],
     "college": [
-      "BYU",
-      "Brigham Young"
+      "BYU"
     ],
     "numbers": [
       61,
@@ -118278,8 +118599,7 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "Pittsburg State",
-      "Pittsburg State (KS)"
+      "Pittsburg State"
     ],
     "numbers": [
       28,
@@ -118309,7 +118629,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Oklahoma State",
-      "Texas State-San Marcos"
+      "Texas State"
     ],
     "numbers": [
       78
@@ -118394,7 +118714,7 @@ export const NFL_PLAYERS = [
       "Buffalo Bills"
     ],
     "college": [
-      "Univ of California-San Diego",
+      "UC San Diego",
       "Utah"
     ],
     "numbers": [
@@ -118407,7 +118727,7 @@ export const NFL_PLAYERS = [
     "display_name": "Dalton Leblanc",
     "teams": [],
     "college": [
-      "N.E. Louisiana"
+      "Louisiana-Monroe"
     ],
     "numbers": [],
     "league": "NFL"
@@ -118466,7 +118786,7 @@ export const NFL_PLAYERS = [
       "Dallas Cowboys"
     ],
     "college": [
-      "Texas-San Antonio"
+      "UTSA"
     ],
     "numbers": [
       1
@@ -118626,7 +118946,7 @@ export const NFL_PLAYERS = [
       "Buffalo Bills"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       3,
@@ -118730,7 +119050,7 @@ export const NFL_PLAYERS = [
       "Denver Broncos"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       27,
@@ -118869,7 +119189,7 @@ export const NFL_PLAYERS = [
       "Carolina Panthers"
     ],
     "college": [
-      "Florida Atlantic"
+      "FAU"
     ],
     "numbers": [
       25,
@@ -119021,7 +119341,6 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "Miami",
       "Miami (FL)",
       "Oregon State"
     ],
@@ -119193,7 +119512,7 @@ export const NFL_PLAYERS = [
       "Detroit Lions"
     ],
     "college": [
-      "Bethune\u2013Cookman"
+      "Bethune-Cookman"
     ],
     "numbers": [
       71,
@@ -119255,9 +119574,7 @@ export const NFL_PLAYERS = [
       "Minnesota Vikings"
     ],
     "college": [
-      "M",
-      "Texas A&M",
-      "Texas A&amp"
+      "Texas A&M"
     ],
     "numbers": [
       17,
@@ -119708,9 +120025,7 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "M",
-      "Texas A&M",
-      "Texas A&amp"
+      "Texas A&M"
     ],
     "numbers": [
       56,
@@ -119732,7 +120047,7 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [
       14,
@@ -119798,7 +120113,7 @@ export const NFL_PLAYERS = [
     "display_name": "Dan Andrews",
     "teams": [],
     "college": [
-      "West Texas State"
+      "West Texas A&M"
     ],
     "numbers": [],
     "league": "NFL"
@@ -119823,8 +120138,7 @@ export const NFL_PLAYERS = [
       "New Orleans Saints"
     ],
     "college": [
-      "Wisconsin-Platteville",
-      "Wisconsin\u2013Platteville"
+      "Wisconsin-Platteville"
     ],
     "numbers": [
       82,
@@ -120052,7 +120366,7 @@ export const NFL_PLAYERS = [
       "Buffalo Bills"
     ],
     "college": [
-      "Cal State-Sacramento"
+      "Sacramento State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -120223,7 +120537,7 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "CSU Pueblo"
+      "Colorado State-Pueblo"
     ],
     "numbers": [],
     "league": "NFL"
@@ -121110,7 +121424,7 @@ export const NFL_PLAYERS = [
       "Miami Dolphins"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       13
@@ -121224,9 +121538,7 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "M",
-      "Texas A&M",
-      "Texas A&amp"
+      "Texas A&M"
     ],
     "numbers": [
       48,
@@ -121242,9 +121554,7 @@ export const NFL_PLAYERS = [
       "Tennessee Titans"
     ],
     "college": [
-      "M",
-      "Texas A&M",
-      "Texas A&amp"
+      "Texas A&M"
     ],
     "numbers": [
       65,
@@ -121400,7 +121710,7 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "Connecticut"
+      "UConn"
     ],
     "numbers": [
       6,
@@ -121686,7 +121996,7 @@ export const NFL_PLAYERS = [
       "San Diego Chargers"
     ],
     "college": [
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -121738,7 +122048,7 @@ export const NFL_PLAYERS = [
     "display_name": "Dan Sheehan",
     "teams": [],
     "college": [
-      "Tennessee-Chattanooga"
+      "Chattanooga"
     ],
     "numbers": [],
     "league": "NFL"
@@ -122036,7 +122346,7 @@ export const NFL_PLAYERS = [
     "display_name": "Dan Wisniewski",
     "teams": [],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -122056,7 +122366,7 @@ export const NFL_PLAYERS = [
     "display_name": "Dan Yochum",
     "teams": [],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -122320,7 +122630,7 @@ export const NFL_PLAYERS = [
       "Carolina Panthers"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       23,
@@ -122647,7 +122957,6 @@ export const NFL_PLAYERS = [
       "St. Louis Rams"
     ],
     "college": [
-      "California-Davis",
       "UC Davis"
     ],
     "numbers": [
@@ -122812,7 +123121,7 @@ export const NFL_PLAYERS = [
       "Buffalo Bills"
     ],
     "college": [
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [
       96
@@ -123007,8 +123316,7 @@ export const NFL_PLAYERS = [
       "New Orleans Saints"
     ],
     "college": [
-      "BYU",
-      "Brigham Young"
+      "BYU"
     ],
     "numbers": [
       25,
@@ -123074,7 +123382,6 @@ export const NFL_PLAYERS = [
       "New Orleans Saints"
     ],
     "college": [
-      "California-Davis",
       "UC Davis"
     ],
     "numbers": [
@@ -123502,7 +123809,7 @@ export const NFL_PLAYERS = [
       "Cleveland Browns"
     ],
     "college": [
-      "Nebraska\u2013Omaha"
+      "Nebraska-Omaha"
     ],
     "numbers": [],
     "league": "NFL"
@@ -123535,8 +123842,7 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "SMU",
-      "Southern Methodist"
+      "SMU"
     ],
     "numbers": [
       6,
@@ -123577,7 +123883,6 @@ export const NFL_PLAYERS = [
       "Tennessee Titans"
     ],
     "college": [
-      "Miami",
       "Miami (FL)"
     ],
     "numbers": [
@@ -123668,7 +123973,6 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "Connecticut",
       "UConn"
     ],
     "numbers": [
@@ -123682,7 +123986,7 @@ export const NFL_PLAYERS = [
     "display_name": "Danny Lee",
     "teams": [],
     "college": [
-      "N.E. Louisiana"
+      "Louisiana-Monroe"
     ],
     "numbers": [],
     "league": "NFL"
@@ -123844,7 +124148,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Memphis State"
+      "Memphis"
     ],
     "numbers": [],
     "league": "NFL"
@@ -123905,7 +124209,7 @@ export const NFL_PLAYERS = [
     "display_name": "Danny Sanders",
     "teams": [],
     "college": [
-      "Carson\u2013Newman"
+      "Carson-Newman"
     ],
     "numbers": [],
     "league": "NFL"
@@ -124185,7 +124489,7 @@ export const NFL_PLAYERS = [
     "display_name": "Danny\u00a0Griffin",
     "teams": [],
     "college": [
-      "Texas\u2013Arlington"
+      "Texas-Arlington"
     ],
     "numbers": [],
     "league": "NFL"
@@ -124267,7 +124571,7 @@ export const NFL_PLAYERS = [
       "Indianapolis Colts"
     ],
     "college": [
-      "Kennesaw St. (GA)"
+      "Kennesaw State"
     ],
     "numbers": [
       37
@@ -124404,7 +124708,7 @@ export const NFL_PLAYERS = [
       "Los Angeles Rams"
     ],
     "college": [
-      "Saint Mary's"
+      "St. Mary's (CA)"
     ],
     "numbers": [],
     "league": "NFL"
@@ -124539,7 +124843,7 @@ export const NFL_PLAYERS = [
       "Detroit Lions"
     ],
     "college": [
-      "Arkansas\u2013Pine Bluff"
+      "Arkansas-Pine Bluff"
     ],
     "numbers": [
       21,
@@ -124619,7 +124923,7 @@ export const NFL_PLAYERS = [
     "display_name": "Dan\u00a0Hartwig",
     "teams": [],
     "college": [
-      "Cal Lutheran"
+      "California Lutheran"
     ],
     "numbers": [],
     "league": "NFL"
@@ -124875,9 +125179,7 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "Lenoir Rhyne",
-      "Lenoir-Rhyne",
-      "Lenoir\u2013Rhyne"
+      "Lenoir-Rhyne"
     ],
     "numbers": [
       81,
@@ -125224,7 +125526,6 @@ export const NFL_PLAYERS = [
       "Los Angeles Rams"
     ],
     "college": [
-      "Alabama-Birmingham",
       "UAB"
     ],
     "numbers": [
@@ -125256,7 +125557,7 @@ export const NFL_PLAYERS = [
       "Indianapolis Colts"
     ],
     "college": [
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [
       30,
@@ -125289,7 +125590,7 @@ export const NFL_PLAYERS = [
       "New England Patriots"
     ],
     "college": [
-      "Connecticut"
+      "UConn"
     ],
     "numbers": [
       20,
@@ -125419,8 +125720,7 @@ export const NFL_PLAYERS = [
       "New England Patriots"
     ],
     "college": [
-      "Middle Tennessee",
-      "Middle Tennessee State"
+      "Middle Tennessee"
     ],
     "numbers": [
       42,
@@ -125734,7 +126034,7 @@ export const NFL_PLAYERS = [
       "Philadelphia Eagles"
     ],
     "college": [
-      "Penn State-Beaver"
+      "Penn State"
     ],
     "numbers": [
       1
@@ -126058,7 +126358,7 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       41,
@@ -126125,7 +126425,7 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "Monmouth (N.J.)"
+      "Monmouth"
     ],
     "numbers": [
       40,
@@ -126610,7 +126910,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -126656,8 +126956,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Texas A&I",
-      "Texas A&M University-Kingsville"
+      "Texas A&M-Kingsville"
     ],
     "numbers": [
       28
@@ -127093,7 +127392,7 @@ export const NFL_PLAYERS = [
       "Detroit Lions"
     ],
     "college": [
-      "East Texas State"
+      "East Texas A&M"
     ],
     "numbers": [],
     "league": "NFL"
@@ -127165,7 +127464,7 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       24
@@ -127396,7 +127695,6 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "California-Irvine",
       "UC Irvine"
     ],
     "numbers": [
@@ -127486,7 +127784,7 @@ export const NFL_PLAYERS = [
     "display_name": "Darren Hughes",
     "teams": [],
     "college": [
-      "Carson\u2013Newman"
+      "Carson-Newman"
     ],
     "numbers": [],
     "league": "NFL"
@@ -127853,7 +128151,7 @@ export const NFL_PLAYERS = [
       "Houston Texans"
     ],
     "college": [
-      "Southwest Texas State"
+      "Texas State"
     ],
     "numbers": [
       21,
@@ -127916,7 +128214,7 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       34
@@ -127930,7 +128228,7 @@ export const NFL_PLAYERS = [
       "Cincinnati Bengals"
     ],
     "college": [
-      "Texas-El Paso"
+      "UTEP"
     ],
     "numbers": [
       44
@@ -128049,7 +128347,7 @@ export const NFL_PLAYERS = [
     "display_name": "Darrin\u00a0Newbold",
     "teams": [],
     "college": [
-      "Southwest Missouri State"
+      "Missouri State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -128528,7 +128826,7 @@ export const NFL_PLAYERS = [
       "Baltimore Colts"
     ],
     "college": [
-      "West Texas State"
+      "West Texas A&M"
     ],
     "numbers": [],
     "league": "NFL"
@@ -128591,7 +128889,6 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "North Carolina A&T",
-      "North Carolina A&amp",
       "T"
     ],
     "numbers": [
@@ -128607,7 +128904,7 @@ export const NFL_PLAYERS = [
       "Cleveland Browns"
     ],
     "college": [
-      "Texas\u2013Arlington"
+      "Texas-Arlington"
     ],
     "numbers": [],
     "league": "NFL"
@@ -128928,7 +129225,7 @@ export const NFL_PLAYERS = [
       "New England Patriots"
     ],
     "college": [
-      "Pittsburg State (KS)"
+      "Pittsburg State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -129251,7 +129548,7 @@ export const NFL_PLAYERS = [
       "Dallas Cowboys"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       48
@@ -129311,7 +129608,7 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "Miami",
+      "Miami (FL)",
       "West Virginia"
     ],
     "numbers": [
@@ -129445,8 +129742,7 @@ export const NFL_PLAYERS = [
       "Arizona Cardinals"
     ],
     "college": [
-      "TCU",
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [
       58
@@ -129863,7 +130159,7 @@ export const NFL_PLAYERS = [
     "display_name": "Dave Archer",
     "teams": [],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -129899,7 +130195,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Oklahoma",
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -130025,7 +130321,7 @@ export const NFL_PLAYERS = [
     "display_name": "Dave Bishop",
     "teams": [],
     "college": [
-      "Connecticut"
+      "UConn"
     ],
     "numbers": [],
     "league": "NFL"
@@ -130264,7 +130560,7 @@ export const NFL_PLAYERS = [
       "New England Patriots"
     ],
     "college": [
-      "Santa Barbara"
+      "UC Santa Barbara"
     ],
     "numbers": [],
     "league": "NFL"
@@ -130549,7 +130845,7 @@ export const NFL_PLAYERS = [
     "display_name": "Dave Ellis",
     "teams": [],
     "college": [
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -130613,7 +130909,7 @@ export const NFL_PLAYERS = [
     "display_name": "Dave Finney",
     "teams": [],
     "college": [
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -130652,7 +130948,7 @@ export const NFL_PLAYERS = [
     "display_name": "Dave Fisher",
     "teams": [],
     "college": [
-      "Southwestern Louisiana"
+      "Louisiana-Lafayette"
     ],
     "numbers": [],
     "league": "NFL"
@@ -130724,7 +131020,7 @@ export const NFL_PLAYERS = [
       "Minnesota Vikings"
     ],
     "college": [
-      "Pittsburgh",
+      "Pitt",
       "Stanford"
     ],
     "numbers": [
@@ -130877,7 +131173,7 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "Memphis State"
+      "Memphis"
     ],
     "numbers": [],
     "league": "NFL"
@@ -131102,7 +131398,7 @@ export const NFL_PLAYERS = [
       "Philadelphia Eagles"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -131221,7 +131517,7 @@ export const NFL_PLAYERS = [
       "Kansas City Chiefs"
     ],
     "college": [
-      "Concordia\u2013Moorhead"
+      "Concordia (Moorhead)"
     ],
     "numbers": [],
     "league": "NFL"
@@ -131337,7 +131633,7 @@ export const NFL_PLAYERS = [
       "Cincinnati Bengals"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -131347,7 +131643,7 @@ export const NFL_PLAYERS = [
     "display_name": "Dave Lattin",
     "teams": [],
     "college": [
-      "Texas Western"
+      "UTEP"
     ],
     "numbers": [],
     "league": "NFL"
@@ -131446,7 +131742,7 @@ export const NFL_PLAYERS = [
       "Phoenix Cardinals"
     ],
     "college": [
-      "Middle Tennessee State"
+      "Middle Tennessee"
     ],
     "numbers": [],
     "league": "NFL"
@@ -131496,7 +131792,7 @@ export const NFL_PLAYERS = [
     "display_name": "Dave Lovich",
     "teams": [],
     "college": [
-      "Northwestern State (LA)"
+      "Northwestern State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -131726,7 +132022,7 @@ export const NFL_PLAYERS = [
       "St. Louis Cardinals"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -131787,7 +132083,7 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       83,
@@ -131969,7 +132265,7 @@ export const NFL_PLAYERS = [
       "Brooklyn Dodgers"
     ],
     "college": [
-      "Hardin\u2013Simmons"
+      "Hardin-Simmons"
     ],
     "numbers": [],
     "league": "NFL"
@@ -132137,7 +132433,7 @@ export const NFL_PLAYERS = [
       "Cleveland Browns"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -132331,7 +132627,7 @@ export const NFL_PLAYERS = [
       "New York Titans"
     ],
     "college": [
-      "Cal State\u2013Los Angeles"
+      "Cal State-Los Angeles"
     ],
     "numbers": [],
     "league": "NFL"
@@ -132405,7 +132701,7 @@ export const NFL_PLAYERS = [
       "Dallas Cowboys"
     ],
     "college": [
-      "Southern Methodist"
+      "SMU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -132727,7 +133023,7 @@ export const NFL_PLAYERS = [
       "New Orleans Saints"
     ],
     "college": [
-      "West Texas State"
+      "West Texas A&M"
     ],
     "numbers": [],
     "league": "NFL"
@@ -132923,7 +133219,7 @@ export const NFL_PLAYERS = [
     "display_name": "Dave Wannstedt",
     "teams": [],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -133056,7 +133352,7 @@ export const NFL_PLAYERS = [
     "display_name": "Dave Wilemon",
     "teams": [],
     "college": [
-      "Southern Methodist"
+      "SMU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -133126,7 +133422,7 @@ export const NFL_PLAYERS = [
       "St. Louis Rams"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       64
@@ -133243,7 +133539,7 @@ export const NFL_PLAYERS = [
     "display_name": "Dave Zivich",
     "teams": [],
     "college": [
-      "California-Santa Barbara"
+      "UC Santa Barbara"
     ],
     "numbers": [],
     "league": "NFL"
@@ -133303,7 +133599,7 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "Troy State"
+      "Troy"
     ],
     "numbers": [
       96
@@ -133687,8 +133983,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "NC State",
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [
       29,
@@ -133789,7 +134084,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Michigan",
-      "N.W. Louisiana"
+      "Northwestern State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -133913,8 +134208,7 @@ export const NFL_PLAYERS = [
       "Tennessee Titans"
     ],
     "college": [
-      "Missouri Western",
-      "Missouri Western State"
+      "Missouri Western"
     ],
     "numbers": [
       47,
@@ -133933,7 +134227,7 @@ export const NFL_PLAYERS = [
       "Phoenix Cardinals"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -134079,8 +134373,7 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "Memphis",
-      "Memphis State"
+      "Memphis"
     ],
     "numbers": [
       51
@@ -134402,7 +134695,7 @@ export const NFL_PLAYERS = [
     "display_name": "David Dumars",
     "teams": [],
     "college": [
-      "Northeast Louisiana"
+      "Louisiana-Monroe"
     ],
     "numbers": [],
     "league": "NFL"
@@ -134808,7 +135101,7 @@ export const NFL_PLAYERS = [
       "Jacksonville Jaguars"
     ],
     "college": [
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [
       86
@@ -134834,7 +135127,7 @@ export const NFL_PLAYERS = [
       "Kansas City Chiefs"
     ],
     "college": [
-      "Alcorn A&M"
+      "Alcorn State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -134969,7 +135262,7 @@ export const NFL_PLAYERS = [
       "Los Angeles Rams"
     ],
     "college": [
-      "Texas A&I"
+      "Texas A&M-Kingsville"
     ],
     "numbers": [],
     "league": "NFL"
@@ -135028,7 +135321,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Brown",
-      "California State - Long Beach",
+      "Long Beach State",
       "Oregon State"
     ],
     "numbers": [],
@@ -135490,7 +135783,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Florida",
-      "Middle Tennessee State"
+      "Middle Tennessee"
     ],
     "numbers": [],
     "league": "NFL"
@@ -135503,7 +135796,7 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       76
@@ -135887,7 +136180,7 @@ export const NFL_PLAYERS = [
       "Minnesota Vikings"
     ],
     "college": [
-      "Texas-San Antonio"
+      "UTSA"
     ],
     "numbers": [
       89
@@ -135909,7 +136202,7 @@ export const NFL_PLAYERS = [
     "display_name": "David Morrison",
     "teams": [],
     "college": [
-      "Southwest Texas State"
+      "Texas State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -135962,7 +136255,6 @@ export const NFL_PLAYERS = [
       "Cleveland Browns"
     ],
     "college": [
-      "Miami",
       "Miami (FL)"
     ],
     "numbers": [
@@ -136231,7 +136523,7 @@ export const NFL_PLAYERS = [
     "display_name": "David Poche",
     "teams": [],
     "college": [
-      "McNeese"
+      "McNeese State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -136260,7 +136552,7 @@ export const NFL_PLAYERS = [
       "New England Patriots"
     ],
     "college": [
-      "Carson\u2013Newman"
+      "Carson-Newman"
     ],
     "numbers": [],
     "league": "NFL"
@@ -136856,7 +137148,7 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -136869,7 +137161,7 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       17,
@@ -136896,7 +137188,7 @@ export const NFL_PLAYERS = [
     "display_name": "David Vaughn",
     "teams": [],
     "college": [
-      "Memphis State"
+      "Memphis"
     ],
     "numbers": [],
     "league": "NFL"
@@ -136953,7 +137245,7 @@ export const NFL_PLAYERS = [
       "New England Patriots"
     ],
     "college": [
-      "Minnesota Duluth"
+      "Minnesota-Duluth"
     ],
     "numbers": [],
     "league": "NFL"
@@ -137043,7 +137335,7 @@ export const NFL_PLAYERS = [
     "display_name": "David Washington",
     "teams": [],
     "college": [
-      "Alcorn A&M"
+      "Alcorn State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -137368,7 +137660,7 @@ export const NFL_PLAYERS = [
     "display_name": "David\u00a0Franks",
     "teams": [],
     "college": [
-      "Connecticut"
+      "UConn"
     ],
     "numbers": [],
     "league": "NFL"
@@ -137388,7 +137680,7 @@ export const NFL_PLAYERS = [
     "display_name": "David\u00a0Hall",
     "teams": [],
     "college": [
-      "Missouri\u2013Rolla"
+      "Missouri S&T"
     ],
     "numbers": [],
     "league": "NFL"
@@ -137418,7 +137710,7 @@ export const NFL_PLAYERS = [
     "display_name": "David\u00a0Holmes",
     "teams": [],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -137708,8 +138000,7 @@ export const NFL_PLAYERS = [
       "Los Angeles Rams"
     ],
     "college": [
-      "Chattanooga",
-      "Tennessee-Chattanooga"
+      "Chattanooga"
     ],
     "numbers": [
       45,
@@ -137941,7 +138232,6 @@ export const NFL_PLAYERS = [
       "Buffalo Bills"
     ],
     "college": [
-      "Mississippi",
       "Ole Miss"
     ],
     "numbers": [
@@ -138000,8 +138290,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "BYU",
-      "Brigham Young"
+      "BYU"
     ],
     "numbers": [
       12,
@@ -138071,7 +138360,7 @@ export const NFL_PLAYERS = [
       "New England Patriots"
     ],
     "college": [
-      "Brigham Young"
+      "BYU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -138102,9 +138391,7 @@ export const NFL_PLAYERS = [
       "Baltimore Ravens"
     ],
     "college": [
-      "M",
-      "Texas A&M",
-      "Texas A&amp"
+      "Texas A&M"
     ],
     "numbers": [
       94
@@ -138162,7 +138449,7 @@ export const NFL_PLAYERS = [
       "Baltimore Ravens"
     ],
     "college": [
-      "Mississippi",
+      "Ole Miss",
       "Western Kentucky"
     ],
     "numbers": [
@@ -138310,7 +138597,7 @@ export const NFL_PLAYERS = [
       "Indianapolis Colts"
     ],
     "college": [
-      "Northwestern State-Louisiana"
+      "Northwestern State"
     ],
     "numbers": [
       37
@@ -138374,7 +138661,7 @@ export const NFL_PLAYERS = [
       "Indianapolis Colts"
     ],
     "college": [
-      "Brigham Young"
+      "BYU"
     ],
     "numbers": [
       74,
@@ -138391,7 +138678,7 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "Southern California"
+      "USC"
     ],
     "numbers": [
       6,
@@ -138486,9 +138773,7 @@ export const NFL_PLAYERS = [
       "Miami Dolphins"
     ],
     "college": [
-      "M",
-      "Texas A&M",
-      "Texas A&amp"
+      "Texas A&M"
     ],
     "numbers": [
       28
@@ -138623,8 +138908,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Mary",
-      "William & Mary",
-      "William &amp"
+      "William & Mary"
     ],
     "numbers": [
       30,
@@ -139269,7 +139553,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [
       43,
@@ -139284,9 +139568,7 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "M",
-      "Texas A&M",
-      "Texas A&amp"
+      "Texas A&M"
     ],
     "numbers": [
       98
@@ -139330,7 +139612,7 @@ export const NFL_PLAYERS = [
       "Indianapolis Colts"
     ],
     "college": [
-      "Southern Mississippi"
+      "Southern Miss"
     ],
     "numbers": [
       12
@@ -139727,7 +140009,6 @@ export const NFL_PLAYERS = [
       "Minnesota Vikings"
     ],
     "college": [
-      "Alabama-Birmingham",
       "UAB"
     ],
     "numbers": [
@@ -139917,7 +140198,7 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -140049,7 +140330,7 @@ export const NFL_PLAYERS = [
     "display_name": "Dean Hesse",
     "teams": [],
     "college": [
-      "East Texas State"
+      "East Texas A&M"
     ],
     "numbers": [],
     "league": "NFL"
@@ -140225,7 +140506,7 @@ export const NFL_PLAYERS = [
       "Baltimore Colts"
     ],
     "college": [
-      "North Texas State"
+      "North Texas"
     ],
     "numbers": [],
     "league": "NFL"
@@ -140382,7 +140663,7 @@ export const NFL_PLAYERS = [
       "Miami Dolphins"
     ],
     "college": [
-      "Miami"
+      "Miami (FL)"
     ],
     "numbers": [
       56
@@ -140396,7 +140677,6 @@ export const NFL_PLAYERS = [
       "Los Angeles Chargers"
     ],
     "college": [
-      "Mississippi",
       "Ole Miss"
     ],
     "numbers": [
@@ -140429,7 +140709,7 @@ export const NFL_PLAYERS = [
       "Houston Texans"
     ],
     "college": [
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [
       16
@@ -140443,7 +140723,6 @@ export const NFL_PLAYERS = [
       "Jacksonville Jaguars"
     ],
     "college": [
-      "Mississippi",
       "Ole Miss"
     ],
     "numbers": [
@@ -140793,7 +141072,7 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       22,
@@ -140812,7 +141091,6 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Miami",
       "Miami (FL)"
     ],
     "numbers": [
@@ -140893,7 +141171,7 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "East Texas State"
+      "East Texas A&M"
     ],
     "numbers": [],
     "league": "NFL"
@@ -141019,8 +141297,7 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "TCU",
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [
       53
@@ -141037,7 +141314,6 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "Miami",
       "Miami (FL)"
     ],
     "numbers": [
@@ -141155,7 +141431,7 @@ export const NFL_PLAYERS = [
       "Chicago Bears"
     ],
     "college": [
-      "Texas State-San Marcos"
+      "Texas State"
     ],
     "numbers": [
       35
@@ -141578,7 +141854,7 @@ export const NFL_PLAYERS = [
       "Tennessee Titans"
     ],
     "college": [
-      "Central Missouri State"
+      "Central Missouri"
     ],
     "numbers": [
       46,
@@ -141763,7 +142039,7 @@ export const NFL_PLAYERS = [
       "Jacksonville Jaguars"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       34
@@ -141780,7 +142056,7 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "Southern Methodist"
+      "SMU"
     ],
     "numbers": [
       45,
@@ -141959,9 +142235,7 @@ export const NFL_PLAYERS = [
       "Carolina Panthers"
     ],
     "college": [
-      "M",
-      "Texas A&M",
-      "Texas A&amp"
+      "Texas A&M"
     ],
     "numbers": [
       36
@@ -141976,7 +142250,7 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "Southern Mississippi"
+      "Southern Miss"
     ],
     "numbers": [
       69,
@@ -142299,8 +142573,7 @@ export const NFL_PLAYERS = [
       "Kansas City Chiefs"
     ],
     "college": [
-      "Wisconsin-Milwaukee",
-      "Wisconsin\u2013Milwaukee"
+      "Wisconsin-Milwaukee"
     ],
     "numbers": [
       84,
@@ -142479,7 +142752,7 @@ export const NFL_PLAYERS = [
       "New England Patriots"
     ],
     "college": [
-      "Grambling State",
+      "Grambling",
       "South Florida",
       "South Florida Community College"
     ],
@@ -142653,7 +142926,7 @@ export const NFL_PLAYERS = [
     "display_name": "Dennis Biodrowski",
     "teams": [],
     "college": [
-      "Memphis State"
+      "Memphis"
     ],
     "numbers": [],
     "league": "NFL"
@@ -142666,7 +142939,7 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "St. John's (NY)"
+      "St John's"
     ],
     "numbers": [],
     "league": "NFL"
@@ -142676,7 +142949,7 @@ export const NFL_PLAYERS = [
     "display_name": "Dennis Booker",
     "teams": [],
     "college": [
-      "Millersville (PA)"
+      "Millersville"
     ],
     "numbers": [],
     "league": "NFL"
@@ -142688,7 +142961,7 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "Memphis State"
+      "Memphis"
     ],
     "numbers": [],
     "league": "NFL"
@@ -142720,7 +142993,7 @@ export const NFL_PLAYERS = [
     "display_name": "Dennis Brewster",
     "teams": [],
     "college": [
-      "Brigham Young"
+      "BYU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -142811,7 +143084,7 @@ export const NFL_PLAYERS = [
     "display_name": "Dennis Colvin",
     "teams": [],
     "college": [
-      "Southwest Texas State"
+      "Texas State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -142913,7 +143186,7 @@ export const NFL_PLAYERS = [
     "display_name": "Dennis Fitzgibbons",
     "teams": [],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -143429,7 +143702,7 @@ export const NFL_PLAYERS = [
       "Philadelphia Eagles"
     ],
     "college": [
-      "Illinois Normal"
+      "Illinois State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -143524,7 +143797,7 @@ export const NFL_PLAYERS = [
       "San Diego Chargers"
     ],
     "college": [
-      "Southern Methodist"
+      "SMU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -143536,7 +143809,7 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "Brigham Young"
+      "BYU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -143582,8 +143855,7 @@ export const NFL_PLAYERS = [
       "Baltimore Ravens"
     ],
     "college": [
-      "BYU",
-      "Brigham Young"
+      "BYU"
     ],
     "numbers": [
       88
@@ -143675,7 +143947,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Detroit",
-      "North Texas State",
+      "North Texas",
       "San Diego State"
     ],
     "numbers": [],
@@ -143794,7 +144066,7 @@ export const NFL_PLAYERS = [
     "display_name": "Dennis Williamson",
     "teams": [],
     "college": [
-      "Whitewater"
+      "Wisconsin-Whitewater"
     ],
     "numbers": [],
     "league": "NFL"
@@ -143892,7 +144164,7 @@ export const NFL_PLAYERS = [
     "display_name": "Dennis\u00a0Ferris",
     "teams": [],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -143902,7 +144174,7 @@ export const NFL_PLAYERS = [
     "display_name": "Dennis\u00a0Heim",
     "teams": [],
     "college": [
-      "Southwest Missouri State"
+      "Missouri State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -143965,7 +144237,7 @@ export const NFL_PLAYERS = [
     "display_name": "Denny Cochran",
     "teams": [],
     "college": [
-      "Saint Louis"
+      "St. Louis"
     ],
     "numbers": [],
     "league": "NFL"
@@ -144093,7 +144365,7 @@ export const NFL_PLAYERS = [
     "display_name": "Denver Samples",
     "teams": [],
     "college": [
-      "Texas\u2013El Paso"
+      "UTEP"
     ],
     "numbers": [],
     "league": "NFL"
@@ -144136,7 +144408,7 @@ export const NFL_PLAYERS = [
       "Tennessee Titans"
     ],
     "college": [
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [
       42
@@ -144169,7 +144441,6 @@ export const NFL_PLAYERS = [
       "San Diego Chargers"
     ],
     "college": [
-      "Miami",
       "Miami (FL)"
     ],
     "numbers": [
@@ -144276,7 +144547,7 @@ export const NFL_PLAYERS = [
       "Miami Dolphins"
     ],
     "college": [
-      "Connecticut"
+      "UConn"
     ],
     "numbers": [
       33,
@@ -144292,7 +144563,6 @@ export const NFL_PLAYERS = [
       "Kansas City Chiefs"
     ],
     "college": [
-      "Miami",
       "Miami (FL)"
     ],
     "numbers": [
@@ -144489,8 +144759,7 @@ export const NFL_PLAYERS = [
       "New York Jets"
     ],
     "college": [
-      "Northwestern State",
-      "Northwestern State-Louisiana"
+      "Northwestern State"
     ],
     "numbers": [
       79,
@@ -144586,7 +144855,7 @@ export const NFL_PLAYERS = [
       "Philadelphia Eagles"
     ],
     "college": [
-      "Southern California"
+      "USC"
     ],
     "numbers": [
       6,
@@ -145126,7 +145395,7 @@ export const NFL_PLAYERS = [
     "display_name": "Derek Kinder",
     "teams": [],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -145440,7 +145709,7 @@ export const NFL_PLAYERS = [
       "St. Louis Rams"
     ],
     "college": [
-      "Wisconsin\u2013Whitewater"
+      "Wisconsin-Whitewater"
     ],
     "numbers": [
       19
@@ -145732,8 +146001,7 @@ export const NFL_PLAYERS = [
       "Los Angeles Chargers"
     ],
     "college": [
-      "TCU",
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [
       12
@@ -145830,7 +146098,7 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [
       38
@@ -146059,7 +146327,7 @@ export const NFL_PLAYERS = [
       "Buffalo Bills"
     ],
     "college": [
-      "Memphis State"
+      "Memphis"
     ],
     "numbers": [],
     "league": "NFL"
@@ -146579,7 +146847,7 @@ export const NFL_PLAYERS = [
       "Oakland Raiders"
     ],
     "college": [
-      "Texas Arlington"
+      "Texas-Arlington"
     ],
     "numbers": [],
     "league": "NFL"
@@ -146640,7 +146908,7 @@ export const NFL_PLAYERS = [
       "New York Jets"
     ],
     "college": [
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [
       14,
@@ -146688,8 +146956,7 @@ export const NFL_PLAYERS = [
       "New York Jets"
     ],
     "college": [
-      "TCU",
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [
       26,
@@ -146762,7 +147029,7 @@ export const NFL_PLAYERS = [
       "Oakland Raiders"
     ],
     "college": [
-      "Tennessee-Chattanooga"
+      "Chattanooga"
     ],
     "numbers": [
       60
@@ -146930,7 +147197,7 @@ export const NFL_PLAYERS = [
       "New Orleans Saints"
     ],
     "college": [
-      "Grambling State"
+      "Grambling"
     ],
     "numbers": [],
     "league": "NFL"
@@ -147571,9 +147838,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "M",
-      "Texas A&M",
-      "Texas A&amp"
+      "Texas A&M"
     ],
     "numbers": [
       22
@@ -147604,7 +147869,7 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "Connecticut"
+      "UConn"
     ],
     "numbers": [
       1,
@@ -147633,7 +147898,7 @@ export const NFL_PLAYERS = [
       "Green Bay Packers"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       49,
@@ -147811,7 +148076,7 @@ export const NFL_PLAYERS = [
       "Cincinnati Bengals"
     ],
     "college": [
-      "Florida Atlantic"
+      "FAU"
     ],
     "numbers": [
       60
@@ -148006,7 +148271,7 @@ export const NFL_PLAYERS = [
     "display_name": "Deval\u00a0Glover",
     "teams": [],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -148137,7 +148402,7 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "Southern Methodist"
+      "SMU"
     ],
     "numbers": [
       98
@@ -148444,8 +148709,7 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "Miami (FL)",
-      "Miami (Fla.)"
+      "Miami (FL)"
     ],
     "numbers": [
       17,
@@ -148473,7 +148737,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Kentucky",
-      "N.C. State"
+      "NC State"
     ],
     "numbers": [
       13
@@ -148606,7 +148870,7 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "Florida Atlantic"
+      "FAU"
     ],
     "numbers": [
       26
@@ -148640,7 +148904,7 @@ export const NFL_PLAYERS = [
       "Indianapolis Colts"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       15,
@@ -148869,7 +149133,6 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "Southern California",
       "USC"
     ],
     "numbers": [
@@ -149093,7 +149356,7 @@ export const NFL_PLAYERS = [
       "Cincinnati Bengals"
     ],
     "college": [
-      "Nevada-Las Vegas"
+      "UNLV"
     ],
     "numbers": [
       8
@@ -149108,7 +149371,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Mary",
-      "William &amp"
+      "William & Mary"
     ],
     "numbers": [
       83
@@ -149211,7 +149474,7 @@ export const NFL_PLAYERS = [
       "Jacksonville Jaguars"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       73
@@ -149268,7 +149531,7 @@ export const NFL_PLAYERS = [
       "New York Titans"
     ],
     "college": [
-      "Hardin\u2013Simmons"
+      "Hardin-Simmons"
     ],
     "numbers": [],
     "league": "NFL"
@@ -149432,7 +149695,7 @@ export const NFL_PLAYERS = [
       "Detroit Lions"
     ],
     "college": [
-      "Texas\u2013Arlington"
+      "Texas-Arlington"
     ],
     "numbers": [],
     "league": "NFL"
@@ -149602,7 +149865,6 @@ export const NFL_PLAYERS = [
       "Tennessee Titans"
     ],
     "college": [
-      "Mississippi",
       "Ole Miss"
     ],
     "numbers": [
@@ -150308,7 +150570,7 @@ export const NFL_PLAYERS = [
     "teams": [],
     "college": [
       "Oklahoma",
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -150432,7 +150694,7 @@ export const NFL_PLAYERS = [
       "Brooklyn Dodgers"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -150499,7 +150761,7 @@ export const NFL_PLAYERS = [
     "display_name": "Dick Christie",
     "teams": [],
     "college": [
-      "Nebraska\u2013Omaha"
+      "Nebraska-Omaha"
     ],
     "numbers": [],
     "league": "NFL"
@@ -150514,7 +150776,7 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -150713,7 +150975,7 @@ export const NFL_PLAYERS = [
     "display_name": "Dick Dietrick",
     "teams": [],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -150818,7 +151080,7 @@ export const NFL_PLAYERS = [
     "display_name": "Dick Easterly",
     "teams": [],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -150975,7 +151237,7 @@ export const NFL_PLAYERS = [
     "display_name": "Dick Farris",
     "teams": [],
     "college": [
-      "North Texas State"
+      "North Texas"
     ],
     "numbers": [],
     "league": "NFL"
@@ -151304,7 +151566,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -151859,7 +152121,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -152157,7 +152419,7 @@ export const NFL_PLAYERS = [
       "Detroit Lions"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -152420,7 +152682,7 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "Minnesota\u2013Duluth"
+      "Minnesota-Duluth"
     ],
     "numbers": [],
     "league": "NFL"
@@ -152506,7 +152768,7 @@ export const NFL_PLAYERS = [
     "display_name": "Dick Quast",
     "teams": [],
     "college": [
-      "Memphis State"
+      "Memphis"
     ],
     "numbers": [],
     "league": "NFL"
@@ -152538,7 +152800,7 @@ export const NFL_PLAYERS = [
     "display_name": "Dick Reding",
     "teams": [],
     "college": [
-      "Northwestern State (LA)"
+      "Northwestern State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -152570,7 +152832,7 @@ export const NFL_PLAYERS = [
     "display_name": "Dick Reynolds",
     "teams": [],
     "college": [
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -152679,7 +152941,7 @@ export const NFL_PLAYERS = [
     "display_name": "Dick Scherer",
     "teams": [],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -152799,7 +153061,7 @@ export const NFL_PLAYERS = [
     "display_name": "Dick Shinaut",
     "teams": [],
     "college": [
-      "Texas Western"
+      "UTEP"
     ],
     "numbers": [],
     "league": "NFL"
@@ -152836,7 +153098,7 @@ export const NFL_PLAYERS = [
     "display_name": "Dick Sievert",
     "teams": [],
     "college": [
-      "Wisconsin\u2013River Falls"
+      "Wisconsin-River Falls"
     ],
     "numbers": [],
     "league": "NFL"
@@ -153174,7 +153436,7 @@ export const NFL_PLAYERS = [
       "Detroit Lions"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -153582,7 +153844,7 @@ export const NFL_PLAYERS = [
     "display_name": "Dick\u00a0Johnston",
     "teams": [],
     "college": [
-      "Southern Mississippi",
+      "Southern Miss",
       "Washington"
     ],
     "numbers": [],
@@ -153695,7 +153957,7 @@ export const NFL_PLAYERS = [
     "display_name": "Dick\u00a0Thomas",
     "teams": [],
     "college": [
-      "Mississippi Southern"
+      "Southern Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -153791,7 +154053,7 @@ export const NFL_PLAYERS = [
       "Philadelphia Eagles"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       83
@@ -153817,7 +154079,7 @@ export const NFL_PLAYERS = [
       "Philadelphia Eagles"
     ],
     "college": [
-      "Florida International"
+      "FIU"
     ],
     "numbers": [
       67,
@@ -154290,7 +154552,7 @@ export const NFL_PLAYERS = [
       "Tennessee Titans"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       26,
@@ -154437,7 +154699,7 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "Central Florida"
+      "UCF"
     ],
     "numbers": [
       27,
@@ -154737,7 +154999,7 @@ export const NFL_PLAYERS = [
     "display_name": "Dock Mosley",
     "teams": [],
     "college": [
-      "Alcorn A&M"
+      "Alcorn State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -154805,7 +155067,7 @@ export const NFL_PLAYERS = [
     "display_name": "Dolph Czekala",
     "teams": [],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -154877,7 +155139,7 @@ export const NFL_PLAYERS = [
       "Chicago Bears"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       49,
@@ -154946,7 +155208,7 @@ export const NFL_PLAYERS = [
       "Philadelphia Eagles"
     ],
     "college": [
-      "UW\u2013Superior"
+      "Wisconsin-Superior"
     ],
     "numbers": [],
     "league": "NFL"
@@ -155085,7 +155347,6 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "North Carolina at Pembroke",
       "UNC Pembroke"
     ],
     "numbers": [
@@ -155476,7 +155737,6 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Miami (OH)",
-      "Miami (Ohio)",
       "Miami, O."
     ],
     "numbers": [
@@ -155656,7 +155916,7 @@ export const NFL_PLAYERS = [
     "display_name": "Don Agers",
     "teams": [],
     "college": [
-      "Missouri-Rolla"
+      "Missouri S&T"
     ],
     "numbers": [],
     "league": "NFL"
@@ -156282,7 +156542,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -156356,7 +156616,7 @@ export const NFL_PLAYERS = [
       "Denver Broncos"
     ],
     "college": [
-      "Memphis State"
+      "Memphis"
     ],
     "numbers": [],
     "league": "NFL"
@@ -156385,8 +156645,7 @@ export const NFL_PLAYERS = [
       "New York Yanks"
     ],
     "college": [
-      "Brown",
-      "Brown (Redrafted Colt)"
+      "Brown"
     ],
     "numbers": [],
     "league": "NFL"
@@ -156837,7 +157096,7 @@ export const NFL_PLAYERS = [
       "Houston Oilers"
     ],
     "college": [
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -157058,7 +157317,7 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "Middle Tennessee State"
+      "Middle Tennessee"
     ],
     "numbers": [
       28,
@@ -157113,7 +157372,7 @@ export const NFL_PLAYERS = [
       "Houston Oilers"
     ],
     "college": [
-      "Texas A&I"
+      "Texas A&M-Kingsville"
     ],
     "numbers": [],
     "league": "NFL"
@@ -157335,7 +157594,7 @@ export const NFL_PLAYERS = [
       "Philadelphia Eagles"
     ],
     "college": [
-      "Southern Mississippi"
+      "Southern Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -157365,7 +157624,7 @@ export const NFL_PLAYERS = [
     "display_name": "Don Hyne",
     "teams": [],
     "college": [
-      "Baldwin\u2013Wallace"
+      "Baldwin Wallace"
     ],
     "numbers": [],
     "league": "NFL"
@@ -157553,7 +157812,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Arizona State",
-      "Virginia Military Inst"
+      "VMI"
     ],
     "numbers": [],
     "league": "NFL"
@@ -157575,7 +157834,7 @@ export const NFL_PLAYERS = [
     "display_name": "Don Kindt Jr.",
     "teams": [],
     "college": [
-      "Wisconsin\u2013La Crosse"
+      "Wisconsin-La Crosse"
     ],
     "numbers": [],
     "league": "NFL"
@@ -157591,8 +157850,8 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Kentucky",
-      "SMU",
-      "Syracuse"
+      "Rich Manning",
+      "SMU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -157624,7 +157883,7 @@ export const NFL_PLAYERS = [
       "Los Angeles Rams"
     ],
     "college": [
-      "Loyola (CA)"
+      "Loyola Marymount"
     ],
     "numbers": [],
     "league": "NFL"
@@ -157855,7 +158114,7 @@ export const NFL_PLAYERS = [
       "St. Louis Cardinals"
     ],
     "college": [
-      "Texas-El Paso"
+      "UTEP"
     ],
     "numbers": [
       13
@@ -158010,7 +158269,7 @@ export const NFL_PLAYERS = [
       "Philadelphia Eagles"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -158035,7 +158294,7 @@ export const NFL_PLAYERS = [
       "Dallas Cowboys"
     ],
     "college": [
-      "Southern Methodist"
+      "SMU"
     ],
     "numbers": [
       17
@@ -158112,7 +158371,7 @@ export const NFL_PLAYERS = [
       "New Orleans Saints"
     ],
     "college": [
-      "Texas\u2013Arlington"
+      "Texas-Arlington"
     ],
     "numbers": [],
     "league": "NFL"
@@ -158147,9 +158406,7 @@ export const NFL_PLAYERS = [
       "Detroit Lions"
     ],
     "college": [
-      "M",
-      "Texas A&M",
-      "Texas A&amp"
+      "Texas A&M"
     ],
     "numbers": [
       48,
@@ -158315,7 +158572,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Mississippi Southern"
+      "Southern Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -158367,7 +158624,7 @@ export const NFL_PLAYERS = [
       "Kansas City Chiefs"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -158421,7 +158678,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "New Mexico",
-      "UW\u2013Platteville"
+      "Wisconsin-Platteville"
     ],
     "numbers": [
       43
@@ -158830,7 +159087,7 @@ export const NFL_PLAYERS = [
       "New York Jets"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       5
@@ -158862,7 +159119,7 @@ export const NFL_PLAYERS = [
     "display_name": "Don Sizemore",
     "teams": [],
     "college": [
-      "Hardin\u2013Simmons"
+      "Hardin-Simmons"
     ],
     "numbers": [],
     "league": "NFL"
@@ -158981,7 +159238,7 @@ export const NFL_PLAYERS = [
     "display_name": "Don Stewart",
     "teams": [],
     "college": [
-      "Southern Methodist"
+      "SMU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -159291,7 +159548,7 @@ export const NFL_PLAYERS = [
     "display_name": "Don Willingham",
     "teams": [],
     "college": [
-      "Wisconsin\u2013Milwaukee"
+      "Wisconsin-Milwaukee"
     ],
     "numbers": [],
     "league": "NFL"
@@ -159359,7 +159616,7 @@ export const NFL_PLAYERS = [
       "Philadelphia Eagles"
     ],
     "college": [
-      "N.E. Louisiana"
+      "Louisiana-Monroe"
     ],
     "numbers": [],
     "league": "NFL"
@@ -159469,7 +159726,6 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "Winston Salem State University",
       "Winston-Salem State"
     ],
     "numbers": [],
@@ -159622,7 +159878,7 @@ export const NFL_PLAYERS = [
       "Tennessee Titans"
     ],
     "college": [
-      "Southern Methodist"
+      "SMU"
     ],
     "numbers": [
       29,
@@ -159640,8 +159896,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Stetson",
-      "Stetson University"
+      "Stetson"
     ],
     "numbers": [
       46,
@@ -159657,8 +159912,7 @@ export const NFL_PLAYERS = [
       "Miami Dolphins"
     ],
     "college": [
-      "Stetson",
-      "Stetson University"
+      "Stetson"
     ],
     "numbers": [
       45,
@@ -159792,7 +160046,7 @@ export const NFL_PLAYERS = [
       "New England Patriots"
     ],
     "college": [
-      "Connecticut"
+      "UConn"
     ],
     "numbers": [
       64,
@@ -160244,7 +160498,7 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "Memphis State"
+      "Memphis"
     ],
     "numbers": [],
     "league": "NFL"
@@ -160677,8 +160931,7 @@ export const NFL_PLAYERS = [
       "Green Bay Packers"
     ],
     "college": [
-      "South Florida",
-      "University of South Florida"
+      "South Florida"
     ],
     "numbers": [
       67
@@ -160709,7 +160962,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Florida",
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       31
@@ -160725,7 +160978,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       5
@@ -160868,9 +161121,7 @@ export const NFL_PLAYERS = [
       "Dallas Cowboys"
     ],
     "college": [
-      "M",
-      "Texas A&M",
-      "Texas A&amp"
+      "Texas A&M"
     ],
     "numbers": [
       6,
@@ -160898,7 +161149,7 @@ export const NFL_PLAYERS = [
       "Miami Dolphins"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       20,
@@ -160986,8 +161237,7 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "NC State",
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [
       27,
@@ -161018,7 +161268,7 @@ export const NFL_PLAYERS = [
       "Arizona Cardinals"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       34
@@ -161050,7 +161300,7 @@ export const NFL_PLAYERS = [
       "Dallas Cowboys"
     ],
     "college": [
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [
       16,
@@ -161204,7 +161454,6 @@ export const NFL_PLAYERS = [
       "New England Patriots"
     ],
     "college": [
-      "Mississippi",
       "Ole Miss"
     ],
     "numbers": [
@@ -161333,7 +161582,7 @@ export const NFL_PLAYERS = [
       "Detroit Lions"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       83
@@ -161417,7 +161666,7 @@ export const NFL_PLAYERS = [
     "display_name": "Don\u00a0Althouse",
     "teams": [],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -161518,7 +161767,7 @@ export const NFL_PLAYERS = [
     "display_name": "Don\u00a0McAulay",
     "teams": [],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -161578,7 +161827,7 @@ export const NFL_PLAYERS = [
     "display_name": "Don\u00a0Shaver",
     "teams": [],
     "college": [
-      "Kutztown (PA)"
+      "Kutztown"
     ],
     "numbers": [],
     "league": "NFL"
@@ -161638,7 +161887,7 @@ export const NFL_PLAYERS = [
     "display_name": "Don\u00a0Washington",
     "teams": [],
     "college": [
-      "Texas A&I"
+      "Texas A&M-Kingsville"
     ],
     "numbers": [],
     "league": "NFL"
@@ -161803,7 +162052,7 @@ export const NFL_PLAYERS = [
       "Carolina Panthers"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       64
@@ -161904,7 +162153,7 @@ export const NFL_PLAYERS = [
       "Houston Texans"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       19,
@@ -162394,7 +162643,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -162563,7 +162812,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -162734,7 +162983,7 @@ export const NFL_PLAYERS = [
       "St. Louis Cardinals"
     ],
     "college": [
-      "Texas A&I"
+      "Texas A&M-Kingsville"
     ],
     "numbers": [],
     "league": "NFL"
@@ -162746,7 +162995,7 @@ export const NFL_PLAYERS = [
       "Green Bay Packers"
     ],
     "college": [
-      "Texas\u2013Arlington"
+      "Texas-Arlington"
     ],
     "numbers": [],
     "league": "NFL"
@@ -162793,7 +163042,7 @@ export const NFL_PLAYERS = [
       "Detroit Lions"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       55,
@@ -162974,7 +163223,7 @@ export const NFL_PLAYERS = [
       "Chicago Bears"
     ],
     "college": [
-      "W. Texas State"
+      "West Texas A&M"
     ],
     "numbers": [],
     "league": "NFL"
@@ -163069,7 +163318,7 @@ export const NFL_PLAYERS = [
       "New Orleans Saints"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -163389,7 +163638,7 @@ export const NFL_PLAYERS = [
       "Philadelphia Eagles"
     ],
     "college": [
-      "Northeast Louisiana"
+      "Louisiana-Monroe"
     ],
     "numbers": [
       14,
@@ -163460,7 +163709,7 @@ export const NFL_PLAYERS = [
     "display_name": "Doug Richards",
     "teams": [],
     "college": [
-      "Brigham Young"
+      "BYU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -163583,7 +163832,7 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "Wisconsin\u2013Superior"
+      "Wisconsin-Superior"
     ],
     "numbers": [
       69
@@ -163711,7 +163960,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Grambling State",
+      "Grambling",
       "Texas A&M"
     ],
     "numbers": [
@@ -163739,7 +163988,7 @@ export const NFL_PLAYERS = [
       "Los Angeles Rams"
     ],
     "college": [
-      "Memphis State"
+      "Memphis"
     ],
     "numbers": [],
     "league": "NFL"
@@ -164028,7 +164277,7 @@ export const NFL_PLAYERS = [
       "Cleveland Browns"
     ],
     "college": [
-      "Southern Mississippi"
+      "Southern Miss"
     ],
     "numbers": [
       68
@@ -164081,7 +164330,6 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Southern California",
       "USC"
     ],
     "numbers": [
@@ -164097,7 +164345,6 @@ export const NFL_PLAYERS = [
       "Atlanta Falcons"
     ],
     "college": [
-      "Southern California",
       "USC"
     ],
     "numbers": [
@@ -164174,9 +164421,7 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "N.C. State",
-      "NC State",
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [
       32,
@@ -164377,7 +164622,7 @@ export const NFL_PLAYERS = [
       "Los Angeles Rams"
     ],
     "college": [
-      "Tennessee-Martin"
+      "UT Martin"
     ],
     "numbers": [
       4,
@@ -164609,7 +164854,6 @@ export const NFL_PLAYERS = [
       "Cleveland Browns"
     ],
     "college": [
-      "Southeast Missouri",
       "Southeast Missouri State"
     ],
     "numbers": [
@@ -164751,9 +164995,7 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "M",
-      "Texas A&M",
-      "Texas A&amp"
+      "Texas A&M"
     ],
     "numbers": [
       8,
@@ -164964,7 +165206,7 @@ export const NFL_PLAYERS = [
     "display_name": "Drew Roberts",
     "teams": [],
     "college": [
-      "Cal State-Humboldt"
+      "Humboldt State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -165815,7 +166057,6 @@ export const NFL_PLAYERS = [
       "Miami Dolphins"
     ],
     "college": [
-      "Miami",
       "Miami (FL)"
     ],
     "numbers": [
@@ -166061,7 +166302,7 @@ export const NFL_PLAYERS = [
     "display_name": "Dunny Goode",
     "teams": [],
     "college": [
-      "Hardin\u2013Simmons"
+      "Hardin-Simmons"
     ],
     "numbers": [],
     "league": "NFL"
@@ -166298,7 +166539,7 @@ export const NFL_PLAYERS = [
       "Kansas City Chiefs"
     ],
     "college": [
-      "Texas A&I"
+      "Texas A&M-Kingsville"
     ],
     "numbers": [],
     "league": "NFL"
@@ -166824,7 +167065,7 @@ export const NFL_PLAYERS = [
     "display_name": "Dwain Bean",
     "teams": [],
     "college": [
-      "North Texas State"
+      "North Texas"
     ],
     "numbers": [],
     "league": "NFL"
@@ -166873,7 +167114,7 @@ export const NFL_PLAYERS = [
     "display_name": "Dwaine Copeland",
     "teams": [],
     "college": [
-      "Middle Tennessee State"
+      "Middle Tennessee"
     ],
     "numbers": [],
     "league": "NFL"
@@ -167078,7 +167319,7 @@ export const NFL_PLAYERS = [
       "Philadelphia Eagles"
     ],
     "college": [
-      "Connecticut"
+      "UConn"
     ],
     "numbers": [
       27,
@@ -167197,7 +167438,7 @@ export const NFL_PLAYERS = [
       "Chicago Bears"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       32
@@ -167424,8 +167665,7 @@ export const NFL_PLAYERS = [
       "Detroit Lions"
     ],
     "college": [
-      "Louisiana-Lafayette",
-      "Louisiana\u2013Lafayette"
+      "Louisiana-Lafayette"
     ],
     "numbers": [
       28,
@@ -167486,7 +167726,7 @@ export const NFL_PLAYERS = [
       "Minnesota Vikings"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -167524,7 +167764,7 @@ export const NFL_PLAYERS = [
       "San Diego Chargers"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       54,
@@ -167562,7 +167802,7 @@ export const NFL_PLAYERS = [
       "Oakland Raiders"
     ],
     "college": [
-      "Texas A&I"
+      "Texas A&M-Kingsville"
     ],
     "numbers": [],
     "league": "NFL"
@@ -167725,7 +167965,7 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "Grambling State"
+      "Grambling"
     ],
     "numbers": [],
     "league": "NFL"
@@ -167784,7 +168024,7 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "Middle Tennessee State"
+      "Middle Tennessee"
     ],
     "numbers": [
       80,
@@ -167836,7 +168076,7 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "East Texas State"
+      "East Texas A&M"
     ],
     "numbers": [
       78
@@ -167858,7 +168098,7 @@ export const NFL_PLAYERS = [
     "display_name": "Dwight\u00a0Carey",
     "teams": [],
     "college": [
-      "Texas Arlington"
+      "Texas-Arlington"
     ],
     "numbers": [],
     "league": "NFL"
@@ -167939,7 +168179,7 @@ export const NFL_PLAYERS = [
       "Minnesota Vikings"
     ],
     "college": [
-      "Southern Mississippi"
+      "Southern Miss"
     ],
     "numbers": [
       63,
@@ -168069,8 +168309,7 @@ export const NFL_PLAYERS = [
       "Houston Texans"
     ],
     "college": [
-      "TCU",
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [
       92
@@ -168144,9 +168383,7 @@ export const NFL_PLAYERS = [
       "Los Angeles Rams"
     ],
     "college": [
-      "N.C. State",
-      "NC State",
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [
       63
@@ -168189,7 +168426,7 @@ export const NFL_PLAYERS = [
       "Denver Broncos"
     ],
     "college": [
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [
       48,
@@ -168638,7 +168875,7 @@ export const NFL_PLAYERS = [
     "display_name": "Earl \"Jug\" Bennett",
     "teams": [],
     "college": [
-      "Hardin\u2013Simmons"
+      "Hardin-Simmons"
     ],
     "numbers": [],
     "league": "NFL"
@@ -168891,7 +169128,7 @@ export const NFL_PLAYERS = [
       "Green Bay Packers"
     ],
     "college": [
-      "Texas A&M\u2013Kingsville"
+      "Texas A&M-Kingsville"
     ],
     "numbers": [
       72
@@ -169155,7 +169392,7 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "Bethune\u2013Cookman"
+      "Bethune-Cookman"
     ],
     "numbers": [],
     "league": "NFL"
@@ -169190,7 +169427,7 @@ export const NFL_PLAYERS = [
       "Atlanta Falcons"
     ],
     "college": [
-      "Memphis State",
+      "Memphis",
       "Norfolk State"
     ],
     "numbers": [],
@@ -169282,7 +169519,7 @@ export const NFL_PLAYERS = [
       "New Orleans Saints"
     ],
     "college": [
-      "Miami"
+      "Miami (FL)"
     ],
     "numbers": [
       20,
@@ -169502,7 +169739,7 @@ export const NFL_PLAYERS = [
     "display_name": "Earl Rowan",
     "teams": [],
     "college": [
-      "Hardin\u2013Simmons"
+      "Hardin-Simmons"
     ],
     "numbers": [],
     "league": "NFL"
@@ -169626,8 +169863,7 @@ export const NFL_PLAYERS = [
       "Philadelphia Eagles"
     ],
     "college": [
-      "NC State",
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [
       28,
@@ -169879,7 +170115,7 @@ export const NFL_PLAYERS = [
       "St. Louis Cardinals"
     ],
     "college": [
-      "Memphis State"
+      "Memphis"
     ],
     "numbers": [],
     "league": "NFL"
@@ -170148,7 +170384,7 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -170516,7 +170752,7 @@ export const NFL_PLAYERS = [
     "display_name": "Ed Brantley",
     "teams": [],
     "college": [
-      "North Texas State"
+      "North Texas"
     ],
     "numbers": [],
     "league": "NFL"
@@ -170682,7 +170918,7 @@ export const NFL_PLAYERS = [
     "display_name": "Ed Castleberry",
     "teams": [],
     "college": [
-      "West Texas State"
+      "West Texas A&M"
     ],
     "numbers": [],
     "league": "NFL"
@@ -170707,7 +170943,7 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "Hardin\u2013Simmons"
+      "Hardin-Simmons"
     ],
     "numbers": [],
     "league": "NFL"
@@ -170783,7 +171019,7 @@ export const NFL_PLAYERS = [
     "display_name": "Ed Coffin",
     "teams": [],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -171002,7 +171238,7 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "Northwestern State-Louisiana"
+      "Northwestern State"
     ],
     "numbers": [
       84,
@@ -171248,7 +171484,7 @@ export const NFL_PLAYERS = [
     "display_name": "Ed Gray",
     "teams": [],
     "college": [
-      "North Texas State",
+      "North Texas",
       "Oklahoma"
     ],
     "numbers": [],
@@ -171803,7 +172039,7 @@ export const NFL_PLAYERS = [
     "display_name": "Ed Kieffer",
     "teams": [],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -172507,7 +172743,7 @@ export const NFL_PLAYERS = [
     "display_name": "Ed Nicholas",
     "teams": [],
     "college": [
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -172678,7 +172914,7 @@ export const NFL_PLAYERS = [
     "display_name": "Ed Petty",
     "teams": [],
     "college": [
-      "Hardin\u2013Simmons"
+      "Hardin-Simmons"
     ],
     "numbers": [],
     "league": "NFL"
@@ -173020,7 +173256,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Michigan State",
-      "Saint Mary's (CA)"
+      "St. Mary's (CA)"
     ],
     "numbers": [],
     "league": "NFL"
@@ -173164,7 +173400,7 @@ export const NFL_PLAYERS = [
       "Minnesota Vikings"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -173374,7 +173610,7 @@ export const NFL_PLAYERS = [
     "display_name": "Ed Stewart",
     "teams": [],
     "college": [
-      "East Central Oklahoma"
+      "East Central"
     ],
     "numbers": [],
     "league": "NFL"
@@ -173512,7 +173748,7 @@ export const NFL_PLAYERS = [
       "Detroit Lions"
     ],
     "college": [
-      "NW Missouri"
+      "Northwest Missouri State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -173937,7 +174173,7 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "Fort Valley State College"
+      "Fort Valley State"
     ],
     "numbers": [
       33
@@ -174094,7 +174330,7 @@ export const NFL_PLAYERS = [
       "Cincinnati Bengals"
     ],
     "college": [
-      "Miami",
+      "Miami (FL)",
       "Navarro"
     ],
     "numbers": [],
@@ -174338,7 +174574,7 @@ export const NFL_PLAYERS = [
       "Green Bay Packers"
     ],
     "college": [
-      "Southern Methodist"
+      "SMU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -174454,7 +174690,7 @@ export const NFL_PLAYERS = [
       "Miami Dolphins"
     ],
     "college": [
-      "Memphis State"
+      "Memphis"
     ],
     "numbers": [],
     "league": "NFL"
@@ -174638,7 +174874,7 @@ export const NFL_PLAYERS = [
     "display_name": "Eddie King",
     "teams": [],
     "college": [
-      "Boston College (Redrafted Colt)"
+      "Boston College"
     ],
     "numbers": [],
     "league": "NFL"
@@ -175265,7 +175501,7 @@ export const NFL_PLAYERS = [
     "display_name": "Eddie\u00a0Hackett",
     "teams": [],
     "college": [
-      "Alcorn A&M"
+      "Alcorn State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -175434,7 +175670,7 @@ export const NFL_PLAYERS = [
     "display_name": "Edgar \"Special Delivery\" Jones",
     "teams": [],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -175539,9 +175775,7 @@ export const NFL_PLAYERS = [
       "Green Bay Packers"
     ],
     "college": [
-      "M",
-      "Texas A&M",
-      "Texas A&amp"
+      "Texas A&M"
     ],
     "numbers": [
       56
@@ -175666,7 +175900,7 @@ export const NFL_PLAYERS = [
     "display_name": "Eduardo\u00a0Vega",
     "teams": [],
     "college": [
-      "Memphis State"
+      "Memphis"
     ],
     "numbers": [],
     "league": "NFL"
@@ -175676,7 +175910,7 @@ export const NFL_PLAYERS = [
     "display_name": "Edward A. Jontos",
     "teams": [],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -175763,7 +175997,7 @@ export const NFL_PLAYERS = [
     "display_name": "Edward Marshall",
     "teams": [],
     "college": [
-      "Cameron State"
+      "Cameron"
     ],
     "numbers": [],
     "league": "NFL"
@@ -175935,7 +176169,7 @@ export const NFL_PLAYERS = [
     "display_name": "Ed\u00a0Bunn",
     "teams": [],
     "college": [
-      "Texas-El Paso"
+      "UTEP"
     ],
     "numbers": [],
     "league": "NFL"
@@ -176055,7 +176289,7 @@ export const NFL_PLAYERS = [
     "display_name": "Ed\u00a0Miller",
     "teams": [],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -176238,7 +176472,7 @@ export const NFL_PLAYERS = [
       "Los Angeles Rams"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       51
@@ -176531,7 +176765,7 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -176581,7 +176815,7 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "Texas A&I"
+      "Texas A&M-Kingsville"
     ],
     "numbers": [],
     "league": "NFL"
@@ -176759,7 +176993,6 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "Mississippi",
       "Ole Miss"
     ],
     "numbers": [
@@ -176964,7 +177197,6 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "Miami",
       "Miami (FL)"
     ],
     "numbers": [
@@ -177028,8 +177260,7 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "SMU",
-      "Southern Methodist"
+      "SMU"
     ],
     "numbers": [
       62,
@@ -177227,7 +177458,6 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "Texas-El Paso",
       "UTEP"
     ],
     "numbers": [
@@ -177274,8 +177504,7 @@ export const NFL_PLAYERS = [
       "New York Jets"
     ],
     "college": [
-      "Louisiana-Lafayette",
-      "Louisiana\u2013Lafayette"
+      "Louisiana-Lafayette"
     ],
     "numbers": [
       24,
@@ -177342,7 +177571,6 @@ export const NFL_PLAYERS = [
       "New York Jets"
     ],
     "college": [
-      "Mississippi",
       "Ole Miss"
     ],
     "numbers": [
@@ -177431,7 +177659,7 @@ export const NFL_PLAYERS = [
       "New England Patriots"
     ],
     "college": [
-      "Cal Poly (San Luis Obispo)"
+      "Cal Poly"
     ],
     "numbers": [
       44,
@@ -177485,7 +177713,7 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "Miami",
+      "Miami (FL)",
       "SMU"
     ],
     "numbers": [
@@ -177559,9 +177787,7 @@ export const NFL_PLAYERS = [
       "Denver Broncos"
     ],
     "college": [
-      "Massachusetts",
-      "UMass",
-      "UMass Amherst"
+      "UMass"
     ],
     "numbers": [
       65,
@@ -177620,7 +177846,7 @@ export const NFL_PLAYERS = [
       "Los Angeles Chargers"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       46
@@ -177632,7 +177858,7 @@ export const NFL_PLAYERS = [
     "display_name": "Elijah\u00a0Austin",
     "teams": [],
     "college": [
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -177828,7 +178054,7 @@ export const NFL_PLAYERS = [
       "New Orleans Saints"
     ],
     "college": [
-      "Texas-San Antonio"
+      "UTSA"
     ],
     "numbers": [
       35
@@ -177894,7 +178120,7 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -178047,7 +178273,7 @@ export const NFL_PLAYERS = [
       "Green Bay Packers"
     ],
     "college": [
-      "Massachusetts"
+      "UMass"
     ],
     "numbers": [
       35,
@@ -178264,7 +178490,7 @@ export const NFL_PLAYERS = [
     "display_name": "Elmer Kreiser",
     "teams": [],
     "college": [
-      "Bloomsburg State"
+      "Bloomsburg"
     ],
     "numbers": [],
     "league": "NFL"
@@ -178914,8 +179140,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Louisiana",
-      "TCU",
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [
       39
@@ -179046,8 +179271,7 @@ export const NFL_PLAYERS = [
       "Green Bay Packers"
     ],
     "college": [
-      "Fort Valley State",
-      "Fort Valley State College"
+      "Fort Valley State"
     ],
     "numbers": [
       23,
@@ -179101,8 +179325,7 @@ export const NFL_PLAYERS = [
       "Arizona Cardinals"
     ],
     "college": [
-      "TCU",
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [
       25,
@@ -179291,7 +179514,7 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -179389,7 +179612,7 @@ export const NFL_PLAYERS = [
     "display_name": "Emil Radik",
     "teams": [],
     "college": [
-      "Nebraska\u2013Omaha"
+      "Nebraska-Omaha"
     ],
     "numbers": [],
     "league": "NFL"
@@ -179684,8 +179907,7 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "SMU",
-      "Southern Methodist"
+      "SMU"
     ],
     "numbers": [
       1,
@@ -180126,7 +180348,6 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Miami",
       "Miami (FL)"
     ],
     "numbers": [
@@ -180257,7 +180478,7 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "Texas-San Antonio"
+      "UTSA"
     ],
     "numbers": [
       69,
@@ -180537,7 +180758,7 @@ export const NFL_PLAYERS = [
       "New England Patriots"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -180585,7 +180806,7 @@ export const NFL_PLAYERS = [
       "Carolina Panthers"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       72
@@ -180705,7 +180926,7 @@ export const NFL_PLAYERS = [
       "San Diego Chargers"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       79,
@@ -180721,7 +180942,7 @@ export const NFL_PLAYERS = [
       "Cleveland Browns"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -181025,7 +181246,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Colorado",
-      "Memphis State"
+      "Memphis"
     ],
     "numbers": [],
     "league": "NFL"
@@ -181276,7 +181497,7 @@ export const NFL_PLAYERS = [
       "San Diego Chargers"
     ],
     "college": [
-      "Bloomsburg (PA)"
+      "Bloomsburg"
     ],
     "numbers": [
       66
@@ -182057,7 +182278,7 @@ export const NFL_PLAYERS = [
       "St. Louis Cardinals"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -182081,7 +182302,7 @@ export const NFL_PLAYERS = [
       "Dallas Cowboys"
     ],
     "college": [
-      "Southern Mississippi"
+      "Southern Miss"
     ],
     "numbers": [
       37
@@ -182096,8 +182317,7 @@ export const NFL_PLAYERS = [
       "Kansas City Chiefs"
     ],
     "college": [
-      "Southern Miss",
-      "Southern Mississippi"
+      "Southern Miss"
     ],
     "numbers": [
       37,
@@ -182433,7 +182653,7 @@ export const NFL_PLAYERS = [
       "Oakland Raiders"
     ],
     "college": [
-      "Texas-El Paso"
+      "UTEP"
     ],
     "numbers": [
       82,
@@ -182450,7 +182670,7 @@ export const NFL_PLAYERS = [
       "Green Bay Packers"
     ],
     "college": [
-      "Connecticut"
+      "UConn"
     ],
     "numbers": [],
     "league": "NFL"
@@ -182548,7 +182768,7 @@ export const NFL_PLAYERS = [
       "St. Louis Cardinals"
     ],
     "college": [
-      "Texas-El Paso"
+      "UTEP"
     ],
     "numbers": [],
     "league": "NFL"
@@ -182560,8 +182780,8 @@ export const NFL_PLAYERS = [
       "New York Jets"
     ],
     "college": [
-      "Connecticut",
-      "San Jose State"
+      "San Jose State",
+      "UConn"
     ],
     "numbers": [
       58,
@@ -182595,8 +182815,7 @@ export const NFL_PLAYERS = [
       "Tennessee Titans"
     ],
     "college": [
-      "Bethune-Cookman",
-      "Bethune\u2013Cookman"
+      "Bethune-Cookman"
     ],
     "numbers": [
       14
@@ -182725,8 +182944,7 @@ export const NFL_PLAYERS = [
       "Kansas City Chiefs"
     ],
     "college": [
-      "Miami (FL)",
-      "Miami (Fla.)"
+      "Miami (FL)"
     ],
     "numbers": [
       73,
@@ -182895,7 +183113,7 @@ export const NFL_PLAYERS = [
       "Tennessee Titans"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       25,
@@ -183195,7 +183413,6 @@ export const NFL_PLAYERS = [
       "San Diego Chargers"
     ],
     "college": [
-      "N.C. State",
       "NC State",
       "Pierce College"
     ],
@@ -183211,7 +183428,7 @@ export const NFL_PLAYERS = [
       "Los Angeles Chargers"
     ],
     "college": [
-      "Southern California"
+      "USC"
     ],
     "numbers": [
       84
@@ -183257,9 +183474,7 @@ export const NFL_PLAYERS = [
       "New Orleans Saints"
     ],
     "college": [
-      "M",
-      "Texas A&M",
-      "Texas A&amp"
+      "Texas A&M"
     ],
     "numbers": [
       78
@@ -183365,7 +183580,7 @@ export const NFL_PLAYERS = [
       "Las Vegas Raiders"
     ],
     "college": [
-      "Miami"
+      "Miami (FL)"
     ],
     "numbers": [
       86
@@ -183396,8 +183611,7 @@ export const NFL_PLAYERS = [
       "Tennessee Titans"
     ],
     "college": [
-      "Middle Tennessee",
-      "Middle Tennessee State"
+      "Middle Tennessee"
     ],
     "numbers": [
       50,
@@ -183606,7 +183820,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Louisville",
-      "Northeast Oklahoma"
+      "Northeastern Oklahoma"
     ],
     "numbers": [],
     "league": "NFL"
@@ -183619,7 +183833,7 @@ export const NFL_PLAYERS = [
       "Miami Dolphins"
     ],
     "college": [
-      "Arkansas\u2013Pine Bluff"
+      "Arkansas-Pine Bluff"
     ],
     "numbers": [
       72,
@@ -183869,7 +184083,7 @@ export const NFL_PLAYERS = [
     "display_name": "Ernie Borghetti",
     "teams": [],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -183929,7 +184143,7 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "Loyola (CA)"
+      "Loyola Marymount"
     ],
     "numbers": [],
     "league": "NFL"
@@ -183991,7 +184205,7 @@ export const NFL_PLAYERS = [
     "display_name": "Ernie Davis",
     "teams": [],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -184086,7 +184300,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Duke",
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -184170,7 +184384,7 @@ export const NFL_PLAYERS = [
     "display_name": "Ernie Kelly",
     "teams": [],
     "college": [
-      "Texas Mines"
+      "UTEP"
     ],
     "numbers": [],
     "league": "NFL"
@@ -184401,7 +184615,7 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "Texas A&I"
+      "Texas A&M-Kingsville"
     ],
     "numbers": [],
     "league": "NFL"
@@ -184566,7 +184780,7 @@ export const NFL_PLAYERS = [
     "display_name": "Ernie Webster",
     "teams": [],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -184675,7 +184889,7 @@ export const NFL_PLAYERS = [
     "display_name": "Ernie\u00a0Kiely",
     "teams": [],
     "college": [
-      "Texas Western"
+      "UTEP"
     ],
     "numbers": [],
     "league": "NFL"
@@ -184927,7 +185141,7 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       89
@@ -185380,7 +185594,7 @@ export const NFL_PLAYERS = [
     "display_name": "Ethan Venderveen",
     "teams": [],
     "college": [
-      "Morehouse (GA)"
+      "Morehouse College"
     ],
     "numbers": [],
     "league": "NFL"
@@ -185396,7 +185610,7 @@ export const NFL_PLAYERS = [
       "St. Louis Rams"
     ],
     "college": [
-      "M",
+      "Texas A&M",
       "West Texas A&amp"
     ],
     "numbers": [
@@ -185467,7 +185681,7 @@ export const NFL_PLAYERS = [
     "display_name": "Eugene \"Mercury\" Morris",
     "teams": [],
     "college": [
-      "W. Texas State"
+      "West Texas A&M"
     ],
     "numbers": [],
     "league": "NFL"
@@ -185527,7 +185741,7 @@ export const NFL_PLAYERS = [
     "display_name": "Eugene Childs",
     "teams": [],
     "college": [
-      "Texas-El Paso"
+      "UTEP"
     ],
     "numbers": [],
     "league": "NFL"
@@ -185569,7 +185783,7 @@ export const NFL_PLAYERS = [
     "display_name": "Eugene Epps",
     "teams": [],
     "college": [
-      "Texas\u2013El Paso"
+      "UTEP"
     ],
     "numbers": [],
     "league": "NFL"
@@ -185847,7 +186061,7 @@ export const NFL_PLAYERS = [
     "display_name": "Eural Johnson",
     "teams": [],
     "college": [
-      "Prairie View"
+      "Prairie View A&M"
     ],
     "numbers": [],
     "league": "NFL"
@@ -185913,7 +186127,7 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "Florida Atlantic"
+      "FAU"
     ],
     "numbers": [
       58,
@@ -185998,8 +186212,7 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "SMU",
-      "Southern Methodist"
+      "SMU"
     ],
     "numbers": [
       62,
@@ -186061,7 +186274,6 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "Mississippi",
       "Ole Miss"
     ],
     "numbers": [
@@ -186078,7 +186290,7 @@ export const NFL_PLAYERS = [
       "Detroit Lions"
     ],
     "college": [
-      "Minn. State-Mankato"
+      "Minnesota State"
     ],
     "numbers": [
       64
@@ -186408,7 +186620,7 @@ export const NFL_PLAYERS = [
     "display_name": "Evaristo DeLeon Nino Jr.",
     "teams": [],
     "college": [
-      "East Texas State"
+      "East Texas A&M"
     ],
     "numbers": [],
     "league": "NFL"
@@ -186531,7 +186743,7 @@ export const NFL_PLAYERS = [
     "display_name": "Everett Taylor",
     "teams": [],
     "college": [
-      "Memphis State"
+      "Memphis"
     ],
     "numbers": [],
     "league": "NFL"
@@ -186583,7 +186795,6 @@ export const NFL_PLAYERS = [
       "Minnesota Vikings"
     ],
     "college": [
-      "Southern California",
       "USC"
     ],
     "numbers": [
@@ -186601,7 +186812,7 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "Grambling State"
+      "Grambling"
     ],
     "numbers": [
       24
@@ -186653,7 +186864,7 @@ export const NFL_PLAYERS = [
     "display_name": "Ezekial\u00a0Gadson",
     "teams": [],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -186667,8 +186878,7 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "BYU",
-      "Brigham Young"
+      "BYU"
     ],
     "numbers": [
       94
@@ -186784,8 +186994,7 @@ export const NFL_PLAYERS = [
       "Indianapolis Colts"
     ],
     "college": [
-      "Morris Brown",
-      "Morris Brown College"
+      "Morris Brown"
     ],
     "numbers": [],
     "league": "NFL"
@@ -186819,7 +187028,7 @@ export const NFL_PLAYERS = [
     "display_name": "Fabian Hoffman",
     "teams": [],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -186926,7 +187135,7 @@ export const NFL_PLAYERS = [
       "New Orleans Saints"
     ],
     "college": [
-      "Syracuse",
+      "Rich Manning",
       "Texas A&M"
     ],
     "numbers": [
@@ -186943,7 +187152,7 @@ export const NFL_PLAYERS = [
       "Oakland Raiders"
     ],
     "college": [
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [
       98,
@@ -186958,7 +187167,6 @@ export const NFL_PLAYERS = [
       "Indianapolis Colts"
     ],
     "college": [
-      "Mississippi",
       "Ole Miss"
     ],
     "numbers": [
@@ -187004,7 +187212,7 @@ export const NFL_PLAYERS = [
       "St. Louis Rams"
     ],
     "college": [
-      "Grambling State"
+      "Grambling"
     ],
     "numbers": [
       24,
@@ -187200,7 +187408,7 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "Florida Atlantic"
+      "FAU"
     ],
     "numbers": [
       62
@@ -187409,7 +187617,7 @@ export const NFL_PLAYERS = [
     "display_name": "Ferdie Burket",
     "teams": [],
     "college": [
-      "Southeastern Oklahoma"
+      "Southeastern Oklahoma State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -187486,7 +187694,7 @@ export const NFL_PLAYERS = [
       "Cincinnati Bengals"
     ],
     "college": [
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -187532,7 +187740,7 @@ export const NFL_PLAYERS = [
     "display_name": "Ferrell Yarbrough",
     "teams": [],
     "college": [
-      "Northwestern State (LA)"
+      "Northwestern State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -187663,7 +187871,7 @@ export const NFL_PLAYERS = [
     "display_name": "Finnis Taylor",
     "teams": [],
     "college": [
-      "Prairie View"
+      "Prairie View A&M"
     ],
     "numbers": [],
     "league": "NFL"
@@ -187890,7 +188098,7 @@ export const NFL_PLAYERS = [
       "Houston Texans"
     ],
     "college": [
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [
       82
@@ -187948,8 +188156,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Stephen F. Austin",
-      "Stephen F. Austin State"
+      "Stephen F. Austin"
     ],
     "numbers": [],
     "league": "NFL"
@@ -187993,7 +188200,7 @@ export const NFL_PLAYERS = [
     "display_name": "Floyd Franks",
     "teams": [],
     "college": [
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -188107,7 +188314,7 @@ export const NFL_PLAYERS = [
       "Denver Broncos"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       44
@@ -188196,7 +188403,7 @@ export const NFL_PLAYERS = [
       "San Diego Chargers"
     ],
     "college": [
-      "Alcorn A&M"
+      "Alcorn State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -188394,7 +188601,7 @@ export const NFL_PLAYERS = [
       "New York Jets"
     ],
     "college": [
-      "Connecticut"
+      "UConn"
     ],
     "numbers": [
       91,
@@ -188410,7 +188617,6 @@ export const NFL_PLAYERS = [
       "New York Jets"
     ],
     "college": [
-      "Connecticut",
       "UConn"
     ],
     "numbers": [
@@ -188730,7 +188936,7 @@ export const NFL_PLAYERS = [
       "Philadelphia Eagles"
     ],
     "college": [
-      "West Texas State"
+      "West Texas A&M"
     ],
     "numbers": [],
     "league": "NFL"
@@ -189016,7 +189222,7 @@ export const NFL_PLAYERS = [
     "display_name": "Francis Reynolds",
     "teams": [],
     "college": [
-      "Alcorn A&M"
+      "Alcorn State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -189048,7 +189254,7 @@ export const NFL_PLAYERS = [
       "Green Bay Packers"
     ],
     "college": [
-      "Memphis State"
+      "Memphis"
     ],
     "numbers": [],
     "league": "NFL"
@@ -189060,7 +189266,6 @@ export const NFL_PLAYERS = [
       "New York Jets"
     ],
     "college": [
-      "Miami",
       "Miami (FL)",
       "Washington State"
     ],
@@ -189512,7 +189717,7 @@ export const NFL_PLAYERS = [
     "display_name": "Frank Cahill",
     "teams": [],
     "college": [
-      "Northern Illinois State"
+      "Northern Illinois"
     ],
     "numbers": [],
     "league": "NFL"
@@ -189653,7 +189858,7 @@ export const NFL_PLAYERS = [
       "Cleveland Browns"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -190281,7 +190486,6 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "Miami",
       "Miami (FL)"
     ],
     "numbers": [
@@ -190298,7 +190502,7 @@ export const NFL_PLAYERS = [
       "Buffalo Bills"
     ],
     "college": [
-      "Southern Mississippi"
+      "Southern Miss"
     ],
     "numbers": [
       20
@@ -190419,7 +190623,7 @@ export const NFL_PLAYERS = [
     "display_name": "Frank Haywood",
     "teams": [],
     "college": [
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -190498,7 +190702,7 @@ export const NFL_PLAYERS = [
     "display_name": "Frank Horak",
     "teams": [],
     "college": [
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -190728,7 +190932,6 @@ export const NFL_PLAYERS = [
     "display_name": "Frank Kinard",
     "teams": [],
     "college": [
-      "Mississippi",
       "Ole Miss"
     ],
     "numbers": [],
@@ -190847,7 +191050,7 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -191128,7 +191331,7 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -191616,7 +191819,7 @@ export const NFL_PLAYERS = [
     "display_name": "Frank Palandrani",
     "teams": [],
     "college": [
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -191655,7 +191858,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Nebraska",
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -192178,7 +192381,7 @@ export const NFL_PLAYERS = [
     "display_name": "Frank Scanlan",
     "teams": [],
     "college": [
-      "Loyola (CA)"
+      "Loyola Marymount"
     ],
     "numbers": [],
     "league": "NFL"
@@ -192293,7 +192496,7 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -193027,7 +193230,7 @@ export const NFL_PLAYERS = [
     "display_name": "Franklin Roberts",
     "teams": [],
     "college": [
-      "Alcorn A&M"
+      "Alcorn State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -193089,7 +193292,7 @@ export const NFL_PLAYERS = [
     "display_name": "Frank\u00a0Barnhart",
     "teams": [],
     "college": [
-      "Colorado State\u2013Greeley"
+      "Colorado State-Greeley"
     ],
     "numbers": [],
     "league": "NFL"
@@ -193800,7 +194003,7 @@ export const NFL_PLAYERS = [
     "display_name": "Fred Combs",
     "teams": [],
     "college": [
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -193849,7 +194052,7 @@ export const NFL_PLAYERS = [
       "Minnesota Vikings"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       1,
@@ -193952,7 +194155,7 @@ export const NFL_PLAYERS = [
       "Kansas City Chiefs"
     ],
     "college": [
-      "Texas-El Paso"
+      "UTEP"
     ],
     "numbers": [],
     "league": "NFL"
@@ -193964,7 +194167,7 @@ export const NFL_PLAYERS = [
       "New England Patriots"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -194272,7 +194475,7 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -194420,7 +194623,7 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -194667,7 +194870,6 @@ export const NFL_PLAYERS = [
       "New England Patriots"
     ],
     "college": [
-      "Miami",
       "Miami (FL)"
     ],
     "numbers": [],
@@ -194702,7 +194904,7 @@ export const NFL_PLAYERS = [
     "display_name": "Fred Mautino",
     "teams": [],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -194839,7 +195041,7 @@ export const NFL_PLAYERS = [
       "San Diego Chargers"
     ],
     "college": [
-      "Memphis State",
+      "Memphis",
       "Washington State"
     ],
     "numbers": [],
@@ -195005,7 +195207,7 @@ export const NFL_PLAYERS = [
     "display_name": "Fred Polser",
     "teams": [],
     "college": [
-      "East Texas State"
+      "East Texas A&M"
     ],
     "numbers": [],
     "league": "NFL"
@@ -195123,7 +195325,7 @@ export const NFL_PLAYERS = [
     "display_name": "Fred Riddle",
     "teams": [],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -195317,7 +195519,7 @@ export const NFL_PLAYERS = [
     "display_name": "Fred Snyder",
     "teams": [],
     "college": [
-      "Loyola (CA)"
+      "Loyola Marymount"
     ],
     "numbers": [],
     "league": "NFL"
@@ -195473,7 +195675,7 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "Tennessee\u2013Martin"
+      "UT Martin"
     ],
     "numbers": [
       22
@@ -195586,8 +195788,7 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "BYU",
-      "Brigham Young"
+      "BYU"
     ],
     "numbers": [
       48,
@@ -195643,7 +195844,7 @@ export const NFL_PLAYERS = [
     "display_name": "Fred Wendt",
     "teams": [],
     "college": [
-      "Texas Mines"
+      "UTEP"
     ],
     "numbers": [],
     "league": "NFL"
@@ -195659,7 +195860,7 @@ export const NFL_PLAYERS = [
       "Philadelphia Eagles"
     ],
     "college": [
-      "Brigham Young"
+      "BYU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -195856,7 +196057,6 @@ export const NFL_PLAYERS = [
       "St. Louis Cardinals"
     ],
     "college": [
-      "Mississippi",
       "Ole Miss"
     ],
     "numbers": [
@@ -196131,7 +196331,7 @@ export const NFL_PLAYERS = [
     "display_name": "Frederick Wegis",
     "teams": [],
     "college": [
-      "Cal Poly-San Luis Obispo"
+      "Cal Poly"
     ],
     "numbers": [],
     "league": "NFL"
@@ -196311,7 +196511,7 @@ export const NFL_PLAYERS = [
     "display_name": "Fred\u00a0Tabron",
     "teams": [],
     "college": [
-      "Southwest Missouri State"
+      "Missouri State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -196800,7 +197000,6 @@ export const NFL_PLAYERS = [
       "Jacksonville Jaguars"
     ],
     "college": [
-      "Central Florida",
       "UCF"
     ],
     "numbers": [
@@ -196847,7 +197046,7 @@ export const NFL_PLAYERS = [
       "Chicago Bears"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       79
@@ -196954,7 +197153,7 @@ export const NFL_PLAYERS = [
       "Arizona Cardinals"
     ],
     "college": [
-      "Bowling Green State"
+      "Bowling Green"
     ],
     "numbers": [
       50
@@ -197037,7 +197236,7 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "Gardner\u2013Webb"
+      "Gardner-Webb"
     ],
     "numbers": [
       98
@@ -197098,7 +197297,6 @@ export const NFL_PLAYERS = [
       "Buffalo Bills"
     ],
     "college": [
-      "Central Florida",
       "UCF"
     ],
     "numbers": [
@@ -197175,7 +197373,7 @@ export const NFL_PLAYERS = [
       "Cleveland Browns"
     ],
     "college": [
-      "Miami (Ohio)",
+      "Miami (OH)",
       "South Carolina"
     ],
     "numbers": [
@@ -197340,7 +197538,7 @@ export const NFL_PLAYERS = [
     "display_name": "Gale McGinty",
     "teams": [],
     "college": [
-      "West Texas State"
+      "West Texas A&M"
     ],
     "numbers": [],
     "league": "NFL"
@@ -197619,7 +197817,7 @@ export const NFL_PLAYERS = [
       "St. Louis Cardinals"
     ],
     "college": [
-      "Grambling State"
+      "Grambling"
     ],
     "numbers": [],
     "league": "NFL"
@@ -197682,7 +197880,7 @@ export const NFL_PLAYERS = [
     "display_name": "Garland Warren",
     "teams": [],
     "college": [
-      "North Texas State"
+      "North Texas"
     ],
     "numbers": [],
     "league": "NFL"
@@ -197730,7 +197928,7 @@ export const NFL_PLAYERS = [
     "display_name": "Garner\u00a0Williams",
     "teams": [],
     "college": [
-      "Saint Mary's (CA)"
+      "St. Mary's (CA)"
     ],
     "numbers": [],
     "league": "NFL"
@@ -197821,8 +198019,7 @@ export const NFL_PLAYERS = [
       "Tennessee Titans"
     ],
     "college": [
-      "TCU",
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [
       32,
@@ -197841,9 +198038,7 @@ export const NFL_PLAYERS = [
       "New England Patriots"
     ],
     "college": [
-      "N.C. State",
-      "NC State",
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [
       56,
@@ -197935,8 +198130,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "SMU",
-      "Southern Methodist"
+      "SMU"
     ],
     "numbers": [
       3,
@@ -198242,7 +198436,7 @@ export const NFL_PLAYERS = [
       "Arizona Cardinals"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       21
@@ -198690,7 +198884,7 @@ export const NFL_PLAYERS = [
       "Tennessee Titans"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       1
@@ -198858,7 +199052,7 @@ export const NFL_PLAYERS = [
       "Green Bay Packers"
     ],
     "college": [
-      "East Texas State",
+      "East Texas A&M",
       "Ohio State"
     ],
     "numbers": [
@@ -198946,7 +199140,7 @@ export const NFL_PLAYERS = [
       "Buffalo Bills"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -198959,7 +199153,7 @@ export const NFL_PLAYERS = [
       "Cincinnati Bengals"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -199211,7 +199405,7 @@ export const NFL_PLAYERS = [
     "display_name": "Gary Fallon",
     "teams": [],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -199248,7 +199442,7 @@ export const NFL_PLAYERS = [
     "display_name": "Gary Ferguson",
     "teams": [],
     "college": [
-      "Southern Methodist"
+      "SMU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -199269,7 +199463,7 @@ export const NFL_PLAYERS = [
     "display_name": "Gary Fleming",
     "teams": [],
     "college": [
-      "Samford (Ala)"
+      "Samford"
     ],
     "numbers": [],
     "league": "NFL"
@@ -199614,7 +199808,7 @@ export const NFL_PLAYERS = [
       "Cincinnati Bengals"
     ],
     "college": [
-      "Memphis State"
+      "Memphis"
     ],
     "numbers": [],
     "league": "NFL"
@@ -199624,7 +199818,7 @@ export const NFL_PLAYERS = [
     "display_name": "Gary Inskeep",
     "teams": [],
     "college": [
-      "Wisconsin\u2013Stout"
+      "Wisconsin-Stout"
     ],
     "numbers": [],
     "league": "NFL"
@@ -199696,7 +199890,7 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "Grambling State"
+      "Grambling"
     ],
     "numbers": [],
     "league": "NFL"
@@ -199721,7 +199915,7 @@ export const NFL_PLAYERS = [
     "display_name": "Gary Kaltenbach",
     "teams": [],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -199905,7 +200099,7 @@ export const NFL_PLAYERS = [
     "college": [
       "Arizona State",
       "Oklahoma State",
-      "Texas\u2013Arlington"
+      "Texas-Arlington"
     ],
     "numbers": [],
     "league": "NFL"
@@ -199928,7 +200122,7 @@ export const NFL_PLAYERS = [
     "display_name": "Gary Loyd",
     "teams": [],
     "college": [
-      "California-Lutheran"
+      "California Lutheran"
     ],
     "numbers": [],
     "league": "NFL"
@@ -200118,8 +200312,7 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "Northwestern State",
-      "Northwestern State (LA)"
+      "Northwestern State"
     ],
     "numbers": [
       55
@@ -200133,7 +200326,7 @@ export const NFL_PLAYERS = [
       "Green Bay Packers"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -200173,7 +200366,7 @@ export const NFL_PLAYERS = [
       "San Diego Chargers"
     ],
     "college": [
-      "West Chester (PA)"
+      "West Chester"
     ],
     "numbers": [],
     "league": "NFL"
@@ -200183,7 +200376,7 @@ export const NFL_PLAYERS = [
     "display_name": "Gary Shaw",
     "teams": [],
     "college": [
-      "Brigham Young"
+      "BYU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -200398,7 +200591,7 @@ export const NFL_PLAYERS = [
     "display_name": "Gary Wichard",
     "teams": [],
     "college": [
-      "C.W. Post"
+      "LIU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -200754,7 +200947,7 @@ export const NFL_PLAYERS = [
       "Minnesota Vikings"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       86
@@ -200785,7 +200978,7 @@ export const NFL_PLAYERS = [
       "Miami Dolphins"
     ],
     "college": [
-      "Texas-El Paso"
+      "UTEP"
     ],
     "numbers": [
       16
@@ -200840,7 +201033,7 @@ export const NFL_PLAYERS = [
     "display_name": "Gayford Baker",
     "teams": [],
     "college": [
-      "Nebraska\u2013Omaha"
+      "Nebraska-Omaha"
     ],
     "numbers": [],
     "league": "NFL"
@@ -201209,7 +201402,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Loyola (CA)"
+      "Loyola Marymount"
     ],
     "numbers": [],
     "league": "NFL"
@@ -201286,7 +201479,7 @@ export const NFL_PLAYERS = [
       "New York Titans"
     ],
     "college": [
-      "Hardin\u2013Simmons"
+      "Hardin-Simmons"
     ],
     "numbers": [],
     "league": "NFL"
@@ -201475,7 +201668,7 @@ export const NFL_PLAYERS = [
     "display_name": "Gene Frantz",
     "teams": [],
     "college": [
-      "Brigham Young"
+      "BYU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -201561,7 +201754,7 @@ export const NFL_PLAYERS = [
       "Buffalo Bills"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -201604,7 +201797,7 @@ export const NFL_PLAYERS = [
     "display_name": "Gene Hernandez",
     "teams": [],
     "college": [
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -202027,7 +202220,7 @@ export const NFL_PLAYERS = [
     "display_name": "Gene Offield",
     "teams": [],
     "college": [
-      "Hardin\u2013Simmons"
+      "Hardin-Simmons"
     ],
     "numbers": [],
     "league": "NFL"
@@ -202310,7 +202503,7 @@ export const NFL_PLAYERS = [
       "Oakland Raiders"
     ],
     "college": [
-      "Texas A&I"
+      "Texas A&M-Kingsville"
     ],
     "numbers": [
       63
@@ -202332,7 +202525,7 @@ export const NFL_PLAYERS = [
     "display_name": "Gene Verkerk",
     "teams": [],
     "college": [
-      "North Texas State"
+      "North Texas"
     ],
     "numbers": [],
     "league": "NFL"
@@ -202506,7 +202699,7 @@ export const NFL_PLAYERS = [
     "display_name": "Gene\u00a0Hodge",
     "teams": [],
     "college": [
-      "East Texas State"
+      "East Texas A&M"
     ],
     "numbers": [],
     "league": "NFL"
@@ -202839,7 +203032,7 @@ export const NFL_PLAYERS = [
     "display_name": "Geoff\u00a0Brown",
     "teams": [],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -202932,7 +203125,7 @@ export const NFL_PLAYERS = [
       "Houston Oilers"
     ],
     "college": [
-      "West Texas State"
+      "West Texas A&M"
     ],
     "numbers": [],
     "league": "NFL"
@@ -202942,7 +203135,7 @@ export const NFL_PLAYERS = [
     "display_name": "George Allshouse",
     "teams": [],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -203015,7 +203208,7 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       39
@@ -203285,7 +203478,7 @@ export const NFL_PLAYERS = [
       "San Diego Chargers"
     ],
     "college": [
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -203334,7 +203527,7 @@ export const NFL_PLAYERS = [
       "Oakland Raiders"
     ],
     "college": [
-      "North Texas State"
+      "North Texas"
     ],
     "numbers": [],
     "league": "NFL"
@@ -203435,8 +203628,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Purdue",
-      "Purdue (Redrafted Colt)"
+      "Purdue"
     ],
     "numbers": [],
     "league": "NFL"
@@ -204042,7 +204234,7 @@ export const NFL_PLAYERS = [
     "display_name": "George Fracovitch",
     "teams": [],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -204067,7 +204259,7 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "Texas A&I"
+      "Texas A&M-Kingsville"
     ],
     "numbers": [],
     "league": "NFL"
@@ -204089,7 +204281,7 @@ export const NFL_PLAYERS = [
       "Denver Broncos"
     ],
     "college": [
-      "Southern Methodist"
+      "SMU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -204414,7 +204606,7 @@ export const NFL_PLAYERS = [
       "Denver Broncos"
     ],
     "college": [
-      "Mississippi Southern"
+      "Southern Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -204434,7 +204626,7 @@ export const NFL_PLAYERS = [
     "display_name": "George Hillery",
     "teams": [],
     "college": [
-      "Texas Western"
+      "UTEP"
     ],
     "numbers": [],
     "league": "NFL"
@@ -204498,7 +204690,7 @@ export const NFL_PLAYERS = [
     "display_name": "George Horne",
     "teams": [],
     "college": [
-      "Brigham Young"
+      "BYU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -204532,7 +204724,7 @@ export const NFL_PLAYERS = [
       "St. Louis Cardinals"
     ],
     "college": [
-      "Southern Mississippi"
+      "Southern Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -204631,7 +204823,7 @@ export const NFL_PLAYERS = [
       "Oakland Raiders"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -204681,7 +204873,7 @@ export const NFL_PLAYERS = [
       "Akron Pros"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       90
@@ -204973,7 +205165,7 @@ export const NFL_PLAYERS = [
       "Brooklyn Dodgers"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -205406,7 +205598,7 @@ export const NFL_PLAYERS = [
     "display_name": "George Musacco",
     "teams": [],
     "college": [
-      "Loyola (CA)"
+      "Loyola Marymount"
     ],
     "numbers": [],
     "league": "NFL"
@@ -205716,7 +205908,7 @@ export const NFL_PLAYERS = [
     "teams": [],
     "college": [
       "San Jose State",
-      "Southwest Texas State"
+      "Texas State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -205738,7 +205930,7 @@ export const NFL_PLAYERS = [
       "Baltimore Colts"
     ],
     "college": [
-      "VPI"
+      "Virginia Tech"
     ],
     "numbers": [],
     "league": "NFL"
@@ -205964,7 +206156,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Morgan State",
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -207406,7 +207598,7 @@ export const NFL_PLAYERS = [
     "display_name": "Gerald Circo",
     "teams": [],
     "college": [
-      "Cal State-Chico"
+      "Chico State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -207476,7 +207668,7 @@ export const NFL_PLAYERS = [
       "San Diego Chargers"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       54,
@@ -207770,7 +207962,7 @@ export const NFL_PLAYERS = [
     "display_name": "Gerald Warfield",
     "teams": [],
     "college": [
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -207780,7 +207972,7 @@ export const NFL_PLAYERS = [
     "display_name": "Gerald Warren",
     "teams": [],
     "college": [
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -207833,7 +208025,7 @@ export const NFL_PLAYERS = [
       "Miami Dolphins"
     ],
     "college": [
-      "Miami"
+      "Miami (FL)"
     ],
     "numbers": [
       53
@@ -207875,7 +208067,7 @@ export const NFL_PLAYERS = [
     "display_name": "Gerald\u00a0Taylor",
     "teams": [],
     "college": [
-      "Texas A&I"
+      "Texas A&M-Kingsville"
     ],
     "numbers": [],
     "league": "NFL"
@@ -207985,7 +208177,6 @@ export const NFL_PLAYERS = [
       "San Diego Chargers"
     ],
     "college": [
-      "Connecticut",
       "UConn"
     ],
     "numbers": [
@@ -208004,7 +208195,7 @@ export const NFL_PLAYERS = [
       "New York Titans"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -208036,9 +208227,7 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "M",
-      "Texas A&M",
-      "Texas A&amp"
+      "Texas A&M"
     ],
     "numbers": [
       62,
@@ -208058,9 +208247,7 @@ export const NFL_PLAYERS = [
       "Las Vegas Raiders"
     ],
     "college": [
-      "N.C. State",
-      "NC State",
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [
       53,
@@ -208275,7 +208462,7 @@ export const NFL_PLAYERS = [
       "Kansas City Chiefs"
     ],
     "college": [
-      "Alabama-Birmingham"
+      "UAB"
     ],
     "numbers": [
       45,
@@ -208389,7 +208576,7 @@ export const NFL_PLAYERS = [
     "display_name": "Gerry Hershey",
     "teams": [],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -208576,7 +208763,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Houston",
-      "Northeast Oklahoma"
+      "Northeastern Oklahoma"
     ],
     "numbers": [
       30,
@@ -209030,7 +209217,7 @@ export const NFL_PLAYERS = [
     "display_name": "Giles\u00a0Cole",
     "teams": [],
     "college": [
-      "Texas A&M\u2013Kingsville"
+      "Texas A&M-Kingsville"
     ],
     "numbers": [],
     "league": "NFL"
@@ -209279,8 +209466,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "British Columbia",
-      "British Columbia, Can.",
-      "University of British Columbia"
+      "British Columbia, Can."
     ],
     "numbers": [
       59
@@ -209452,7 +209638,7 @@ export const NFL_PLAYERS = [
     "display_name": "Glen Dillon",
     "teams": [],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -209500,7 +209686,7 @@ export const NFL_PLAYERS = [
       "Cleveland Browns"
     ],
     "college": [
-      "North Texas State"
+      "North Texas"
     ],
     "numbers": [],
     "league": "NFL"
@@ -209524,7 +209710,7 @@ export const NFL_PLAYERS = [
     "display_name": "Glen Keppy",
     "teams": [],
     "college": [
-      "Wisconsin\u2013Platteville"
+      "Wisconsin-Platteville"
     ],
     "numbers": [],
     "league": "NFL"
@@ -209600,7 +209786,7 @@ export const NFL_PLAYERS = [
     "display_name": "Glen Printers",
     "teams": [],
     "college": [
-      "Southern Colorado State"
+      "Southern Colorado"
     ],
     "numbers": [],
     "league": "NFL"
@@ -209637,7 +209823,7 @@ export const NFL_PLAYERS = [
     "display_name": "Glen Sasser",
     "teams": [],
     "college": [
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -210157,7 +210343,7 @@ export const NFL_PLAYERS = [
       "Los Angeles Rams"
     ],
     "college": [
-      "North Texas State"
+      "North Texas"
     ],
     "numbers": [],
     "league": "NFL"
@@ -210448,7 +210634,7 @@ export const NFL_PLAYERS = [
     "display_name": "Glenn Thompson",
     "teams": [],
     "college": [
-      "Troy State"
+      "Troy"
     ],
     "numbers": [],
     "league": "NFL"
@@ -210493,7 +210679,7 @@ export const NFL_PLAYERS = [
       "Houston Oilers"
     ],
     "college": [
-      "Prairie View"
+      "Prairie View A&M"
     ],
     "numbers": [],
     "league": "NFL"
@@ -210583,7 +210769,7 @@ export const NFL_PLAYERS = [
     "display_name": "Glenn\u00a0Starks",
     "teams": [],
     "college": [
-      "Texas A&I"
+      "Texas A&M-Kingsville"
     ],
     "numbers": [],
     "league": "NFL"
@@ -210603,7 +210789,7 @@ export const NFL_PLAYERS = [
     "display_name": "Glenn\u00a0Tucker",
     "teams": [],
     "college": [
-      "North Texas State"
+      "North Texas"
     ],
     "numbers": [],
     "league": "NFL"
@@ -210633,7 +210819,7 @@ export const NFL_PLAYERS = [
     "display_name": "Glen\u00a0Keller",
     "teams": [],
     "college": [
-      "West Texas State"
+      "West Texas A&M"
     ],
     "numbers": [],
     "league": "NFL"
@@ -210643,7 +210829,7 @@ export const NFL_PLAYERS = [
     "display_name": "Glen\u00a0Tunning",
     "teams": [],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -210701,7 +210887,7 @@ export const NFL_PLAYERS = [
       "Dallas Cowboys"
     ],
     "college": [
-      "Southern Methodist"
+      "SMU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -211090,7 +211276,7 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -211115,7 +211301,7 @@ export const NFL_PLAYERS = [
       "Denver Broncos"
     ],
     "college": [
-      "Tennessee-Martin"
+      "UT Martin"
     ],
     "numbers": [],
     "league": "NFL"
@@ -211272,7 +211458,7 @@ export const NFL_PLAYERS = [
     "display_name": "Gordon Scarborough",
     "teams": [],
     "college": [
-      "East Texas State"
+      "East Texas A&M"
     ],
     "numbers": [],
     "league": "NFL"
@@ -211329,7 +211515,7 @@ export const NFL_PLAYERS = [
       "Cleveland Browns"
     ],
     "college": [
-      "Texas Western"
+      "UTEP"
     ],
     "numbers": [],
     "league": "NFL"
@@ -211564,7 +211750,7 @@ export const NFL_PLAYERS = [
       "Denver Broncos"
     ],
     "college": [
-      "Texas\u2013El Paso"
+      "UTEP"
     ],
     "numbers": [],
     "league": "NFL"
@@ -211753,8 +211939,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Oklahoma",
-      "SMU",
-      "Southern Methodist"
+      "SMU"
     ],
     "numbers": [
       81
@@ -211797,8 +211982,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Charlotte",
-      "Miles College",
-      "North Carolina-Charlotte"
+      "Miles College"
     ],
     "numbers": [
       16,
@@ -212016,7 +212200,7 @@ export const NFL_PLAYERS = [
     "display_name": "Granville Hart",
     "teams": [],
     "college": [
-      "Mississippi Southern"
+      "Southern Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -212088,7 +212272,7 @@ export const NFL_PLAYERS = [
       "Jacksonville Jaguars"
     ],
     "college": [
-      "Southern Mississippi"
+      "Southern Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -212830,7 +213014,7 @@ export const NFL_PLAYERS = [
     "display_name": "Greg Enright",
     "teams": [],
     "college": [
-      "Southern Oregon State"
+      "Southern Oregon"
     ],
     "numbers": [],
     "league": "NFL"
@@ -213089,7 +213273,6 @@ export const NFL_PLAYERS = [
       "Dallas Cowboys"
     ],
     "college": [
-      "Mississippi",
       "Ole Miss"
     ],
     "numbers": [
@@ -213232,7 +213415,7 @@ export const NFL_PLAYERS = [
       "Philadelphia Eagles"
     ],
     "college": [
-      "Central Florida"
+      "UCF"
     ],
     "numbers": [
       79
@@ -213405,7 +213588,7 @@ export const NFL_PLAYERS = [
       "Tennessee Titans"
     ],
     "college": [
-      "Florida Atlantic"
+      "FAU"
     ],
     "numbers": [
       1,
@@ -213667,7 +213850,7 @@ export const NFL_PLAYERS = [
       "Miami Dolphins"
     ],
     "college": [
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [
       11,
@@ -213710,7 +213893,7 @@ export const NFL_PLAYERS = [
     "display_name": "Greg Lloyd Jr.",
     "teams": [],
     "college": [
-      "Connecticut"
+      "UConn"
     ],
     "numbers": [],
     "league": "NFL"
@@ -213965,7 +214148,7 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -214113,7 +214296,6 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "Miami",
       "Miami (FL)"
     ],
     "numbers": [
@@ -214362,7 +214544,7 @@ export const NFL_PLAYERS = [
     "display_name": "Greg Romeus",
     "teams": [],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       79
@@ -214376,7 +214558,7 @@ export const NFL_PLAYERS = [
       "Buffalo Bills"
     ],
     "college": [
-      "Miami"
+      "Miami (FL)"
     ],
     "numbers": [
       15,
@@ -214721,8 +214903,7 @@ export const NFL_PLAYERS = [
       "New York Jets"
     ],
     "college": [
-      "Penn",
-      "Pennsylvania"
+      "Penn"
     ],
     "numbers": [
       62,
@@ -214792,7 +214973,7 @@ export const NFL_PLAYERS = [
       "Kansas City Chiefs"
     ],
     "college": [
-      "Arkansas\u2013Pine Bluff"
+      "Arkansas-Pine Bluff"
     ],
     "numbers": [
       25
@@ -214976,7 +215157,6 @@ export const NFL_PLAYERS = [
       "New England Patriots"
     ],
     "college": [
-      "Miami",
       "Miami (FL)"
     ],
     "numbers": [],
@@ -215065,8 +215245,7 @@ export const NFL_PLAYERS = [
       "Jacksonville Jaguars"
     ],
     "college": [
-      "Ouachita Baptist",
-      "Ouachita Baptist University"
+      "Ouachita Baptist"
     ],
     "numbers": [
       30,
@@ -215082,7 +215261,6 @@ export const NFL_PLAYERS = [
       "Buffalo Bills"
     ],
     "college": [
-      "Miami",
       "Miami (FL)"
     ],
     "numbers": [
@@ -215202,7 +215380,7 @@ export const NFL_PLAYERS = [
     "display_name": "Greg\u00a0Harris",
     "teams": [],
     "college": [
-      "Troy State",
+      "Troy",
       "Wake Forest"
     ],
     "numbers": [],
@@ -215303,7 +215481,7 @@ export const NFL_PLAYERS = [
     "display_name": "Greg\u00a0Ross",
     "teams": [],
     "college": [
-      "Memphis State"
+      "Memphis"
     ],
     "numbers": [],
     "league": "NFL"
@@ -215467,7 +215645,7 @@ export const NFL_PLAYERS = [
     "display_name": "Guerin Alker",
     "teams": [],
     "college": [
-      "Loyola (CA)"
+      "Loyola Marymount"
     ],
     "numbers": [],
     "league": "NFL"
@@ -216100,7 +216278,7 @@ export const NFL_PLAYERS = [
       "Green Bay Packers"
     ],
     "college": [
-      "Grambling State"
+      "Grambling"
     ],
     "numbers": [],
     "league": "NFL"
@@ -216114,7 +216292,7 @@ export const NFL_PLAYERS = [
       "Dallas Cowboys"
     ],
     "college": [
-      "Southern Methodist"
+      "SMU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -216202,7 +216380,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       54
@@ -216214,7 +216392,7 @@ export const NFL_PLAYERS = [
     "display_name": "H.C. Burrus",
     "teams": [],
     "college": [
-      "Hardin\u2013Simmons"
+      "Hardin-Simmons"
     ],
     "numbers": [],
     "league": "NFL"
@@ -216234,7 +216412,7 @@ export const NFL_PLAYERS = [
     "display_name": "H.O. Estes",
     "teams": [],
     "college": [
-      "East Central (OK)"
+      "East Central"
     ],
     "numbers": [],
     "league": "NFL"
@@ -216287,7 +216465,7 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       45
@@ -216407,7 +216585,7 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "Monmouth (N.J.)"
+      "Monmouth"
     ],
     "numbers": [
       84,
@@ -216626,7 +216804,7 @@ export const NFL_PLAYERS = [
     "display_name": "Hal Divine",
     "teams": [],
     "college": [
-      "Memphis State"
+      "Memphis"
     ],
     "numbers": [],
     "league": "NFL"
@@ -216887,7 +217065,7 @@ export const NFL_PLAYERS = [
     "display_name": "Hal Lehman",
     "teams": [],
     "college": [
-      "Southern Mississippi"
+      "Southern Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -217083,7 +217261,7 @@ export const NFL_PLAYERS = [
       "Philadelphia Eagles"
     ],
     "college": [
-      "Hardin\u2013Simmons"
+      "Hardin-Simmons"
     ],
     "numbers": [],
     "league": "NFL"
@@ -217280,7 +217458,7 @@ export const NFL_PLAYERS = [
       "Detroit Lions"
     ],
     "college": [
-      "Tennessee A&I State"
+      "Tennessee State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -217357,8 +217535,7 @@ export const NFL_PLAYERS = [
       "Philadelphia Eagles"
     ],
     "college": [
-      "TCU",
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [
       72
@@ -217399,7 +217576,7 @@ export const NFL_PLAYERS = [
       "Tennessee Titans"
     ],
     "college": [
-      "Louisiana\u2013Lafayette"
+      "Louisiana-Lafayette"
     ],
     "numbers": [
       72,
@@ -217427,7 +217604,7 @@ export const NFL_PLAYERS = [
       "New York Titans"
     ],
     "college": [
-      "Texas A&I"
+      "Texas A&M-Kingsville"
     ],
     "numbers": [],
     "league": "NFL"
@@ -217548,7 +217725,7 @@ export const NFL_PLAYERS = [
     "display_name": "Hal\u00a0Stebbins",
     "teams": [],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -217748,7 +217925,7 @@ export const NFL_PLAYERS = [
       "Houston Oilers"
     ],
     "college": [
-      "Southern Mississippi"
+      "Southern Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -217790,7 +217967,7 @@ export const NFL_PLAYERS = [
       "San Diego Chargers"
     ],
     "college": [
-      "Cal Lutheran"
+      "California Lutheran"
     ],
     "numbers": [],
     "league": "NFL"
@@ -218027,7 +218204,7 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       21,
@@ -218503,7 +218680,7 @@ export const NFL_PLAYERS = [
     "display_name": "Harley Turner",
     "teams": [],
     "college": [
-      "Tennessee-Chattanooga"
+      "Chattanooga"
     ],
     "numbers": [],
     "league": "NFL"
@@ -218726,7 +218903,7 @@ export const NFL_PLAYERS = [
       "Dallas Cowboys"
     ],
     "college": [
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -218855,7 +219032,7 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "Southern Mississippi"
+      "Southern Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -219048,7 +219225,7 @@ export const NFL_PLAYERS = [
     "display_name": "Harold Parmenter",
     "teams": [],
     "college": [
-      "Massachusetts"
+      "UMass"
     ],
     "numbers": [],
     "league": "NFL"
@@ -219122,7 +219299,7 @@ export const NFL_PLAYERS = [
       "New England Patriots"
     ],
     "college": [
-      "Southern Mississippi"
+      "Southern Miss"
     ],
     "numbers": [
       44
@@ -219154,7 +219331,7 @@ export const NFL_PLAYERS = [
     "display_name": "Harold Stanger",
     "teams": [],
     "college": [
-      "North Texas State"
+      "North Texas"
     ],
     "numbers": [],
     "league": "NFL"
@@ -219227,7 +219404,7 @@ export const NFL_PLAYERS = [
     "display_name": "Harold\u00a0Porter",
     "teams": [],
     "college": [
-      "Southwestern Louisiana"
+      "Louisiana-Lafayette"
     ],
     "numbers": [],
     "league": "NFL"
@@ -219362,7 +219539,7 @@ export const NFL_PLAYERS = [
       "Las Vegas Raiders"
     ],
     "college": [
-      "Florida Atlantic"
+      "FAU"
     ],
     "numbers": [
       46,
@@ -219818,7 +219995,7 @@ export const NFL_PLAYERS = [
     "display_name": "Harry Day",
     "teams": [],
     "college": [
-      "Memphis State"
+      "Memphis"
     ],
     "numbers": [],
     "league": "NFL"
@@ -220381,7 +220558,7 @@ export const NFL_PLAYERS = [
     "display_name": "Harry Orszulak",
     "teams": [],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -220789,7 +220966,7 @@ export const NFL_PLAYERS = [
     "display_name": "Harry\u00a0Gooden",
     "teams": [],
     "college": [
-      "Alcorn A&M"
+      "Alcorn State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -221051,7 +221228,7 @@ export const NFL_PLAYERS = [
       "New York Jets"
     ],
     "college": [
-      "Brigham Young"
+      "BYU"
     ],
     "numbers": [
       44,
@@ -221089,7 +221266,7 @@ export const NFL_PLAYERS = [
       "Dallas Cowboys"
     ],
     "college": [
-      "East Texas State"
+      "East Texas A&M"
     ],
     "numbers": [
       79
@@ -221470,7 +221647,7 @@ export const NFL_PLAYERS = [
       "New England Patriots"
     ],
     "college": [
-      "Southern Methodist"
+      "SMU"
     ],
     "numbers": [
       61,
@@ -221568,7 +221745,6 @@ export const NFL_PLAYERS = [
       "New Orleans Saints"
     ],
     "college": [
-      "N.C. State",
       "NC State"
     ],
     "numbers": [
@@ -221672,7 +221848,7 @@ export const NFL_PLAYERS = [
       "Philadelphia Eagles"
     ],
     "college": [
-      "Texas A&M\u2013Kingsville"
+      "Texas A&M-Kingsville"
     ],
     "numbers": [],
     "league": "NFL"
@@ -221951,7 +222127,7 @@ export const NFL_PLAYERS = [
       "Chicago Cardinals"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -221961,7 +222137,7 @@ export const NFL_PLAYERS = [
     "display_name": "Henry Alford",
     "teams": [],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -222124,7 +222300,7 @@ export const NFL_PLAYERS = [
     "display_name": "Henry Christopher",
     "teams": [],
     "college": [
-      "Southern Methodist"
+      "SMU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -222301,7 +222477,7 @@ export const NFL_PLAYERS = [
     "display_name": "Henry Hipps",
     "teams": [],
     "college": [
-      "North Carolina A&T State"
+      "North Carolina A&T"
     ],
     "numbers": [],
     "league": "NFL"
@@ -222311,7 +222487,7 @@ export const NFL_PLAYERS = [
     "display_name": "Henry Holland",
     "teams": [],
     "college": [
-      "North Texas State"
+      "North Texas"
     ],
     "numbers": [],
     "league": "NFL"
@@ -222514,7 +222690,7 @@ export const NFL_PLAYERS = [
     "display_name": "Henry May",
     "teams": [],
     "college": [
-      "Southwest Missouri State"
+      "Missouri State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -223151,7 +223327,7 @@ export const NFL_PLAYERS = [
     "display_name": "Henry\u00a0Mason",
     "teams": [],
     "college": [
-      "Central Missouri State"
+      "Central Missouri"
     ],
     "numbers": [],
     "league": "NFL"
@@ -223278,7 +223454,7 @@ export const NFL_PLAYERS = [
     "display_name": "Herb Covington",
     "teams": [],
     "college": [
-      "Memphis State"
+      "Memphis"
     ],
     "numbers": [],
     "league": "NFL"
@@ -223478,7 +223654,7 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "East Central (OK)"
+      "East Central"
     ],
     "numbers": [],
     "league": "NFL"
@@ -223557,7 +223733,7 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "Florida Atlantic"
+      "FAU"
     ],
     "numbers": [
       29,
@@ -223641,8 +223817,7 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "Vanderbilt",
-      "Vanderbilt (Redrafted Colt)"
+      "Vanderbilt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -223822,7 +223997,7 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "Miami (Fla.)"
+      "Miami (FL)"
     ],
     "numbers": [
       16,
@@ -223983,7 +224158,7 @@ export const NFL_PLAYERS = [
       "Houston Oilers"
     ],
     "college": [
-      "Texas A&I"
+      "Texas A&M-Kingsville"
     ],
     "numbers": [],
     "league": "NFL"
@@ -224043,7 +224218,7 @@ export const NFL_PLAYERS = [
     "display_name": "Herb\u00a0Smith",
     "teams": [],
     "college": [
-      "Saint Mary's (CA)"
+      "St. Mary's (CA)"
     ],
     "numbers": [],
     "league": "NFL"
@@ -224241,7 +224416,7 @@ export const NFL_PLAYERS = [
       "Cleveland Browns"
     ],
     "college": [
-      "Grambling State"
+      "Grambling"
     ],
     "numbers": [
       70
@@ -224253,7 +224428,7 @@ export const NFL_PLAYERS = [
     "display_name": "Herman Canil",
     "teams": [],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -224576,7 +224751,7 @@ export const NFL_PLAYERS = [
     "display_name": "Herm\u00a0Dickerson",
     "teams": [],
     "college": [
-      "VPI"
+      "Virginia Tech"
     ],
     "numbers": [],
     "league": "NFL"
@@ -224879,7 +225054,7 @@ export const NFL_PLAYERS = [
     "display_name": "Hindu\u00a0Reynolds",
     "teams": [],
     "college": [
-      "Mississippi Southern"
+      "Southern Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -225416,7 +225591,7 @@ export const NFL_PLAYERS = [
     "display_name": "Hook Davis",
     "teams": [],
     "college": [
-      "Hardin\u2013Simmons"
+      "Hardin-Simmons"
     ],
     "numbers": [],
     "league": "NFL"
@@ -225489,7 +225664,7 @@ export const NFL_PLAYERS = [
     "display_name": "Horace \"Buzzy\"\u00a0Allert",
     "teams": [],
     "college": [
-      "Southwest Texas State"
+      "Texas State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -225612,7 +225787,7 @@ export const NFL_PLAYERS = [
       "Minnesota Vikings"
     ],
     "college": [
-      "Southern Methodist"
+      "SMU"
     ],
     "numbers": [
       24,
@@ -226003,7 +226178,7 @@ export const NFL_PLAYERS = [
     "display_name": "Howard Dyer",
     "teams": [],
     "college": [
-      "Virginia Military Inst"
+      "VMI"
     ],
     "numbers": [],
     "league": "NFL"
@@ -226223,7 +226398,7 @@ export const NFL_PLAYERS = [
     "display_name": "Howard McCard",
     "teams": [],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -226314,7 +226489,7 @@ export const NFL_PLAYERS = [
     "display_name": "Howard Smothers",
     "teams": [],
     "college": [
-      "Bethune\u2013Cookman"
+      "Bethune-Cookman"
     ],
     "numbers": [],
     "league": "NFL"
@@ -226471,7 +226646,7 @@ export const NFL_PLAYERS = [
     "display_name": "Howard Werner",
     "teams": [],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -226774,7 +226949,7 @@ export const NFL_PLAYERS = [
     "display_name": "Howie Wright",
     "teams": [],
     "college": [
-      "VPI"
+      "Virginia Tech"
     ],
     "numbers": [],
     "league": "NFL"
@@ -227140,7 +227315,7 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -227244,7 +227419,7 @@ export const NFL_PLAYERS = [
       "St. Louis Cardinals"
     ],
     "college": [
-      "Southern Mississippi"
+      "Southern Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -227416,7 +227591,7 @@ export const NFL_PLAYERS = [
     "display_name": "Hughie\u00a0Shaw",
     "teams": [],
     "college": [
-      "Texas A&I"
+      "Texas A&M-Kingsville"
     ],
     "numbers": [],
     "league": "NFL"
@@ -227557,7 +227732,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Iowa State",
-      "Iowa Western CC"
+      "Iowa Western"
     ],
     "numbers": [
       18
@@ -227822,7 +227997,7 @@ export const NFL_PLAYERS = [
       "St. Louis Cardinals"
     ],
     "college": [
-      "North Texas State"
+      "North Texas"
     ],
     "numbers": [],
     "league": "NFL"
@@ -227886,7 +228061,7 @@ export const NFL_PLAYERS = [
       "Jacksonville Jaguars"
     ],
     "college": [
-      "Middle Tennessee State"
+      "Middle Tennessee"
     ],
     "numbers": [
       43
@@ -228345,7 +228520,7 @@ export const NFL_PLAYERS = [
       "Miami Dolphins"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       6,
@@ -228766,7 +228941,7 @@ export const NFL_PLAYERS = [
     "display_name": "Ike Taylor",
     "teams": [],
     "college": [
-      "Louisiana\u2013Lafayette"
+      "Louisiana-Lafayette"
     ],
     "numbers": [
       24
@@ -228822,9 +228997,7 @@ export const NFL_PLAYERS = [
       "Carolina Panthers"
     ],
     "college": [
-      "N.C. State",
-      "NC State",
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [
       79
@@ -228883,7 +229056,6 @@ export const NFL_PLAYERS = [
       "Baltimore Ravens"
     ],
     "college": [
-      "Southern California",
       "USC"
     ],
     "numbers": [
@@ -228954,7 +229126,7 @@ export const NFL_PLAYERS = [
       "Green Bay Packers"
     ],
     "college": [
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [
       38
@@ -229711,7 +229883,7 @@ export const NFL_PLAYERS = [
       "Los Angeles Chargers"
     ],
     "college": [
-      "Brigham Young"
+      "BYU"
     ],
     "numbers": [
       85
@@ -229817,7 +229989,7 @@ export const NFL_PLAYERS = [
       "Indianapolis Colts"
     ],
     "college": [
-      "Southern California"
+      "USC"
     ],
     "numbers": [
       36,
@@ -229848,7 +230020,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "James Madison",
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [
       45
@@ -229878,7 +230050,7 @@ export const NFL_PLAYERS = [
       "Oakland Raiders"
     ],
     "college": [
-      "Southern California"
+      "USC"
     ],
     "numbers": [
       19
@@ -229983,8 +230155,7 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "Jackson State",
-      "Jackson State University"
+      "Jackson State"
     ],
     "numbers": [
       29
@@ -230331,7 +230502,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Dartmouth",
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       37,
@@ -230363,7 +230534,7 @@ export const NFL_PLAYERS = [
       "Indianapolis Colts"
     ],
     "college": [
-      "Brigham Young"
+      "BYU"
     ],
     "numbers": [
       41
@@ -230379,8 +230550,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Florida A&M",
-      "Florida A&amp",
-      "M"
+      "Texas A&M"
     ],
     "numbers": [
       55,
@@ -230507,7 +230677,7 @@ export const NFL_PLAYERS = [
       "Kansas City Chiefs"
     ],
     "college": [
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -230585,7 +230755,6 @@ export const NFL_PLAYERS = [
       "Las Vegas Raiders"
     ],
     "college": [
-      "Southern California",
       "USC"
     ],
     "numbers": [
@@ -230651,9 +230820,7 @@ export const NFL_PLAYERS = [
       "Philadelphia Eagles"
     ],
     "college": [
-      "Massachusetts",
-      "UMass",
-      "UMass Amherst"
+      "UMass"
     ],
     "numbers": [
       2,
@@ -230705,9 +230872,7 @@ export const NFL_PLAYERS = [
       "Los Angeles Chargers"
     ],
     "college": [
-      "M",
-      "Texas A&M",
-      "Texas A&amp"
+      "Texas A&M"
     ],
     "numbers": [
       28,
@@ -230984,7 +231149,7 @@ export const NFL_PLAYERS = [
       "Minnesota Vikings"
     ],
     "college": [
-      "Florida International"
+      "FIU"
     ],
     "numbers": [
       69,
@@ -231101,7 +231266,7 @@ export const NFL_PLAYERS = [
       "Las Vegas Raiders"
     ],
     "college": [
-      "Florida International"
+      "FIU"
     ],
     "numbers": [
       38,
@@ -231156,7 +231321,7 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       20,
@@ -231346,8 +231511,7 @@ export const NFL_PLAYERS = [
       "Dallas Cowboys"
     ],
     "college": [
-      "Southern Miss",
-      "Southern Mississippi"
+      "Southern Miss"
     ],
     "numbers": [
       25,
@@ -231428,7 +231592,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Cincinnati",
-      "Miami (Ohio)"
+      "Miami (OH)"
     ],
     "numbers": [
       40
@@ -231460,7 +231624,7 @@ export const NFL_PLAYERS = [
     "display_name": "Ivan Snowden",
     "teams": [],
     "college": [
-      "Texas A&I"
+      "Texas A&M-Kingsville"
     ],
     "numbers": [],
     "league": "NFL"
@@ -231505,7 +231669,7 @@ export const NFL_PLAYERS = [
       "Phoenix Cardinals"
     ],
     "college": [
-      "Arkansas\u2013Pine Bluff"
+      "Arkansas-Pine Bluff"
     ],
     "numbers": [],
     "league": "NFL"
@@ -231547,7 +231711,7 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "Bowling Green State"
+      "Bowling Green"
     ],
     "numbers": [
       66,
@@ -231662,7 +231826,7 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "M",
+      "Texas A&M",
       "West Texas A&M",
       "West Texas A&amp"
     ],
@@ -231993,7 +232157,7 @@ export const NFL_PLAYERS = [
       "Minnesota Vikings"
     ],
     "college": [
-      "Fullerton",
+      "Cal State Fullerton",
       "Pomona State",
       "Washington"
     ],
@@ -232005,7 +232169,7 @@ export const NFL_PLAYERS = [
     "display_name": "J.C. Riekenberg",
     "teams": [],
     "college": [
-      "Northwestern State (LA)"
+      "Northwestern State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -232033,7 +232197,7 @@ export const NFL_PLAYERS = [
       "Houston Oilers"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -232470,7 +232634,6 @@ export const NFL_PLAYERS = [
       "Oakland Raiders"
     ],
     "college": [
-      "Alabama-Birmingham",
       "UAB"
     ],
     "numbers": [
@@ -232698,7 +232861,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       49,
@@ -232946,8 +233109,7 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "NC State",
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [
       63,
@@ -233233,7 +233395,7 @@ export const NFL_PLAYERS = [
     "display_name": "J.W.\u00a0Meeks",
     "teams": [],
     "college": [
-      "East Texas State"
+      "East Texas A&M"
     ],
     "numbers": [],
     "league": "NFL"
@@ -233303,7 +233465,6 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Auburn",
-      "Mississippi",
       "Ole Miss"
     ],
     "numbers": [
@@ -233376,7 +233537,7 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "Miami (Ohio)"
+      "Miami (OH)"
     ],
     "numbers": [
       40,
@@ -233897,7 +234058,7 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       91,
@@ -234210,9 +234371,7 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "M",
-      "Texas A&M",
-      "Texas A&amp"
+      "Texas A&M"
     ],
     "numbers": [
       83,
@@ -235265,7 +235424,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Auburn",
-      "UMass Amherst"
+      "UMass"
     ],
     "numbers": [
       63,
@@ -235305,7 +235464,7 @@ export const NFL_PLAYERS = [
       "New York Yanks"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -235318,7 +235477,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Loyola (CA)"
+      "Loyola Marymount"
     ],
     "numbers": [],
     "league": "NFL"
@@ -235517,7 +235676,7 @@ export const NFL_PLAYERS = [
     "display_name": "Jack Flara",
     "teams": [],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -235585,7 +235744,7 @@ export const NFL_PLAYERS = [
     "display_name": "Jack Fulkerson",
     "teams": [],
     "college": [
-      "Mississippi Southern"
+      "Southern Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -235788,7 +235947,7 @@ export const NFL_PLAYERS = [
     "display_name": "Jack Hanlon",
     "teams": [],
     "college": [
-      "Pennsylvania"
+      "Penn"
     ],
     "numbers": [],
     "league": "NFL"
@@ -235951,7 +236110,7 @@ export const NFL_PLAYERS = [
       "Philadelphia Eagles"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -237045,7 +237204,7 @@ export const NFL_PLAYERS = [
       "Chicago Bears"
     ],
     "college": [
-      "Memphis State"
+      "Memphis"
     ],
     "numbers": [],
     "league": "NFL"
@@ -237084,7 +237243,7 @@ export const NFL_PLAYERS = [
       "Denver Broncos"
     ],
     "college": [
-      "Troy State"
+      "Troy"
     ],
     "numbers": [],
     "league": "NFL"
@@ -237189,7 +237348,7 @@ export const NFL_PLAYERS = [
       "San Diego Chargers"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -237573,7 +237732,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Clemson",
-      "Troy State"
+      "Troy"
     ],
     "numbers": [],
     "league": "NFL"
@@ -237635,7 +237794,7 @@ export const NFL_PLAYERS = [
     "display_name": "Jack Spears",
     "teams": [],
     "college": [
-      "Tennessee-Chattanooga"
+      "Chattanooga"
     ],
     "numbers": [],
     "league": "NFL"
@@ -237661,7 +237820,7 @@ export const NFL_PLAYERS = [
       "Kansas City Chiefs"
     ],
     "college": [
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -237676,7 +237835,7 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "Alcorn A&M"
+      "Alcorn State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -237743,7 +237902,7 @@ export const NFL_PLAYERS = [
     "display_name": "Jack Stetler",
     "teams": [],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -237896,8 +238055,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "NC State",
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [
       39
@@ -238326,7 +238484,7 @@ export const NFL_PLAYERS = [
       "Tennessee Titans"
     ],
     "college": [
-      "Northeast Louisiana"
+      "Louisiana-Monroe"
     ],
     "numbers": [
       80,
@@ -238404,7 +238562,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Florida",
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -238417,8 +238575,7 @@ export const NFL_PLAYERS = [
       "St. Louis Rams"
     ],
     "college": [
-      "Jackson State",
-      "Jackson State University"
+      "Jackson State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -238431,7 +238588,7 @@ export const NFL_PLAYERS = [
       "St. Louis Cardinals"
     ],
     "college": [
-      "Northwestern State (LA)"
+      "Northwestern State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -238573,7 +238730,7 @@ export const NFL_PLAYERS = [
       "Detroit Lions"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       13,
@@ -238588,7 +238745,7 @@ export const NFL_PLAYERS = [
       "Carolina Panthers"
     ],
     "college": [
-      "Connecticut"
+      "UConn"
     ],
     "numbers": [
       43
@@ -238603,7 +238760,7 @@ export const NFL_PLAYERS = [
       "Indianapolis Colts"
     ],
     "college": [
-      "Massachusetts"
+      "UMass"
     ],
     "numbers": [
       24,
@@ -239102,7 +239259,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Arizona",
-      "Texas-El Paso"
+      "UTEP"
     ],
     "numbers": [
       19
@@ -239220,7 +239377,6 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "Central Florida",
       "UCF",
       "Western Kentucky"
     ],
@@ -239639,9 +239795,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Florida",
-      "N.C. State",
-      "NC State",
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [
       7,
@@ -239672,7 +239826,6 @@ export const NFL_PLAYERS = [
       "Kansas City Chiefs"
     ],
     "college": [
-      "Central Florida",
       "UCF"
     ],
     "numbers": [
@@ -240005,7 +240158,6 @@ export const NFL_PLAYERS = [
       "Arizona Cardinals"
     ],
     "college": [
-      "Miami",
       "Miami (FL)",
       "Oklahoma"
     ],
@@ -240159,7 +240311,6 @@ export const NFL_PLAYERS = [
       "Philadelphia Eagles"
     ],
     "college": [
-      "Miami",
       "Miami (FL)"
     ],
     "numbers": [
@@ -240265,7 +240416,7 @@ export const NFL_PLAYERS = [
     "display_name": "Jafus White",
     "teams": [],
     "college": [
-      "Texas A&I"
+      "Texas A&M-Kingsville"
     ],
     "numbers": [],
     "league": "NFL"
@@ -240291,7 +240442,6 @@ export const NFL_PLAYERS = [
       "Kansas City Chiefs"
     ],
     "college": [
-      "Central Florida",
       "UCF"
     ],
     "numbers": [
@@ -240389,7 +240539,7 @@ export const NFL_PLAYERS = [
       "Las Vegas Raiders"
     ],
     "college": [
-      "Miami",
+      "Miami (FL)",
       "SMU"
     ],
     "numbers": [
@@ -241042,7 +241192,7 @@ export const NFL_PLAYERS = [
       "Miami Dolphins"
     ],
     "college": [
-      "LIU Post"
+      "LIU"
     ],
     "numbers": [
       52
@@ -241151,7 +241301,7 @@ export const NFL_PLAYERS = [
       "New Orleans Saints"
     ],
     "college": [
-      "Louisiana\u2013Lafayette"
+      "Louisiana-Lafayette"
     ],
     "numbers": [
       9,
@@ -241353,7 +241503,7 @@ export const NFL_PLAYERS = [
     "display_name": "Jake Gibbs",
     "teams": [],
     "college": [
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -241380,7 +241530,7 @@ export const NFL_PLAYERS = [
       "Baltimore Ravens"
     ],
     "college": [
-      "Connecticut"
+      "UConn"
     ],
     "numbers": [
       67
@@ -241563,8 +241713,7 @@ export const NFL_PLAYERS = [
       "New Orleans Saints"
     ],
     "college": [
-      "Wisconsin-Whitewater",
-      "Wisconsin\u2013Whitewater"
+      "Wisconsin-Whitewater"
     ],
     "numbers": [
       15,
@@ -241739,9 +241888,7 @@ export const NFL_PLAYERS = [
       "Atlanta Falcons"
     ],
     "college": [
-      "M",
-      "Texas A&M",
-      "Texas A&amp"
+      "Texas A&M"
     ],
     "numbers": [
       70
@@ -241906,7 +242053,7 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "Monmouth (N.J.)"
+      "Monmouth"
     ],
     "numbers": [
       48
@@ -242289,9 +242436,7 @@ export const NFL_PLAYERS = [
       "New England Patriots"
     ],
     "college": [
-      "N.C. State",
-      "NC State",
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [
       3,
@@ -242308,7 +242453,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Eastern Washington",
-      "UMass Amherst"
+      "UMass"
     ],
     "numbers": [
       80,
@@ -242699,7 +242844,7 @@ export const NFL_PLAYERS = [
       "Carolina Panthers"
     ],
     "college": [
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [
       35
@@ -242763,7 +242908,6 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "Southern California",
       "USC"
     ],
     "numbers": [
@@ -242950,8 +243094,7 @@ export const NFL_PLAYERS = [
       "Philadelphia Eagles"
     ],
     "college": [
-      "TCU",
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [
       5,
@@ -243002,8 +243145,7 @@ export const NFL_PLAYERS = [
       "Oakland Raiders"
     ],
     "college": [
-      "Southern Miss",
-      "Southern Mississippi"
+      "Southern Miss"
     ],
     "numbers": [
       30
@@ -243017,7 +243159,6 @@ export const NFL_PLAYERS = [
       "Cincinnati Bengals"
     ],
     "college": [
-      "Miami",
       "Miami (FL)"
     ],
     "numbers": [
@@ -243155,7 +243296,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Appalachian State",
-      "UMass Amherst"
+      "UMass"
     ],
     "numbers": [
       13,
@@ -243203,8 +243344,7 @@ export const NFL_PLAYERS = [
       "Indianapolis Colts"
     ],
     "college": [
-      "M",
-      "Texas A&amp"
+      "Texas A&M"
     ],
     "numbers": [
       88
@@ -243395,8 +243535,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Cornell",
-      "Houston Christian",
-      "Houston Christian University"
+      "Houston Christian"
     ],
     "numbers": [
       58
@@ -243521,7 +243660,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "South Alabama",
-      "Tuskegee University"
+      "Tuskegee"
     ],
     "numbers": [
       81
@@ -243557,8 +243696,7 @@ export const NFL_PLAYERS = [
       "New Orleans Saints"
     ],
     "college": [
-      "BYU",
-      "Brigham Young"
+      "BYU"
     ],
     "numbers": [
       21,
@@ -243571,7 +243709,7 @@ export const NFL_PLAYERS = [
     "display_name": "Jamaal\u00a0Alexander",
     "teams": [],
     "college": [
-      "Southern Mississippi"
+      "Southern Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -243711,7 +243849,7 @@ export const NFL_PLAYERS = [
       "Tennessee Titans"
     ],
     "college": [
-      "Miami"
+      "Miami (FL)"
     ],
     "numbers": [
       20,
@@ -243728,7 +243866,7 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       84
@@ -244123,7 +244261,7 @@ export const NFL_PLAYERS = [
       "Oakland Raiders"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       60,
@@ -244171,7 +244309,7 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "Connecticut"
+      "UConn"
     ],
     "numbers": [
       21,
@@ -244256,7 +244394,6 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Mississippi",
       "Ole Miss"
     ],
     "numbers": [
@@ -244398,7 +244535,7 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       53
@@ -244426,7 +244563,7 @@ export const NFL_PLAYERS = [
       "Dallas Cowboys"
     ],
     "college": [
-      "Texas-El Paso"
+      "UTEP"
     ],
     "numbers": [
       7,
@@ -244544,7 +244681,7 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "Alabama-Birmingham"
+      "UAB"
     ],
     "numbers": [
       57,
@@ -245067,7 +245204,7 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       6,
@@ -245166,7 +245303,7 @@ export const NFL_PLAYERS = [
       "Detroit Lions"
     ],
     "college": [
-      "Memphis State"
+      "Memphis"
     ],
     "numbers": [],
     "league": "NFL"
@@ -245392,7 +245529,7 @@ export const NFL_PLAYERS = [
       "Tennessee Titans"
     ],
     "college": [
-      "Brigham Young"
+      "BYU"
     ],
     "numbers": [
       62
@@ -245500,7 +245637,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Cameron",
-      "Northeast Louisiana"
+      "Louisiana-Monroe"
     ],
     "numbers": [
       55,
@@ -245515,7 +245652,7 @@ export const NFL_PLAYERS = [
       "Green Bay Packers"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       48
@@ -245826,7 +245963,7 @@ export const NFL_PLAYERS = [
     "display_name": "James Hayden",
     "teams": [],
     "college": [
-      "Memphis State"
+      "Memphis"
     ],
     "numbers": [],
     "league": "NFL"
@@ -245907,8 +246044,7 @@ export const NFL_PLAYERS = [
       "Detroit Lions"
     ],
     "college": [
-      "Jackson State",
-      "Jackson State University"
+      "Jackson State"
     ],
     "numbers": [
       41,
@@ -245967,7 +246103,7 @@ export const NFL_PLAYERS = [
       "Detroit Lions"
     ],
     "college": [
-      "Grambling State",
+      "Grambling",
       "USC"
     ],
     "numbers": [],
@@ -245999,7 +246135,6 @@ export const NFL_PLAYERS = [
       "New York Jets"
     ],
     "college": [
-      "Massachusetts",
       "UMass"
     ],
     "numbers": [
@@ -246539,7 +246674,7 @@ export const NFL_PLAYERS = [
       "Detroit Lions"
     ],
     "college": [
-      "Prairie View",
+      "Prairie View A&M",
       "Virginia Tech"
     ],
     "numbers": [
@@ -246557,8 +246692,7 @@ export const NFL_PLAYERS = [
       "New York Jets"
     ],
     "college": [
-      "FIU",
-      "Florida International"
+      "FIU"
     ],
     "numbers": [
       4,
@@ -246588,7 +246722,7 @@ export const NFL_PLAYERS = [
       "Indianapolis Colts"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       23
@@ -246805,7 +246939,7 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "Florida Atlantic"
+      "FAU"
     ],
     "numbers": [
       23,
@@ -246834,8 +246968,7 @@ export const NFL_PLAYERS = [
       "Tennessee Titans"
     ],
     "college": [
-      "SMU",
-      "Southern Methodist"
+      "SMU"
     ],
     "numbers": [
       3,
@@ -246852,8 +246985,7 @@ export const NFL_PLAYERS = [
       "Miami Dolphins"
     ],
     "college": [
-      "Cal State Fullerton",
-      "California State-Fullerton"
+      "Cal State Fullerton"
     ],
     "numbers": [],
     "league": "NFL"
@@ -247057,7 +247189,7 @@ export const NFL_PLAYERS = [
     "display_name": "James Russell",
     "teams": [],
     "college": [
-      "North Texas State"
+      "North Texas"
     ],
     "numbers": [],
     "league": "NFL"
@@ -247198,8 +247330,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "NC State",
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [
       50,
@@ -247677,7 +247808,7 @@ export const NFL_PLAYERS = [
       "Tennessee Titans"
     ],
     "college": [
-      "Miami"
+      "Miami (FL)"
     ],
     "numbers": [
       52
@@ -247785,7 +247916,7 @@ export const NFL_PLAYERS = [
       "St. Louis Rams"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       57,
@@ -247910,7 +248041,7 @@ export const NFL_PLAYERS = [
     "display_name": "James\u00a0Bowers",
     "teams": [],
     "college": [
-      "Memphis State"
+      "Memphis"
     ],
     "numbers": [],
     "league": "NFL"
@@ -248040,7 +248171,7 @@ export const NFL_PLAYERS = [
     "display_name": "James\u00a0Krempin",
     "teams": [],
     "college": [
-      "Texas A&I"
+      "Texas A&M-Kingsville"
     ],
     "numbers": [],
     "league": "NFL"
@@ -248240,8 +248371,7 @@ export const NFL_PLAYERS = [
       "New England Patriots"
     ],
     "college": [
-      "Southern Miss",
-      "Southern Mississippi"
+      "Southern Miss"
     ],
     "numbers": [
       51,
@@ -248300,9 +248430,7 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "Arkansas-Pine Bluff",
-      "Arkansas\u2013Pine Bluff",
-      "University of Arkansas at Pine Bluff"
+      "Arkansas-Pine Bluff"
     ],
     "numbers": [
       6,
@@ -248361,7 +248489,7 @@ export const NFL_PLAYERS = [
       "Los Angeles Raiders"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -248652,7 +248780,7 @@ export const NFL_PLAYERS = [
     "display_name": "Jamie\u00a0Covington",
     "teams": [],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -248834,7 +248962,7 @@ export const NFL_PLAYERS = [
       "Miami Dolphins"
     ],
     "college": [
-      "Central Florida"
+      "UCF"
     ],
     "numbers": [
       65
@@ -249201,7 +249329,6 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "Miami",
       "Miami (FL)"
     ],
     "numbers": [
@@ -249480,7 +249607,7 @@ export const NFL_PLAYERS = [
       "Carolina Panthers"
     ],
     "college": [
-      "Miami",
+      "Miami (FL)",
       "SMU"
     ],
     "numbers": [
@@ -249510,8 +249637,7 @@ export const NFL_PLAYERS = [
       "Jacksonville Jaguars"
     ],
     "college": [
-      "M",
-      "Texas A&amp"
+      "Texas A&M"
     ],
     "numbers": [
       62,
@@ -249527,7 +249653,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Georgia Tech",
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [
       51
@@ -249588,7 +249714,7 @@ export const NFL_PLAYERS = [
       "Cincinnati Bengals"
     ],
     "college": [
-      "Miami (Ohio)"
+      "Miami (OH)"
     ],
     "numbers": [
       9
@@ -249800,7 +249926,7 @@ export const NFL_PLAYERS = [
       "Houston Texans"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       14,
@@ -249816,8 +249942,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "TCU",
-      "Texas",
-      "Texas Christian"
+      "Texas"
     ],
     "numbers": [
       12
@@ -249877,8 +250002,7 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "BYU",
-      "Brigham Young"
+      "BYU"
     ],
     "numbers": [
       15,
@@ -250240,7 +250364,6 @@ export const NFL_PLAYERS = [
       "Houston Texans"
     ],
     "college": [
-      "Southern California",
       "USC",
       "Washington State"
     ],
@@ -250351,7 +250474,7 @@ export const NFL_PLAYERS = [
       "Philadelphia Eagles"
     ],
     "college": [
-      "Miami"
+      "Miami (FL)"
     ],
     "numbers": [
       67,
@@ -250621,7 +250744,7 @@ export const NFL_PLAYERS = [
       "Cincinnati Bengals"
     ],
     "college": [
-      "Texas-San Antonio"
+      "UTSA"
     ],
     "numbers": [
       39
@@ -250829,7 +250952,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       60,
@@ -251198,7 +251321,7 @@ export const NFL_PLAYERS = [
       "New York Jets"
     ],
     "college": [
-      "Southern Mississippi"
+      "Southern Miss"
     ],
     "numbers": [
       16,
@@ -251552,7 +251675,7 @@ export const NFL_PLAYERS = [
       "Miami Dolphins"
     ],
     "college": [
-      "Miami"
+      "Miami (FL)"
     ],
     "numbers": [
       70,
@@ -251706,7 +251829,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Grambling State"
+      "Grambling"
     ],
     "numbers": [
       97
@@ -251841,7 +251964,7 @@ export const NFL_PLAYERS = [
       "Dallas Cowboys"
     ],
     "college": [
-      "Central Florida"
+      "UCF"
     ],
     "numbers": [
       53
@@ -251891,7 +252014,7 @@ export const NFL_PLAYERS = [
       "Kansas City Chiefs"
     ],
     "college": [
-      "Culver\u2013Stockton"
+      "Culver-Stockton"
     ],
     "numbers": [
       20,
@@ -252220,7 +252343,7 @@ export const NFL_PLAYERS = [
       "San Diego Chargers"
     ],
     "college": [
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [
       31
@@ -252299,8 +252422,7 @@ export const NFL_PLAYERS = [
     "college": [
       "College of the Canyons",
       "Fort Scott CC",
-      "South Florida",
-      "University of South Florida"
+      "South Florida"
     ],
     "numbers": [
       4,
@@ -252316,7 +252438,7 @@ export const NFL_PLAYERS = [
       "Cleveland Browns"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       62
@@ -252332,7 +252454,7 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       25,
@@ -252748,7 +252870,7 @@ export const NFL_PLAYERS = [
       "Dallas Cowboys"
     ],
     "college": [
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [
       87
@@ -252796,8 +252918,7 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "TCU",
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [
       2,
@@ -252859,7 +252980,7 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "Southwest Missouri State"
+      "Missouri State"
     ],
     "numbers": [
       62,
@@ -253211,7 +253332,7 @@ export const NFL_PLAYERS = [
       "Green Bay Packers"
     ],
     "college": [
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [
       47
@@ -253273,7 +253394,7 @@ export const NFL_PLAYERS = [
       "New York Jets"
     ],
     "college": [
-      "Nevada-Las Vegas"
+      "UNLV"
     ],
     "numbers": [
       9,
@@ -253291,7 +253412,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Alabama",
-      "Miami"
+      "Miami (FL)"
     ],
     "numbers": [
       67
@@ -253308,7 +253429,6 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Alabama",
-      "Central Florida",
       "UCF"
     ],
     "numbers": [
@@ -253440,7 +253560,6 @@ export const NFL_PLAYERS = [
       "Indianapolis Colts"
     ],
     "college": [
-      "Mississippi",
       "Ole Miss"
     ],
     "numbers": [
@@ -253579,7 +253698,6 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "Southern California",
       "USC"
     ],
     "numbers": [
@@ -253638,7 +253756,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Louisville",
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       25,
@@ -253670,7 +253788,7 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [
       46
@@ -253722,7 +253840,6 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "Mississippi",
       "Ole Miss",
       "USC"
     ],
@@ -253882,7 +253999,7 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       90,
@@ -253971,7 +254088,7 @@ export const NFL_PLAYERS = [
       "San Diego Chargers"
     ],
     "college": [
-      "Memphis State"
+      "Memphis"
     ],
     "numbers": [],
     "league": "NFL"
@@ -254175,7 +254292,7 @@ export const NFL_PLAYERS = [
       "Philadelphia Eagles"
     ],
     "college": [
-      "East Texas State"
+      "East Texas A&M"
     ],
     "numbers": [],
     "league": "NFL"
@@ -254538,7 +254655,6 @@ export const NFL_PLAYERS = [
       "New York Jets"
     ],
     "college": [
-      "Southern California",
       "USC"
     ],
     "numbers": [
@@ -254614,7 +254730,7 @@ export const NFL_PLAYERS = [
     "display_name": "Jay Weering",
     "teams": [],
     "college": [
-      "Brigham Young"
+      "BYU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -254728,9 +254844,7 @@ export const NFL_PLAYERS = [
       "Tennessee Titans"
     ],
     "college": [
-      "M",
-      "Texas A&M",
-      "Texas A&amp"
+      "Texas A&M"
     ],
     "numbers": [
       62,
@@ -254990,8 +255104,7 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "NC State",
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [
       38
@@ -255022,7 +255135,7 @@ export const NFL_PLAYERS = [
       "New York Jets"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       51,
@@ -255114,7 +255227,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Middle Tennessee State",
+      "Middle Tennessee",
       "Virginia Tech"
     ],
     "numbers": [
@@ -255280,10 +255393,8 @@ export const NFL_PLAYERS = [
       "Indianapolis Colts"
     ],
     "college": [
-      "M",
-      "Mississippi",
-      "Texas A&M",
-      "Texas A&amp"
+      "Ole Miss",
+      "Texas A&M"
     ],
     "numbers": [
       21,
@@ -255301,7 +255412,7 @@ export const NFL_PLAYERS = [
       "Jacksonville Jaguars"
     ],
     "college": [
-      "Tennessee-Martin"
+      "UT Martin"
     ],
     "numbers": [
       10,
@@ -255353,8 +255464,7 @@ export const NFL_PLAYERS = [
       "Houston Texans"
     ],
     "college": [
-      "SMU",
-      "Southern Methodist"
+      "SMU"
     ],
     "numbers": [
       66,
@@ -255581,7 +255691,7 @@ export const NFL_PLAYERS = [
     "display_name": "Jay\u00a0Smith",
     "teams": [],
     "college": [
-      "Mississippi Southern"
+      "Southern Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -255593,7 +255703,7 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "Northwestern State-Louisiana"
+      "Northwestern State"
     ],
     "numbers": [
       87
@@ -255619,7 +255729,7 @@ export const NFL_PLAYERS = [
       "Miami Dolphins"
     ],
     "college": [
-      "Florida Atlantic"
+      "FAU"
     ],
     "numbers": [
       42
@@ -256051,7 +256161,7 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "Northeast Louisiana"
+      "Louisiana-Monroe"
     ],
     "numbers": [
       69
@@ -256145,7 +256255,7 @@ export const NFL_PLAYERS = [
     "display_name": "Jeff Bridewell",
     "teams": [],
     "college": [
-      "California-Davis"
+      "UC Davis"
     ],
     "numbers": [],
     "league": "NFL"
@@ -256353,7 +256463,7 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       62
@@ -256506,7 +256616,7 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -256691,7 +256801,7 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "Miami"
+      "Miami (FL)"
     ],
     "numbers": [
       10,
@@ -256879,8 +256989,7 @@ export const NFL_PLAYERS = [
       "Minnesota Vikings"
     ],
     "college": [
-      "TCU",
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [
       20
@@ -257112,7 +257221,7 @@ export const NFL_PLAYERS = [
       "Minnesota Vikings"
     ],
     "college": [
-      "Wisconsin\u2013Stout"
+      "Wisconsin-Stout"
     ],
     "numbers": [
       90
@@ -257840,7 +257949,7 @@ export const NFL_PLAYERS = [
       "Miami Dolphins"
     ],
     "college": [
-      "Southwest Texas State"
+      "Texas State"
     ],
     "numbers": [
       67
@@ -257904,7 +258013,7 @@ export const NFL_PLAYERS = [
       "Carolina Panthers"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       79
@@ -258104,7 +258213,7 @@ export const NFL_PLAYERS = [
       "Cincinnati Bengals"
     ],
     "college": [
-      "Mankato State"
+      "Minnesota State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -258314,7 +258423,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Cal State-Long Beach"
+      "Long Beach State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -258388,7 +258497,7 @@ export const NFL_PLAYERS = [
     "display_name": "Jeff Slipp",
     "teams": [],
     "college": [
-      "Brigham Young"
+      "BYU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -258539,7 +258648,7 @@ export const NFL_PLAYERS = [
       "New England Patriots"
     ],
     "college": [
-      "Miami"
+      "Miami (FL)"
     ],
     "numbers": [],
     "league": "NFL"
@@ -258693,7 +258802,7 @@ export const NFL_PLAYERS = [
       "San Diego Chargers"
     ],
     "college": [
-      "Memphis State"
+      "Memphis"
     ],
     "numbers": [],
     "league": "NFL"
@@ -258879,7 +258988,7 @@ export const NFL_PLAYERS = [
       "Minnesota Vikings"
     ],
     "college": [
-      "Memphis State"
+      "Memphis"
     ],
     "numbers": [],
     "league": "NFL"
@@ -259081,7 +259190,7 @@ export const NFL_PLAYERS = [
     "display_name": "Jeffrey\u00a0Rodgers",
     "teams": [],
     "college": [
-      "Texas A&M\u2013Kingsville"
+      "Texas A&M-Kingsville"
     ],
     "numbers": [],
     "league": "NFL"
@@ -259111,7 +259220,7 @@ export const NFL_PLAYERS = [
     "display_name": "Jeff\u00a0Buffaloe",
     "teams": [],
     "college": [
-      "Memphis State"
+      "Memphis"
     ],
     "numbers": [],
     "league": "NFL"
@@ -259151,7 +259260,7 @@ export const NFL_PLAYERS = [
     "display_name": "Jeff\u00a0Fite",
     "teams": [],
     "college": [
-      "Memphis State"
+      "Memphis"
     ],
     "numbers": [],
     "league": "NFL"
@@ -259526,7 +259635,7 @@ export const NFL_PLAYERS = [
     "display_name": "Jerald Schweiger",
     "teams": [],
     "college": [
-      "Wisconsin\u2013Superior"
+      "Wisconsin-Superior"
     ],
     "numbers": [],
     "league": "NFL"
@@ -259700,7 +259809,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Florida State",
-      "Texas-El Paso"
+      "UTEP"
     ],
     "numbers": [
       63,
@@ -259815,7 +259924,7 @@ export const NFL_PLAYERS = [
       "Los Angeles Chargers"
     ],
     "college": [
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [
       51
@@ -259901,7 +260010,7 @@ export const NFL_PLAYERS = [
       "Philadelphia Eagles"
     ],
     "college": [
-      "Florida International"
+      "FIU"
     ],
     "numbers": [
       36,
@@ -260066,7 +260175,7 @@ export const NFL_PLAYERS = [
       "Oakland Raiders"
     ],
     "college": [
-      "Nevada-Las Vegas"
+      "UNLV"
     ],
     "numbers": [
       68,
@@ -260157,7 +260266,7 @@ export const NFL_PLAYERS = [
       "Tennessee Titans"
     ],
     "college": [
-      "Central Florida"
+      "UCF"
     ],
     "numbers": [
       1,
@@ -260207,7 +260316,7 @@ export const NFL_PLAYERS = [
       "San Diego Chargers"
     ],
     "college": [
-      "Tennessee-Martin"
+      "UT Martin"
     ],
     "numbers": [
       17,
@@ -260498,8 +260607,7 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "TCU",
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [
       10,
@@ -260516,8 +260624,7 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "Northwestern State",
-      "Northwestern State-Louisiana"
+      "Northwestern State"
     ],
     "numbers": [
       20
@@ -260575,7 +260682,7 @@ export const NFL_PLAYERS = [
       "New Orleans Saints"
     ],
     "college": [
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [
       93
@@ -261210,9 +261317,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Lackawanna JC",
-      "M",
-      "Texas A&M",
-      "Texas A&amp"
+      "Texas A&M"
     ],
     "numbers": [
       65,
@@ -261245,7 +261350,7 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "Miami"
+      "Miami (FL)"
     ],
     "numbers": [
       52,
@@ -261592,7 +261697,7 @@ export const NFL_PLAYERS = [
       "Philadelphia Eagles"
     ],
     "college": [
-      "Texas A&M\u2013Kingsville"
+      "Texas A&M-Kingsville"
     ],
     "numbers": [
       71,
@@ -261668,7 +261773,7 @@ export const NFL_PLAYERS = [
       "Miami Dolphins"
     ],
     "college": [
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [
       73,
@@ -261713,7 +261818,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [
       58
@@ -261810,7 +261915,6 @@ export const NFL_PLAYERS = [
       "Philadelphia Eagles"
     ],
     "college": [
-      "Miami",
       "Miami (FL)"
     ],
     "numbers": [],
@@ -262108,7 +262212,7 @@ export const NFL_PLAYERS = [
     "display_name": "Jerome Kundich",
     "teams": [],
     "college": [
-      "Texas-El Paso"
+      "UTEP"
     ],
     "numbers": [],
     "league": "NFL"
@@ -262476,7 +262580,7 @@ export const NFL_PLAYERS = [
       "New England Patriots"
     ],
     "college": [
-      "Southern Mississippi"
+      "Southern Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -262499,8 +262603,7 @@ export const NFL_PLAYERS = [
       "Indianapolis Colts"
     ],
     "college": [
-      "Mary Hardin-Baylor",
-      "Mary Hardin\u2013Baylor"
+      "Mary Hardin-Baylor"
     ],
     "numbers": [
       50
@@ -262603,8 +262706,7 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "NC State",
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [
       82,
@@ -262650,7 +262752,7 @@ export const NFL_PLAYERS = [
       "Kansas City Chiefs"
     ],
     "college": [
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [
       39,
@@ -262963,7 +263065,7 @@ export const NFL_PLAYERS = [
       "New Orleans Saints"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -262987,8 +263089,8 @@ export const NFL_PLAYERS = [
       "Indianapolis Colts"
     ],
     "college": [
-      "Mississippi",
-      "Northwestern"
+      "Northwestern",
+      "Ole Miss"
     ],
     "numbers": [
       53,
@@ -263013,7 +263115,7 @@ export const NFL_PLAYERS = [
     "display_name": "Jerry Burton",
     "teams": [],
     "college": [
-      "Northwestern State (LA)"
+      "Northwestern State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -263056,7 +263158,7 @@ export const NFL_PLAYERS = [
     "display_name": "Jerry Cashman",
     "teams": [],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -263076,7 +263178,7 @@ export const NFL_PLAYERS = [
     "display_name": "Jerry Cole",
     "teams": [],
     "college": [
-      "Southwest Texas State"
+      "Texas State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -263129,7 +263231,7 @@ export const NFL_PLAYERS = [
       "Kansas City Chiefs"
     ],
     "college": [
-      "Southern Methodist"
+      "SMU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -263228,7 +263330,7 @@ export const NFL_PLAYERS = [
     "display_name": "Jerry Dandridge",
     "teams": [],
     "college": [
-      "Memphis State"
+      "Memphis"
     ],
     "numbers": [],
     "league": "NFL"
@@ -263238,7 +263340,7 @@ export const NFL_PLAYERS = [
     "display_name": "Jerry Daniels",
     "teams": [],
     "college": [
-      "Mississippi",
+      "Ole Miss",
       "Tennessee Tech"
     ],
     "numbers": [],
@@ -263367,7 +263469,7 @@ export const NFL_PLAYERS = [
       "Cleveland Browns"
     ],
     "college": [
-      "Saint Mary's"
+      "St. Mary's (CA)"
     ],
     "numbers": [],
     "league": "NFL"
@@ -263427,7 +263529,7 @@ export const NFL_PLAYERS = [
     "display_name": "Jerry Epps",
     "teams": [],
     "college": [
-      "West Texas State"
+      "West Texas A&M"
     ],
     "numbers": [],
     "league": "NFL"
@@ -263508,7 +263610,7 @@ export const NFL_PLAYERS = [
     "display_name": "Jerry Fouts",
     "teams": [],
     "college": [
-      "Midwestern State (TX)"
+      "Midwestern State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -263575,7 +263677,7 @@ export const NFL_PLAYERS = [
     "display_name": "Jerry Gendron",
     "teams": [],
     "college": [
-      "Wisconsin\u2013Eau Claire"
+      "Wisconsin-Eau Claire"
     ],
     "numbers": [],
     "league": "NFL"
@@ -263677,7 +263779,7 @@ export const NFL_PLAYERS = [
     "display_name": "Jerry Griffin",
     "teams": [],
     "college": [
-      "Southern Methodist"
+      "SMU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -263868,8 +263970,7 @@ export const NFL_PLAYERS = [
       "Indianapolis Colts"
     ],
     "college": [
-      "TCU",
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [
       52,
@@ -263883,7 +263984,7 @@ export const NFL_PLAYERS = [
     "display_name": "Jerry Hurst",
     "teams": [],
     "college": [
-      "Middle Tennessee State"
+      "Middle Tennessee"
     ],
     "numbers": [],
     "league": "NFL"
@@ -264047,7 +264148,7 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -264145,7 +264246,7 @@ export const NFL_PLAYERS = [
       "San Diego Chargers"
     ],
     "college": [
-      "Southern Methodist"
+      "SMU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -264189,7 +264290,7 @@ export const NFL_PLAYERS = [
       "Baltimore Colts"
     ],
     "college": [
-      "West Texas State"
+      "West Texas A&M"
     ],
     "numbers": [],
     "league": "NFL"
@@ -264256,7 +264357,7 @@ export const NFL_PLAYERS = [
       "San Diego Chargers"
     ],
     "college": [
-      "Southern Methodist"
+      "SMU"
     ],
     "numbers": [
       75
@@ -264497,7 +264598,7 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       55,
@@ -264662,7 +264763,7 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "Nevada\u2013Las Vegas"
+      "UNLV"
     ],
     "numbers": [
       66
@@ -264709,8 +264810,8 @@ export const NFL_PLAYERS = [
       "Los Angeles Rams"
     ],
     "college": [
-      "Mississippi",
-      "West Texas State",
+      "Ole Miss",
+      "West Texas A&M",
       "Wofford"
     ],
     "numbers": [],
@@ -264721,7 +264822,7 @@ export const NFL_PLAYERS = [
     "display_name": "Jerry Roberts",
     "teams": [],
     "college": [
-      "Baldwin\u2013Wallace"
+      "Baldwin Wallace"
     ],
     "numbers": [],
     "league": "NFL"
@@ -264864,7 +264965,7 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "Bethune\u2013Cookman"
+      "Bethune-Cookman"
     ],
     "numbers": [],
     "league": "NFL"
@@ -264934,7 +265035,7 @@ export const NFL_PLAYERS = [
     "display_name": "Jerry Stone",
     "teams": [],
     "college": [
-      "Mississippi",
+      "Ole Miss",
       "Southeastern Louisiana"
     ],
     "numbers": [],
@@ -265032,7 +265133,7 @@ export const NFL_PLAYERS = [
     "display_name": "Jerry Todd",
     "teams": [],
     "college": [
-      "Memphis State"
+      "Memphis"
     ],
     "numbers": [],
     "league": "NFL"
@@ -265692,7 +265793,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [
       37
@@ -265989,7 +266090,7 @@ export const NFL_PLAYERS = [
       "Miami Dolphins"
     ],
     "college": [
-      "W. Texas State"
+      "West Texas A&M"
     ],
     "numbers": [],
     "league": "NFL"
@@ -266114,7 +266215,7 @@ export const NFL_PLAYERS = [
       "Los Angeles Rams"
     ],
     "college": [
-      "Texas Western"
+      "UTEP"
     ],
     "numbers": [],
     "league": "NFL"
@@ -266158,7 +266259,7 @@ export const NFL_PLAYERS = [
     "display_name": "Jesse\u00a0O'Neal",
     "teams": [],
     "college": [
-      "Grambling State"
+      "Grambling"
     ],
     "numbers": [],
     "league": "NFL"
@@ -266332,7 +266433,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       19,
@@ -266427,7 +266528,7 @@ export const NFL_PLAYERS = [
       "Houston Texans"
     ],
     "college": [
-      "Barry University"
+      "Barry"
     ],
     "numbers": [
       81
@@ -266520,7 +266621,7 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "Miami (Fla.)"
+      "Miami (FL)"
     ],
     "numbers": [
       36
@@ -267268,7 +267369,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Auburn",
-      "Tennessee-Chattanooga"
+      "Chattanooga"
     ],
     "numbers": [],
     "league": "NFL"
@@ -267336,7 +267437,7 @@ export const NFL_PLAYERS = [
     "display_name": "Jim Brewer",
     "teams": [],
     "college": [
-      "North Texas State"
+      "North Texas"
     ],
     "numbers": [],
     "league": "NFL"
@@ -267401,7 +267502,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Nebraska",
-      "Syracuse",
+      "Rich Manning",
       "UCLA"
     ],
     "numbers": [
@@ -267468,7 +267569,7 @@ export const NFL_PLAYERS = [
     "display_name": "Jim Bunch",
     "teams": [],
     "college": [
-      "Wisconsin\u2013Platteville"
+      "Wisconsin-Platteville"
     ],
     "numbers": [],
     "league": "NFL"
@@ -267539,7 +267640,7 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "Miami",
+      "Miami (FL)",
       "Western Kentucky"
     ],
     "numbers": [
@@ -267637,7 +267738,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Kentucky",
-      "West Texas State"
+      "West Texas A&M"
     ],
     "numbers": [],
     "league": "NFL"
@@ -267814,7 +267915,7 @@ export const NFL_PLAYERS = [
       "New England Patriots"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -267897,7 +267998,7 @@ export const NFL_PLAYERS = [
       "San Diego Chargers"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -267990,7 +268091,7 @@ export const NFL_PLAYERS = [
     "display_name": "Jim Corbett",
     "teams": [],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -268034,7 +268135,7 @@ export const NFL_PLAYERS = [
       "Chicago Bears"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -268156,7 +268257,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -268223,7 +268324,7 @@ export const NFL_PLAYERS = [
       "Jacksonville Jaguars"
     ],
     "college": [
-      "Alcorn A&M"
+      "Alcorn State"
     ],
     "numbers": [
       94,
@@ -268478,7 +268579,7 @@ export const NFL_PLAYERS = [
       "Miami Dolphins"
     ],
     "college": [
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -268513,7 +268614,7 @@ export const NFL_PLAYERS = [
     "display_name": "Jim Eagles",
     "teams": [],
     "college": [
-      "North Texas State"
+      "North Texas"
     ],
     "numbers": [],
     "league": "NFL"
@@ -268616,7 +268717,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Idaho",
-      "Texas-El Paso"
+      "UTEP"
     ],
     "numbers": [],
     "league": "NFL"
@@ -268679,7 +268780,7 @@ export const NFL_PLAYERS = [
     "display_name": "Jim Faulk",
     "teams": [],
     "college": [
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -268743,7 +268844,7 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "Pennsylvania"
+      "Penn"
     ],
     "numbers": [
       20,
@@ -269017,7 +269118,7 @@ export const NFL_PLAYERS = [
     "display_name": "Jim George",
     "teams": [],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -269224,7 +269325,7 @@ export const NFL_PLAYERS = [
     "display_name": "Jim Hagle",
     "teams": [],
     "college": [
-      "Southern Methodist"
+      "SMU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -269471,7 +269572,7 @@ export const NFL_PLAYERS = [
       "Oakland Raiders"
     ],
     "college": [
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -269626,7 +269727,7 @@ export const NFL_PLAYERS = [
       "San Diego Chargers"
     ],
     "college": [
-      "Texas A&M Kingsville"
+      "Texas A&M-Kingsville"
     ],
     "numbers": [],
     "league": "NFL"
@@ -270137,7 +270238,7 @@ export const NFL_PLAYERS = [
       "Buffalo Bills"
     ],
     "college": [
-      "Miami"
+      "Miami (FL)"
     ],
     "numbers": [
       12
@@ -270576,7 +270677,7 @@ export const NFL_PLAYERS = [
       "Denver Broncos"
     ],
     "college": [
-      "C.W. Post",
+      "LIU",
       "North Dakota"
     ],
     "numbers": [],
@@ -270789,7 +270890,7 @@ export const NFL_PLAYERS = [
     "display_name": "Jim Lohr",
     "teams": [],
     "college": [
-      "Southwest Missouri State"
+      "Missouri State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -270919,7 +271020,7 @@ export const NFL_PLAYERS = [
     "display_name": "Jim Majurek",
     "teams": [],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -271049,7 +271150,7 @@ export const NFL_PLAYERS = [
     "display_name": "Jim Mask",
     "teams": [],
     "college": [
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -271087,7 +271188,7 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "Gardner\u2013Webb"
+      "Gardner-Webb"
     ],
     "numbers": [
       50,
@@ -271153,7 +271254,7 @@ export const NFL_PLAYERS = [
       "Philadelphia Eagles"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -271176,7 +271277,7 @@ export const NFL_PLAYERS = [
     "display_name": "Jim McFalls",
     "teams": [],
     "college": [
-      "Virginia Military Inst"
+      "VMI"
     ],
     "numbers": [],
     "league": "NFL"
@@ -271350,7 +271451,7 @@ export const NFL_PLAYERS = [
       "Miami Dolphins"
     ],
     "college": [
-      "Fairmont State (W. Va.)"
+      "Fairmont State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -271527,7 +271628,7 @@ export const NFL_PLAYERS = [
     "display_name": "Jim Moore",
     "teams": [],
     "college": [
-      "North Texas State",
+      "North Texas",
       "Ohio State"
     ],
     "numbers": [],
@@ -271709,7 +271810,7 @@ export const NFL_PLAYERS = [
       "New York Jets"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -271913,7 +272014,7 @@ export const NFL_PLAYERS = [
     "display_name": "Jim Nutter",
     "teams": [],
     "college": [
-      "Wichita"
+      "Wichita State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -272088,8 +272189,7 @@ export const NFL_PLAYERS = [
       "Baltimore Colts"
     ],
     "college": [
-      "Oklahoma",
-      "Oklahoma (Redrafted Colt)"
+      "Oklahoma"
     ],
     "numbers": [],
     "league": "NFL"
@@ -272206,7 +272306,7 @@ export const NFL_PLAYERS = [
     "display_name": "Jim Pepper",
     "teams": [],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -272522,7 +272622,7 @@ export const NFL_PLAYERS = [
     "display_name": "Jim Reed",
     "teams": [],
     "college": [
-      "East Texas State"
+      "East Texas A&M"
     ],
     "numbers": [],
     "league": "NFL"
@@ -272651,7 +272751,7 @@ export const NFL_PLAYERS = [
       "Philadelphia Eagles"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -272664,7 +272764,6 @@ export const NFL_PLAYERS = [
       "Buffalo Bills"
     ],
     "college": [
-      "N.C. State",
       "NC State"
     ],
     "numbers": [],
@@ -273001,7 +273100,7 @@ export const NFL_PLAYERS = [
       "Cleveland Browns"
     ],
     "college": [
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -273101,7 +273200,7 @@ export const NFL_PLAYERS = [
     "display_name": "Jim Slay",
     "teams": [],
     "college": [
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -273317,7 +273416,7 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "Southwest Texas State"
+      "Texas State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -273474,7 +273573,7 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       66
@@ -273743,7 +273842,7 @@ export const NFL_PLAYERS = [
       "Philadelphia Eagles"
     ],
     "college": [
-      "Texas A&M\u2013Commerce"
+      "Texas A&M-Commerce"
     ],
     "numbers": [],
     "league": "NFL"
@@ -273797,7 +273896,7 @@ export const NFL_PLAYERS = [
     "display_name": "Jim Traficant",
     "teams": [],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -273817,7 +273916,7 @@ export const NFL_PLAYERS = [
     "display_name": "Jim Tucker",
     "teams": [],
     "college": [
-      "Tennessee-Chattanooga"
+      "Chattanooga"
     ],
     "numbers": [],
     "league": "NFL"
@@ -273913,7 +274012,7 @@ export const NFL_PLAYERS = [
       "Miami Dolphins"
     ],
     "college": [
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -273943,7 +274042,7 @@ export const NFL_PLAYERS = [
     "display_name": "Jim Vanderslice",
     "teams": [],
     "college": [
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -274224,7 +274323,7 @@ export const NFL_PLAYERS = [
       "Detroit Lions"
     ],
     "college": [
-      "Southern Methodist"
+      "SMU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -274467,7 +274566,7 @@ export const NFL_PLAYERS = [
       "Denver Broncos"
     ],
     "college": [
-      "Memphis State",
+      "Memphis",
       "Notre Dame",
       "SMU"
     ],
@@ -275105,7 +275204,6 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "Miami",
       "Miami (FL)"
     ],
     "numbers": [
@@ -275162,7 +275260,7 @@ export const NFL_PLAYERS = [
       "St. Louis Cardinals"
     ],
     "college": [
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -275269,7 +275367,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Colorado",
-      "University of South Florida"
+      "South Florida"
     ],
     "numbers": [
       15
@@ -275291,7 +275389,7 @@ export const NFL_PLAYERS = [
     "display_name": "Jimmy Joe\u00a0Robinson",
     "teams": [],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -275390,7 +275488,7 @@ export const NFL_PLAYERS = [
       "Miami Dolphins"
     ],
     "college": [
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -275449,7 +275547,7 @@ export const NFL_PLAYERS = [
     "display_name": "Jimmy Lear",
     "teams": [],
     "college": [
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -275505,7 +275603,7 @@ export const NFL_PLAYERS = [
       "Jacksonville Jaguars"
     ],
     "college": [
-      "Troy State"
+      "Troy"
     ],
     "numbers": [
       51,
@@ -275554,7 +275652,7 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       65,
@@ -275631,7 +275729,7 @@ export const NFL_PLAYERS = [
       "Green Bay Packers"
     ],
     "college": [
-      "Southern Methodist"
+      "SMU"
     ],
     "numbers": [
       46
@@ -275714,7 +275812,7 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -275918,8 +276016,7 @@ export const NFL_PLAYERS = [
       "Tennessee Titans"
     ],
     "college": [
-      "Middle Tennessee",
-      "Middle Tennessee State"
+      "Middle Tennessee"
     ],
     "numbers": [
       69
@@ -276278,7 +276375,7 @@ export const NFL_PLAYERS = [
     "display_name": "Jim\u00a0Batchelor",
     "teams": [],
     "college": [
-      "East Texas State"
+      "East Texas A&M"
     ],
     "numbers": [],
     "league": "NFL"
@@ -276318,7 +276415,7 @@ export const NFL_PLAYERS = [
     "display_name": "Jim\u00a0Buckmon",
     "teams": [],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -276378,7 +276475,7 @@ export const NFL_PLAYERS = [
     "display_name": "Jim\u00a0Cody",
     "teams": [],
     "college": [
-      "East Texas State"
+      "East Texas A&M"
     ],
     "numbers": [],
     "league": "NFL"
@@ -276719,7 +276816,7 @@ export const NFL_PLAYERS = [
     "teams": [],
     "college": [
       "Marshall",
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -276820,7 +276917,7 @@ export const NFL_PLAYERS = [
     "display_name": "Jim\u00a0Zikmund",
     "teams": [],
     "college": [
-      "Kearney State"
+      "Nebraska-Kearney"
     ],
     "numbers": [],
     "league": "NFL"
@@ -276858,7 +276955,7 @@ export const NFL_PLAYERS = [
       "Philadelphia Eagles"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -277123,7 +277220,7 @@ export const NFL_PLAYERS = [
       "Green Bay Packers"
     ],
     "college": [
-      "Nevada-Las Vegas"
+      "UNLV"
     ],
     "numbers": [
       47
@@ -277350,7 +277447,7 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "Nebraska\u2013Omaha"
+      "Nebraska-Omaha"
     ],
     "numbers": [],
     "league": "NFL"
@@ -277488,7 +277585,7 @@ export const NFL_PLAYERS = [
       "Minnesota Vikings"
     ],
     "college": [
-      "Texas-El Paso"
+      "UTEP"
     ],
     "numbers": [
       22,
@@ -277649,7 +277746,7 @@ export const NFL_PLAYERS = [
     "display_name": "Joe Biggs",
     "teams": [],
     "college": [
-      "Hardin\u2013Simmons"
+      "Hardin-Simmons"
     ],
     "numbers": [],
     "league": "NFL"
@@ -277844,7 +277941,7 @@ export const NFL_PLAYERS = [
     "display_name": "Joe Bruce",
     "teams": [],
     "college": [
-      "Middle Tennessee State"
+      "Middle Tennessee"
     ],
     "numbers": [],
     "league": "NFL"
@@ -277854,8 +277951,8 @@ export const NFL_PLAYERS = [
     "display_name": "Joe Brunson",
     "teams": [],
     "college": [
-      "Furman",
-      "Tennessee-Chattanooga"
+      "Chattanooga",
+      "Furman"
     ],
     "numbers": [],
     "league": "NFL"
@@ -278136,7 +278233,7 @@ export const NFL_PLAYERS = [
       "Oakland Raiders"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -278560,7 +278657,7 @@ export const NFL_PLAYERS = [
       "New Orleans Saints"
     ],
     "college": [
-      "Southwestern Louisiana"
+      "Louisiana-Lafayette"
     ],
     "numbers": [],
     "league": "NFL"
@@ -278811,7 +278908,7 @@ export const NFL_PLAYERS = [
       "Detroit Lions"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -278981,7 +279078,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Delaware",
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       5,
@@ -279350,7 +279447,7 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "North Texas State"
+      "North Texas"
     ],
     "numbers": [],
     "league": "NFL"
@@ -279511,7 +279608,6 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "Nevada-Las Vegas",
       "UNLV"
     ],
     "numbers": [
@@ -279647,7 +279743,7 @@ export const NFL_PLAYERS = [
       "Baltimore Ravens"
     ],
     "college": [
-      "Missouri Western State"
+      "Missouri Western"
     ],
     "numbers": [
       87
@@ -279709,7 +279805,7 @@ export const NFL_PLAYERS = [
       "Kansas City Chiefs"
     ],
     "college": [
-      "Miami"
+      "Miami (FL)"
     ],
     "numbers": [
       56,
@@ -280116,7 +280212,7 @@ export const NFL_PLAYERS = [
       "New York Jets"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       40
@@ -280345,7 +280441,7 @@ export const NFL_PLAYERS = [
     "display_name": "Joe Leasy",
     "teams": [],
     "college": [
-      "Alcorn A&M"
+      "Alcorn State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -280502,7 +280598,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Jackson State",
-      "Ohio U."
+      "Ohio"
     ],
     "numbers": [
       74
@@ -280727,7 +280823,7 @@ export const NFL_PLAYERS = [
       "Los Angeles Raiders"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -280903,7 +280999,6 @@ export const NFL_PLAYERS = [
       "San Diego Chargers"
     ],
     "college": [
-      "N.C. State",
       "NC State"
     ],
     "numbers": [],
@@ -281089,7 +281184,7 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "Mississippi Southern"
+      "Southern Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -281102,7 +281197,7 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       20
@@ -281272,8 +281367,7 @@ export const NFL_PLAYERS = [
       "Los Angeles Rams"
     ],
     "college": [
-      "TCU",
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [
       68,
@@ -281286,7 +281380,7 @@ export const NFL_PLAYERS = [
     "display_name": "Joe Novogratz",
     "teams": [],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -281412,7 +281506,7 @@ export const NFL_PLAYERS = [
       "San Diego Chargers"
     ],
     "college": [
-      "Alcorn A&M"
+      "Alcorn State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -281832,7 +281926,7 @@ export const NFL_PLAYERS = [
       "New Orleans Saints"
     ],
     "college": [
-      "Northeast Louisiana"
+      "Louisiana-Monroe"
     ],
     "numbers": [],
     "league": "NFL"
@@ -282104,7 +282198,7 @@ export const NFL_PLAYERS = [
       "St. Louis Cardinals"
     ],
     "college": [
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -282114,7 +282208,7 @@ export const NFL_PLAYERS = [
     "display_name": "Joe Robillard",
     "teams": [],
     "college": [
-      "Linfield (Ore.)"
+      "Linfield"
     ],
     "numbers": [],
     "league": "NFL"
@@ -282236,7 +282330,7 @@ export const NFL_PLAYERS = [
     "display_name": "Joe Rushing",
     "teams": [],
     "college": [
-      "Memphis State"
+      "Memphis"
     ],
     "numbers": [],
     "league": "NFL"
@@ -282394,7 +282488,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Miami (FL)",
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -282509,7 +282603,7 @@ export const NFL_PLAYERS = [
       "Atlanta Falcons"
     ],
     "college": [
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [
       65
@@ -282591,7 +282685,7 @@ export const NFL_PLAYERS = [
       "Arizona Cardinals"
     ],
     "college": [
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -282934,7 +283028,7 @@ export const NFL_PLAYERS = [
     "display_name": "Joe Szombathy",
     "teams": [],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -282947,7 +283041,7 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "Tennessee-Martin"
+      "UT Martin"
     ],
     "numbers": [],
     "league": "NFL"
@@ -283115,9 +283209,7 @@ export const NFL_PLAYERS = [
       "New England Patriots"
     ],
     "college": [
-      "N.C. State",
-      "NC State",
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [
       62
@@ -283315,7 +283407,7 @@ export const NFL_PLAYERS = [
       "St. Louis Rams"
     ],
     "college": [
-      "Pennsylvania"
+      "Penn"
     ],
     "numbers": [
       64
@@ -283460,7 +283552,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -283512,7 +283604,7 @@ export const NFL_PLAYERS = [
       "NYB"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -283528,7 +283620,6 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "Alabama-Birmingham",
       "UAB"
     ],
     "numbers": [
@@ -283920,7 +284011,7 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -284178,7 +284269,7 @@ export const NFL_PLAYERS = [
     "display_name": "Joel Klime",
     "teams": [],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -284350,8 +284441,7 @@ export const NFL_PLAYERS = [
     "college": [
       "Notre Dame",
       "Texas",
-      "Texas (Redrafted Colt)",
-      "Wisconsin\u2013La Crosse"
+      "Wisconsin-La Crosse"
     ],
     "numbers": [],
     "league": "NFL"
@@ -284648,8 +284738,7 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "TCU",
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [
       53,
@@ -284977,7 +285066,7 @@ export const NFL_PLAYERS = [
     "display_name": "Joe\u00a0Billings",
     "teams": [],
     "college": [
-      "Memphis State"
+      "Memphis"
     ],
     "numbers": [],
     "league": "NFL"
@@ -285007,7 +285096,7 @@ export const NFL_PLAYERS = [
     "display_name": "Joe\u00a0Bruner",
     "teams": [],
     "college": [
-      "Northeast Louisiana"
+      "Louisiana-Monroe"
     ],
     "numbers": [],
     "league": "NFL"
@@ -285057,7 +285146,7 @@ export const NFL_PLAYERS = [
     "display_name": "Joe\u00a0Cook",
     "teams": [],
     "college": [
-      "Hardin\u2013Simmons"
+      "Hardin-Simmons"
     ],
     "numbers": [],
     "league": "NFL"
@@ -285087,7 +285176,7 @@ export const NFL_PLAYERS = [
     "display_name": "Joe\u00a0Gordon",
     "teams": [],
     "college": [
-      "Grambling State"
+      "Grambling"
     ],
     "numbers": [],
     "league": "NFL"
@@ -285318,7 +285407,7 @@ export const NFL_PLAYERS = [
     "display_name": "Joe\u00a0Suarez",
     "teams": [],
     "college": [
-      "Saint Mary's (CA)"
+      "St. Mary's (CA)"
     ],
     "numbers": [],
     "league": "NFL"
@@ -285338,7 +285427,7 @@ export const NFL_PLAYERS = [
     "display_name": "Joe\u00a0Walden",
     "teams": [],
     "college": [
-      "West Texas State"
+      "West Texas A&M"
     ],
     "numbers": [],
     "league": "NFL"
@@ -285725,7 +285814,7 @@ export const NFL_PLAYERS = [
       "Minnesota Vikings"
     ],
     "college": [
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [
       20,
@@ -285741,7 +285830,7 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "West Texas State"
+      "West Texas A&M"
     ],
     "numbers": [
       68
@@ -285863,7 +285952,7 @@ export const NFL_PLAYERS = [
       "St. Louis Cardinals"
     ],
     "college": [
-      "Texas A&I"
+      "Texas A&M-Kingsville"
     ],
     "numbers": [],
     "league": "NFL"
@@ -286048,7 +286137,7 @@ export const NFL_PLAYERS = [
     "display_name": "John Billizon",
     "teams": [],
     "college": [
-      "Grambling State"
+      "Grambling"
     ],
     "numbers": [],
     "league": "NFL"
@@ -286149,7 +286238,7 @@ export const NFL_PLAYERS = [
     "display_name": "John Bomer",
     "teams": [],
     "college": [
-      "Memphis State"
+      "Memphis"
     ],
     "numbers": [],
     "league": "NFL"
@@ -286221,7 +286310,7 @@ export const NFL_PLAYERS = [
       "Detroit Lions"
     ],
     "college": [
-      "Bethune\u2013Cookman"
+      "Bethune-Cookman"
     ],
     "numbers": [],
     "league": "NFL"
@@ -286307,8 +286396,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Cameron",
-      "Cameron University"
+      "Cameron"
     ],
     "numbers": [],
     "league": "NFL"
@@ -286493,7 +286581,7 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       89
@@ -286927,7 +287015,7 @@ export const NFL_PLAYERS = [
     "display_name": "John Cavaglieri",
     "teams": [],
     "college": [
-      "North Texas State"
+      "North Texas"
     ],
     "numbers": [],
     "league": "NFL"
@@ -286997,7 +287085,7 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -287171,7 +287259,7 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "Connecticut"
+      "UConn"
     ],
     "numbers": [],
     "league": "NFL"
@@ -287458,8 +287546,7 @@ export const NFL_PLAYERS = [
       "New Orleans Saints"
     ],
     "college": [
-      "BYU",
-      "Brigham Young"
+      "BYU"
     ],
     "numbers": [
       92,
@@ -287540,7 +287627,7 @@ export const NFL_PLAYERS = [
       "Denver Broncos"
     ],
     "college": [
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [
       9
@@ -287590,7 +287677,7 @@ export const NFL_PLAYERS = [
     "display_name": "John Dilworth",
     "teams": [],
     "college": [
-      "Northwest Louisiana"
+      "Northwestern State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -288209,7 +288296,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Harvard",
-      "Missouri Western State"
+      "Missouri Western"
     ],
     "numbers": [
       31
@@ -288253,7 +288340,7 @@ export const NFL_PLAYERS = [
       "St. Louis Rams"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       63
@@ -288267,7 +288354,7 @@ export const NFL_PLAYERS = [
       "Cincinnati Bengals"
     ],
     "college": [
-      "Texas A&I"
+      "Texas A&M-Kingsville"
     ],
     "numbers": [],
     "league": "NFL"
@@ -288280,7 +288367,7 @@ export const NFL_PLAYERS = [
       "St. Louis Cardinals"
     ],
     "college": [
-      "Northeast Louisiana"
+      "Louisiana-Monroe"
     ],
     "numbers": [],
     "league": "NFL"
@@ -288302,7 +288389,7 @@ export const NFL_PLAYERS = [
       "Detroit Lions"
     ],
     "college": [
-      "Hardin\u2013Simmons",
+      "Hardin-Simmons",
       "Henderson State",
       "Virginia"
     ],
@@ -288366,7 +288453,7 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "Florida Atlantic"
+      "FAU"
     ],
     "numbers": [
       5,
@@ -288385,8 +288472,7 @@ export const NFL_PLAYERS = [
       "New York Jets"
     ],
     "college": [
-      "Stephen F. Austin",
-      "Stephen F. Austin State"
+      "Stephen F. Austin"
     ],
     "numbers": [
       56,
@@ -288746,7 +288832,7 @@ export const NFL_PLAYERS = [
     "display_name": "John Goebel",
     "teams": [],
     "college": [
-      "St. Thomas"
+      "St. Thomas (MN)"
     ],
     "numbers": [],
     "league": "NFL"
@@ -288929,7 +289015,7 @@ export const NFL_PLAYERS = [
       "Dallas Cowboys"
     ],
     "college": [
-      "Connecticut"
+      "UConn"
     ],
     "numbers": [
       44
@@ -288973,7 +289059,7 @@ export const NFL_PLAYERS = [
     "display_name": "John Gregory",
     "teams": [],
     "college": [
-      "Baldwin\u2013Wallace"
+      "Baldwin Wallace"
     ],
     "numbers": [],
     "league": "NFL"
@@ -289055,7 +289141,7 @@ export const NFL_PLAYERS = [
     "display_name": "John Groom",
     "teams": [],
     "college": [
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -289090,7 +289176,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Ohio",
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -289312,7 +289398,7 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "Texas\u2013Arlington",
+      "Texas-Arlington",
       "USC",
       "UTEP"
     ],
@@ -289324,7 +289410,7 @@ export const NFL_PLAYERS = [
     "display_name": "John Harville",
     "teams": [],
     "college": [
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -289682,7 +289768,7 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "West Texas State"
+      "West Texas A&M"
     ],
     "numbers": [],
     "league": "NFL"
@@ -289806,7 +289892,7 @@ export const NFL_PLAYERS = [
     "college": [
       "Cincinnati",
       "Mississippi State",
-      "Southern Methodist"
+      "SMU"
     ],
     "numbers": [
       67,
@@ -289821,7 +289907,7 @@ export const NFL_PLAYERS = [
     "display_name": "John Hulecki",
     "teams": [],
     "college": [
-      "Massachusetts"
+      "UMass"
     ],
     "numbers": [],
     "league": "NFL"
@@ -289938,7 +290024,7 @@ export const NFL_PLAYERS = [
     "display_name": "John Itzel",
     "teams": [],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -290086,7 +290172,7 @@ export const NFL_PLAYERS = [
     "college": [
       "Georgia",
       "Gulf Coast CC",
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [
       28,
@@ -290119,7 +290205,6 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "Mississippi",
       "Ole Miss"
     ],
     "numbers": [
@@ -290316,7 +290401,7 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "Brigham Young"
+      "BYU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -290563,7 +290648,7 @@ export const NFL_PLAYERS = [
     "display_name": "John Kirschner",
     "teams": [],
     "college": [
-      "Memphis State"
+      "Memphis"
     ],
     "numbers": [],
     "league": "NFL"
@@ -290646,7 +290731,7 @@ export const NFL_PLAYERS = [
     "display_name": "John Knispel",
     "teams": [],
     "college": [
-      "UW\u2013La Crosse"
+      "Wisconsin-La Crosse"
     ],
     "numbers": [],
     "league": "NFL"
@@ -290785,7 +290870,7 @@ export const NFL_PLAYERS = [
     "display_name": "John Kuprok",
     "teams": [],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -290932,7 +291017,7 @@ export const NFL_PLAYERS = [
     "display_name": "John Lawrence",
     "teams": [],
     "college": [
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -291170,7 +291255,7 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "Nevada-Las Vegas"
+      "UNLV"
     ],
     "numbers": [
       47,
@@ -291188,7 +291273,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "North Texas State"
+      "North Texas"
     ],
     "numbers": [],
     "league": "NFL"
@@ -291322,7 +291407,7 @@ export const NFL_PLAYERS = [
       "San Diego Chargers"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -291334,7 +291419,7 @@ export const NFL_PLAYERS = [
       "Kansas City Chiefs"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -291344,7 +291429,7 @@ export const NFL_PLAYERS = [
     "display_name": "John Madden",
     "teams": [],
     "college": [
-      "Cal Poly San Luis Obispo"
+      "Cal Poly"
     ],
     "numbers": [],
     "league": "NFL"
@@ -291496,7 +291581,7 @@ export const NFL_PLAYERS = [
       "Buffalo Bills"
     ],
     "college": [
-      "VPI"
+      "Virginia Tech"
     ],
     "numbers": [],
     "league": "NFL"
@@ -291548,7 +291633,7 @@ export const NFL_PLAYERS = [
       "New York Jets"
     ],
     "college": [
-      "Miami"
+      "Miami (FL)"
     ],
     "numbers": [],
     "league": "NFL"
@@ -291728,7 +291813,7 @@ export const NFL_PLAYERS = [
     "display_name": "John McGuire",
     "teams": [],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -291948,7 +292033,7 @@ export const NFL_PLAYERS = [
     "display_name": "John Michelosen",
     "teams": [],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -291987,7 +292072,7 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "Lenoir\u2013Rhyne"
+      "Lenoir-Rhyne"
     ],
     "numbers": [
       93,
@@ -292092,7 +292177,7 @@ export const NFL_PLAYERS = [
     "teams": [],
     "college": [
       "Alabama",
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -292135,7 +292220,7 @@ export const NFL_PLAYERS = [
       "Detroit Lions"
     ],
     "college": [
-      "C. W. Post"
+      "LIU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -292286,7 +292371,7 @@ export const NFL_PLAYERS = [
     "display_name": "John Moss",
     "teams": [],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -292328,7 +292413,7 @@ export const NFL_PLAYERS = [
       "Miami Dolphins"
     ],
     "college": [
-      "Monmouth (NJ)"
+      "Monmouth"
     ],
     "numbers": [
       86
@@ -292450,7 +292535,7 @@ export const NFL_PLAYERS = [
     "display_name": "John Nikkel",
     "teams": [],
     "college": [
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -292779,7 +292864,7 @@ export const NFL_PLAYERS = [
     "display_name": "John Paglio",
     "teams": [],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -292791,7 +292876,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -292979,7 +293064,7 @@ export const NFL_PLAYERS = [
     "display_name": "John Perkins",
     "teams": [],
     "college": [
-      "Southern Mississippi"
+      "Southern Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -293055,7 +293140,7 @@ export const NFL_PLAYERS = [
       "San Diego Chargers"
     ],
     "college": [
-      "Mississippi Southern",
+      "Southern Miss",
       "Virginia"
     ],
     "numbers": [
@@ -293334,7 +293419,7 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "Texas A&I"
+      "Texas A&M-Kingsville"
     ],
     "numbers": [
       93
@@ -293438,7 +293523,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -293481,8 +293566,7 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "Central Florida",
-      "Mississippi",
+      "Ole Miss",
       "UCF"
     ],
     "numbers": [
@@ -293612,7 +293696,7 @@ export const NFL_PLAYERS = [
       "New Orleans Saints"
     ],
     "college": [
-      "Massachusetts"
+      "UMass"
     ],
     "numbers": [
       42
@@ -293627,7 +293711,7 @@ export const NFL_PLAYERS = [
       "Oakland Raiders"
     ],
     "college": [
-      "Southern Methodist"
+      "SMU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -293774,7 +293858,7 @@ export const NFL_PLAYERS = [
       "Chicago Bears"
     ],
     "college": [
-      "Southwestern Louisiana"
+      "Louisiana-Lafayette"
     ],
     "numbers": [],
     "league": "NFL"
@@ -293936,8 +294020,8 @@ export const NFL_PLAYERS = [
       "New England Patriots"
     ],
     "college": [
-      "Miami (Ohio)",
-      "Mississippi"
+      "Miami (OH)",
+      "Ole Miss"
     ],
     "numbers": [
       23,
@@ -293955,7 +294039,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Southern Mississippi"
+      "Southern Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -294502,7 +294586,7 @@ export const NFL_PLAYERS = [
       "Denver Broncos"
     ],
     "college": [
-      "Southern Mississippi"
+      "Southern Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -294995,7 +295079,7 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "San Jos\u00e9 State"
+      "San Jose State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -295067,7 +295151,7 @@ export const NFL_PLAYERS = [
     "display_name": "John Szuehan",
     "teams": [],
     "college": [
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -295580,7 +295664,7 @@ export const NFL_PLAYERS = [
     "display_name": "John Varnell",
     "teams": [],
     "college": [
-      "West Texas State"
+      "West Texas A&M"
     ],
     "numbers": [],
     "league": "NFL"
@@ -295933,7 +296017,7 @@ export const NFL_PLAYERS = [
     "display_name": "John Wiegman",
     "teams": [],
     "college": [
-      "Cal Poly-Pomona"
+      "Cal Poly Pomona"
     ],
     "numbers": [],
     "league": "NFL"
@@ -296428,7 +296512,7 @@ export const NFL_PLAYERS = [
       "Miami Dolphins"
     ],
     "college": [
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [
       41
@@ -296473,8 +296557,7 @@ export const NFL_PLAYERS = [
       "Tennessee Titans"
     ],
     "college": [
-      "FIU",
-      "Florida International"
+      "FIU"
     ],
     "numbers": [
       32,
@@ -296840,7 +296923,7 @@ export const NFL_PLAYERS = [
       "Oakland Raiders"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       19
@@ -296975,7 +297058,7 @@ export const NFL_PLAYERS = [
       "St. Louis Rams"
     ],
     "college": [
-      "Texas A&M\u2013Kingsville"
+      "Texas A&M-Kingsville"
     ],
     "numbers": [],
     "league": "NFL"
@@ -297091,7 +297174,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Louisville",
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -297272,7 +297355,7 @@ export const NFL_PLAYERS = [
     "display_name": "Johnny Dean",
     "teams": [],
     "college": [
-      "VPI"
+      "Virginia Tech"
     ],
     "numbers": [],
     "league": "NFL"
@@ -297402,7 +297485,7 @@ export const NFL_PLAYERS = [
       "New York Titans"
     ],
     "college": [
-      "Tennessee-Chattanooga",
+      "Chattanooga",
       "Tulsa"
     ],
     "numbers": [],
@@ -297671,7 +297754,7 @@ export const NFL_PLAYERS = [
       "Philadelphia Eagles"
     ],
     "college": [
-      "Southeast Missouri"
+      "Southeast Missouri State"
     ],
     "numbers": [
       43
@@ -297987,7 +298070,7 @@ export const NFL_PLAYERS = [
       "Chicago Bears"
     ],
     "college": [
-      "California-Santa Barbara"
+      "UC Santa Barbara"
     ],
     "numbers": [],
     "league": "NFL"
@@ -298047,7 +298130,7 @@ export const NFL_PLAYERS = [
     "display_name": "Johnny Norman",
     "teams": [],
     "college": [
-      "Northwestern State (LA)"
+      "Northwestern State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -298413,7 +298496,7 @@ export const NFL_PLAYERS = [
       "Minnesota Vikings"
     ],
     "college": [
-      "Nevada-Las Vegas"
+      "UNLV"
     ],
     "numbers": [
       40,
@@ -298937,7 +299020,7 @@ export const NFL_PLAYERS = [
     "display_name": "John\u00a0Gibbens",
     "teams": [],
     "college": [
-      "Southwest Texas State"
+      "Texas State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -299097,7 +299180,7 @@ export const NFL_PLAYERS = [
     "display_name": "John\u00a0Levelis",
     "teams": [],
     "college": [
-      "C.W. Post"
+      "LIU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -299467,7 +299550,7 @@ export const NFL_PLAYERS = [
     "display_name": "John\u00a0Waedekin",
     "teams": [],
     "college": [
-      "Hardin\u2013Simmons"
+      "Hardin-Simmons"
     ],
     "numbers": [],
     "league": "NFL"
@@ -299487,8 +299570,8 @@ export const NFL_PLAYERS = [
     "display_name": "John\u00a0West",
     "teams": [],
     "college": [
-      "Mississippi",
-      "Oklahoma"
+      "Oklahoma",
+      "Ole Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -299583,7 +299666,7 @@ export const NFL_PLAYERS = [
       "Chicago Bears"
     ],
     "college": [
-      "North Carolina-Charlotte"
+      "Charlotte"
     ],
     "numbers": [
       17
@@ -299680,7 +299763,7 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       84,
@@ -299696,7 +299779,6 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "Miami",
       "Miami (FL)"
     ],
     "numbers": [
@@ -299845,7 +299927,7 @@ export const NFL_PLAYERS = [
       "Dallas Cowboys"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -299963,7 +300045,6 @@ export const NFL_PLAYERS = [
       "Tennessee Titans"
     ],
     "college": [
-      "Texas-El Paso",
       "UTEP"
     ],
     "numbers": [
@@ -300031,7 +300112,6 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "Miami",
       "Miami (FL)"
     ],
     "numbers": [
@@ -300102,7 +300182,7 @@ export const NFL_PLAYERS = [
       "Kansas City Chiefs"
     ],
     "college": [
-      "East Texas State"
+      "East Texas A&M"
     ],
     "numbers": [],
     "league": "NFL"
@@ -300826,7 +300906,7 @@ export const NFL_PLAYERS = [
       "New York Jets"
     ],
     "college": [
-      "Brigham Young"
+      "BYU"
     ],
     "numbers": [
       9
@@ -301009,7 +301089,7 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [
       45,
@@ -301037,7 +301117,7 @@ export const NFL_PLAYERS = [
     "display_name": "Jonathan Baldwin",
     "teams": [],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -301135,7 +301215,7 @@ export const NFL_PLAYERS = [
       "New York Jets"
     ],
     "college": [
-      "Troy State"
+      "Troy"
     ],
     "numbers": [
       84,
@@ -301289,7 +301369,6 @@ export const NFL_PLAYERS = [
       "Green Bay Packers"
     ],
     "college": [
-      "Miami",
       "Miami (FL)"
     ],
     "numbers": [
@@ -301341,7 +301420,6 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "Miami",
       "Miami (FL)"
     ],
     "numbers": [
@@ -301722,7 +301800,6 @@ export const NFL_PLAYERS = [
       "Dallas Cowboys"
     ],
     "college": [
-      "Mississippi",
       "Ole Miss"
     ],
     "numbers": [
@@ -302233,8 +302310,7 @@ export const NFL_PLAYERS = [
       "Tennessee Titans"
     ],
     "college": [
-      "FIU",
-      "Florida International"
+      "FIU"
     ],
     "numbers": [
       9,
@@ -302413,8 +302489,7 @@ export const NFL_PLAYERS = [
       "Minnesota Vikings"
     ],
     "college": [
-      "Pittsburgh",
-      "Southern California",
+      "Pitt",
       "USC"
     ],
     "numbers": [
@@ -302445,7 +302520,6 @@ export const NFL_PLAYERS = [
       "Jacksonville Jaguars"
     ],
     "college": [
-      "Central Florida",
       "UCF"
     ],
     "numbers": [
@@ -302849,7 +302923,7 @@ export const NFL_PLAYERS = [
       "Kansas City Chiefs"
     ],
     "college": [
-      "Central Florida"
+      "UCF"
     ],
     "numbers": [
       46,
@@ -303217,7 +303291,7 @@ export const NFL_PLAYERS = [
       "Denver Broncos"
     ],
     "college": [
-      "Brigham Young"
+      "BYU"
     ],
     "numbers": [
       9,
@@ -303346,7 +303420,7 @@ export const NFL_PLAYERS = [
       "Chicago Bears"
     ],
     "college": [
-      "Central Florida"
+      "UCF"
     ],
     "numbers": [
       60
@@ -303425,9 +303499,8 @@ export const NFL_PLAYERS = [
       "Denver Broncos"
     ],
     "college": [
-      "Miami",
-      "SMU",
-      "Southern Methodist"
+      "Miami (FL)",
+      "SMU"
     ],
     "numbers": [
       90,
@@ -303481,7 +303554,7 @@ export const NFL_PLAYERS = [
       "Denver Broncos"
     ],
     "college": [
-      "Texas-San Antonio"
+      "UTSA"
     ],
     "numbers": [
       30,
@@ -303876,7 +303949,7 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "Southern California"
+      "USC"
     ],
     "numbers": [
       60,
@@ -303922,7 +303995,6 @@ export const NFL_PLAYERS = [
       "Kansas City Chiefs"
     ],
     "college": [
-      "Alabama-Birmingham",
       "UAB"
     ],
     "numbers": [
@@ -303985,7 +304057,7 @@ export const NFL_PLAYERS = [
       "Minnesota Vikings"
     ],
     "college": [
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [
       4,
@@ -304067,7 +304139,7 @@ export const NFL_PLAYERS = [
       "San Diego Chargers"
     ],
     "college": [
-      "Connecticut"
+      "UConn"
     ],
     "numbers": [
       6,
@@ -304207,7 +304279,6 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Louisville",
-      "Mississippi",
       "Ole Miss"
     ],
     "numbers": [
@@ -304251,7 +304322,7 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       3,
@@ -304283,7 +304354,6 @@ export const NFL_PLAYERS = [
       "Tennessee Titans"
     ],
     "college": [
-      "Mississippi",
       "Ole Miss"
     ],
     "numbers": [
@@ -304534,7 +304604,7 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "Texas A&M\u2013Kingsville"
+      "Texas A&M-Kingsville"
     ],
     "numbers": [
       64
@@ -304607,7 +304677,7 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "Miami"
+      "Miami (FL)"
     ],
     "numbers": [
       19
@@ -304806,7 +304876,7 @@ export const NFL_PLAYERS = [
       "Tennessee Titans"
     ],
     "college": [
-      "Tennessee-Martin"
+      "UT Martin"
     ],
     "numbers": [
       38
@@ -304911,8 +304981,7 @@ export const NFL_PLAYERS = [
       "Los Angeles Rams"
     ],
     "college": [
-      "TCU",
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [
       70
@@ -305035,7 +305104,7 @@ export const NFL_PLAYERS = [
     "display_name": "Jose\u00a0St. Victor",
     "teams": [],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -305145,7 +305214,7 @@ export const NFL_PLAYERS = [
       "Tennessee Titans"
     ],
     "college": [
-      "Stephen F. Austin St."
+      "Stephen F. Austin"
     ],
     "numbers": [
       31,
@@ -305174,7 +305243,7 @@ export const NFL_PLAYERS = [
       "Carolina Panthers"
     ],
     "college": [
-      "Southeast Missouri"
+      "Southeast Missouri State"
     ],
     "numbers": [
       63
@@ -305329,7 +305398,7 @@ export const NFL_PLAYERS = [
       "New Orleans Saints"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       57
@@ -305372,8 +305441,7 @@ export const NFL_PLAYERS = [
       "New England Patriots"
     ],
     "college": [
-      "TCU",
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [
       17,
@@ -305432,7 +305500,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Nebraska",
-      "Southwest Texas State"
+      "Texas State"
     ],
     "numbers": [
       3
@@ -305529,8 +305597,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "TCU",
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [
       42,
@@ -305641,8 +305708,7 @@ export const NFL_PLAYERS = [
       "Dallas Cowboys"
     ],
     "college": [
-      "M",
-      "Texas A&amp"
+      "Texas A&M"
     ],
     "numbers": [
       38
@@ -305659,8 +305725,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "TCU",
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [
       13,
@@ -306270,7 +306335,7 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [
       13,
@@ -306408,9 +306473,7 @@ export const NFL_PLAYERS = [
       "Tennessee Titans"
     ],
     "college": [
-      "M",
-      "Texas A&M",
-      "Texas A&amp"
+      "Texas A&M"
     ],
     "numbers": [
       2,
@@ -306424,7 +306487,7 @@ export const NFL_PLAYERS = [
     "display_name": "Josh Lay",
     "teams": [],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -306438,8 +306501,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "SMU",
-      "Southern Methodist"
+      "SMU"
     ],
     "numbers": [
       61,
@@ -306469,7 +306531,7 @@ export const NFL_PLAYERS = [
       "Green Bay Packers"
     ],
     "college": [
-      "Cal Poly-S.L.O."
+      "Cal Poly"
     ],
     "numbers": [
       59
@@ -306764,8 +306826,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Louisiana-Monroe",
-      "TCU",
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [
       28
@@ -307057,9 +307118,7 @@ export const NFL_PLAYERS = [
       "New York Jets"
     ],
     "college": [
-      "M",
       "Texas A&M",
-      "Texas A&amp",
       "Tyler JC"
     ],
     "numbers": [
@@ -307094,7 +307153,7 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "Central Florida"
+      "UCF"
     ],
     "numbers": [
       21,
@@ -307301,7 +307360,7 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "Southern California"
+      "USC"
     ],
     "numbers": [
       26,
@@ -307383,7 +307442,6 @@ export const NFL_PLAYERS = [
       "Miami Dolphins"
     ],
     "college": [
-      "Central Florida",
       "UCF"
     ],
     "numbers": [
@@ -307657,7 +307715,7 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "Florida International"
+      "FIU"
     ],
     "numbers": [
       38
@@ -307717,7 +307775,7 @@ export const NFL_PLAYERS = [
       "Jacksonville Jaguars"
     ],
     "college": [
-      "Middle Tennessee State"
+      "Middle Tennessee"
     ],
     "numbers": [
       73,
@@ -307733,7 +307791,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Michigan",
-      "UMass Amherst"
+      "UMass"
     ],
     "numbers": [
       30
@@ -307923,7 +307981,7 @@ export const NFL_PLAYERS = [
       "Jacksonville Jaguars"
     ],
     "college": [
-      "Texas-San Antonio"
+      "UTSA"
     ],
     "numbers": [
       18,
@@ -307976,7 +308034,7 @@ export const NFL_PLAYERS = [
       "Los Angeles Chargers"
     ],
     "college": [
-      "Texas-San Antonio"
+      "UTSA"
     ],
     "numbers": [
       62
@@ -308436,7 +308494,7 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [
       77
@@ -308515,7 +308573,7 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "Texas-San Antonio"
+      "UTSA"
     ],
     "numbers": [
       48
@@ -308721,7 +308779,6 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "Southern California",
       "USC"
     ],
     "numbers": [
@@ -308882,7 +308939,7 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "Bowling Green State"
+      "Bowling Green"
     ],
     "numbers": [
       38
@@ -308959,7 +309016,7 @@ export const NFL_PLAYERS = [
       "Cleveland Browns"
     ],
     "college": [
-      "Memphis State"
+      "Memphis"
     ],
     "numbers": [],
     "league": "NFL"
@@ -309118,7 +309175,7 @@ export const NFL_PLAYERS = [
       "Cleveland Browns"
     ],
     "college": [
-      "Southern Mississippi"
+      "Southern Miss"
     ],
     "numbers": [
       86
@@ -309192,7 +309249,7 @@ export const NFL_PLAYERS = [
       "New York Jets"
     ],
     "college": [
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -309246,8 +309303,7 @@ export const NFL_PLAYERS = [
       "Miami Dolphins"
     ],
     "college": [
-      "Campbell",
-      "Campbell University"
+      "Campbell"
     ],
     "numbers": [
       80,
@@ -309329,7 +309385,7 @@ export const NFL_PLAYERS = [
       "Buffalo Bills"
     ],
     "college": [
-      "Tennessee-Martin"
+      "UT Martin"
     ],
     "numbers": [],
     "league": "NFL"
@@ -309493,7 +309549,7 @@ export const NFL_PLAYERS = [
       "Atlanta Falcons"
     ],
     "college": [
-      "Florida International"
+      "FIU"
     ],
     "numbers": [
       16
@@ -309682,7 +309738,7 @@ export const NFL_PLAYERS = [
       "Buffalo Bills"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -309813,8 +309869,7 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "Charlotte",
-      "North Carolina-Charlotte"
+      "Charlotte"
     ],
     "numbers": [
       45,
@@ -309940,8 +309995,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Wichita State",
-      "Wichita State University"
+      "Wichita State"
     ],
     "numbers": [
       79
@@ -310025,7 +310079,7 @@ export const NFL_PLAYERS = [
       "Minnesota Vikings"
     ],
     "college": [
-      "Southern Methodist"
+      "SMU"
     ],
     "numbers": [
       73,
@@ -310168,7 +310222,7 @@ export const NFL_PLAYERS = [
       "Cincinnati Bengals"
     ],
     "college": [
-      "Connecticut"
+      "UConn"
     ],
     "numbers": [
       48
@@ -310432,7 +310486,6 @@ export const NFL_PLAYERS = [
       "Tennessee Titans"
     ],
     "college": [
-      "Southern California",
       "USC"
     ],
     "numbers": [
@@ -310478,7 +310531,7 @@ export const NFL_PLAYERS = [
       "Los Angeles Chargers"
     ],
     "college": [
-      "Stephen F. Austin St."
+      "Stephen F. Austin"
     ],
     "numbers": [
       1,
@@ -310508,7 +310561,7 @@ export const NFL_PLAYERS = [
       "New York Jets"
     ],
     "college": [
-      "Incarnate Word (Tex.)"
+      "Incarnate Word"
     ],
     "numbers": [
       59
@@ -310578,7 +310631,7 @@ export const NFL_PLAYERS = [
       "Dallas Cowboys"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       45,
@@ -310850,7 +310903,6 @@ export const NFL_PLAYERS = [
       "Los Angeles Rams"
     ],
     "college": [
-      "Southern California",
       "USC"
     ],
     "numbers": [
@@ -310963,8 +311015,7 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "M",
-      "Texas A&amp"
+      "Texas A&M"
     ],
     "numbers": [
       21,
@@ -311498,9 +311549,7 @@ export const NFL_PLAYERS = [
       "Los Angeles Chargers"
     ],
     "college": [
-      "N.C. State",
-      "NC State",
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [
       91,
@@ -311551,8 +311600,7 @@ export const NFL_PLAYERS = [
       "Tennessee Titans"
     ],
     "college": [
-      "SMU",
-      "Southern Methodist"
+      "SMU"
     ],
     "numbers": [
       53,
@@ -311598,8 +311646,7 @@ export const NFL_PLAYERS = [
       "Baltimore Ravens"
     ],
     "college": [
-      "M",
-      "Texas A&amp"
+      "Texas A&M"
     ],
     "numbers": [
       92
@@ -311681,7 +311728,6 @@ export const NFL_PLAYERS = [
       "Houston Texans"
     ],
     "college": [
-      "Central Florida",
       "UCF"
     ],
     "numbers": [
@@ -311825,7 +311871,7 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       67,
@@ -311943,7 +311989,7 @@ export const NFL_PLAYERS = [
       "Minnesota Vikings"
     ],
     "college": [
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -312335,8 +312381,7 @@ export const NFL_PLAYERS = [
       "Green Bay Packers"
     ],
     "college": [
-      "Miami (FL)",
-      "Miami (Fla.)"
+      "Miami (FL)"
     ],
     "numbers": [
       8
@@ -312381,8 +312426,7 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "Penn",
-      "Pennsylvania"
+      "Penn"
     ],
     "numbers": [
       17,
@@ -312438,7 +312482,7 @@ export const NFL_PLAYERS = [
     "display_name": "Justise Hairston",
     "teams": [],
     "college": [
-      "Central Connecticut"
+      "Central Connecticut State"
     ],
     "numbers": [
       25
@@ -312454,8 +312498,7 @@ export const NFL_PLAYERS = [
       "New York Jets"
     ],
     "college": [
-      "NC State",
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [
       31,
@@ -312666,7 +312709,7 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       8,
@@ -312791,7 +312834,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Louisville",
-      "Miami"
+      "Miami (FL)"
     ],
     "numbers": [
       48,
@@ -312868,7 +312911,6 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Buffalo",
-      "Miami",
       "Miami (FL)"
     ],
     "numbers": [
@@ -312927,7 +312969,7 @@ export const NFL_PLAYERS = [
       "Jacksonville Jaguars"
     ],
     "college": [
-      "Miami"
+      "Miami (FL)"
     ],
     "numbers": [
       62
@@ -313117,8 +313159,7 @@ export const NFL_PLAYERS = [
       "Dallas Cowboys"
     ],
     "college": [
-      "TCU",
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [
       9
@@ -313194,7 +313235,7 @@ export const NFL_PLAYERS = [
       "New York Jets"
     ],
     "college": [
-      "Miami (Fla.)"
+      "Miami (FL)"
     ],
     "numbers": [
       39
@@ -313267,7 +313308,6 @@ export const NFL_PLAYERS = [
       "Miami Dolphins"
     ],
     "college": [
-      "Alabama-Birmingham",
       "UAB"
     ],
     "numbers": [
@@ -313286,7 +313326,6 @@ export const NFL_PLAYERS = [
       "Denver Broncos"
     ],
     "college": [
-      "NW Missouri State University",
       "Northwest Missouri State"
     ],
     "numbers": [
@@ -313350,9 +313389,8 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "East Texas A&M",
-      "M-Commerce",
-      "Texas A&M\u2013Commerce",
-      "Texas A&amp"
+      "Texas A&M",
+      "Texas A&M-Commerce"
     ],
     "numbers": [
       4,
@@ -313613,7 +313651,7 @@ export const NFL_PLAYERS = [
       "Miami Dolphins"
     ],
     "college": [
-      "Texas-El Paso"
+      "UTEP"
     ],
     "numbers": [
       87
@@ -313631,8 +313669,7 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "BYU",
-      "Brigham Young"
+      "BYU"
     ],
     "numbers": [
       1,
@@ -313762,8 +313799,7 @@ export const NFL_PLAYERS = [
       "Tennessee Titans"
     ],
     "college": [
-      "Southern Miss",
-      "Southern Mississippi"
+      "Southern Miss"
     ],
     "numbers": [
       24,
@@ -313828,7 +313864,6 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "BYU",
-      "Brigham Young",
       "Oregon State"
     ],
     "numbers": [
@@ -313992,7 +314027,6 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "Central Florida",
       "UCF"
     ],
     "numbers": [
@@ -314007,7 +314041,7 @@ export const NFL_PLAYERS = [
       "Green Bay Packers"
     ],
     "college": [
-      "North Carolina-Charlotte"
+      "Charlotte"
     ],
     "numbers": [
       34
@@ -314121,7 +314155,7 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "Grambling State"
+      "Grambling"
     ],
     "numbers": [
       24,
@@ -314305,7 +314339,6 @@ export const NFL_PLAYERS = [
       "Philadelphia Eagles"
     ],
     "college": [
-      "Central Florida",
       "UCF"
     ],
     "numbers": [
@@ -314457,7 +314490,6 @@ export const NFL_PLAYERS = [
       "Los Angeles Rams"
     ],
     "college": [
-      "Miami",
       "Miami (FL)"
     ],
     "numbers": [
@@ -314506,7 +314538,6 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "Southern California",
       "USC"
     ],
     "numbers": [
@@ -314903,7 +314934,7 @@ export const NFL_PLAYERS = [
       "Detroit Lions"
     ],
     "college": [
-      "Southwestern Louisiana"
+      "Louisiana-Lafayette"
     ],
     "numbers": [],
     "league": "NFL"
@@ -314960,7 +314991,7 @@ export const NFL_PLAYERS = [
     "display_name": "Karl Douglas",
     "teams": [],
     "college": [
-      "Texas A&I"
+      "Texas A&M-Kingsville"
     ],
     "numbers": [],
     "league": "NFL"
@@ -314986,7 +315017,7 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -315332,7 +315363,7 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "Texas A&M\u2013Kingsville"
+      "Texas A&M-Kingsville"
     ],
     "numbers": [
       86
@@ -316182,7 +316213,6 @@ export const NFL_PLAYERS = [
       "Kansas City Chiefs"
     ],
     "college": [
-      "Southern California",
       "USC"
     ],
     "numbers": [
@@ -316292,8 +316322,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "M",
-      "Texas A&amp"
+      "Texas A&M"
     ],
     "numbers": [
       64,
@@ -316331,8 +316360,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "BYU",
-      "Brigham Young",
-      "Pittsburgh",
+      "Pitt",
       "USC"
     ],
     "numbers": [
@@ -316443,7 +316471,7 @@ export const NFL_PLAYERS = [
       "Oakland Raiders"
     ],
     "college": [
-      "California-Davis"
+      "UC Davis"
     ],
     "numbers": [
       18,
@@ -316948,7 +316976,7 @@ export const NFL_PLAYERS = [
       "New England Patriots"
     ],
     "college": [
-      "Tennessee-Chattanooga"
+      "Chattanooga"
     ],
     "numbers": [
       51,
@@ -317222,7 +317250,7 @@ export const NFL_PLAYERS = [
       "Tennessee Titans"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       53
@@ -317255,7 +317283,7 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "Memphis State"
+      "Memphis"
     ],
     "numbers": [],
     "league": "NFL"
@@ -317445,7 +317473,7 @@ export const NFL_PLAYERS = [
     "display_name": "Keith Doggett",
     "teams": [],
     "college": [
-      "Wichita"
+      "Wichita State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -317693,7 +317721,7 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       75
@@ -318174,7 +318202,7 @@ export const NFL_PLAYERS = [
       "St. Louis Rams"
     ],
     "college": [
-      "N.E. Oklahoma"
+      "Northeastern Oklahoma"
     ],
     "numbers": [
       53
@@ -318215,7 +318243,7 @@ export const NFL_PLAYERS = [
       "Oakland Raiders"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -318431,7 +318459,7 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "Florida Atlantic"
+      "FAU"
     ],
     "numbers": [
       20,
@@ -318507,7 +318535,7 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "Memphis State"
+      "Memphis"
     ],
     "numbers": [],
     "league": "NFL"
@@ -318644,7 +318672,7 @@ export const NFL_PLAYERS = [
       "Cleveland Browns"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -318933,7 +318961,7 @@ export const NFL_PLAYERS = [
     "display_name": "Keith\u00a0Clark",
     "teams": [],
     "college": [
-      "Memphis State"
+      "Memphis"
     ],
     "numbers": [],
     "league": "NFL"
@@ -319003,7 +319031,7 @@ export const NFL_PLAYERS = [
     "display_name": "Keith\u00a0Muehr",
     "teams": [],
     "college": [
-      "Southwestern Louisiana"
+      "Louisiana-Lafayette"
     ],
     "numbers": [],
     "league": "NFL"
@@ -319223,7 +319251,7 @@ export const NFL_PLAYERS = [
       "Baltimore Ravens"
     ],
     "college": [
-      "Alabama-Birmingham"
+      "UAB"
     ],
     "numbers": [
       56
@@ -319314,9 +319342,7 @@ export const NFL_PLAYERS = [
       "Minnesota Vikings"
     ],
     "college": [
-      "M",
-      "Texas A&M",
-      "Texas A&amp"
+      "Texas A&M"
     ],
     "numbers": [
       8,
@@ -319547,7 +319573,7 @@ export const NFL_PLAYERS = [
       "Minnesota Vikings"
     ],
     "college": [
-      "Middle Tennessee State"
+      "Middle Tennessee"
     ],
     "numbers": [
       10,
@@ -319734,8 +319760,7 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "SMU",
-      "Southern Methodist"
+      "SMU"
     ],
     "numbers": [
       68
@@ -319842,8 +319867,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "NC State",
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [
       13,
@@ -320025,7 +320049,7 @@ export const NFL_PLAYERS = [
       "Jacksonville Jaguars"
     ],
     "college": [
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [
       93,
@@ -320064,7 +320088,7 @@ export const NFL_PLAYERS = [
       "Miami Dolphins"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       56,
@@ -320114,7 +320138,7 @@ export const NFL_PLAYERS = [
     "display_name": "Kelvin\u00a0Murdock",
     "teams": [],
     "college": [
-      "Troy State"
+      "Troy"
     ],
     "numbers": [],
     "league": "NFL"
@@ -320140,7 +320164,6 @@ export const NFL_PLAYERS = [
       "Atlanta Falcons"
     ],
     "college": [
-      "Central Florida",
       "UCF"
     ],
     "numbers": [
@@ -320217,7 +320240,7 @@ export const NFL_PLAYERS = [
     "display_name": "Ken \"Model A\" Ford",
     "teams": [],
     "college": [
-      "Hardin\u2013Simmons"
+      "Hardin-Simmons"
     ],
     "numbers": [],
     "league": "NFL"
@@ -320298,7 +320321,7 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "Southern Mississippi"
+      "Southern Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -320310,7 +320333,7 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "North Texas State"
+      "North Texas"
     ],
     "numbers": [],
     "league": "NFL"
@@ -320558,7 +320581,7 @@ export const NFL_PLAYERS = [
     "display_name": "Ken Carmann",
     "teams": [],
     "college": [
-      "Kearney (Neb.)"
+      "Nebraska-Kearney"
     ],
     "numbers": [],
     "league": "NFL"
@@ -320622,7 +320645,7 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -320634,7 +320657,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Southwest Texas State"
+      "Texas State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -320646,8 +320669,7 @@ export const NFL_PLAYERS = [
       "Baltimore Colts"
     ],
     "college": [
-      "Vanderbilt",
-      "Vanderbilt (Redrafted Colt)"
+      "Vanderbilt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -320810,7 +320832,7 @@ export const NFL_PLAYERS = [
     "display_name": "Ken Dill",
     "teams": [],
     "college": [
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -320934,7 +320956,7 @@ export const NFL_PLAYERS = [
     "display_name": "Ken Ericson",
     "teams": [],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -320968,7 +320990,7 @@ export const NFL_PLAYERS = [
     "display_name": "Ken Frith",
     "teams": [],
     "college": [
-      "Northeast Louisiana"
+      "Louisiana-Monroe"
     ],
     "numbers": [],
     "league": "NFL"
@@ -321114,7 +321136,7 @@ export const NFL_PLAYERS = [
       "St. Louis Cardinals"
     ],
     "college": [
-      "North Texas State",
+      "North Texas",
       "Springfield",
       "Texas A&M"
     ],
@@ -321240,7 +321262,7 @@ export const NFL_PLAYERS = [
       "Cleveland Browns"
     ],
     "college": [
-      "Texas Mines"
+      "UTEP"
     ],
     "numbers": [],
     "league": "NFL"
@@ -321262,7 +321284,7 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -321317,7 +321339,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Prairie View"
+      "Prairie View A&M"
     ],
     "numbers": [],
     "league": "NFL"
@@ -321596,7 +321618,7 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -321656,7 +321678,7 @@ export const NFL_PLAYERS = [
       "Green Bay Packers"
     ],
     "college": [
-      "UW\u2013Milwaukee"
+      "Wisconsin-Milwaukee"
     ],
     "numbers": [],
     "league": "NFL"
@@ -321770,7 +321792,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Ole Miss",
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       21,
@@ -321901,7 +321923,7 @@ export const NFL_PLAYERS = [
     "college": [
       "Eastern Michigan",
       "Illinois",
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -322136,7 +322158,7 @@ export const NFL_PLAYERS = [
       "Miami Dolphins"
     ],
     "college": [
-      "Northeast Louisiana"
+      "Louisiana-Monroe"
     ],
     "numbers": [],
     "league": "NFL"
@@ -322364,7 +322386,7 @@ export const NFL_PLAYERS = [
       "Cincinnati Bengals"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -322472,7 +322494,7 @@ export const NFL_PLAYERS = [
       "Cleveland Browns"
     ],
     "college": [
-      "Arkansas\u2013Pine Bluff"
+      "Arkansas-Pine Bluff"
     ],
     "numbers": [],
     "league": "NFL"
@@ -322702,7 +322724,7 @@ export const NFL_PLAYERS = [
     "display_name": "Ken Trowbridge",
     "teams": [],
     "college": [
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -322778,7 +322800,6 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "Mississippi",
       "Ole Miss"
     ],
     "numbers": [
@@ -322841,7 +322862,7 @@ export const NFL_PLAYERS = [
     "display_name": "Ken Williams",
     "teams": [],
     "college": [
-      "Southwestern Louisiana"
+      "Louisiana-Lafayette"
     ],
     "numbers": [],
     "league": "NFL"
@@ -322865,7 +322886,7 @@ export const NFL_PLAYERS = [
     "display_name": "Ken Wineberg",
     "teams": [],
     "college": [
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -323054,7 +323075,6 @@ export const NFL_PLAYERS = [
       "Oakland Raiders"
     ],
     "college": [
-      "Southeast Missouri",
       "Southeast Missouri State"
     ],
     "numbers": [
@@ -323106,7 +323126,7 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "Pittsburg State (KS)"
+      "Pittsburg State"
     ],
     "numbers": [
       46,
@@ -323289,7 +323309,7 @@ export const NFL_PLAYERS = [
       "San Diego Chargers"
     ],
     "college": [
-      "Connecticut"
+      "UConn"
     ],
     "numbers": [
       91,
@@ -323506,8 +323526,7 @@ export const NFL_PLAYERS = [
       "New Orleans Saints"
     ],
     "college": [
-      "TCU",
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [
       5,
@@ -323626,7 +323645,6 @@ export const NFL_PLAYERS = [
       "Tennessee Titans"
     ],
     "college": [
-      "Mississippi",
       "Ole Miss"
     ],
     "numbers": [
@@ -323655,8 +323673,7 @@ export const NFL_PLAYERS = [
       "Miami Dolphins"
     ],
     "college": [
-      "Miami (FL)",
-      "Miami (Fla.)"
+      "Miami (FL)"
     ],
     "numbers": [
       75
@@ -323874,7 +323891,7 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       26,
@@ -323909,8 +323926,7 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "SMU",
-      "Southern Methodist"
+      "SMU"
     ],
     "numbers": [
       20,
@@ -324200,7 +324216,7 @@ export const NFL_PLAYERS = [
       "Jacksonville Jaguars"
     ],
     "college": [
-      "Grambling State"
+      "Grambling"
     ],
     "numbers": [
       55,
@@ -324979,7 +324995,6 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "Miami",
       "Miami (FL)"
     ],
     "numbers": [
@@ -324997,7 +325012,7 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       7,
@@ -325241,7 +325256,7 @@ export const NFL_PLAYERS = [
       "New York Jets"
     ],
     "college": [
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [
       83,
@@ -325316,7 +325331,7 @@ export const NFL_PLAYERS = [
       "New Orleans Saints"
     ],
     "college": [
-      "Southwestern Louisiana"
+      "Louisiana-Lafayette"
     ],
     "numbers": [
       68,
@@ -325483,7 +325498,7 @@ export const NFL_PLAYERS = [
     "display_name": "Kent Lashley",
     "teams": [],
     "college": [
-      "N.E. Oklahoma State"
+      "Northeastern Oklahoma"
     ],
     "numbers": [],
     "league": "NFL"
@@ -325506,7 +325521,7 @@ export const NFL_PLAYERS = [
     "display_name": "Kent Lovelace",
     "teams": [],
     "college": [
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -325516,7 +325531,7 @@ export const NFL_PLAYERS = [
     "display_name": "Kent Marshall",
     "teams": [],
     "college": [
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -325562,7 +325577,7 @@ export const NFL_PLAYERS = [
     "display_name": "Kent Pederson",
     "teams": [],
     "college": [
-      "California-Santa Barbara"
+      "UC Santa Barbara"
     ],
     "numbers": [],
     "league": "NFL"
@@ -325624,9 +325639,7 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "N.C. State",
-      "NC State",
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [
       75,
@@ -325903,9 +325916,7 @@ export const NFL_PLAYERS = [
       "Philadelphia Eagles"
     ],
     "college": [
-      "M",
-      "Texas A&M",
-      "Texas A&amp"
+      "Texas A&M"
     ],
     "numbers": [
       59,
@@ -325973,7 +325984,7 @@ export const NFL_PLAYERS = [
     "display_name": "Ken\u00a0Braden",
     "teams": [],
     "college": [
-      "East Texas State"
+      "East Texas A&M"
     ],
     "numbers": [],
     "league": "NFL"
@@ -326390,7 +326401,7 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "Florida Atlantic"
+      "FAU"
     ],
     "numbers": [
       35,
@@ -326764,7 +326775,7 @@ export const NFL_PLAYERS = [
     "display_name": "Kerry\u00a0Simien",
     "teams": [],
     "college": [
-      "Texas A&M\u2013Kingsville"
+      "Texas A&M-Kingsville"
     ],
     "numbers": [],
     "league": "NFL"
@@ -326940,7 +326951,7 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       31,
@@ -326965,7 +326976,7 @@ export const NFL_PLAYERS = [
       "Detroit Lions"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       24
@@ -327224,7 +327235,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "East Central (OK)"
+      "East Central"
     ],
     "numbers": [
       72,
@@ -327355,8 +327366,7 @@ export const NFL_PLAYERS = [
       "Tennessee Titans"
     ],
     "college": [
-      "Middle Tennessee",
-      "Middle Tennessee State"
+      "Middle Tennessee"
     ],
     "numbers": [
       31
@@ -327696,7 +327706,6 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "Miami",
       "Miami (FL)"
     ],
     "numbers": [],
@@ -327743,7 +327752,7 @@ export const NFL_PLAYERS = [
       "Green Bay Packers"
     ],
     "college": [
-      "Wisconsin\u2013Eau Claire"
+      "Wisconsin-Eau Claire"
     ],
     "numbers": [],
     "league": "NFL"
@@ -328643,7 +328652,7 @@ export const NFL_PLAYERS = [
       "New Orleans Saints"
     ],
     "college": [
-      "Texas A&M\u2013Commerce"
+      "Texas A&M-Commerce"
     ],
     "numbers": [
       23
@@ -328886,7 +328895,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       50,
@@ -329023,7 +329032,7 @@ export const NFL_PLAYERS = [
       "Chicago Bears"
     ],
     "college": [
-      "Louisiana\u2013Monroe"
+      "Louisiana-Monroe"
     ],
     "numbers": [
       44
@@ -329240,7 +329249,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       78,
@@ -329488,7 +329497,6 @@ export const NFL_PLAYERS = [
       "Tennessee Titans"
     ],
     "college": [
-      "Texas-San Antonio",
       "UTSA"
     ],
     "numbers": [
@@ -330018,7 +330026,6 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Southern California",
       "USC"
     ],
     "numbers": [
@@ -330085,7 +330092,7 @@ export const NFL_PLAYERS = [
       "Tennessee Titans"
     ],
     "college": [
-      "Jackson State University",
+      "Jackson State",
       "Southeastern Louisiana"
     ],
     "numbers": [
@@ -330278,7 +330285,6 @@ export const NFL_PLAYERS = [
     "college": [
       "Alcorn State",
       "Hinds CC",
-      "Prairie View",
       "Prairie View A&M"
     ],
     "numbers": [
@@ -330633,7 +330639,7 @@ export const NFL_PLAYERS = [
       "New Orleans Saints"
     ],
     "college": [
-      "Southern Mississippi"
+      "Southern Miss"
     ],
     "numbers": [
       65
@@ -330699,7 +330705,7 @@ export const NFL_PLAYERS = [
       "Detroit Lions"
     ],
     "college": [
-      "Massachusetts"
+      "UMass"
     ],
     "numbers": [
       59,
@@ -330849,8 +330855,7 @@ export const NFL_PLAYERS = [
       "New England Patriots"
     ],
     "college": [
-      "BYU",
-      "Brigham Young"
+      "BYU"
     ],
     "numbers": [
       92,
@@ -330881,8 +330886,7 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "Southern Miss",
-      "Southern Mississippi"
+      "Southern Miss"
     ],
     "numbers": [
       67,
@@ -331325,7 +331329,7 @@ export const NFL_PLAYERS = [
     "display_name": "King DuClos",
     "teams": [],
     "college": [
-      "Texas-El Paso"
+      "UTEP"
     ],
     "numbers": [],
     "league": "NFL"
@@ -331412,7 +331416,7 @@ export const NFL_PLAYERS = [
       "New York Jets"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       51,
@@ -331429,9 +331433,7 @@ export const NFL_PLAYERS = [
       "Green Bay Packers"
     ],
     "college": [
-      "M",
-      "Texas A&M",
-      "Texas A&amp"
+      "Texas A&M"
     ],
     "numbers": [
       96
@@ -331460,7 +331462,6 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "BYU",
-      "Brigham Young",
       "Oregon"
     ],
     "numbers": [
@@ -331621,7 +331622,7 @@ export const NFL_PLAYERS = [
       "Miami Dolphins"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       11,
@@ -331693,7 +331694,7 @@ export const NFL_PLAYERS = [
     "display_name": "Kirk Baumgartner",
     "teams": [],
     "college": [
-      "Wisconsin\u2013Stevens Point"
+      "Wisconsin-Stevens Point"
     ],
     "numbers": [],
     "league": "NFL"
@@ -331703,7 +331704,7 @@ export const NFL_PLAYERS = [
     "display_name": "Kirk Behrendt",
     "teams": [],
     "college": [
-      "Whitewater"
+      "Wisconsin-Whitewater"
     ],
     "numbers": [],
     "league": "NFL"
@@ -331824,7 +331825,7 @@ export const NFL_PLAYERS = [
     "display_name": "Kirk Heyer",
     "teams": [],
     "college": [
-      "Kearney State"
+      "Nebraska-Kearney"
     ],
     "numbers": [],
     "league": "NFL"
@@ -331871,7 +331872,7 @@ export const NFL_PLAYERS = [
       "Cincinnati Bengals"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       43
@@ -332461,7 +332462,7 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "Florida Atlantic"
+      "FAU"
     ],
     "numbers": [
       44
@@ -332539,7 +332540,7 @@ export const NFL_PLAYERS = [
       "Los Angeles Chargers"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       60
@@ -332623,8 +332624,7 @@ export const NFL_PLAYERS = [
       "Indianapolis Colts"
     ],
     "college": [
-      "TCU",
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [
       18
@@ -332684,7 +332684,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Akron",
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       15
@@ -332839,7 +332839,7 @@ export const NFL_PLAYERS = [
       "Minnesota Vikings"
     ],
     "college": [
-      "Southern Mississippi"
+      "Southern Miss"
     ],
     "numbers": [
       18
@@ -333345,7 +333345,7 @@ export const NFL_PLAYERS = [
       "San Diego Chargers"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       84,
@@ -333415,7 +333415,6 @@ export const NFL_PLAYERS = [
       "Tennessee Titans"
     ],
     "college": [
-      "Southeast Missouri",
       "Southeast Missouri State"
     ],
     "numbers": [
@@ -334105,7 +334104,7 @@ export const NFL_PLAYERS = [
       "Miami Dolphins"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       59,
@@ -334367,9 +334366,7 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "Lenoir Rhyne",
-      "Lenoir-Rhyne",
-      "Lenoir\u2013Rhyne"
+      "Lenoir-Rhyne"
     ],
     "numbers": [
       23,
@@ -334521,7 +334518,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Boston College",
-      "Texas State-San Marcos"
+      "Texas State"
     ],
     "numbers": [
       60
@@ -334550,7 +334547,7 @@ export const NFL_PLAYERS = [
       "Denver Broncos"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       39
@@ -334643,7 +334640,7 @@ export const NFL_PLAYERS = [
       "Cleveland Browns"
     ],
     "college": [
-      "Bowling Green State"
+      "Bowling Green"
     ],
     "numbers": [],
     "league": "NFL"
@@ -334686,7 +334683,7 @@ export const NFL_PLAYERS = [
       "Green Bay Packers"
     ],
     "college": [
-      "Cal Poly-S.L.O."
+      "Cal Poly"
     ],
     "numbers": [
       1
@@ -334743,7 +334740,7 @@ export const NFL_PLAYERS = [
       "St. Louis Cardinals"
     ],
     "college": [
-      "East Texas State"
+      "East Texas A&M"
     ],
     "numbers": [],
     "league": "NFL"
@@ -334784,7 +334781,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Ohio State",
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       18,
@@ -335199,8 +335196,7 @@ export const NFL_PLAYERS = [
       "New England Patriots"
     ],
     "college": [
-      "BYU",
-      "Brigham Young"
+      "BYU"
     ],
     "numbers": [
       8,
@@ -335381,8 +335377,7 @@ export const NFL_PLAYERS = [
       "Philadelphia Eagles"
     ],
     "college": [
-      "SMU",
-      "Southern Methodist"
+      "SMU"
     ],
     "numbers": [
       83,
@@ -335398,7 +335393,7 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "Houston Christian University",
+      "Houston Christian",
       "Minnesota"
     ],
     "numbers": [
@@ -335539,7 +335534,6 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "Southern California",
       "USC"
     ],
     "numbers": [
@@ -335766,7 +335760,7 @@ export const NFL_PLAYERS = [
     "display_name": "L. B. Russell",
     "teams": [],
     "college": [
-      "Hardin\u2013Simmons"
+      "Hardin-Simmons"
     ],
     "numbers": [],
     "league": "NFL"
@@ -335856,8 +335850,7 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "TCU",
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [
       91,
@@ -336164,8 +336157,7 @@ export const NFL_PLAYERS = [
       "Green Bay Packers"
     ],
     "college": [
-      "Miami (FL)",
-      "Miami (Fla.)"
+      "Miami (FL)"
     ],
     "numbers": [
       23,
@@ -336225,7 +336217,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Colorado",
-      "Florida Atlantic"
+      "FAU"
     ],
     "numbers": [
       10,
@@ -336376,7 +336368,7 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       34,
@@ -336679,7 +336671,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Mary",
-      "William &amp"
+      "William & Mary"
     ],
     "numbers": [
       81
@@ -336704,8 +336696,7 @@ export const NFL_PLAYERS = [
       "San Diego Chargers"
     ],
     "college": [
-      "Louisiana-Lafayette",
-      "Louisiana\u2013Lafayette"
+      "Louisiana-Lafayette"
     ],
     "numbers": [
       89
@@ -336819,7 +336810,7 @@ export const NFL_PLAYERS = [
       "Miami Dolphins"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       30,
@@ -336922,7 +336913,7 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       46,
@@ -337066,8 +337057,7 @@ export const NFL_PLAYERS = [
       "Detroit Lions"
     ],
     "college": [
-      "Southern Miss",
-      "Southern Mississippi"
+      "Southern Miss"
     ],
     "numbers": [
       76
@@ -337253,7 +337243,6 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Miami",
       "Miami (FL)"
     ],
     "numbers": [
@@ -338554,7 +338543,6 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "Mississippi",
       "Ole Miss"
     ],
     "numbers": [
@@ -338589,7 +338577,6 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Mississippi",
       "Ole Miss"
     ],
     "numbers": [
@@ -338606,7 +338593,6 @@ export const NFL_PLAYERS = [
       "Miami Dolphins"
     ],
     "college": [
-      "Massachusetts",
       "UMass"
     ],
     "numbers": [
@@ -338648,9 +338634,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Louisburg",
-      "N.C. State",
-      "NC State",
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [
       52,
@@ -338676,7 +338660,7 @@ export const NFL_PLAYERS = [
     "display_name": "Larry Adams",
     "teams": [],
     "college": [
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -339014,7 +338998,7 @@ export const NFL_PLAYERS = [
       "Los Angeles Rams"
     ],
     "college": [
-      "Northern Illinois State"
+      "Northern Illinois"
     ],
     "numbers": [],
     "league": "NFL"
@@ -339154,7 +339138,7 @@ export const NFL_PLAYERS = [
     "display_name": "Larry Bulaich",
     "teams": [],
     "college": [
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -339198,7 +339182,7 @@ export const NFL_PLAYERS = [
     "display_name": "Larry Cameron",
     "teams": [],
     "college": [
-      "Alcorn A&M"
+      "Alcorn State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -339330,7 +339314,7 @@ export const NFL_PLAYERS = [
       "New Orleans Saints"
     ],
     "college": [
-      "Texas A&I"
+      "Texas A&M-Kingsville"
     ],
     "numbers": [],
     "league": "NFL"
@@ -339484,7 +339468,7 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       39
@@ -339553,7 +339537,7 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "Grambling State"
+      "Grambling"
     ],
     "numbers": [
       84
@@ -339723,7 +339707,7 @@ export const NFL_PLAYERS = [
       "Arizona Cardinals"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       11
@@ -339940,7 +339924,7 @@ export const NFL_PLAYERS = [
       "New York Titans"
     ],
     "college": [
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -340898,8 +340882,7 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "Charlotte",
-      "North Carolina-Charlotte"
+      "Charlotte"
     ],
     "numbers": [
       65,
@@ -341110,7 +341093,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Alabama",
-      "Central Missouri State"
+      "Central Missouri"
     ],
     "numbers": [
       91
@@ -341492,7 +341475,7 @@ export const NFL_PLAYERS = [
       "Chicago Bears"
     ],
     "college": [
-      "North Texas State"
+      "North Texas"
     ],
     "numbers": [],
     "league": "NFL"
@@ -341516,7 +341499,7 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -341626,7 +341609,7 @@ export const NFL_PLAYERS = [
     "display_name": "Larry Vignali",
     "teams": [],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -341791,7 +341774,7 @@ export const NFL_PLAYERS = [
       "New England Patriots"
     ],
     "college": [
-      "Northeast Louisiana"
+      "Louisiana-Monroe"
     ],
     "numbers": [
       25,
@@ -341930,7 +341913,7 @@ export const NFL_PLAYERS = [
     "display_name": "Larry\u00a0Bell",
     "teams": [],
     "college": [
-      "East Texas State"
+      "East Texas A&M"
     ],
     "numbers": [],
     "league": "NFL"
@@ -342020,7 +342003,7 @@ export const NFL_PLAYERS = [
     "display_name": "Larry\u00a0Edwards",
     "teams": [],
     "college": [
-      "Texas A&I"
+      "Texas A&M-Kingsville"
     ],
     "numbers": [],
     "league": "NFL"
@@ -342060,7 +342043,7 @@ export const NFL_PLAYERS = [
     "display_name": "Larry\u00a0Lightfoot",
     "teams": [],
     "college": [
-      "Livingston (AL)"
+      "Livingston"
     ],
     "numbers": [],
     "league": "NFL"
@@ -342266,7 +342249,6 @@ export const NFL_PLAYERS = [
       "Oakland Raiders"
     ],
     "college": [
-      "Central Florida",
       "UCF"
     ],
     "numbers": [
@@ -342320,7 +342302,7 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "Southern Mississippi"
+      "Southern Miss"
     ],
     "numbers": [
       85
@@ -342443,8 +342425,7 @@ export const NFL_PLAYERS = [
     "display_name": "Laurin Pepper",
     "teams": [],
     "college": [
-      "Mississippi Southern",
-      "Southern Mississippi"
+      "Southern Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -342608,7 +342589,7 @@ export const NFL_PLAYERS = [
     "display_name": "Laverne Robbins",
     "teams": [],
     "college": [
-      "Midwestern State (TX)"
+      "Midwestern State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -342703,7 +342684,7 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [
       65,
@@ -342762,7 +342743,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Georgia",
-      "Miami"
+      "Miami (FL)"
     ],
     "numbers": [
       83,
@@ -342793,7 +342774,7 @@ export const NFL_PLAYERS = [
     "display_name": "Lawrence Estes",
     "teams": [],
     "college": [
-      "Alcorn A&M"
+      "Alcorn State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -342906,7 +342887,7 @@ export const NFL_PLAYERS = [
       "New Orleans Saints"
     ],
     "college": [
-      "Southeast Missouri"
+      "Southeast Missouri State"
     ],
     "numbers": [
       37
@@ -343132,7 +343113,7 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "Troy State"
+      "Troy"
     ],
     "numbers": [
       1,
@@ -343199,7 +343180,7 @@ export const NFL_PLAYERS = [
     "display_name": "Lawrence Wilson",
     "teams": [],
     "college": [
-      "Connecticut"
+      "UConn"
     ],
     "numbers": [],
     "league": "NFL"
@@ -343314,9 +343295,7 @@ export const NFL_PLAYERS = [
       "New England Patriots"
     ],
     "college": [
-      "M",
-      "Texas A&M",
-      "Texas A&amp"
+      "Texas A&M"
     ],
     "numbers": [
       64,
@@ -343576,7 +343555,7 @@ export const NFL_PLAYERS = [
     "display_name": "LeQuint Allen",
     "teams": [],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -343588,7 +343567,7 @@ export const NFL_PLAYERS = [
       "Jacksonville Jaguars"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       5,
@@ -343689,7 +343668,7 @@ export const NFL_PLAYERS = [
     "display_name": "LeRoy Spears",
     "teams": [],
     "college": [
-      "Moorhead (MN)"
+      "Moorhead State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -343714,7 +343693,7 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       25,
@@ -343747,7 +343726,7 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "NIU"
+      "Northern Illinois"
     ],
     "numbers": [
       23,
@@ -344182,7 +344161,7 @@ export const NFL_PLAYERS = [
     "display_name": "Lee Garner",
     "teams": [],
     "college": [
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -344297,7 +344276,7 @@ export const NFL_PLAYERS = [
     "display_name": "Lee Jacobsen",
     "teams": [],
     "college": [
-      "Kearney State"
+      "Nebraska-Kearney"
     ],
     "numbers": [],
     "league": "NFL"
@@ -344740,7 +344719,7 @@ export const NFL_PLAYERS = [
       "Green Bay Packers"
     ],
     "college": [
-      "Wisconsin\u2013Eau Claire"
+      "Wisconsin-Eau Claire"
     ],
     "numbers": [],
     "league": "NFL"
@@ -344767,7 +344746,7 @@ export const NFL_PLAYERS = [
       "San Diego Chargers"
     ],
     "college": [
-      "Bethune-Cookman College",
+      "Bethune-Cookman",
       "Ohio State"
     ],
     "numbers": [],
@@ -344973,7 +344952,6 @@ export const NFL_PLAYERS = [
       "St. Louis Rams"
     ],
     "college": [
-      "Central Florida",
       "UCF"
     ],
     "numbers": [
@@ -345365,7 +345343,7 @@ export const NFL_PLAYERS = [
     "display_name": "Len Bigbee",
     "teams": [],
     "college": [
-      "East Texas State"
+      "East Texas A&M"
     ],
     "numbers": [],
     "league": "NFL"
@@ -345595,7 +345573,7 @@ export const NFL_PLAYERS = [
     "display_name": "Len Kleinpeter",
     "teams": [],
     "college": [
-      "Southwestern Louisiana"
+      "Louisiana-Lafayette"
     ],
     "numbers": [],
     "league": "NFL"
@@ -345775,7 +345753,7 @@ export const NFL_PLAYERS = [
     "display_name": "Len Slaby",
     "teams": [],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -345907,7 +345885,7 @@ export const NFL_PLAYERS = [
       "Tennessee Titans"
     ],
     "college": [
-      "Southern University"
+      "Southern"
     ],
     "numbers": [
       35,
@@ -345960,7 +345938,7 @@ export const NFL_PLAYERS = [
     "display_name": "Lennie King",
     "teams": [],
     "college": [
-      "Connecticut"
+      "UConn"
     ],
     "numbers": [],
     "league": "NFL"
@@ -346775,7 +346753,7 @@ export const NFL_PLAYERS = [
       "Philadelphia Eagles"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -346960,8 +346938,7 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "Arkansas",
-      "Arkansas (Redrafted Colt)"
+      "Arkansas"
     ],
     "numbers": [],
     "league": "NFL"
@@ -346971,7 +346948,7 @@ export const NFL_PLAYERS = [
     "display_name": "Leon Carr",
     "teams": [],
     "college": [
-      "Prairie View"
+      "Prairie View A&M"
     ],
     "numbers": [],
     "league": "NFL"
@@ -347126,7 +347103,7 @@ export const NFL_PLAYERS = [
       "Buffalo Bills"
     ],
     "college": [
-      "Alcorn A&M"
+      "Alcorn State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -347139,7 +347116,7 @@ export const NFL_PLAYERS = [
       "Dallas Cowboys"
     ],
     "college": [
-      "Bethune\u2013Cookman"
+      "Bethune-Cookman"
     ],
     "numbers": [],
     "league": "NFL"
@@ -347192,7 +347169,7 @@ export const NFL_PLAYERS = [
     "display_name": "Leon Harden",
     "teams": [],
     "college": [
-      "Texas\u2013El Paso"
+      "UTEP"
     ],
     "numbers": [],
     "league": "NFL"
@@ -347499,8 +347476,7 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "M",
-      "Texas A&amp"
+      "Texas A&M"
     ],
     "numbers": [],
     "league": "NFL"
@@ -347582,8 +347558,7 @@ export const NFL_PLAYERS = [
       "Philadelphia Eagles"
     ],
     "college": [
-      "Jackson State",
-      "Jackson State University"
+      "Jackson State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -347759,7 +347734,7 @@ export const NFL_PLAYERS = [
     "display_name": "Leonard Dunlap",
     "teams": [],
     "college": [
-      "North Texas State"
+      "North Texas"
     ],
     "numbers": [],
     "league": "NFL"
@@ -347772,7 +347747,7 @@ export const NFL_PLAYERS = [
       "Houston Oilers"
     ],
     "college": [
-      "Alcorn A&M"
+      "Alcorn State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -347844,7 +347819,7 @@ export const NFL_PLAYERS = [
       "Kansas City Chiefs"
     ],
     "college": [
-      "Grambling State"
+      "Grambling"
     ],
     "numbers": [],
     "league": "NFL"
@@ -348157,7 +348132,6 @@ export const NFL_PLAYERS = [
       "New York Jets"
     ],
     "college": [
-      "Miami",
       "Miami (FL)"
     ],
     "numbers": [
@@ -348186,7 +348160,7 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "Carson\u2013Newman"
+      "Carson-Newman"
     ],
     "numbers": [
       43
@@ -348218,7 +348192,7 @@ export const NFL_PLAYERS = [
       "Minnesota Vikings"
     ],
     "college": [
-      "Troy State"
+      "Troy"
     ],
     "numbers": [
       37
@@ -348234,7 +348208,6 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "Southern California",
       "USC"
     ],
     "numbers": [
@@ -348372,7 +348345,7 @@ export const NFL_PLAYERS = [
     "display_name": "Leon\u00a0Cooper",
     "teams": [],
     "college": [
-      "Hardin\u2013Simmons"
+      "Hardin-Simmons"
     ],
     "numbers": [],
     "league": "NFL"
@@ -348483,7 +348456,7 @@ export const NFL_PLAYERS = [
     "display_name": "Leroy Byars",
     "teams": [],
     "college": [
-      "Alcorn A&M"
+      "Alcorn State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -348747,7 +348720,7 @@ export const NFL_PLAYERS = [
     "display_name": "Leroy Reed",
     "teams": [],
     "college": [
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -348808,7 +348781,6 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "Texas-San Antonio",
       "UTSA"
     ],
     "numbers": [
@@ -348827,7 +348799,7 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "Texas-San Antonio"
+      "UTSA"
     ],
     "numbers": [
       69,
@@ -348851,7 +348823,7 @@ export const NFL_PLAYERS = [
     "display_name": "Leroy\u00a0Hegge",
     "teams": [],
     "college": [
-      "South Dakota\u2013Springfield"
+      "South Dakota-Springfield"
     ],
     "numbers": [],
     "league": "NFL"
@@ -349422,7 +349394,7 @@ export const NFL_PLAYERS = [
       "Houston Texans"
     ],
     "college": [
-      "Florida Atlantic"
+      "FAU"
     ],
     "numbers": [
       18
@@ -349573,7 +349545,7 @@ export const NFL_PLAYERS = [
     "display_name": "Lester McClelland",
     "teams": [],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -349812,9 +349784,8 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "East Texas A&M",
-      "M-Commerce",
-      "Texas A&M\u2013Commerce",
-      "Texas A&amp"
+      "Texas A&M",
+      "Texas A&M-Commerce"
     ],
     "numbers": [
       50
@@ -349840,7 +349811,7 @@ export const NFL_PLAYERS = [
       "Detroit Lions"
     ],
     "college": [
-      "Texas A&I"
+      "Texas A&M-Kingsville"
     ],
     "numbers": [],
     "league": "NFL"
@@ -350793,7 +350764,7 @@ export const NFL_PLAYERS = [
     "display_name": "Lindon endsley",
     "teams": [],
     "college": [
-      "North Texas State"
+      "North Texas"
     ],
     "numbers": [],
     "league": "NFL"
@@ -351035,7 +351006,7 @@ export const NFL_PLAYERS = [
       "St. Louis Rams"
     ],
     "college": [
-      "Northeast Louisiana"
+      "Louisiana-Monroe"
     ],
     "numbers": [
       92,
@@ -351413,7 +351384,7 @@ export const NFL_PLAYERS = [
     "display_name": "Lloyd Johnson",
     "teams": [],
     "college": [
-      "West Texas State"
+      "West Texas A&M"
     ],
     "numbers": [],
     "league": "NFL"
@@ -352008,7 +351979,7 @@ export const NFL_PLAYERS = [
     "display_name": "Lon Kolstad",
     "teams": [],
     "college": [
-      "Whitewater (Wis)"
+      "Wisconsin-Whitewater"
     ],
     "numbers": [],
     "league": "NFL"
@@ -352085,7 +352056,7 @@ export const NFL_PLAYERS = [
     "display_name": "Lonnie Dennis",
     "teams": [],
     "college": [
-      "Brigham Young"
+      "BYU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -352203,7 +352174,7 @@ export const NFL_PLAYERS = [
     "display_name": "Lonnie Paige",
     "teams": [],
     "college": [
-      "North Carolina College"
+      "North Carolina Central"
     ],
     "numbers": [],
     "league": "NFL"
@@ -352261,7 +352232,7 @@ export const NFL_PLAYERS = [
     "display_name": "Lonnie Price",
     "teams": [],
     "college": [
-      "Southwestern Louisiana"
+      "Louisiana-Lafayette"
     ],
     "numbers": [],
     "league": "NFL"
@@ -352336,7 +352307,7 @@ export const NFL_PLAYERS = [
     "display_name": "Lonnie\u00a0Allgood",
     "teams": [],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -352378,7 +352349,7 @@ export const NFL_PLAYERS = [
     "display_name": "Lonny Leatherman",
     "teams": [],
     "college": [
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -352458,7 +352429,7 @@ export const NFL_PLAYERS = [
     "display_name": "Loren Braner",
     "teams": [],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -352670,7 +352641,7 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -352914,7 +352885,7 @@ export const NFL_PLAYERS = [
       "Denver Broncos"
     ],
     "college": [
-      "Brigham Young"
+      "BYU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -352987,7 +352958,7 @@ export const NFL_PLAYERS = [
     "display_name": "Lou Cimarolli",
     "teams": [],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -353195,7 +353166,7 @@ export const NFL_PLAYERS = [
       "New Orleans Saints"
     ],
     "college": [
-      "Miami"
+      "Miami (FL)"
     ],
     "numbers": [
       15,
@@ -353433,7 +353404,7 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -353580,7 +353551,7 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -353938,7 +353909,7 @@ export const NFL_PLAYERS = [
       "Chicago Bears"
     ],
     "college": [
-      "Southwestern Louisiana"
+      "Louisiana-Lafayette"
     ],
     "numbers": [],
     "league": "NFL"
@@ -354070,7 +354041,7 @@ export const NFL_PLAYERS = [
       "Oakland Raiders"
     ],
     "college": [
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -354082,7 +354053,7 @@ export const NFL_PLAYERS = [
       "Kansas City Chiefs"
     ],
     "college": [
-      "North Texas State"
+      "North Texas"
     ],
     "numbers": [],
     "league": "NFL"
@@ -354105,7 +354076,7 @@ export const NFL_PLAYERS = [
     "display_name": "Louis James",
     "teams": [],
     "college": [
-      "Texas-El Paso"
+      "UTEP"
     ],
     "numbers": [],
     "league": "NFL"
@@ -354150,8 +354121,7 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "Southern Miss",
-      "Southern Mississippi"
+      "Southern Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -354325,7 +354295,7 @@ export const NFL_PLAYERS = [
       "Oakland Raiders"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       29,
@@ -354485,7 +354455,7 @@ export const NFL_PLAYERS = [
       "New England Patriots"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       36,
@@ -354726,7 +354696,7 @@ export const NFL_PLAYERS = [
     "display_name": "Loyd Lewis",
     "teams": [],
     "college": [
-      "Texas A&I"
+      "Texas A&M-Kingsville"
     ],
     "numbers": [],
     "league": "NFL"
@@ -354798,7 +354768,7 @@ export const NFL_PLAYERS = [
       "Miami Dolphins"
     ],
     "college": [
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [
       49
@@ -354831,7 +354801,7 @@ export const NFL_PLAYERS = [
       "New Orleans Saints"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       85,
@@ -354847,8 +354817,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "TCU",
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [
       53,
@@ -354864,7 +354833,7 @@ export const NFL_PLAYERS = [
       "Oakland Raiders"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       76
@@ -354988,7 +354957,7 @@ export const NFL_PLAYERS = [
       "New York Jets"
     ],
     "college": [
-      "Florida Atlantic"
+      "FAU"
     ],
     "numbers": [
       13,
@@ -355054,7 +355023,7 @@ export const NFL_PLAYERS = [
     "display_name": "Luis Hernandez",
     "teams": [],
     "college": [
-      "Texas-El Paso"
+      "UTEP"
     ],
     "numbers": [],
     "league": "NFL"
@@ -355068,8 +355037,8 @@ export const NFL_PLAYERS = [
       "Los Angeles Rams"
     ],
     "college": [
-      "M-Commerce",
-      "Texas A&amp"
+      "Texas A&M",
+      "Texas A&M-Commerce"
     ],
     "numbers": [
       8,
@@ -355658,8 +355627,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Mary",
-      "William & Mary",
-      "William &amp"
+      "William & Mary"
     ],
     "numbers": [
       46
@@ -356019,7 +355987,7 @@ export const NFL_PLAYERS = [
     "display_name": "Luther Philyaw",
     "teams": [],
     "college": [
-      "Loyola (CA)"
+      "Loyola Marymount"
     ],
     "numbers": [],
     "league": "NFL"
@@ -356053,7 +356021,7 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [
       75
@@ -356260,7 +356228,7 @@ export const NFL_PLAYERS = [
     "display_name": "Lyle Sturdy",
     "teams": [],
     "college": [
-      "Wichita"
+      "Wichita State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -356523,7 +356491,7 @@ export const NFL_PLAYERS = [
     "display_name": "Lynn Chewning",
     "teams": [],
     "college": [
-      "Hampden\u2013Sydney"
+      "Hampden-Sydney"
     ],
     "numbers": [],
     "league": "NFL"
@@ -356548,7 +356516,7 @@ export const NFL_PLAYERS = [
     "display_name": "Lynn Hieber",
     "teams": [],
     "college": [
-      "Indiana (PA)"
+      "IUP"
     ],
     "numbers": [],
     "league": "NFL"
@@ -356689,7 +356657,7 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -356781,7 +356749,7 @@ export const NFL_PLAYERS = [
       "Philadelphia Eagles"
     ],
     "college": [
-      "Texas-El Paso"
+      "UTEP"
     ],
     "numbers": [
       42,
@@ -356865,7 +356833,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Kentucky",
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       26,
@@ -356916,7 +356884,7 @@ export const NFL_PLAYERS = [
       "New York Jets"
     ],
     "college": [
-      "Southeastern Oklahoma"
+      "Southeastern Oklahoma State"
     ],
     "numbers": [
       46
@@ -356993,7 +356961,7 @@ export const NFL_PLAYERS = [
       "Houston Oilers"
     ],
     "college": [
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -357048,7 +357016,7 @@ export const NFL_PLAYERS = [
       "Philadelphia Eagles"
     ],
     "college": [
-      "North Carolina A&amp",
+      "North Carolina A&T",
       "T"
     ],
     "numbers": [
@@ -357066,7 +357034,7 @@ export const NFL_PLAYERS = [
       "Philadelphia Eagles"
     ],
     "college": [
-      "North Carolina A&amp",
+      "North Carolina A&T",
       "T"
     ],
     "numbers": [
@@ -357277,7 +357245,7 @@ export const NFL_PLAYERS = [
     "display_name": "Mack Burton",
     "teams": [],
     "college": [
-      "San Jos\u00e9 State"
+      "San Jose State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -357431,7 +357399,7 @@ export const NFL_PLAYERS = [
       "St. Louis Cardinals"
     ],
     "college": [
-      "Southwest Texas State"
+      "Texas State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -357682,7 +357650,7 @@ export const NFL_PLAYERS = [
     "display_name": "Mahlon Williams",
     "teams": [],
     "college": [
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -358262,7 +358230,7 @@ export const NFL_PLAYERS = [
       "Miami Dolphins"
     ],
     "college": [
-      "Miami (Fla.)"
+      "Miami (FL)"
     ],
     "numbers": [
       18
@@ -358403,7 +358371,6 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "Southern California",
       "USC"
     ],
     "numbers": [
@@ -358699,7 +358666,6 @@ export const NFL_PLAYERS = [
       "Green Bay Packers"
     ],
     "college": [
-      "Mississippi",
       "Mississippi State",
       "Ole Miss"
     ],
@@ -359114,7 +359080,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       47,
@@ -359517,7 +359483,6 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "South Carolina",
-      "Southern California",
       "USC"
     ],
     "numbers": [
@@ -359532,7 +359497,7 @@ export const NFL_PLAYERS = [
       "Arizona Cardinals"
     ],
     "college": [
-      "Nebraska\u2013Omaha"
+      "Nebraska-Omaha"
     ],
     "numbers": [
       19,
@@ -359545,7 +359510,7 @@ export const NFL_PLAYERS = [
     "display_name": "Marc Allen",
     "teams": [],
     "college": [
-      "W. Texas State"
+      "West Texas A&M"
     ],
     "numbers": [],
     "league": "NFL"
@@ -359767,7 +359732,7 @@ export const NFL_PLAYERS = [
       "New York Jets"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       92,
@@ -360142,7 +360107,7 @@ export const NFL_PLAYERS = [
     "display_name": "Marcel\u00a0Saunders",
     "teams": [],
     "college": [
-      "Loyola (CA)"
+      "Loyola Marymount"
     ],
     "numbers": [],
     "league": "NFL"
@@ -360526,8 +360491,7 @@ export const NFL_PLAYERS = [
       "New England Patriots"
     ],
     "college": [
-      "TCU",
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [
       61
@@ -360615,7 +360579,6 @@ export const NFL_PLAYERS = [
       "New Orleans Saints"
     ],
     "college": [
-      "Texas-San Antonio",
       "UTSA"
     ],
     "numbers": [
@@ -360696,7 +360659,7 @@ export const NFL_PLAYERS = [
       "Buffalo Bills"
     ],
     "college": [
-      "Connecticut"
+      "UConn"
     ],
     "numbers": [
       81
@@ -360825,7 +360788,7 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "Louisiana\u2013Monroe"
+      "Louisiana-Monroe"
     ],
     "numbers": [
       97
@@ -361310,7 +361273,7 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "Southern California"
+      "USC"
     ],
     "numbers": [
       60,
@@ -361689,8 +361652,8 @@ export const NFL_PLAYERS = [
       "New York Jets"
     ],
     "college": [
-      "Florida A&amp",
-      "M"
+      "Florida A&M",
+      "Texas A&M"
     ],
     "numbers": [
       87
@@ -362319,7 +362282,7 @@ export const NFL_PLAYERS = [
       "Atlanta Falcons"
     ],
     "college": [
-      "Troy State"
+      "Troy"
     ],
     "numbers": [
       82
@@ -362362,8 +362325,7 @@ export const NFL_PLAYERS = [
       "Indianapolis Colts"
     ],
     "college": [
-      "SMU",
-      "Southern Methodist"
+      "SMU"
     ],
     "numbers": [
       70,
@@ -362827,7 +362789,7 @@ export const NFL_PLAYERS = [
       "Miami Dolphins"
     ],
     "college": [
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [
       90,
@@ -363237,7 +363199,7 @@ export const NFL_PLAYERS = [
       "Jacksonville Jaguars"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       69
@@ -363548,8 +363510,7 @@ export const NFL_PLAYERS = [
       "Kansas City Chiefs"
     ],
     "college": [
-      "Texas\u2013Arlington",
-      "University of Texas-Arlington"
+      "Texas-Arlington"
     ],
     "numbers": [],
     "league": "NFL"
@@ -363703,8 +363664,7 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "Cal State Fullerton",
-      "California State-Fullerton"
+      "Cal State Fullerton"
     ],
     "numbers": [
       25,
@@ -363903,8 +363863,7 @@ export const NFL_PLAYERS = [
       "Miami Dolphins"
     ],
     "college": [
-      "Northwestern State",
-      "Northwestern State (LA)"
+      "Northwestern State"
     ],
     "numbers": [
       85
@@ -364152,7 +364111,7 @@ export const NFL_PLAYERS = [
       "Philadelphia Eagles"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       96,
@@ -364167,7 +364126,7 @@ export const NFL_PLAYERS = [
       "Green Bay Packers"
     ],
     "college": [
-      "Southwestern Louisiana"
+      "Louisiana-Lafayette"
     ],
     "numbers": [],
     "league": "NFL"
@@ -364789,7 +364748,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       73
@@ -365162,8 +365121,7 @@ export const NFL_PLAYERS = [
       "New England Patriots"
     ],
     "college": [
-      "TCU",
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [
       21,
@@ -365220,7 +365178,7 @@ export const NFL_PLAYERS = [
       "New York Jets"
     ],
     "college": [
-      "Minnesota State\u2013Moorhead"
+      "Moorhead State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -365248,7 +365206,7 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [
       45,
@@ -365552,7 +365510,7 @@ export const NFL_PLAYERS = [
       "Tennessee Titans"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       53
@@ -365855,8 +365813,7 @@ export const NFL_PLAYERS = [
       "Miami Dolphins"
     ],
     "college": [
-      "Miami (FL)",
-      "Miami (Fla.)"
+      "Miami (FL)"
     ],
     "numbers": [
       22,
@@ -365969,7 +365926,7 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "North Texas State"
+      "North Texas"
     ],
     "numbers": [],
     "league": "NFL"
@@ -366023,8 +365980,7 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "Charlotte",
-      "North Carolina-Charlotte"
+      "Charlotte"
     ],
     "numbers": [
       58
@@ -366063,7 +366019,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Massachusetts"
+      "UMass"
     ],
     "numbers": [
       9,
@@ -366137,8 +366093,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Florida A&M",
-      "Florida A&amp",
-      "M"
+      "Texas A&M"
     ],
     "numbers": [
       14,
@@ -366241,7 +366196,7 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -366786,7 +366741,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Georgia",
-      "Memphis State"
+      "Memphis"
     ],
     "numbers": [
       14,
@@ -366949,7 +366904,6 @@ export const NFL_PLAYERS = [
       "Philadelphia Eagles"
     ],
     "college": [
-      "Southern California",
       "USC"
     ],
     "numbers": [
@@ -366964,7 +366918,7 @@ export const NFL_PLAYERS = [
     "display_name": "Marlon\u00a0McIntyre",
     "teams": [],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -366986,7 +366940,7 @@ export const NFL_PLAYERS = [
       "Los Angeles Chargers"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       58
@@ -367013,7 +366967,7 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "Carson\u2013Newman"
+      "Carson-Newman"
     ],
     "numbers": [
       49,
@@ -367030,7 +366984,6 @@ export const NFL_PLAYERS = [
       "New England Patriots"
     ],
     "college": [
-      "Southern California",
       "USC"
     ],
     "numbers": [
@@ -367389,7 +367342,7 @@ export const NFL_PLAYERS = [
       "Carolina Panthers"
     ],
     "college": [
-      "Central Florida"
+      "UCF"
     ],
     "numbers": [
       22
@@ -367490,9 +367443,8 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "N.C. State",
-      "South Florida",
-      "University of South Florida"
+      "NC State",
+      "South Florida"
     ],
     "numbers": [
       10,
@@ -367523,8 +367475,7 @@ export const NFL_PLAYERS = [
       "Cleveland Browns"
     ],
     "college": [
-      "Miami (FL)",
-      "Miami (Fla.)"
+      "Miami (FL)"
     ],
     "numbers": [
       42
@@ -367660,7 +367611,6 @@ export const NFL_PLAYERS = [
       "Carolina Panthers"
     ],
     "college": [
-      "Mississippi",
       "Ole Miss"
     ],
     "numbers": [
@@ -367742,7 +367692,7 @@ export const NFL_PLAYERS = [
     "display_name": "Marquis Spruill",
     "teams": [],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       51
@@ -367800,7 +367750,7 @@ export const NFL_PLAYERS = [
       "Indianapolis Colts"
     ],
     "college": [
-      "Massachusetts"
+      "UMass"
     ],
     "numbers": [
       40
@@ -368080,7 +368030,7 @@ export const NFL_PLAYERS = [
       "Chicago Cardinals"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       99
@@ -368095,8 +368045,7 @@ export const NFL_PLAYERS = [
       "New England Patriots"
     ],
     "college": [
-      "TCU",
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -368197,8 +368146,7 @@ export const NFL_PLAYERS = [
       "Tennessee Titans"
     ],
     "college": [
-      "TCU",
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [
       71,
@@ -368424,7 +368372,7 @@ export const NFL_PLAYERS = [
       "New Orleans Saints"
     ],
     "college": [
-      "Grambling State"
+      "Grambling"
     ],
     "numbers": [
       22
@@ -368629,7 +368577,7 @@ export const NFL_PLAYERS = [
     "display_name": "Martin Kahn",
     "teams": [],
     "college": [
-      "North Texas State"
+      "North Texas"
     ],
     "numbers": [],
     "league": "NFL"
@@ -368894,7 +368842,7 @@ export const NFL_PLAYERS = [
       "Miami Dolphins"
     ],
     "college": [
-      "Northeast Louisiana"
+      "Louisiana-Monroe"
     ],
     "numbers": [
       80,
@@ -368912,7 +368860,7 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "Middle Tennessee State"
+      "Middle Tennessee"
     ],
     "numbers": [
       23,
@@ -369031,7 +368979,7 @@ export const NFL_PLAYERS = [
     "display_name": "Marty Januszkiewicz",
     "teams": [],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -369124,7 +369072,7 @@ export const NFL_PLAYERS = [
       "Buffalo Bills"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -369297,7 +369245,7 @@ export const NFL_PLAYERS = [
       "Detroit Lions"
     ],
     "college": [
-      "East Texas State"
+      "East Texas A&M"
     ],
     "numbers": [],
     "league": "NFL"
@@ -369420,7 +369368,7 @@ export const NFL_PLAYERS = [
     "display_name": "Marv Lasater",
     "teams": [],
     "college": [
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -369568,7 +369516,7 @@ export const NFL_PLAYERS = [
     "display_name": "Marv Trauth",
     "teams": [],
     "college": [
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -369666,7 +369614,6 @@ export const NFL_PLAYERS = [
       "Indianapolis Colts"
     ],
     "college": [
-      "Southern California",
       "USC"
     ],
     "numbers": [
@@ -369871,7 +369818,7 @@ export const NFL_PLAYERS = [
       "Indianapolis Colts"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       88
@@ -370005,7 +369952,7 @@ export const NFL_PLAYERS = [
     "display_name": "Marvin McQueen",
     "teams": [],
     "college": [
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -370193,7 +370140,7 @@ export const NFL_PLAYERS = [
       "Kansas City Chiefs"
     ],
     "college": [
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -370254,7 +370201,7 @@ export const NFL_PLAYERS = [
     "display_name": "Marvin Weeks",
     "teams": [],
     "college": [
-      "Alcorn A&M"
+      "Alcorn State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -370372,7 +370319,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Mississippi",
+      "Ole Miss",
       "Western Kentucky"
     ],
     "numbers": [
@@ -370453,7 +370400,7 @@ export const NFL_PLAYERS = [
       "Cleveland Browns"
     ],
     "college": [
-      "Southern Methodist"
+      "SMU"
     ],
     "numbers": [
       79
@@ -370482,7 +370429,7 @@ export const NFL_PLAYERS = [
       "Tennessee Titans"
     ],
     "college": [
-      "Berry",
+      "Barry",
       "Berry College"
     ],
     "numbers": [
@@ -370666,7 +370613,7 @@ export const NFL_PLAYERS = [
       "Buffalo Bills"
     ],
     "college": [
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [
       43
@@ -370772,7 +370719,7 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "Troy State"
+      "Troy"
     ],
     "numbers": [
       12
@@ -370859,7 +370806,6 @@ export const NFL_PLAYERS = [
       "Philadelphia Eagles"
     ],
     "college": [
-      "Southern California",
       "USC"
     ],
     "numbers": [
@@ -370966,8 +370912,7 @@ export const NFL_PLAYERS = [
       "Atlanta Falcons"
     ],
     "college": [
-      "Miami (FL)",
-      "Miami (Fla.)"
+      "Miami (FL)"
     ],
     "numbers": [
       5
@@ -371090,7 +371035,7 @@ export const NFL_PLAYERS = [
       "Kansas City Chiefs"
     ],
     "college": [
-      "Brigham Young"
+      "BYU"
     ],
     "numbers": [
       49,
@@ -371146,7 +371091,7 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -371246,7 +371191,6 @@ export const NFL_PLAYERS = [
       "New England Patriots"
     ],
     "college": [
-      "Mississippi",
       "Ole Miss"
     ],
     "numbers": [
@@ -371353,7 +371297,7 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [
       27,
@@ -371533,7 +371477,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       41,
@@ -371599,7 +371543,7 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       40,
@@ -371695,7 +371639,7 @@ export const NFL_PLAYERS = [
       "Indianapolis Colts"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       71
@@ -372326,7 +372270,6 @@ export const NFL_PLAYERS = [
       "Cincinnati Bengals"
     ],
     "college": [
-      "Miami",
       "Miami (FL)",
       "UCF"
     ],
@@ -372481,7 +372424,7 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       8,
@@ -372538,7 +372481,6 @@ export const NFL_PLAYERS = [
       "Oakland Raiders"
     ],
     "college": [
-      "Alabama-Birmingham",
       "UAB"
     ],
     "numbers": [
@@ -372872,7 +372814,6 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "Connecticut",
       "UConn"
     ],
     "numbers": [
@@ -372904,7 +372845,6 @@ export const NFL_PLAYERS = [
       "Detroit Lions"
     ],
     "college": [
-      "Central Florida",
       "UCF"
     ],
     "numbers": [
@@ -372924,8 +372864,7 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "TCU",
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [
       69,
@@ -372997,7 +372936,7 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       61
@@ -373452,7 +373391,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Wisconsin\u2013Whitewater"
+      "Wisconsin-Whitewater"
     ],
     "numbers": [
       1
@@ -373707,7 +373646,7 @@ export const NFL_PLAYERS = [
       "Atlanta Falcons"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       65
@@ -374129,7 +374068,7 @@ export const NFL_PLAYERS = [
     "display_name": "Matthew Williams",
     "teams": [],
     "college": [
-      "N.E. Louisiana"
+      "Louisiana-Monroe"
     ],
     "numbers": [],
     "league": "NFL"
@@ -374148,7 +374087,6 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Central Florida",
       "UCF"
     ],
     "numbers": [
@@ -374212,7 +374150,7 @@ export const NFL_PLAYERS = [
     "display_name": "Matt\u00a0Boone",
     "teams": [],
     "college": [
-      "North Carolina College"
+      "North Carolina Central"
     ],
     "numbers": [],
     "league": "NFL"
@@ -374338,7 +374276,7 @@ export const NFL_PLAYERS = [
       "Detroit Lions"
     ],
     "college": [
-      "Florida International"
+      "FIU"
     ],
     "numbers": [
       1,
@@ -374483,7 +374421,7 @@ export const NFL_PLAYERS = [
       "Los Angeles Chargers"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       80,
@@ -374974,7 +374912,7 @@ export const NFL_PLAYERS = [
       "Houston Texans"
     ],
     "college": [
-      "Middle Tennessee State"
+      "Middle Tennessee"
     ],
     "numbers": [
       61,
@@ -375056,7 +374994,7 @@ export const NFL_PLAYERS = [
       "Philadelphia Eagles"
     ],
     "college": [
-      "Loyola (CA)"
+      "Loyola Marymount"
     ],
     "numbers": [],
     "league": "NFL"
@@ -375116,7 +375054,7 @@ export const NFL_PLAYERS = [
       "Dallas Cowboys"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -375297,8 +375235,7 @@ export const NFL_PLAYERS = [
       "Los Angeles Chargers"
     ],
     "college": [
-      "TCU",
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [
       8
@@ -375403,7 +375340,7 @@ export const NFL_PLAYERS = [
     "display_name": "Max Huber",
     "teams": [],
     "college": [
-      "Brigham Young"
+      "BYU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -375797,7 +375734,6 @@ export const NFL_PLAYERS = [
       "San Diego Chargers"
     ],
     "college": [
-      "Southern California",
       "USC"
     ],
     "numbers": [
@@ -375933,7 +375869,7 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       45,
@@ -375962,7 +375898,7 @@ export const NFL_PLAYERS = [
       "Minnesota Vikings"
     ],
     "college": [
-      "Brigham Young"
+      "BYU"
     ],
     "numbers": [
       45
@@ -376091,8 +376027,7 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "Chattanooga",
-      "Tennessee-Chattanooga"
+      "Chattanooga"
     ],
     "numbers": [
       63,
@@ -376191,9 +376126,7 @@ export const NFL_PLAYERS = [
       "Cincinnati Bengals"
     ],
     "college": [
-      "M",
-      "Texas A&M",
-      "Texas A&amp"
+      "Texas A&M"
     ],
     "numbers": [
       91,
@@ -376293,7 +376226,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Arkansas State",
-      "Iowa Western CC"
+      "Iowa Western"
     ],
     "numbers": [
       63
@@ -376355,7 +376288,6 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Colorado",
-      "Southern California",
       "USC"
     ],
     "numbers": [
@@ -376563,7 +376495,7 @@ export const NFL_PLAYERS = [
     "display_name": "Mel Caraway",
     "teams": [],
     "college": [
-      "N.E. Oklahoma"
+      "Northeastern Oklahoma"
     ],
     "numbers": [],
     "league": "NFL"
@@ -376595,7 +376527,7 @@ export const NFL_PLAYERS = [
     "display_name": "Mel Davis",
     "teams": [],
     "college": [
-      "North Texas State"
+      "North Texas"
     ],
     "numbers": [],
     "league": "NFL"
@@ -377427,7 +377359,7 @@ export const NFL_PLAYERS = [
       "Denver Broncos"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       61,
@@ -378135,7 +378067,7 @@ export const NFL_PLAYERS = [
       "Los Angeles Chargers"
     ],
     "college": [
-      "Brigham Young"
+      "BYU"
     ],
     "numbers": [
       35
@@ -378380,7 +378312,6 @@ export const NFL_PLAYERS = [
       "Los Angeles Chargers"
     ],
     "college": [
-      "Miami",
       "Miami (FL)"
     ],
     "numbers": [
@@ -379066,7 +378997,7 @@ export const NFL_PLAYERS = [
       "Jacksonville Jaguars"
     ],
     "college": [
-      "Central Florida"
+      "UCF"
     ],
     "numbers": [
       86
@@ -379161,8 +379092,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "BYU",
-      "Brigham Young"
+      "BYU"
     ],
     "numbers": [
       24,
@@ -379213,7 +379143,7 @@ export const NFL_PLAYERS = [
       "Baltimore Ravens"
     ],
     "college": [
-      "Georgetown, D.C."
+      "Georgetown"
     ],
     "numbers": [
       82
@@ -380469,7 +380399,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Troy State"
+      "Troy"
     ],
     "numbers": [
       17,
@@ -380564,7 +380494,6 @@ export const NFL_PLAYERS = [
       "Tennessee Titans"
     ],
     "college": [
-      "Mississippi",
       "Ole Miss"
     ],
     "numbers": [
@@ -380749,7 +380678,6 @@ export const NFL_PLAYERS = [
       "Indianapolis Colts"
     ],
     "college": [
-      "Southern California",
       "USC"
     ],
     "numbers": [
@@ -380973,7 +380901,7 @@ export const NFL_PLAYERS = [
     "display_name": "Michael Shook",
     "teams": [],
     "college": [
-      "North Texas State"
+      "North Texas"
     ],
     "numbers": [],
     "league": "NFL"
@@ -381548,7 +381476,7 @@ export const NFL_PLAYERS = [
     "display_name": "Michael\u00a0Kelson",
     "teams": [],
     "college": [
-      "West Texas State"
+      "West Texas A&M"
     ],
     "numbers": [],
     "league": "NFL"
@@ -381558,7 +381486,7 @@ export const NFL_PLAYERS = [
     "display_name": "Michael\u00a0Owens",
     "teams": [],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -381654,9 +381582,7 @@ export const NFL_PLAYERS = [
       "New York Jets"
     ],
     "college": [
-      "M",
-      "Texas A&M",
-      "Texas A&amp"
+      "Texas A&M"
     ],
     "numbers": [
       72
@@ -381894,7 +381820,7 @@ export const NFL_PLAYERS = [
       "Kansas City Chiefs"
     ],
     "college": [
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -382431,7 +382357,7 @@ export const NFL_PLAYERS = [
       "Los Angeles Chargers"
     ],
     "college": [
-      "Miami"
+      "Miami (FL)"
     ],
     "numbers": [
       4,
@@ -382600,7 +382526,7 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "Monmouth (N.J.)"
+      "Monmouth"
     ],
     "numbers": [
       30
@@ -382716,7 +382642,7 @@ export const NFL_PLAYERS = [
     "display_name": "Mike Bengard",
     "teams": [],
     "college": [
-      "Northwestern (Iowa)"
+      "Northwestern (IA)"
     ],
     "numbers": [],
     "league": "NFL"
@@ -382773,7 +382699,7 @@ export const NFL_PLAYERS = [
     "display_name": "Mike Bill",
     "teams": [],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -382787,7 +382713,7 @@ export const NFL_PLAYERS = [
       "Philadelphia Eagles"
     ],
     "college": [
-      "Arizona State University",
+      "Arizona State",
       "Sacramento State"
     ],
     "numbers": [],
@@ -382958,7 +382884,7 @@ export const NFL_PLAYERS = [
       "Tennessee Titans"
     ],
     "college": [
-      "Miami (Ohio)",
+      "Miami (OH)",
       "Miami, O."
     ],
     "numbers": [
@@ -383028,7 +382954,7 @@ export const NFL_PLAYERS = [
     "display_name": "Mike Bulino",
     "teams": [],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -383329,7 +383255,7 @@ export const NFL_PLAYERS = [
       "San Diego Chargers"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -383449,7 +383375,7 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "N.C. State"
+      "NC State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -383893,7 +383819,7 @@ export const NFL_PLAYERS = [
       "Oakland Raiders"
     ],
     "college": [
-      "Southern Mississippi"
+      "Southern Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -383908,7 +383834,7 @@ export const NFL_PLAYERS = [
       "San Diego Chargers"
     ],
     "college": [
-      "Mississippi",
+      "Ole Miss",
       "Wyoming"
     ],
     "numbers": [],
@@ -383962,7 +383888,7 @@ export const NFL_PLAYERS = [
       "Philadelphia Eagles"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       89
@@ -384117,7 +384043,7 @@ export const NFL_PLAYERS = [
       "San Diego Chargers"
     ],
     "college": [
-      "Texas A&M\u2013Kingsville"
+      "Texas A&M-Kingsville"
     ],
     "numbers": [],
     "league": "NFL"
@@ -384168,7 +384094,6 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Campbell",
-      "Campbell University",
       "Wake Forest"
     ],
     "numbers": [
@@ -384305,9 +384230,7 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "M",
-      "Texas A&M",
-      "Texas A&amp"
+      "Texas A&M"
     ],
     "numbers": [
       13
@@ -384530,7 +384453,6 @@ export const NFL_PLAYERS = [
       "Detroit Lions"
     ],
     "college": [
-      "Southeast Missouri",
       "Southeast Missouri State"
     ],
     "numbers": [
@@ -384665,7 +384587,7 @@ export const NFL_PLAYERS = [
     "display_name": "Mike Fuhrman",
     "teams": [],
     "college": [
-      "Memphis State"
+      "Memphis"
     ],
     "numbers": [],
     "league": "NFL"
@@ -384921,8 +384843,7 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "NC State",
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [
       2,
@@ -385137,7 +385058,7 @@ export const NFL_PLAYERS = [
       "St. Louis Rams"
     ],
     "college": [
-      "Central Florida"
+      "UCF"
     ],
     "numbers": [
       60
@@ -385350,7 +385271,7 @@ export const NFL_PLAYERS = [
       "Cleveland Browns"
     ],
     "college": [
-      "Miami"
+      "Miami (FL)"
     ],
     "numbers": [
       82
@@ -385365,7 +385286,7 @@ export const NFL_PLAYERS = [
       "Miami Dolphins"
     ],
     "college": [
-      "Miami"
+      "Miami (FL)"
     ],
     "numbers": [
       4,
@@ -385455,7 +385376,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Oklahoma",
-      "Texas A&I"
+      "Texas A&M-Kingsville"
     ],
     "numbers": [
       37
@@ -385569,7 +385490,6 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "Mississippi",
       "Ole Miss"
     ],
     "numbers": [
@@ -385601,7 +385521,7 @@ export const NFL_PLAYERS = [
       "Chicago Bears"
     ],
     "college": [
-      "Wisconsin\u2013Platteville"
+      "Wisconsin-Platteville"
     ],
     "numbers": [],
     "league": "NFL"
@@ -385641,8 +385561,8 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "Michigan State",
-      "Tennessee-Chattanooga"
+      "Chattanooga",
+      "Michigan State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -385757,8 +385677,7 @@ export const NFL_PLAYERS = [
       "St. Louis Rams"
     ],
     "college": [
-      "California State - Long Beach",
-      "Fullerton",
+      "Cal State Fullerton",
       "Long Beach State"
     ],
     "numbers": [
@@ -385861,7 +385780,7 @@ export const NFL_PLAYERS = [
       "Jacksonville Jaguars"
     ],
     "college": [
-      "Nevada-Las Vegas"
+      "UNLV"
     ],
     "numbers": [
       67,
@@ -385879,7 +385798,6 @@ export const NFL_PLAYERS = [
       "Minnesota Vikings"
     ],
     "college": [
-      "Central Florida",
       "Garden City CC",
       "North Carolina",
       "UCF"
@@ -386027,7 +385945,7 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "Miami"
+      "Miami (FL)"
     ],
     "numbers": [
       2,
@@ -386045,8 +385963,7 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "Miami (FL)",
-      "Miami (Fla.)"
+      "Miami (FL)"
     ],
     "numbers": [
       25,
@@ -386256,7 +386173,7 @@ export const NFL_PLAYERS = [
       "Tennessee Titans"
     ],
     "college": [
-      "Missouri Western State"
+      "Missouri Western"
     ],
     "numbers": [
       33,
@@ -386423,7 +386340,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Mississippi Southern"
+      "Southern Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -386795,7 +386712,7 @@ export const NFL_PLAYERS = [
     "display_name": "Mike Lauber",
     "teams": [],
     "college": [
-      "Wisconsin\u2013River Falls"
+      "Wisconsin-River Falls"
     ],
     "numbers": [],
     "league": "NFL"
@@ -386923,7 +386840,7 @@ export const NFL_PLAYERS = [
       "Minnesota Vikings"
     ],
     "college": [
-      "Southern Methodist"
+      "SMU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -386984,7 +386901,7 @@ export const NFL_PLAYERS = [
     "display_name": "Mike Loper",
     "teams": [],
     "college": [
-      "Brigham Young"
+      "BYU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -387181,7 +387098,7 @@ export const NFL_PLAYERS = [
       "Kansas City Chiefs"
     ],
     "college": [
-      "Wisconsin\u2013La Crosse"
+      "Wisconsin-La Crosse"
     ],
     "numbers": [
       57
@@ -387442,7 +387359,7 @@ export const NFL_PLAYERS = [
       "Philadelphia Eagles"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       66,
@@ -387677,8 +387594,7 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "Pacific",
-      "University of U. of Pacific"
+      "Pacific"
     ],
     "numbers": [],
     "league": "NFL"
@@ -387702,7 +387618,7 @@ export const NFL_PLAYERS = [
     "display_name": "Mike Miano",
     "teams": [],
     "college": [
-      "SW Missouri State"
+      "Missouri State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -387807,8 +387723,8 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Notre Dame",
-      "Southwest Texas State",
-      "Tennessee"
+      "Tennessee",
+      "Texas State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -387837,7 +387753,7 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "Ohio U."
+      "Ohio"
     ],
     "numbers": [
       21,
@@ -387904,7 +387820,7 @@ export const NFL_PLAYERS = [
       "San Diego Chargers"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       94,
@@ -388049,7 +387965,7 @@ export const NFL_PLAYERS = [
       "St. Louis Cardinals"
     ],
     "college": [
-      "Truman State University"
+      "Truman State"
     ],
     "numbers": [
       68
@@ -388161,7 +388077,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Drake",
-      "SW Missouri State"
+      "Missouri State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -388651,7 +388567,6 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Arizona State",
-      "Colorado State (Pueblo)",
       "Colorado State-Pueblo",
       "Scottsdale CC"
     ],
@@ -389131,8 +389046,7 @@ export const NFL_PLAYERS = [
       "Philadelphia Eagles"
     ],
     "college": [
-      "East Stroudsburg",
-      "East Stroudsburg State"
+      "East Stroudsburg"
     ],
     "numbers": [],
     "league": "NFL"
@@ -389703,8 +389617,7 @@ export const NFL_PLAYERS = [
       "Philadelphia Eagles"
     ],
     "college": [
-      "Queen's",
-      "Queens University (Canada)"
+      "Queens"
     ],
     "numbers": [],
     "league": "NFL"
@@ -389990,7 +389903,7 @@ export const NFL_PLAYERS = [
       "Philadelphia Eagles"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -390276,7 +390189,7 @@ export const NFL_PLAYERS = [
     "display_name": "Mike St. Louis",
     "teams": [],
     "college": [
-      "Central Missouri State"
+      "Central Missouri"
     ],
     "numbers": [],
     "league": "NFL"
@@ -390597,7 +390510,7 @@ export const NFL_PLAYERS = [
       "Los Angeles Rams"
     ],
     "college": [
-      "Southern Mississippi"
+      "Southern Miss"
     ],
     "numbers": [
       13,
@@ -391016,7 +390929,6 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "Mississippi",
       "Ole Miss"
     ],
     "numbers": [
@@ -391229,7 +391141,7 @@ export const NFL_PLAYERS = [
       "New York Jets"
     ],
     "college": [
-      "University of South Florida",
+      "South Florida",
       "Western Kentucky"
     ],
     "numbers": [
@@ -391700,7 +391612,7 @@ export const NFL_PLAYERS = [
       "Tennessee Titans"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       52,
@@ -391793,7 +391705,7 @@ export const NFL_PLAYERS = [
     "display_name": "Mike\u00a0Armentrout",
     "teams": [],
     "college": [
-      "Southwest Missouri State"
+      "Missouri State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -392064,7 +391976,7 @@ export const NFL_PLAYERS = [
     "display_name": "Mike\u00a0Kalosh",
     "teams": [],
     "college": [
-      "La Crosse State"
+      "Wisconsin-La Crosse"
     ],
     "numbers": [],
     "league": "NFL"
@@ -392084,7 +391996,7 @@ export const NFL_PLAYERS = [
     "display_name": "Mike\u00a0Lowman",
     "teams": [],
     "college": [
-      "Coffeyville J.C."
+      "Coffeyville CC"
     ],
     "numbers": [],
     "league": "NFL"
@@ -392114,7 +392026,7 @@ export const NFL_PLAYERS = [
     "display_name": "Mike\u00a0Matocha",
     "teams": [],
     "college": [
-      "Texas\u2013Arlington"
+      "Texas-Arlington"
     ],
     "numbers": [],
     "league": "NFL"
@@ -392204,7 +392116,7 @@ export const NFL_PLAYERS = [
     "display_name": "Mike\u00a0Morucci",
     "teams": [],
     "college": [
-      "Bloomsburg State"
+      "Bloomsburg"
     ],
     "numbers": [],
     "league": "NFL"
@@ -392214,7 +392126,7 @@ export const NFL_PLAYERS = [
     "display_name": "Mike\u00a0Nettles",
     "teams": [],
     "college": [
-      "Memphis State"
+      "Memphis"
     ],
     "numbers": [],
     "league": "NFL"
@@ -392274,7 +392186,7 @@ export const NFL_PLAYERS = [
     "display_name": "Mike\u00a0Potchad",
     "teams": [],
     "college": [
-      "Pittsburg (KS)"
+      "Pittsburg State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -392294,7 +392206,7 @@ export const NFL_PLAYERS = [
     "display_name": "Mike\u00a0Revell",
     "teams": [],
     "college": [
-      "Bethune\u2013Cookman"
+      "Bethune-Cookman"
     ],
     "numbers": [],
     "league": "NFL"
@@ -392536,7 +392448,7 @@ export const NFL_PLAYERS = [
       "New England Patriots"
     ],
     "college": [
-      "Mississippi",
+      "Ole Miss",
       "Utah"
     ],
     "numbers": [
@@ -392601,7 +392513,7 @@ export const NFL_PLAYERS = [
       "Detroit Lions"
     ],
     "college": [
-      "Florida International",
+      "FIU",
       "LSU"
     ],
     "numbers": [
@@ -392617,8 +392529,7 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "Southern Utah",
-      "Southern Utah State"
+      "Southern Utah"
     ],
     "numbers": [
       28,
@@ -392744,8 +392655,7 @@ export const NFL_PLAYERS = [
       "New Orleans Saints"
     ],
     "college": [
-      "TCU",
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [
       35,
@@ -392875,7 +392785,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Baylor",
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -392887,7 +392797,7 @@ export const NFL_PLAYERS = [
       "Baltimore Colts"
     ],
     "college": [
-      "Texas\u2013Arlington",
+      "Texas-Arlington",
       "UCLA"
     ],
     "numbers": [],
@@ -393119,7 +393029,7 @@ export const NFL_PLAYERS = [
       "Cincinnati Bengals"
     ],
     "college": [
-      "Miami"
+      "Miami (FL)"
     ],
     "numbers": [],
     "league": "NFL"
@@ -393277,7 +393187,7 @@ export const NFL_PLAYERS = [
     "display_name": "Milton\u00a0Baker",
     "teams": [],
     "college": [
-      "West Texas State"
+      "West Texas A&M"
     ],
     "numbers": [],
     "league": "NFL"
@@ -393307,7 +393217,7 @@ export const NFL_PLAYERS = [
     "display_name": "Milt\u00a0Dropo",
     "teams": [],
     "college": [
-      "Connecticut"
+      "UConn"
     ],
     "numbers": [],
     "league": "NFL"
@@ -393516,7 +393426,7 @@ export const NFL_PLAYERS = [
       "New York Jets"
     ],
     "college": [
-      "Troy State"
+      "Troy"
     ],
     "numbers": [],
     "league": "NFL"
@@ -393657,7 +393567,7 @@ export const NFL_PLAYERS = [
       "Miami Dolphins"
     ],
     "college": [
-      "Brigham Young"
+      "BYU"
     ],
     "numbers": [
       83,
@@ -393837,7 +393747,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Santa Barbara",
+      "UC Santa Barbara",
       "Utah"
     ],
     "numbers": [
@@ -393854,7 +393764,7 @@ export const NFL_PLAYERS = [
     "display_name": "Mitch Zalnasky",
     "teams": [],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -393866,7 +393776,7 @@ export const NFL_PLAYERS = [
       "Detroit Lions"
     ],
     "college": [
-      "Miami",
+      "Miami (FL)",
       "UCLA"
     ],
     "numbers": [
@@ -394199,7 +394109,6 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "VCU",
-      "Virginia Commonwealth",
       "Virginia Commonwealth Univ."
     ],
     "numbers": [
@@ -394864,7 +394773,7 @@ export const NFL_PLAYERS = [
       "Houston Oilers"
     ],
     "college": [
-      "Northwestern State (LA)"
+      "Northwestern State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -395066,7 +394975,6 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "Tennessee-Martin",
       "UT Martin"
     ],
     "numbers": [
@@ -395448,8 +395356,6 @@ export const NFL_PLAYERS = [
       "Los Angeles Rams"
     ],
     "college": [
-      "CSU Pueblo",
-      "Colorado State (Pueblo)",
       "Colorado State-Pueblo"
     ],
     "numbers": [
@@ -395585,7 +395491,7 @@ export const NFL_PLAYERS = [
       "Miami Dolphins"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       52,
@@ -396148,7 +396054,7 @@ export const NFL_PLAYERS = [
     "display_name": "Muhammad Shamsid-Deen",
     "teams": [],
     "college": [
-      "Tennessee-Chattanooga"
+      "Chattanooga"
     ],
     "numbers": [],
     "league": "NFL"
@@ -396258,7 +396164,7 @@ export const NFL_PLAYERS = [
       "Detroit Lions"
     ],
     "college": [
-      "Hardin\u2013Simmons"
+      "Hardin-Simmons"
     ],
     "numbers": [],
     "league": "NFL"
@@ -396603,9 +396509,7 @@ export const NFL_PLAYERS = [
       "Cleveland Browns"
     ],
     "college": [
-      "M",
-      "Texas A&M",
-      "Texas A&amp"
+      "Texas A&M"
     ],
     "numbers": [
       95
@@ -396656,7 +396560,6 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "Mississippi",
       "Ole Miss"
     ],
     "numbers": [
@@ -396789,7 +396692,7 @@ export const NFL_PLAYERS = [
     "display_name": "Myles Strasser",
     "teams": [],
     "college": [
-      "Wisconsin\u2013Oshkosh"
+      "Wisconsin-Oshkosh"
     ],
     "numbers": [],
     "league": "NFL"
@@ -396936,7 +396839,7 @@ export const NFL_PLAYERS = [
       "Minnesota Vikings"
     ],
     "college": [
-      "Alabama-Birmingham"
+      "UAB"
     ],
     "numbers": [
       87
@@ -397361,7 +397264,7 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       48,
@@ -397540,7 +397443,7 @@ export const NFL_PLAYERS = [
       "Los Angeles Chargers"
     ],
     "college": [
-      "Texas State-San Marcos"
+      "Texas State"
     ],
     "numbers": [
       62
@@ -397875,7 +397778,7 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       82
@@ -397889,8 +397792,8 @@ export const NFL_PLAYERS = [
       "Atlanta Falcons"
     ],
     "college": [
-      "Connecticut",
-      "Michigan State"
+      "Michigan State",
+      "UConn"
     ],
     "numbers": [
       38
@@ -397976,7 +397879,7 @@ export const NFL_PLAYERS = [
       "Tennessee Titans"
     ],
     "college": [
-      "North Carolina-Charlotte"
+      "Charlotte"
     ],
     "numbers": [
       64
@@ -398060,7 +397963,7 @@ export const NFL_PLAYERS = [
       "Los Angeles Chargers"
     ],
     "college": [
-      "Central Florida"
+      "UCF"
     ],
     "numbers": [
       43,
@@ -398209,7 +398112,7 @@ export const NFL_PLAYERS = [
       "Houston Oilers"
     ],
     "college": [
-      "Nevada-Las Vegas"
+      "UNLV"
     ],
     "numbers": [],
     "league": "NFL"
@@ -398570,8 +398473,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Mary",
-      "William & Mary",
-      "William &amp"
+      "William & Mary"
     ],
     "numbers": [
       45,
@@ -398892,7 +398794,7 @@ export const NFL_PLAYERS = [
       "Tennessee Titans"
     ],
     "college": [
-      "Grambling State"
+      "Grambling"
     ],
     "numbers": [
       83,
@@ -399086,7 +398988,7 @@ export const NFL_PLAYERS = [
       "Philadelphia Eagles"
     ],
     "college": [
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [
       51,
@@ -399478,7 +399380,7 @@ export const NFL_PLAYERS = [
       "Oakland Raiders"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       2,
@@ -399712,7 +399614,7 @@ export const NFL_PLAYERS = [
     "display_name": "Nathaniel\u00a0Ross",
     "teams": [],
     "college": [
-      "Bethune\u2013Cookman"
+      "Bethune-Cookman"
     ],
     "numbers": [],
     "league": "NFL"
@@ -399777,8 +399679,7 @@ export const NFL_PLAYERS = [
       "Atlanta Falcons"
     ],
     "college": [
-      "Southern Miss",
-      "Southern Mississippi"
+      "Southern Miss"
     ],
     "numbers": [
       35
@@ -400020,7 +399921,7 @@ export const NFL_PLAYERS = [
       "Atlanta Falcons"
     ],
     "college": [
-      "Brigham Young"
+      "BYU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -400518,7 +400419,7 @@ export const NFL_PLAYERS = [
       "Buffalo Bills"
     ],
     "college": [
-      "Brigham Young"
+      "BYU"
     ],
     "numbers": [
       82
@@ -400715,7 +400616,6 @@ export const NFL_PLAYERS = [
       "Philadelphia Eagles"
     ],
     "college": [
-      "Southern California",
       "USC"
     ],
     "numbers": [
@@ -400875,7 +400775,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Arizona State",
-      "Miami"
+      "Miami (FL)"
     ],
     "numbers": [
       60,
@@ -400929,7 +400829,7 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "Central Florida"
+      "UCF"
     ],
     "numbers": [
       33,
@@ -401035,7 +400935,7 @@ export const NFL_PLAYERS = [
     "display_name": "Newt\u00a0Harrell",
     "teams": [],
     "college": [
-      "West Texas State"
+      "West Texas A&M"
     ],
     "numbers": [],
     "league": "NFL"
@@ -401136,7 +401036,7 @@ export const NFL_PLAYERS = [
       "New England Patriots"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       50,
@@ -401373,7 +401273,7 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -401460,7 +401360,6 @@ export const NFL_PLAYERS = [
       "Kansas City Chiefs"
     ],
     "college": [
-      "Mississippi",
       "Ole Miss"
     ],
     "numbers": [
@@ -401503,7 +401402,7 @@ export const NFL_PLAYERS = [
       "New York Jets"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -401638,7 +401537,7 @@ export const NFL_PLAYERS = [
       "Green Bay Packers"
     ],
     "college": [
-      "Bethune\u2013Cookman"
+      "Bethune-Cookman"
     ],
     "numbers": [
       36
@@ -402055,7 +401954,7 @@ export const NFL_PLAYERS = [
       "Carolina Panthers"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       36,
@@ -402116,7 +402015,7 @@ export const NFL_PLAYERS = [
       "Green Bay Packers"
     ],
     "college": [
-      "St. Thomas, Minn."
+      "St. Thomas (MN)"
     ],
     "numbers": [
       85,
@@ -402544,7 +402443,7 @@ export const NFL_PLAYERS = [
     "display_name": "Nick Maravich",
     "teams": [],
     "college": [
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -402640,7 +402539,7 @@ export const NFL_PLAYERS = [
     "display_name": "Nick McGarry",
     "teams": [],
     "college": [
-      "Massachusetts"
+      "UMass"
     ],
     "numbers": [],
     "league": "NFL"
@@ -402784,8 +402683,7 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "Southern Miss",
-      "Southern Mississippi"
+      "Southern Miss"
     ],
     "numbers": [
       4,
@@ -402958,7 +402856,7 @@ export const NFL_PLAYERS = [
       "Chicago Bears"
     ],
     "college": [
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [
       46
@@ -403493,7 +403391,7 @@ export const NFL_PLAYERS = [
       "New England Patriots"
     ],
     "college": [
-      "Texas-El Paso"
+      "UTEP"
     ],
     "numbers": [
       59,
@@ -403626,7 +403524,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Connecticut"
+      "UConn"
     ],
     "numbers": [
       1,
@@ -403667,7 +403565,7 @@ export const NFL_PLAYERS = [
       "Denver Broncos"
     ],
     "college": [
-      "Nevada-Las Vegas"
+      "UNLV"
     ],
     "numbers": [
       15,
@@ -403701,7 +403599,7 @@ export const NFL_PLAYERS = [
       "Philadelphia Eagles"
     ],
     "college": [
-      "Southern California"
+      "USC"
     ],
     "numbers": [
       1,
@@ -403720,7 +403618,6 @@ export const NFL_PLAYERS = [
       "Los Angeles Rams"
     ],
     "college": [
-      "Southern California",
       "USC"
     ],
     "numbers": [
@@ -403850,7 +403747,7 @@ export const NFL_PLAYERS = [
       "Las Vegas Raiders"
     ],
     "college": [
-      "Southern California"
+      "USC"
     ],
     "numbers": [
       74
@@ -404083,7 +403980,6 @@ export const NFL_PLAYERS = [
       "New York Jets"
     ],
     "college": [
-      "Texas-El Paso",
       "UTEP"
     ],
     "numbers": [
@@ -404342,9 +404238,7 @@ export const NFL_PLAYERS = [
       "Baltimore Ravens"
     ],
     "college": [
-      "M",
-      "Texas A&M",
-      "Texas A&amp"
+      "Texas A&M"
     ],
     "numbers": [
       92
@@ -404639,7 +404533,7 @@ export const NFL_PLAYERS = [
       "New England Patriots"
     ],
     "college": [
-      "Southwest Texas State"
+      "Texas State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -404693,7 +404587,7 @@ export const NFL_PLAYERS = [
       "Detroit Lions"
     ],
     "college": [
-      "Connecticut"
+      "UConn"
     ],
     "numbers": [
       12
@@ -404705,7 +404599,7 @@ export const NFL_PLAYERS = [
     "display_name": "Noel\u00a0Cudd",
     "teams": [],
     "college": [
-      "West Texas State"
+      "West Texas A&M"
     ],
     "numbers": [],
     "league": "NFL"
@@ -404751,7 +404645,7 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       15,
@@ -405284,7 +405178,7 @@ export const NFL_PLAYERS = [
     "display_name": "Norm Michael",
     "teams": [],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -405324,7 +405218,7 @@ export const NFL_PLAYERS = [
     "display_name": "Norm Roberts",
     "teams": [],
     "college": [
-      "East Texas State"
+      "East Texas A&M"
     ],
     "numbers": [],
     "league": "NFL"
@@ -405531,7 +405425,7 @@ export const NFL_PLAYERS = [
       "Jacksonville Jaguars"
     ],
     "college": [
-      "Southern Mississippi"
+      "Southern Miss"
     ],
     "numbers": [
       63,
@@ -405575,7 +405469,7 @@ export const NFL_PLAYERS = [
     "display_name": "Norm\u00a0Schoen",
     "teams": [],
     "college": [
-      "Baldwin\u2013Wallace"
+      "Baldwin Wallace"
     ],
     "numbers": [],
     "league": "NFL"
@@ -405784,9 +405678,7 @@ export const NFL_PLAYERS = [
       "New Orleans Saints"
     ],
     "college": [
-      "N.C. State",
-      "NC State",
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [
       19,
@@ -406105,7 +405997,8 @@ export const NFL_PLAYERS = [
     "display_name": "Oakland traded a second-round selection to Houston in exchange for 2003 third- and seventh-round selections. Houston then forfeited the pick by selecting RB Tony Hollings in the 2003 supplemental draft",
     "teams": [],
     "college": [
-      "Oakland traded a second-round selection to Houston in exchange for 2003 third- and seventh-round selections. Houston then forfeited the pick by selecting RB Tony Hollings in the 2003 supplemental draft"
+      "Oakland traded a second-round selection to Houston in exchange for 2003 third-",
+      "seventh-round selections. Houston then forfeited the pick by selecting RB Tony Hollings in the 2003 supplemental draft"
     ],
     "numbers": [],
     "league": "NFL"
@@ -406186,7 +406079,6 @@ export const NFL_PLAYERS = [
       "Philadelphia Eagles"
     ],
     "college": [
-      "Connecticut",
       "UConn"
     ],
     "numbers": [
@@ -406237,8 +406129,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Memphis",
-      "TCU",
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [
       62,
@@ -406506,8 +406397,7 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "Northwestern State",
-      "Northwestern State (LA)"
+      "Northwestern State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -406685,7 +406575,7 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "Southern California"
+      "USC"
     ],
     "numbers": [
       35,
@@ -406846,7 +406736,7 @@ export const NFL_PLAYERS = [
       "San Diego Chargers"
     ],
     "college": [
-      "Memphis State",
+      "Memphis",
       "Rice"
     ],
     "numbers": [],
@@ -406899,7 +406789,7 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       2,
@@ -407148,7 +407038,6 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "Miami",
       "Miami (FL)"
     ],
     "numbers": [
@@ -407358,7 +407247,7 @@ export const NFL_PLAYERS = [
       "Oakland Raiders"
     ],
     "college": [
-      "Miami"
+      "Miami (FL)"
     ],
     "numbers": [
       72,
@@ -408156,8 +408045,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Miami (FL)",
-      "Miami (Fla.)"
+      "Miami (FL)"
     ],
     "numbers": [
       74
@@ -408246,7 +408134,7 @@ export const NFL_PLAYERS = [
       "New York Jets"
     ],
     "college": [
-      "Troy State"
+      "Troy"
     ],
     "numbers": [],
     "league": "NFL"
@@ -408294,7 +408182,7 @@ export const NFL_PLAYERS = [
       "Minnesota Vikings"
     ],
     "college": [
-      "Southwestern Louisiana"
+      "Louisiana-Lafayette"
     ],
     "numbers": [
       42,
@@ -408377,7 +408265,7 @@ export const NFL_PLAYERS = [
       "Miami Dolphins"
     ],
     "college": [
-      "Winston\u2013Salem State"
+      "Winston-Salem State"
     ],
     "numbers": [
       86
@@ -408391,7 +408279,7 @@ export const NFL_PLAYERS = [
       "Los Angeles Chargers"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       86
@@ -408603,7 +408491,7 @@ export const NFL_PLAYERS = [
       "Minnesota Vikings"
     ],
     "college": [
-      "San Jos\u00e9 State"
+      "San Jose State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -408824,7 +408712,7 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "Troy State"
+      "Troy"
     ],
     "numbers": [
       50,
@@ -408901,8 +408789,7 @@ export const NFL_PLAYERS = [
       "Baltimore Ravens"
     ],
     "college": [
-      "M",
-      "Texas A&amp"
+      "Texas A&M"
     ],
     "numbers": [
       50,
@@ -408991,7 +408878,7 @@ export const NFL_PLAYERS = [
       "Los Angeles Rams"
     ],
     "college": [
-      "Central Florida"
+      "UCF"
     ],
     "numbers": [
       44
@@ -409112,7 +408999,7 @@ export const NFL_PLAYERS = [
       "Tennessee Titans"
     ],
     "college": [
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [
       40,
@@ -409263,7 +409150,6 @@ export const NFL_PLAYERS = [
       "St. Louis Cardinals"
     ],
     "college": [
-      "Miami",
       "Miami (FL)"
     ],
     "numbers": [
@@ -409304,7 +409190,7 @@ export const NFL_PLAYERS = [
     "display_name": "Otto Haldy",
     "teams": [],
     "college": [
-      "Mankato State"
+      "Minnesota State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -409550,7 +409436,7 @@ export const NFL_PLAYERS = [
       "Cleveland Browns"
     ],
     "college": [
-      "Hardin\u2013Simmons"
+      "Hardin-Simmons"
     ],
     "numbers": [],
     "league": "NFL"
@@ -409643,7 +409529,7 @@ export const NFL_PLAYERS = [
     "display_name": "Owen Price",
     "teams": [],
     "college": [
-      "Texas Western"
+      "UTEP"
     ],
     "numbers": [],
     "league": "NFL"
@@ -409812,7 +409698,7 @@ export const NFL_PLAYERS = [
     "display_name": "P. K. Rogers",
     "teams": [],
     "college": [
-      "East Texas State"
+      "East Texas A&M"
     ],
     "numbers": [],
     "league": "NFL"
@@ -409836,7 +409722,7 @@ export const NFL_PLAYERS = [
       "New Orleans Saints"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       64,
@@ -409880,7 +409766,7 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [
       47
@@ -410084,7 +409970,7 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "Northwestern State-Louisiana"
+      "Northwestern State"
     ],
     "numbers": [
       70,
@@ -410193,7 +410079,7 @@ export const NFL_PLAYERS = [
       "Philadelphia Eagles"
     ],
     "college": [
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -410241,7 +410127,7 @@ export const NFL_PLAYERS = [
       "Tennessee Titans"
     ],
     "college": [
-      "Ohio U."
+      "Ohio"
     ],
     "numbers": [
       80
@@ -410601,7 +410487,7 @@ export const NFL_PLAYERS = [
       "St. Louis Rams"
     ],
     "college": [
-      "Texas A&M\u2013Kingsville"
+      "Texas A&M-Kingsville"
     ],
     "numbers": [
       52
@@ -410731,7 +410617,7 @@ export const NFL_PLAYERS = [
       "Detroit Lions"
     ],
     "college": [
-      "Hardin\u2013Simmons"
+      "Hardin-Simmons"
     ],
     "numbers": [],
     "league": "NFL"
@@ -410926,7 +410812,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Louisiana\u2013Monroe"
+      "Louisiana-Monroe"
     ],
     "numbers": [
       22,
@@ -411160,7 +411046,7 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "Southwest Texas State"
+      "Texas State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -411186,7 +411072,7 @@ export const NFL_PLAYERS = [
       "Philadelphia Eagles"
     ],
     "college": [
-      "Lamar University"
+      "Lamar"
     ],
     "numbers": [],
     "league": "NFL"
@@ -411390,8 +411276,8 @@ export const NFL_PLAYERS = [
       "New York Jets"
     ],
     "college": [
-      "Richmond",
-      "Syracuse"
+      "Rich Manning",
+      "Richmond"
     ],
     "numbers": [],
     "league": "NFL"
@@ -411413,7 +411299,7 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -411460,8 +411346,7 @@ export const NFL_PLAYERS = [
       "New York Jets"
     ],
     "college": [
-      "Saint Louis",
-      "Saint Louis University"
+      "St. Louis"
     ],
     "numbers": [],
     "league": "NFL"
@@ -411694,7 +411579,6 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Cincinnati",
-      "Miami",
       "Miami (FL)"
     ],
     "numbers": [
@@ -411728,7 +411612,7 @@ export const NFL_PLAYERS = [
       "New York Jets"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -411997,7 +411881,7 @@ export const NFL_PLAYERS = [
     "display_name": "Pat Stark",
     "teams": [],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -412087,7 +411971,7 @@ export const NFL_PLAYERS = [
     "display_name": "Pat Talbert",
     "teams": [],
     "college": [
-      "Southwest Missouri State"
+      "Missouri State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -412653,8 +412537,7 @@ export const NFL_PLAYERS = [
       "Minnesota Vikings"
     ],
     "college": [
-      "Pitt",
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       91,
@@ -412670,7 +412553,7 @@ export const NFL_PLAYERS = [
       "Minnesota Vikings"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       91,
@@ -412848,7 +412731,7 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [
       50,
@@ -413167,7 +413050,7 @@ export const NFL_PLAYERS = [
       "Miami Dolphins"
     ],
     "college": [
-      "Southern Mississippi"
+      "Southern Miss"
     ],
     "numbers": [
       23
@@ -413339,7 +413222,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Southwestern Louisiana"
+      "Louisiana-Lafayette"
     ],
     "numbers": [
       58
@@ -413411,7 +413294,7 @@ export const NFL_PLAYERS = [
     "display_name": "Pat\u00a0Davis",
     "teams": [],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -413421,7 +413304,7 @@ export const NFL_PLAYERS = [
     "display_name": "Pat\u00a0Del Vicaro",
     "teams": [],
     "college": [
-      "Mississippi Southern"
+      "Southern Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -413521,7 +413404,7 @@ export const NFL_PLAYERS = [
     "display_name": "Paul \"Swifty\" Berthold",
     "teams": [],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -413531,7 +413414,7 @@ export const NFL_PLAYERS = [
     "display_name": "Paul \"Tank\" Younger",
     "teams": [],
     "college": [
-      "Grambling State"
+      "Grambling"
     ],
     "numbers": [],
     "league": "NFL"
@@ -413567,7 +413450,7 @@ export const NFL_PLAYERS = [
     "display_name": "Paul Balonick",
     "teams": [],
     "college": [
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -413635,7 +413518,7 @@ export const NFL_PLAYERS = [
     "display_name": "Paul Blanda",
     "teams": [],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -413684,7 +413567,7 @@ export const NFL_PLAYERS = [
     "display_name": "Paul Bradley",
     "teams": [],
     "college": [
-      "Southern Methodist"
+      "SMU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -413861,7 +413744,7 @@ export const NFL_PLAYERS = [
     "display_name": "Paul Cercel",
     "teams": [],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -414002,7 +413885,7 @@ export const NFL_PLAYERS = [
       "New York Jets"
     ],
     "college": [
-      "Southwest Texas State"
+      "Texas State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -414040,8 +413923,7 @@ export const NFL_PLAYERS = [
       "Cincinnati Bengals"
     ],
     "college": [
-      "TCU",
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [
       47
@@ -414114,7 +413996,7 @@ export const NFL_PLAYERS = [
     "display_name": "Paul Dongieux",
     "teams": [],
     "college": [
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -414429,7 +414311,7 @@ export const NFL_PLAYERS = [
       "New York Jets"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       91,
@@ -414720,7 +414602,7 @@ export const NFL_PLAYERS = [
     "display_name": "Paul Hodge",
     "teams": [],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -415275,7 +415157,7 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -415352,7 +415234,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -415407,7 +415289,7 @@ export const NFL_PLAYERS = [
     "display_name": "Paul Metallo",
     "teams": [],
     "college": [
-      "Massachusetts"
+      "UMass"
     ],
     "numbers": [],
     "league": "NFL"
@@ -415590,7 +415472,7 @@ export const NFL_PLAYERS = [
     "display_name": "Paul Odom",
     "teams": [],
     "college": [
-      "Rollins"
+      "Rollins College"
     ],
     "numbers": [],
     "league": "NFL"
@@ -416706,7 +416588,7 @@ export const NFL_PLAYERS = [
     "display_name": "Paul\u00a0Alsbury",
     "teams": [],
     "college": [
-      "Southwest Texas State"
+      "Texas State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -416746,7 +416628,7 @@ export const NFL_PLAYERS = [
     "display_name": "Paul\u00a0Duckworth",
     "teams": [],
     "college": [
-      "Connecticut"
+      "UConn"
     ],
     "numbers": [],
     "league": "NFL"
@@ -416806,7 +416688,7 @@ export const NFL_PLAYERS = [
     "display_name": "Paul\u00a0Hausser",
     "teams": [],
     "college": [
-      "Wichita"
+      "Wichita State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -417054,9 +416936,7 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "N.C. State",
-      "NC State",
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [
       41
@@ -417129,7 +417009,7 @@ export const NFL_PLAYERS = [
     "display_name": "Peil Pennington",
     "teams": [],
     "college": [
-      "Massachusetts"
+      "UMass"
     ],
     "numbers": [],
     "league": "NFL"
@@ -417169,7 +417049,7 @@ export const NFL_PLAYERS = [
     "display_name": "Pence Dacus",
     "teams": [],
     "college": [
-      "Southwest Texas State"
+      "Texas State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -417443,7 +417323,7 @@ export const NFL_PLAYERS = [
       "Philadelphia Eagles"
     ],
     "college": [
-      "Alabama-Birmingham"
+      "UAB"
     ],
     "numbers": [
       93
@@ -417477,7 +417357,7 @@ export const NFL_PLAYERS = [
       "New York Jets"
     ],
     "college": [
-      "Iowa Western CC",
+      "Iowa Western",
       "Oklahoma"
     ],
     "numbers": [
@@ -417527,7 +417407,7 @@ export const NFL_PLAYERS = [
       "Oakland Raiders"
     ],
     "college": [
-      "Southern Mississippi"
+      "Southern Miss"
     ],
     "numbers": [
       20
@@ -417561,7 +417441,7 @@ export const NFL_PLAYERS = [
       "Baltimore Colts"
     ],
     "college": [
-      "Troy State"
+      "Troy"
     ],
     "numbers": [],
     "league": "NFL"
@@ -417609,7 +417489,7 @@ export const NFL_PLAYERS = [
       "Chicago Bears"
     ],
     "college": [
-      "Cal Poly-San Luis Obispo"
+      "Cal Poly"
     ],
     "numbers": [],
     "league": "NFL"
@@ -417634,7 +417514,7 @@ export const NFL_PLAYERS = [
       "Atlanta Falcons"
     ],
     "college": [
-      "C.W. Post"
+      "LIU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -417648,7 +417528,7 @@ export const NFL_PLAYERS = [
       "Dallas Cowboys"
     ],
     "college": [
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -417814,7 +417694,7 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "N.C. State"
+      "NC State"
     ],
     "numbers": [
       23
@@ -418058,7 +417938,7 @@ export const NFL_PLAYERS = [
     "display_name": "Pete Brokaw",
     "teams": [],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -418384,7 +418264,7 @@ export const NFL_PLAYERS = [
       "New York Titans"
     ],
     "college": [
-      "Hardin\u2013Simmons"
+      "Hardin-Simmons"
     ],
     "numbers": [],
     "league": "NFL"
@@ -418509,7 +418389,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Ohio State",
-      "Virginia Military Inst"
+      "VMI"
     ],
     "numbers": [],
     "league": "NFL"
@@ -419806,7 +419686,7 @@ export const NFL_PLAYERS = [
     "display_name": "Pete\u00a0Lanzi",
     "teams": [],
     "college": [
-      "Youngstown"
+      "Youngstown State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -419816,7 +419696,7 @@ export const NFL_PLAYERS = [
     "display_name": "Pete\u00a0Lucas",
     "teams": [],
     "college": [
-      "Wisconsin\u2013Stevens Point"
+      "Wisconsin-Stevens Point"
     ],
     "numbers": [],
     "league": "NFL"
@@ -419826,7 +419706,7 @@ export const NFL_PLAYERS = [
     "display_name": "Pete\u00a0Neft",
     "teams": [],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -419846,7 +419726,7 @@ export const NFL_PLAYERS = [
     "display_name": "Pete\u00a0Pallara",
     "teams": [],
     "college": [
-      "Tennessee-Chattanooga"
+      "Chattanooga"
     ],
     "numbers": [],
     "league": "NFL"
@@ -420053,7 +419933,7 @@ export const NFL_PLAYERS = [
       "Jacksonville Jaguars"
     ],
     "college": [
-      "Florida International"
+      "FIU"
     ],
     "numbers": [
       84,
@@ -420354,7 +420234,7 @@ export const NFL_PLAYERS = [
     "display_name": "Phil Creel",
     "teams": [],
     "college": [
-      "Northwestern State (LA)"
+      "Northwestern State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -420472,7 +420352,7 @@ export const NFL_PLAYERS = [
       "New York Jets"
     ],
     "college": [
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -420882,7 +420762,7 @@ export const NFL_PLAYERS = [
       "Detroit Lions"
     ],
     "college": [
-      "Brigham Young"
+      "BYU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -421055,8 +420935,7 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "Morehead State",
-      "Morehead State University"
+      "Morehead State"
     ],
     "numbers": [
       11
@@ -421235,7 +421114,7 @@ export const NFL_PLAYERS = [
       "New Orleans Saints"
     ],
     "college": [
-      "Massachusetts"
+      "UMass"
     ],
     "numbers": [],
     "league": "NFL"
@@ -421292,7 +421171,7 @@ export const NFL_PLAYERS = [
       "New York Jets"
     ],
     "college": [
-      "Nebraska\u2013Omaha"
+      "Nebraska-Omaha"
     ],
     "numbers": [],
     "league": "NFL"
@@ -421358,9 +421237,7 @@ export const NFL_PLAYERS = [
       "San Diego Chargers"
     ],
     "college": [
-      "N.C. State",
-      "NC State",
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [
       17
@@ -421519,7 +421396,6 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "Miami",
       "Miami (FL)"
     ],
     "numbers": [
@@ -421865,7 +421741,7 @@ export const NFL_PLAYERS = [
     "display_name": "Phil\u00a0Driscoll",
     "teams": [],
     "college": [
-      "Mankato State"
+      "Minnesota State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -421948,7 +421824,7 @@ export const NFL_PLAYERS = [
       "Indianapolis Colts"
     ],
     "college": [
-      "Southern Mississippi"
+      "Southern Miss"
     ],
     "numbers": [
       35,
@@ -422364,7 +422240,7 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [
       49
@@ -422467,7 +422343,6 @@ export const NFL_PLAYERS = [
       "Miami Dolphins"
     ],
     "college": [
-      "Southern California",
       "USC"
     ],
     "numbers": [
@@ -422573,7 +422448,7 @@ export const NFL_PLAYERS = [
       "Tennessee Titans"
     ],
     "college": [
-      "Troy State"
+      "Troy"
     ],
     "numbers": [
       98
@@ -422742,7 +422617,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Arkansas",
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -422901,7 +422776,7 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "Memphis State"
+      "Memphis"
     ],
     "numbers": [],
     "league": "NFL"
@@ -423049,7 +422924,7 @@ export const NFL_PLAYERS = [
       "New Orleans Saints"
     ],
     "college": [
-      "Pennsylvania"
+      "Penn"
     ],
     "numbers": [
       57,
@@ -423136,7 +423011,6 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Florida",
-      "Mississippi",
       "Ole Miss"
     ],
     "numbers": [
@@ -423261,7 +423135,6 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "BYU",
-      "Brigham Young",
       "Washington"
     ],
     "numbers": [
@@ -423287,7 +423160,7 @@ export const NFL_PLAYERS = [
     "display_name": "Pumpy\u00a0Tudors",
     "teams": [],
     "college": [
-      "Tennessee-Chattanooga"
+      "Chattanooga"
     ],
     "numbers": [],
     "league": "NFL"
@@ -423307,7 +423180,7 @@ export const NFL_PLAYERS = [
     "display_name": "Punkin\u00a0Williams",
     "teams": [],
     "college": [
-      "Memphis State"
+      "Memphis"
     ],
     "numbers": [],
     "league": "NFL"
@@ -423365,7 +423238,7 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       30,
@@ -423384,7 +423257,7 @@ export const NFL_PLAYERS = [
       "New Orleans Saints"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       82,
@@ -423416,7 +423289,7 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       15,
@@ -423567,8 +423440,7 @@ export const NFL_PLAYERS = [
       "Minnesota Vikings"
     ],
     "college": [
-      "M",
-      "Texas A&amp"
+      "Texas A&M"
     ],
     "numbers": [
       5,
@@ -423728,7 +423600,7 @@ export const NFL_PLAYERS = [
       "Denver Broncos"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       29,
@@ -423758,8 +423630,7 @@ export const NFL_PLAYERS = [
       "Los Angeles Chargers"
     ],
     "college": [
-      "TCU",
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [
       1
@@ -423969,8 +423840,7 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "Southern Miss",
-      "Southern Mississippi"
+      "Southern Miss"
     ],
     "numbers": [
       16,
@@ -424004,7 +423874,7 @@ export const NFL_PLAYERS = [
       "New England Patriots"
     ],
     "college": [
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [
       10,
@@ -424021,7 +423891,7 @@ export const NFL_PLAYERS = [
       "Cleveland Browns"
     ],
     "college": [
-      "North Texas State"
+      "North Texas"
     ],
     "numbers": [],
     "league": "NFL"
@@ -424167,7 +424037,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Louisville",
-      "Middle Tennessee State"
+      "Middle Tennessee"
     ],
     "numbers": [
       29
@@ -424182,7 +424052,6 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "Miami",
       "Miami (FL)"
     ],
     "numbers": [
@@ -424402,8 +424271,7 @@ export const NFL_PLAYERS = [
       "Denver Broncos"
     ],
     "college": [
-      "Wisconsin-Whitewater",
-      "Wisconsin\u2013Whitewater"
+      "Wisconsin-Whitewater"
     ],
     "numbers": [
       77
@@ -424435,7 +424303,7 @@ export const NFL_PLAYERS = [
       "St. Louis Rams"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       69,
@@ -424532,8 +424400,8 @@ export const NFL_PLAYERS = [
       "Cleveland Browns"
     ],
     "college": [
-      "Mississippi",
-      "Ohio State"
+      "Ohio State",
+      "Ole Miss"
     ],
     "numbers": [
       10
@@ -424578,8 +424446,7 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "Miami (OH)",
-      "Miami (Ohio)"
+      "Miami (OH)"
     ],
     "numbers": [
       23,
@@ -424632,7 +424499,6 @@ export const NFL_PLAYERS = [
       "Philadelphia Eagles"
     ],
     "college": [
-      "Texas-El Paso",
       "UTEP"
     ],
     "numbers": [
@@ -424650,7 +424516,7 @@ export const NFL_PLAYERS = [
       "Houston Oilers"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -424731,7 +424597,6 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "Prairie View",
       "Prairie View A&M"
     ],
     "numbers": [
@@ -425144,7 +425009,7 @@ export const NFL_PLAYERS = [
     "display_name": "R. C.\u00a0Mullin",
     "teams": [],
     "college": [
-      "Southwestern Louisiana"
+      "Louisiana-Lafayette"
     ],
     "numbers": [],
     "league": "NFL"
@@ -425292,7 +425157,6 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "Miami",
       "Miami (FL)"
     ],
     "numbers": [
@@ -425504,7 +425368,7 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "Southern University"
+      "Southern"
     ],
     "numbers": [
       87,
@@ -425588,8 +425452,8 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Arizona State",
-      "Kearney State",
-      "Mt. San Antonio"
+      "Mt. San Antonio",
+      "Nebraska-Kearney"
     ],
     "numbers": [
       1,
@@ -425760,7 +425624,7 @@ export const NFL_PLAYERS = [
     "display_name": "Rafael Septi\u00e9n",
     "teams": [],
     "college": [
-      "Southwestern Louisiana"
+      "Louisiana-Lafayette"
     ],
     "numbers": [],
     "league": "NFL"
@@ -425999,8 +425863,7 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "Southern Miss",
-      "Southern Mississippi"
+      "Southern Miss"
     ],
     "numbers": [
       56,
@@ -426118,7 +425981,7 @@ export const NFL_PLAYERS = [
     "display_name": "Ralph \"Catfish\" Smith",
     "teams": [],
     "college": [
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -426304,7 +426167,7 @@ export const NFL_PLAYERS = [
       "New England Patriots"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -426525,7 +426388,7 @@ export const NFL_PLAYERS = [
       "Philadelphia Eagles"
     ],
     "college": [
-      "Youngstown"
+      "Youngstown State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -426570,7 +426433,7 @@ export const NFL_PLAYERS = [
     "display_name": "Ralph Hammond",
     "teams": [],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -426713,7 +426576,7 @@ export const NFL_PLAYERS = [
     "display_name": "Ralph Jelic",
     "teams": [],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -427080,7 +426943,7 @@ export const NFL_PLAYERS = [
     "display_name": "Ralph Reynolds",
     "teams": [],
     "college": [
-      "North Texas State"
+      "North Texas"
     ],
     "numbers": [],
     "league": "NFL"
@@ -427487,7 +427350,7 @@ export const NFL_PLAYERS = [
     "display_name": "Ralph\u00a0Warthen",
     "teams": [],
     "college": [
-      "Gardner\u2013Webb"
+      "Gardner-Webb"
     ],
     "numbers": [],
     "league": "NFL"
@@ -427573,7 +427436,7 @@ export const NFL_PLAYERS = [
     "display_name": "Ramon Armstrong",
     "teams": [],
     "college": [
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -427611,7 +427474,7 @@ export const NFL_PLAYERS = [
       "Baltimore Ravens"
     ],
     "college": [
-      "Morehouse"
+      "Morehouse College"
     ],
     "numbers": [
       70
@@ -427685,7 +427548,7 @@ export const NFL_PLAYERS = [
       "Houston Texans"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       22,
@@ -427996,7 +427859,6 @@ export const NFL_PLAYERS = [
       "Cleveland Browns"
     ],
     "college": [
-      "Southern California",
       "USC"
     ],
     "numbers": [
@@ -428012,7 +427874,7 @@ export const NFL_PLAYERS = [
       "New York Jets"
     ],
     "college": [
-      "Florida Atlantic"
+      "FAU"
     ],
     "numbers": [
       49,
@@ -428025,7 +427887,7 @@ export const NFL_PLAYERS = [
     "display_name": "Randell\u00a0Webster",
     "teams": [],
     "college": [
-      "Southwestern Oklahoma State"
+      "Southwestern Oklahoma"
     ],
     "numbers": [],
     "league": "NFL"
@@ -428084,7 +427946,7 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [
       23
@@ -428140,9 +428002,7 @@ export const NFL_PLAYERS = [
       "Tennessee Titans"
     ],
     "college": [
-      "M",
-      "Texas A&M",
-      "Texas A&amp"
+      "Texas A&M"
     ],
     "numbers": [
       4,
@@ -428179,7 +428039,7 @@ export const NFL_PLAYERS = [
     "display_name": "Randy Butts",
     "teams": [],
     "college": [
-      "Kearney State"
+      "Nebraska-Kearney"
     ],
     "numbers": [],
     "league": "NFL"
@@ -428259,7 +428119,7 @@ export const NFL_PLAYERS = [
     "display_name": "Randy Cozens",
     "teams": [],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -428320,7 +428180,7 @@ export const NFL_PLAYERS = [
       "Indianapolis Colts"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -428542,7 +428402,7 @@ export const NFL_PLAYERS = [
       "St. Louis Cardinals"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -428566,7 +428426,7 @@ export const NFL_PLAYERS = [
       "Baltimore Ravens"
     ],
     "college": [
-      "Grambling State"
+      "Grambling"
     ],
     "numbers": [
       80,
@@ -428602,7 +428462,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Georgia",
-      "Texas A&I"
+      "Texas A&M-Kingsville"
     ],
     "numbers": [],
     "league": "NFL"
@@ -428744,7 +428604,7 @@ export const NFL_PLAYERS = [
       "Oakland Raiders"
     ],
     "college": [
-      "Southwestern Louisiana"
+      "Louisiana-Lafayette"
     ],
     "numbers": [],
     "league": "NFL"
@@ -428784,7 +428644,7 @@ export const NFL_PLAYERS = [
       "Indianapolis Colts"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -428877,7 +428737,7 @@ export const NFL_PLAYERS = [
       "Cleveland Browns"
     ],
     "college": [
-      "Texas A&M\u2013Kingsville"
+      "Texas A&M-Kingsville"
     ],
     "numbers": [
       89
@@ -428944,7 +428804,7 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "Kearney (Neb.)"
+      "Nebraska-Kearney"
     ],
     "numbers": [],
     "league": "NFL"
@@ -428966,7 +428826,7 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -429092,7 +428952,7 @@ export const NFL_PLAYERS = [
     "display_name": "Randy Smith",
     "teams": [],
     "college": [
-      "East Texas State"
+      "East Texas A&M"
     ],
     "numbers": [],
     "league": "NFL"
@@ -429182,7 +429042,7 @@ export const NFL_PLAYERS = [
       "Green Bay Packers"
     ],
     "college": [
-      "Bethune\u2013Cookman",
+      "Bethune-Cookman",
       "Miami (OH)",
       "Northwestern State"
     ],
@@ -429309,7 +429169,7 @@ export const NFL_PLAYERS = [
     "display_name": "Randy\u00a0Bielski",
     "teams": [],
     "college": [
-      "Towson State"
+      "Towson"
     ],
     "numbers": [],
     "league": "NFL"
@@ -429394,7 +429254,7 @@ export const NFL_PLAYERS = [
       "Cleveland Browns"
     ],
     "college": [
-      "Central Florida"
+      "UCF"
     ],
     "numbers": [
       16,
@@ -429429,7 +429289,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [
       32
@@ -429516,7 +429376,7 @@ export const NFL_PLAYERS = [
     "display_name": "Rapier\u00a0Porter",
     "teams": [],
     "college": [
-      "Arkansas\u2013Pine Bluff"
+      "Arkansas-Pine Bluff"
     ],
     "numbers": [],
     "league": "NFL"
@@ -429926,7 +429786,7 @@ export const NFL_PLAYERS = [
       "Philadelphia Eagles"
     ],
     "college": [
-      "Florida Atlantic"
+      "FAU"
     ],
     "numbers": [
       53,
@@ -429972,7 +429832,7 @@ export const NFL_PLAYERS = [
       "Tennessee Titans"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       51,
@@ -429988,7 +429848,7 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "Texas-San Antonio"
+      "UTSA"
     ],
     "numbers": [
       38
@@ -430031,7 +429891,7 @@ export const NFL_PLAYERS = [
       "Miami Dolphins"
     ],
     "college": [
-      "Central Florida"
+      "UCF"
     ],
     "numbers": [
       1
@@ -430201,8 +430061,7 @@ export const NFL_PLAYERS = [
       "Miami Dolphins"
     ],
     "college": [
-      "Miami (FL)",
-      "Miami (Fla.)"
+      "Miami (FL)"
     ],
     "numbers": [
       87
@@ -430231,8 +430090,7 @@ export const NFL_PLAYERS = [
       "Jacksonville Jaguars"
     ],
     "college": [
-      "Bethune-Cookman",
-      "Bethune\u2013Cookman"
+      "Bethune-Cookman"
     ],
     "numbers": [
       27,
@@ -430247,8 +430105,7 @@ export const NFL_PLAYERS = [
       "Kansas City Chiefs"
     ],
     "college": [
-      "SMU",
-      "Southern Methodist"
+      "SMU"
     ],
     "numbers": [
       4
@@ -430308,7 +430165,6 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "Southern California",
       "USC"
     ],
     "numbers": [
@@ -430430,8 +430286,7 @@ export const NFL_PLAYERS = [
       "Minnesota Vikings"
     ],
     "college": [
-      "Southern Miss",
-      "Southern Mississippi"
+      "Southern Miss"
     ],
     "numbers": [
       69
@@ -431326,7 +431181,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Kansas",
-      "Texas Western"
+      "UTEP"
     ],
     "numbers": [],
     "league": "NFL"
@@ -431442,7 +431297,7 @@ export const NFL_PLAYERS = [
     "display_name": "Ray Garganes",
     "teams": [],
     "college": [
-      "Millersville (PA)"
+      "Millersville"
     ],
     "numbers": [],
     "league": "NFL"
@@ -431577,7 +431432,7 @@ export const NFL_PLAYERS = [
       "Jacksonville Jaguars"
     ],
     "college": [
-      "Cal Poly-San Luis Obispo"
+      "Cal Poly"
     ],
     "numbers": [],
     "league": "NFL"
@@ -431663,7 +431518,7 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "Texas A&I"
+      "Texas A&M-Kingsville"
     ],
     "numbers": [],
     "league": "NFL"
@@ -432101,7 +431956,7 @@ export const NFL_PLAYERS = [
     "display_name": "Ray Masters",
     "teams": [],
     "college": [
-      "Southern Methodist"
+      "SMU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -432138,7 +431993,7 @@ export const NFL_PLAYERS = [
     "display_name": "Ray McCown",
     "teams": [],
     "college": [
-      "West Texas State"
+      "West Texas A&M"
     ],
     "numbers": [],
     "league": "NFL"
@@ -432496,7 +432351,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Alabama",
-      "Syracuse",
+      "Rich Manning",
       "Virginia"
     ],
     "numbers": [
@@ -432603,7 +432458,7 @@ export const NFL_PLAYERS = [
     "display_name": "Ray Popp",
     "teams": [],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -432625,7 +432480,7 @@ export const NFL_PLAYERS = [
       "San Diego Chargers"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -432717,7 +432572,7 @@ export const NFL_PLAYERS = [
       "Cleveland Browns"
     ],
     "college": [
-      "North Texas State"
+      "North Texas"
     ],
     "numbers": [],
     "league": "NFL"
@@ -432897,7 +432752,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Southern Methodist"
+      "SMU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -432928,7 +432783,7 @@ export const NFL_PLAYERS = [
     "display_name": "Ray Scott",
     "teams": [],
     "college": [
-      "Prairie View"
+      "Prairie View A&M"
     ],
     "numbers": [],
     "league": "NFL"
@@ -433124,7 +432979,7 @@ export const NFL_PLAYERS = [
     "display_name": "Ray Toole",
     "teams": [],
     "college": [
-      "North Texas State"
+      "North Texas"
     ],
     "numbers": [],
     "league": "NFL"
@@ -433145,7 +433000,7 @@ export const NFL_PLAYERS = [
     "display_name": "Ray Verkirk",
     "teams": [],
     "college": [
-      "North Texas State"
+      "North Texas"
     ],
     "numbers": [],
     "league": "NFL"
@@ -433179,7 +433034,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Texas A&I"
+      "Texas A&M-Kingsville"
     ],
     "numbers": [],
     "league": "NFL"
@@ -433281,7 +433136,7 @@ export const NFL_PLAYERS = [
       "St. Louis Cardinals"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -433411,7 +433266,7 @@ export const NFL_PLAYERS = [
       "Minnesota Vikings"
     ],
     "college": [
-      "East Stroudsburg State"
+      "East Stroudsburg"
     ],
     "numbers": [],
     "league": "NFL"
@@ -433455,7 +433310,6 @@ export const NFL_PLAYERS = [
       "St. Louis Rams"
     ],
     "college": [
-      "Miami",
       "Miami (FL)"
     ],
     "numbers": [
@@ -433506,7 +433360,7 @@ export const NFL_PLAYERS = [
       "Dallas Cowboys"
     ],
     "college": [
-      "Ft. Valley State"
+      "Fort Valley State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -433526,7 +433380,7 @@ export const NFL_PLAYERS = [
     "display_name": "Rayford Jenkins",
     "teams": [],
     "college": [
-      "Alcorn A&M"
+      "Alcorn State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -433583,7 +433437,7 @@ export const NFL_PLAYERS = [
     "display_name": "Raymond Brown",
     "teams": [],
     "college": [
-      "Alcorn A&M"
+      "Alcorn State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -433849,7 +433703,7 @@ export const NFL_PLAYERS = [
     "display_name": "Raymond\u00a0Irvin",
     "teams": [],
     "college": [
-      "Central Florida"
+      "UCF"
     ],
     "numbers": [],
     "league": "NFL"
@@ -433998,7 +433852,6 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "Miami",
       "Miami (FL)"
     ],
     "numbers": [
@@ -434080,7 +433933,7 @@ export const NFL_PLAYERS = [
     "display_name": "Ray\u00a0DiPasquale",
     "teams": [],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -434090,7 +433943,7 @@ export const NFL_PLAYERS = [
     "display_name": "Ray\u00a0Jamieson",
     "teams": [],
     "college": [
-      "Memphis State"
+      "Memphis"
     ],
     "numbers": [],
     "league": "NFL"
@@ -434933,7 +434786,7 @@ export const NFL_PLAYERS = [
       "Cleveland Browns"
     ],
     "college": [
-      "Southwest Texas State"
+      "Texas State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -434945,8 +434798,7 @@ export const NFL_PLAYERS = [
       "Philadelphia Eagles"
     ],
     "college": [
-      "Middle Tennessee",
-      "Middle Tennessee State"
+      "Middle Tennessee"
     ],
     "numbers": [
       6,
@@ -435193,7 +435045,7 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "Texas-El Paso"
+      "UTEP"
     ],
     "numbers": [],
     "league": "NFL"
@@ -435775,7 +435627,7 @@ export const NFL_PLAYERS = [
     "display_name": "Reggie Holmes",
     "teams": [],
     "college": [
-      "Wisconsin\u2013Stout"
+      "Wisconsin-Stout"
     ],
     "numbers": [],
     "league": "NFL"
@@ -435999,8 +435851,7 @@ export const NFL_PLAYERS = [
       "New York Jets"
     ],
     "college": [
-      "West Texas A&M",
-      "West Texas State"
+      "West Texas A&M"
     ],
     "numbers": [
       68
@@ -436269,7 +436120,7 @@ export const NFL_PLAYERS = [
       "Denver Broncos"
     ],
     "college": [
-      "Southwest Texas State"
+      "Texas State"
     ],
     "numbers": [
       38
@@ -436283,7 +436134,7 @@ export const NFL_PLAYERS = [
       "Tennessee Titans"
     ],
     "college": [
-      "Southern Methodist"
+      "SMU"
     ],
     "numbers": [
       80,
@@ -436441,7 +436292,6 @@ export const NFL_PLAYERS = [
       "Philadelphia Eagles"
     ],
     "college": [
-      "N.C. State",
       "NC State"
     ],
     "numbers": [],
@@ -436725,7 +436575,7 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "Monmouth (N.J.)"
+      "Monmouth"
     ],
     "numbers": [
       13
@@ -436794,7 +436644,7 @@ export const NFL_PLAYERS = [
     "display_name": "Reggie\u00a0Dwight",
     "teams": [],
     "college": [
-      "Troy State"
+      "Troy"
     ],
     "numbers": [],
     "league": "NFL"
@@ -436824,7 +436674,7 @@ export const NFL_PLAYERS = [
     "display_name": "Reggie\u00a0Yarbrough",
     "teams": [],
     "college": [
-      "Fullerton State"
+      "Cal State Fullerton"
     ],
     "numbers": [],
     "league": "NFL"
@@ -436915,7 +436765,7 @@ export const NFL_PLAYERS = [
     "display_name": "Regis Coustillac",
     "teams": [],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -436973,7 +436823,7 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "Miami (Ohio)"
+      "Miami (OH)"
     ],
     "numbers": [
       67,
@@ -437306,7 +437156,7 @@ export const NFL_PLAYERS = [
     "display_name": "Rene Hlavac",
     "teams": [],
     "college": [
-      "Nebraska\u2013Omaha"
+      "Nebraska-Omaha"
     ],
     "numbers": [],
     "league": "NFL"
@@ -437328,7 +437178,7 @@ export const NFL_PLAYERS = [
     "display_name": "Rene Lorio",
     "teams": [],
     "college": [
-      "Southern Mississippi"
+      "Southern Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -437564,7 +437414,7 @@ export const NFL_PLAYERS = [
       "Indianapolis Colts"
     ],
     "college": [
-      "Tennessee-Chattanooga"
+      "Chattanooga"
     ],
     "numbers": [
       30,
@@ -437741,7 +437591,7 @@ export const NFL_PLAYERS = [
       "Cincinnati Bengals"
     ],
     "college": [
-      "Samford (Ala)"
+      "Samford"
     ],
     "numbers": [],
     "league": "NFL"
@@ -438218,7 +438068,7 @@ export const NFL_PLAYERS = [
       "Cincinnati Bengals"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       54,
@@ -438429,7 +438279,7 @@ export const NFL_PLAYERS = [
       "Chicago Bears"
     ],
     "college": [
-      "Memphis State",
+      "Memphis",
       "Texas A&M"
     ],
     "numbers": [
@@ -438612,7 +438462,7 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "East Texas State"
+      "East Texas A&M"
     ],
     "numbers": [],
     "league": "NFL"
@@ -438708,7 +438558,7 @@ export const NFL_PLAYERS = [
       "Philadelphia Eagles"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -439085,7 +438935,7 @@ export const NFL_PLAYERS = [
       "New York Jets"
     ],
     "college": [
-      "Alcorn A&M"
+      "Alcorn State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -439591,8 +439441,7 @@ export const NFL_PLAYERS = [
       "Tennessee Titans"
     ],
     "college": [
-      "Miami (FL)",
-      "Miami (Fla.)"
+      "Miami (FL)"
     ],
     "numbers": [
       44,
@@ -439678,7 +439527,7 @@ export const NFL_PLAYERS = [
     "display_name": "Richard Heinz",
     "teams": [],
     "college": [
-      "Santa Barbara"
+      "UC Santa Barbara"
     ],
     "numbers": [],
     "league": "NFL"
@@ -439848,7 +439697,7 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "Connecticut"
+      "UConn"
     ],
     "numbers": [
       65
@@ -440155,7 +440004,7 @@ export const NFL_PLAYERS = [
       "Oakland Raiders"
     ],
     "college": [
-      "North Carolina College"
+      "North Carolina Central"
     ],
     "numbers": [],
     "league": "NFL"
@@ -440179,7 +440028,7 @@ export const NFL_PLAYERS = [
     "display_name": "Richard St. Clair",
     "teams": [],
     "college": [
-      "Grambling State"
+      "Grambling"
     ],
     "numbers": [],
     "league": "NFL"
@@ -440331,7 +440180,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Abilene Christian",
-      "Memphis State"
+      "Memphis"
     ],
     "numbers": [],
     "league": "NFL"
@@ -440485,7 +440334,7 @@ export const NFL_PLAYERS = [
       "Jacksonville Jaguars"
     ],
     "college": [
-      "Louisiana\u2013Lafayette"
+      "Louisiana-Lafayette"
     ],
     "numbers": [
       3,
@@ -440522,7 +440371,6 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "Central Florida",
       "UCF"
     ],
     "numbers": [
@@ -440605,7 +440453,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -440777,7 +440625,7 @@ export const NFL_PLAYERS = [
     "display_name": "Rich\u00a0Rosen",
     "teams": [],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -440800,7 +440648,7 @@ export const NFL_PLAYERS = [
       "San Diego Chargers"
     ],
     "college": [
-      "Memphis State"
+      "Memphis"
     ],
     "numbers": [],
     "league": "NFL"
@@ -441376,7 +441224,7 @@ export const NFL_PLAYERS = [
     "display_name": "Rick Leeson",
     "teams": [],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -441580,7 +441428,7 @@ export const NFL_PLAYERS = [
     "display_name": "Rick Owens",
     "teams": [],
     "college": [
-      "Pennsylvania"
+      "Penn"
     ],
     "numbers": [],
     "league": "NFL"
@@ -441807,7 +441655,7 @@ export const NFL_PLAYERS = [
       "Cleveland Browns"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -442046,7 +441894,7 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -442127,7 +441975,7 @@ export const NFL_PLAYERS = [
     "display_name": "Rickey\u00a0Royal",
     "teams": [],
     "college": [
-      "Sam Houston"
+      "Sam Houston State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -442390,7 +442238,7 @@ export const NFL_PLAYERS = [
     "display_name": "Ricky Floyd",
     "teams": [],
     "college": [
-      "Southern Mississippi"
+      "Southern Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -442481,7 +442329,6 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "North Carolina A&T",
-      "North Carolina A&amp",
       "T"
     ],
     "numbers": [
@@ -442645,7 +442492,7 @@ export const NFL_PLAYERS = [
       "Baltimore Ravens"
     ],
     "college": [
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [
       31
@@ -442772,7 +442619,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Texas State-San Marcos"
+      "Texas State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -442828,9 +442675,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "M",
-      "Texas A&M",
-      "Texas A&amp"
+      "Texas A&M"
     ],
     "numbers": [
       48,
@@ -443452,7 +443297,6 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Pittsburg State",
-      "Pittsburg State (KS)",
       "Southern Illinois"
     ],
     "numbers": [
@@ -443645,7 +443489,7 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       9,
@@ -443703,7 +443547,7 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "Texas Western"
+      "UTEP"
     ],
     "numbers": [],
     "league": "NFL"
@@ -443975,7 +443819,6 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "Texas-San Antonio",
       "UTSA"
     ],
     "numbers": [
@@ -443991,7 +443834,7 @@ export const NFL_PLAYERS = [
       "Carolina Panthers"
     ],
     "college": [
-      "Alabama-Birmingham"
+      "UAB"
     ],
     "numbers": [
       68
@@ -444072,7 +443915,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Auburn",
-      "Florida International"
+      "FIU"
     ],
     "numbers": [
       41,
@@ -444225,7 +444068,7 @@ export const NFL_PLAYERS = [
       "Miami Dolphins"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       90
@@ -444319,7 +444162,7 @@ export const NFL_PLAYERS = [
       "Kansas City Chiefs"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -444458,7 +444301,7 @@ export const NFL_PLAYERS = [
       "Cleveland Browns"
     ],
     "college": [
-      "Florida Atlantic"
+      "FAU"
     ],
     "numbers": [
       84,
@@ -444564,7 +444407,7 @@ export const NFL_PLAYERS = [
       "Miami Dolphins"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       44
@@ -444641,7 +444484,7 @@ export const NFL_PLAYERS = [
       "New York Jets"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       85
@@ -444741,7 +444584,7 @@ export const NFL_PLAYERS = [
       "St. Louis Rams"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       64,
@@ -444981,7 +444824,7 @@ export const NFL_PLAYERS = [
       "Buffalo Bills"
     ],
     "college": [
-      "Millersville (PA)"
+      "Millersville"
     ],
     "numbers": [],
     "league": "NFL"
@@ -445507,7 +445350,7 @@ export const NFL_PLAYERS = [
       "Chicago Bears"
     ],
     "college": [
-      "Connecticut"
+      "UConn"
     ],
     "numbers": [
       39,
@@ -445626,7 +445469,7 @@ export const NFL_PLAYERS = [
     "display_name": "Robert Creech",
     "teams": [],
     "college": [
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -445726,7 +445569,7 @@ export const NFL_PLAYERS = [
       "Philadelphia Eagles"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -446092,7 +445935,7 @@ export const NFL_PLAYERS = [
     "display_name": "Robert Helterbran",
     "teams": [],
     "college": [
-      "North Texas State"
+      "North Texas"
     ],
     "numbers": [],
     "league": "NFL"
@@ -446287,7 +446130,7 @@ export const NFL_PLAYERS = [
       "Cleveland Browns"
     ],
     "college": [
-      "Nevada-Las Vegas"
+      "UNLV"
     ],
     "numbers": [
       17,
@@ -446424,8 +446267,7 @@ export const NFL_PLAYERS = [
       "Miami Dolphins"
     ],
     "college": [
-      "Middle Tennessee",
-      "Middle Tennessee State"
+      "Middle Tennessee"
     ],
     "numbers": [
       50,
@@ -446450,7 +446292,7 @@ export const NFL_PLAYERS = [
       "Los Angeles Chargers"
     ],
     "college": [
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [
       40
@@ -446635,7 +446477,7 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "Connecticut"
+      "UConn"
     ],
     "numbers": [
       27,
@@ -446697,7 +446539,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Alcorn State",
-      "Jackson State University"
+      "Jackson State"
     ],
     "numbers": [
       47
@@ -446851,7 +446693,6 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "Mississippi",
       "Ole Miss"
     ],
     "numbers": [
@@ -446919,7 +446760,7 @@ export const NFL_PLAYERS = [
       "Atlanta Falcons"
     ],
     "college": [
-      "Grambling State"
+      "Grambling"
     ],
     "numbers": [],
     "league": "NFL"
@@ -446943,7 +446784,7 @@ export const NFL_PLAYERS = [
     "display_name": "Robert Popelka",
     "teams": [],
     "college": [
-      "Southern Methodist"
+      "SMU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -447631,7 +447472,6 @@ export const NFL_PLAYERS = [
       "Tennessee Titans"
     ],
     "college": [
-      "Southern California",
       "USC"
     ],
     "numbers": [
@@ -447702,7 +447542,7 @@ export const NFL_PLAYERS = [
       "Chicago Bears"
     ],
     "college": [
-      "Texas A&M\u2013Kingsville"
+      "Texas A&M-Kingsville"
     ],
     "numbers": [
       63
@@ -447731,8 +447571,7 @@ export const NFL_PLAYERS = [
       "Green Bay Packers"
     ],
     "college": [
-      "BYU",
-      "Brigham Young"
+      "BYU"
     ],
     "numbers": [
       31
@@ -447913,7 +447752,7 @@ export const NFL_PLAYERS = [
     "display_name": "Robin\u00a0Ham",
     "teams": [],
     "college": [
-      "West Texas State"
+      "West Texas A&M"
     ],
     "numbers": [],
     "league": "NFL"
@@ -448693,7 +448532,7 @@ export const NFL_PLAYERS = [
       "Houston Oilers"
     ],
     "college": [
-      "Nebraska\u2013Omaha"
+      "Nebraska-Omaha"
     ],
     "numbers": [],
     "league": "NFL"
@@ -449064,7 +448903,6 @@ export const NFL_PLAYERS = [
       "Cincinnati Bengals"
     ],
     "college": [
-      "Mississippi",
       "Ole Miss"
     ],
     "numbers": [
@@ -449092,7 +448930,7 @@ export const NFL_PLAYERS = [
       "Tennessee Titans"
     ],
     "college": [
-      "Troy State"
+      "Troy"
     ],
     "numbers": [
       77,
@@ -449121,7 +448959,7 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "Tennessee-Martin"
+      "UT Martin"
     ],
     "numbers": [
       86,
@@ -449245,7 +449083,6 @@ export const NFL_PLAYERS = [
       "Atlanta Falcons"
     ],
     "college": [
-      "Alabama-Birmingham",
       "UAB"
     ],
     "numbers": [
@@ -449355,7 +449192,7 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "Central Missouri State"
+      "Central Missouri"
     ],
     "numbers": [
       54
@@ -449675,7 +449512,7 @@ export const NFL_PLAYERS = [
       "Tennessee Titans"
     ],
     "college": [
-      "Southern Methodist"
+      "SMU"
     ],
     "numbers": [
       40
@@ -450105,7 +449942,7 @@ export const NFL_PLAYERS = [
     "display_name": "Rodney\u00a0Fedorchak",
     "teams": [],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -450235,7 +450072,7 @@ export const NFL_PLAYERS = [
     "display_name": "Rod\u00a0Clark",
     "teams": [],
     "college": [
-      "Southwest Texas State"
+      "Texas State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -450285,7 +450122,7 @@ export const NFL_PLAYERS = [
     "display_name": "Rod\u00a0Kirby",
     "teams": [],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -450523,7 +450360,7 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -450761,7 +450598,7 @@ export const NFL_PLAYERS = [
       "Denver Broncos"
     ],
     "college": [
-      "Bethune\u2013Cookman"
+      "Bethune-Cookman"
     ],
     "numbers": [],
     "league": "NFL"
@@ -450896,8 +450733,7 @@ export const NFL_PLAYERS = [
       "Tennessee Titans"
     ],
     "college": [
-      "Bowling Green",
-      "Bowling Green State"
+      "Bowling Green"
     ],
     "numbers": [
       8,
@@ -451041,7 +450877,7 @@ export const NFL_PLAYERS = [
     "display_name": "Roger Robinson",
     "teams": [],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       45
@@ -451348,7 +451184,7 @@ export const NFL_PLAYERS = [
     "display_name": "Roger\u00a0Praetorius",
     "teams": [],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -451556,7 +451392,7 @@ export const NFL_PLAYERS = [
       "Buffalo Bills"
     ],
     "college": [
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -451673,7 +451509,7 @@ export const NFL_PLAYERS = [
     "display_name": "Roland Reichardt",
     "teams": [],
     "college": [
-      "West Texas State"
+      "West Texas A&M"
     ],
     "numbers": [],
     "league": "NFL"
@@ -451709,7 +451545,7 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       81,
@@ -451817,7 +451653,7 @@ export const NFL_PLAYERS = [
       "San Diego Chargers"
     ],
     "college": [
-      "California-Davis"
+      "UC Davis"
     ],
     "numbers": [],
     "league": "NFL"
@@ -451999,7 +451835,7 @@ export const NFL_PLAYERS = [
       "Philadelphia Eagles"
     ],
     "college": [
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -452101,7 +451937,7 @@ export const NFL_PLAYERS = [
     "display_name": "Roman\u00a0Matusz",
     "teams": [],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -452209,7 +452045,7 @@ export const NFL_PLAYERS = [
       "Los Angeles Chargers"
     ],
     "college": [
-      "Miami"
+      "Miami (FL)"
     ],
     "numbers": [
       47
@@ -452328,7 +452164,7 @@ export const NFL_PLAYERS = [
       "Los Angeles Rams"
     ],
     "college": [
-      "North Texas State"
+      "North Texas"
     ],
     "numbers": [],
     "league": "NFL"
@@ -452483,7 +452319,7 @@ export const NFL_PLAYERS = [
     "display_name": "Ron Cardo",
     "teams": [],
     "college": [
-      "Wisconsin\u2013Oshkosh"
+      "Wisconsin-Oshkosh"
     ],
     "numbers": [],
     "league": "NFL"
@@ -453472,7 +453308,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Arkansas",
-      "Texas\u2013El Paso"
+      "UTEP"
     ],
     "numbers": [],
     "league": "NFL"
@@ -453524,7 +453360,7 @@ export const NFL_PLAYERS = [
     "display_name": "Ron Kissell",
     "teams": [],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -453631,7 +453467,7 @@ export const NFL_PLAYERS = [
     "display_name": "Ron Lewellen",
     "teams": [],
     "college": [
-      "Tennessee-Martin"
+      "UT Martin"
     ],
     "numbers": [],
     "league": "NFL"
@@ -453705,7 +453541,7 @@ export const NFL_PLAYERS = [
     "display_name": "Ron Luciano",
     "teams": [],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -453813,7 +453649,7 @@ export const NFL_PLAYERS = [
       "San Diego Chargers"
     ],
     "college": [
-      "Arkansas\u2013Pine Bluff",
+      "Arkansas-Pine Bluff",
       "Weber State"
     ],
     "numbers": [],
@@ -453862,7 +453698,7 @@ export const NFL_PLAYERS = [
     "display_name": "Ron Medlen",
     "teams": [],
     "college": [
-      "Southern Methodist"
+      "SMU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -453951,7 +453787,7 @@ export const NFL_PLAYERS = [
     "display_name": "Ron Mills",
     "teams": [],
     "college": [
-      "West Texas State"
+      "West Texas A&M"
     ],
     "numbers": [],
     "league": "NFL"
@@ -454352,7 +454188,7 @@ export const NFL_PLAYERS = [
       "New York Jets"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -454546,7 +454382,7 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "Grambling State"
+      "Grambling"
     ],
     "numbers": [],
     "league": "NFL"
@@ -454741,7 +454577,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       56
@@ -454885,7 +454721,7 @@ export const NFL_PLAYERS = [
     "display_name": "Ron Whaley",
     "teams": [],
     "college": [
-      "Tennessee-Chattanooga"
+      "Chattanooga"
     ],
     "numbers": [],
     "league": "NFL"
@@ -455002,7 +454838,7 @@ export const NFL_PLAYERS = [
     "display_name": "Ron Zwernemann",
     "teams": [],
     "college": [
-      "East Texas State"
+      "East Texas A&M"
     ],
     "numbers": [],
     "league": "NFL"
@@ -455161,7 +454997,7 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "Southern California"
+      "USC"
     ],
     "numbers": [
       2,
@@ -455251,7 +455087,7 @@ export const NFL_PLAYERS = [
       "St. Louis Rams"
     ],
     "college": [
-      "Pittsburg State (KS)"
+      "Pittsburg State"
     ],
     "numbers": [
       20,
@@ -455266,7 +455102,7 @@ export const NFL_PLAYERS = [
     "display_name": "Ronald Parker",
     "teams": [],
     "college": [
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -455991,7 +455827,6 @@ export const NFL_PLAYERS = [
       "New England Patriots"
     ],
     "college": [
-      "Miami",
       "Miami (FL)"
     ],
     "numbers": [],
@@ -456019,7 +455854,7 @@ export const NFL_PLAYERS = [
     "display_name": "Ronnie Lowe",
     "teams": [],
     "college": [
-      "Ft. Valley State"
+      "Fort Valley State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -456158,7 +455993,7 @@ export const NFL_PLAYERS = [
     "display_name": "Ronnie Shanklin",
     "teams": [],
     "college": [
-      "North Texas State"
+      "North Texas"
     ],
     "numbers": [],
     "league": "NFL"
@@ -456168,7 +456003,7 @@ export const NFL_PLAYERS = [
     "display_name": "Ronnie Shelly",
     "teams": [],
     "college": [
-      "Troy State"
+      "Troy"
     ],
     "numbers": [],
     "league": "NFL"
@@ -456232,7 +456067,7 @@ export const NFL_PLAYERS = [
       "Los Angeles Raiders"
     ],
     "college": [
-      "Northeast Louisiana"
+      "Louisiana-Monroe"
     ],
     "numbers": [],
     "league": "NFL"
@@ -456244,7 +456079,7 @@ export const NFL_PLAYERS = [
       "Minnesota Vikings"
     ],
     "college": [
-      "Pittsburg State (KS)"
+      "Pittsburg State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -456381,7 +456216,7 @@ export const NFL_PLAYERS = [
     "display_name": "Ron\u00a0Barnett",
     "teams": [],
     "college": [
-      "Texas\u2013Arlington"
+      "Texas-Arlington"
     ],
     "numbers": [],
     "league": "NFL"
@@ -456481,7 +456316,7 @@ export const NFL_PLAYERS = [
     "display_name": "Ron\u00a0Olsonoski",
     "teams": [],
     "college": [
-      "St. Thomas (Minnesota)"
+      "St. Thomas (MN)"
     ],
     "numbers": [],
     "league": "NFL"
@@ -456665,7 +456500,7 @@ export const NFL_PLAYERS = [
       "Miami Dolphins"
     ],
     "college": [
-      "Northeast Louisiana"
+      "Louisiana-Monroe"
     ],
     "numbers": [
       35,
@@ -456688,7 +456523,7 @@ export const NFL_PLAYERS = [
     "display_name": "Roosevelt Taylor",
     "teams": [],
     "college": [
-      "Grambling State"
+      "Grambling"
     ],
     "numbers": [],
     "league": "NFL"
@@ -456745,7 +456580,7 @@ export const NFL_PLAYERS = [
     "display_name": "Roosevelt\u00a0Straughter",
     "teams": [],
     "college": [
-      "Northeast Louisiana"
+      "Louisiana-Monroe"
     ],
     "numbers": [],
     "league": "NFL"
@@ -456963,8 +456798,7 @@ export const NFL_PLAYERS = [
       "Tennessee Titans"
     ],
     "college": [
-      "TCU",
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [
       90,
@@ -457169,7 +457003,7 @@ export const NFL_PLAYERS = [
       "Chicago Bears"
     ],
     "college": [
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -457510,7 +457344,7 @@ export const NFL_PLAYERS = [
     "display_name": "Roy Boudreaux",
     "teams": [],
     "college": [
-      "Southwestern Louisiana"
+      "Louisiana-Lafayette"
     ],
     "numbers": [],
     "league": "NFL"
@@ -457575,7 +457409,7 @@ export const NFL_PLAYERS = [
     "display_name": "Roy Dewalt",
     "teams": [],
     "college": [
-      "Texas\u2013Arlington"
+      "Texas-Arlington"
     ],
     "numbers": [],
     "league": "NFL"
@@ -457660,8 +457494,7 @@ export const NFL_PLAYERS = [
       "St. Louis Cardinals"
     ],
     "college": [
-      "Henderson State",
-      "Henderson State University"
+      "Henderson State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -458075,7 +457908,6 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "Texas-El Paso",
       "UTEP"
     ],
     "numbers": [
@@ -458447,7 +458279,6 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "Mississippi",
       "Ole Miss"
     ],
     "numbers": [
@@ -458486,7 +458317,7 @@ export const NFL_PLAYERS = [
     "display_name": "Royce Whittington",
     "teams": [],
     "college": [
-      "Southwestern Louisiana"
+      "Louisiana-Lafayette"
     ],
     "numbers": [],
     "league": "NFL"
@@ -458499,7 +458330,7 @@ export const NFL_PLAYERS = [
       "Chicago Rockets"
     ],
     "college": [
-      "North Texas State"
+      "North Texas"
     ],
     "numbers": [],
     "league": "NFL"
@@ -458643,7 +458474,7 @@ export const NFL_PLAYERS = [
       "Chicago Bears"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       74,
@@ -458786,7 +458617,7 @@ export const NFL_PLAYERS = [
     "display_name": "Rudi Smith",
     "teams": [],
     "college": [
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -459001,7 +458832,7 @@ export const NFL_PLAYERS = [
     "display_name": "Rudy Mathews",
     "teams": [],
     "college": [
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -459013,7 +458844,7 @@ export const NFL_PLAYERS = [
       "Baltimore Colts"
     ],
     "college": [
-      "Hardin\u2013Simmons"
+      "Hardin-Simmons"
     ],
     "numbers": [],
     "league": "NFL"
@@ -459085,7 +458916,7 @@ export const NFL_PLAYERS = [
     "display_name": "Rudy Rotella",
     "teams": [],
     "college": [
-      "Nebraska\u2013Omaha"
+      "Nebraska-Omaha"
     ],
     "numbers": [],
     "league": "NFL"
@@ -459677,7 +459508,7 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "Texas Western"
+      "UTEP"
     ],
     "numbers": [],
     "league": "NFL"
@@ -459788,7 +459619,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       68
@@ -460108,7 +459939,7 @@ export const NFL_PLAYERS = [
     "display_name": "Russ Vollmer",
     "teams": [],
     "college": [
-      "Memphis State"
+      "Memphis"
     ],
     "numbers": [],
     "league": "NFL"
@@ -460208,7 +460039,7 @@ export const NFL_PLAYERS = [
       "Philadelphia Eagles"
     ],
     "college": [
-      "Memphis State"
+      "Memphis"
     ],
     "numbers": [
       16,
@@ -460487,7 +460318,7 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "N.C. State",
+      "NC State",
       "Wisconsin"
     ],
     "numbers": [
@@ -460719,7 +460550,7 @@ export const NFL_PLAYERS = [
       "Tennessee Titans"
     ],
     "college": [
-      "Florida Atlantic"
+      "FAU"
     ],
     "numbers": [
       11
@@ -460856,7 +460687,7 @@ export const NFL_PLAYERS = [
       "Atlanta Falcons"
     ],
     "college": [
-      "Southern Methodist"
+      "SMU"
     ],
     "numbers": [
       80
@@ -461126,7 +460957,7 @@ export const NFL_PLAYERS = [
       "New York Jets"
     ],
     "college": [
-      "Connecticut"
+      "UConn"
     ],
     "numbers": [
       63
@@ -461265,7 +461096,7 @@ export const NFL_PLAYERS = [
       "Tennessee Titans"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       73,
@@ -461280,8 +461111,7 @@ export const NFL_PLAYERS = [
       "Cincinnati Bengals"
     ],
     "college": [
-      "NC State",
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [
       5
@@ -461346,8 +461176,7 @@ export const NFL_PLAYERS = [
       "Dallas Cowboys"
     ],
     "college": [
-      "Iowa Western CC",
-      "Southeast Missouri",
+      "Iowa Western",
       "Southeast Missouri State"
     ],
     "numbers": [
@@ -461447,7 +461276,7 @@ export const NFL_PLAYERS = [
       "New York Jets"
     ],
     "college": [
-      "Connecticut"
+      "UConn"
     ],
     "numbers": [
       4,
@@ -461624,7 +461453,6 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "CSU\u2013Pueblo",
       "Colorado State-Pueblo"
     ],
     "numbers": [
@@ -461729,7 +461557,7 @@ export const NFL_PLAYERS = [
       "San Diego Chargers"
     ],
     "college": [
-      "Nebraska\u2013Omaha"
+      "Nebraska-Omaha"
     ],
     "numbers": [
       87,
@@ -461763,7 +461591,7 @@ export const NFL_PLAYERS = [
       "Indianapolis Colts"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       99
@@ -461823,7 +461651,7 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       24,
@@ -461994,9 +461822,7 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "M",
-      "Texas A&M",
-      "Texas A&amp"
+      "Texas A&M"
     ],
     "numbers": [
       62,
@@ -462180,7 +462006,7 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       4,
@@ -462311,7 +462137,7 @@ export const NFL_PLAYERS = [
       "Oakland Raiders"
     ],
     "college": [
-      "Pennsylvania"
+      "Penn"
     ],
     "numbers": [
       48,
@@ -462495,8 +462321,7 @@ export const NFL_PLAYERS = [
       "Cincinnati Bengals"
     ],
     "college": [
-      "BYU",
-      "Brigham Young"
+      "BYU"
     ],
     "numbers": [
       8
@@ -462727,7 +462552,7 @@ export const NFL_PLAYERS = [
       "Green Bay Packers"
     ],
     "college": [
-      "Miami (Ohio)"
+      "Miami (OH)"
     ],
     "numbers": [
       33,
@@ -462839,7 +462664,7 @@ export const NFL_PLAYERS = [
       "Atlanta Falcons"
     ],
     "college": [
-      "Central Florida"
+      "UCF"
     ],
     "numbers": [
       50
@@ -462864,9 +462689,7 @@ export const NFL_PLAYERS = [
       "Tennessee Titans"
     ],
     "college": [
-      "M",
-      "Texas A&M",
-      "Texas A&amp"
+      "Texas A&M"
     ],
     "numbers": [
       17
@@ -462971,7 +462794,6 @@ export const NFL_PLAYERS = [
       "Buffalo Bills"
     ],
     "college": [
-      "Connecticut",
       "UConn"
     ],
     "numbers": [
@@ -463100,7 +462922,7 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       6,
@@ -463457,7 +463279,7 @@ export const NFL_PLAYERS = [
       "New Orleans Saints"
     ],
     "college": [
-      "Brigham Young"
+      "BYU"
     ],
     "numbers": [
       45
@@ -463669,7 +463491,7 @@ export const NFL_PLAYERS = [
     "display_name": "Sal Sunseri",
     "teams": [],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -464095,7 +463917,7 @@ export const NFL_PLAYERS = [
       "Minnesota Vikings"
     ],
     "college": [
-      "Missouri Western State"
+      "Missouri Western"
     ],
     "numbers": [
       28,
@@ -464174,7 +463996,7 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "Pittsburgh",
+      "Pitt",
       "Pittsburgh (never played college football, was a basketball standout)"
     ],
     "numbers": [],
@@ -464280,7 +464102,6 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "Southern California",
       "USC"
     ],
     "numbers": [
@@ -464651,7 +464472,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Virginia Military Inst"
+      "VMI"
     ],
     "numbers": [],
     "league": "NFL"
@@ -464979,7 +464800,7 @@ export const NFL_PLAYERS = [
     "display_name": "Sam McDowell",
     "teams": [],
     "college": [
-      "Southwest Missouri State"
+      "Missouri State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -465004,8 +464825,7 @@ export const NFL_PLAYERS = [
       "New Orleans Saints"
     ],
     "college": [
-      "Montclair State",
-      "Montclair State College"
+      "Montclair State"
     ],
     "numbers": [
       51
@@ -465240,7 +465060,6 @@ export const NFL_PLAYERS = [
       "New England Patriots"
     ],
     "college": [
-      "NW Missouri State University",
       "Northwest Missouri State"
     ],
     "numbers": [
@@ -465403,8 +465222,7 @@ export const NFL_PLAYERS = [
       "Los Angeles Rams"
     ],
     "college": [
-      "Miami (FL)",
-      "Miami (Fla.)"
+      "Miami (FL)"
     ],
     "numbers": [
       37
@@ -465551,7 +465369,7 @@ export const NFL_PLAYERS = [
     "display_name": "Sam Tuccio",
     "teams": [],
     "college": [
-      "Southern Mississippi"
+      "Southern Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -465597,7 +465415,7 @@ export const NFL_PLAYERS = [
       "New York Jets"
     ],
     "college": [
-      "East Texas State"
+      "East Texas A&M"
     ],
     "numbers": [],
     "league": "NFL"
@@ -465686,7 +465504,7 @@ export const NFL_PLAYERS = [
       "Dallas Cowboys"
     ],
     "college": [
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [
       54
@@ -466130,7 +465948,7 @@ export const NFL_PLAYERS = [
       "Houston Oilers"
     ],
     "college": [
-      "Northwestern State (LA)"
+      "Northwestern State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -466166,7 +465984,7 @@ export const NFL_PLAYERS = [
       "New Orleans Saints"
     ],
     "college": [
-      "Middle Tennessee State"
+      "Middle Tennessee"
     ],
     "numbers": [
       29,
@@ -466192,7 +466010,7 @@ export const NFL_PLAYERS = [
     "display_name": "Sammy Strock",
     "teams": [],
     "college": [
-      "University of Alabama"
+      "Alabama"
     ],
     "numbers": [],
     "league": "NFL"
@@ -466250,7 +466068,7 @@ export const NFL_PLAYERS = [
       "Minnesota Vikings"
     ],
     "college": [
-      "Grambling State"
+      "Grambling"
     ],
     "numbers": [
       85
@@ -466345,7 +466163,7 @@ export const NFL_PLAYERS = [
       "New Orleans Saints"
     ],
     "college": [
-      "Brigham Young"
+      "BYU"
     ],
     "numbers": [
       86,
@@ -466403,7 +466221,7 @@ export const NFL_PLAYERS = [
       "New York Jets"
     ],
     "college": [
-      "Central Florida"
+      "UCF"
     ],
     "numbers": [
       62,
@@ -466920,7 +466738,7 @@ export const NFL_PLAYERS = [
       "Los Angeles Chargers"
     ],
     "college": [
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [
       54
@@ -466936,7 +466754,7 @@ export const NFL_PLAYERS = [
     "college": [
       "Colorado",
       "Kent State",
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       67
@@ -467297,7 +467115,7 @@ export const NFL_PLAYERS = [
       "Denver Broncos"
     ],
     "college": [
-      "Texas\u2013Arlington"
+      "Texas-Arlington"
     ],
     "numbers": [],
     "league": "NFL"
@@ -467323,7 +467141,7 @@ export const NFL_PLAYERS = [
       "Dallas Cowboys"
     ],
     "college": [
-      "Northeast Oklahoma",
+      "Northeastern Oklahoma",
       "Oklahoma"
     ],
     "numbers": [],
@@ -467384,7 +467202,7 @@ export const NFL_PLAYERS = [
       "Cleveland Browns"
     ],
     "college": [
-      "Kearney State"
+      "Nebraska-Kearney"
     ],
     "numbers": [],
     "league": "NFL"
@@ -467521,7 +467339,7 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "Memphis State"
+      "Memphis"
     ],
     "numbers": [
       76
@@ -468078,7 +467896,7 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       56
@@ -468238,7 +468056,7 @@ export const NFL_PLAYERS = [
       "Philadelphia Eagles"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       84,
@@ -468329,7 +468147,7 @@ export const NFL_PLAYERS = [
     "display_name": "Scott Perkins",
     "teams": [],
     "college": [
-      "Livingstone (N.C.)"
+      "Livingstone"
     ],
     "numbers": [],
     "league": "NFL"
@@ -468509,7 +468327,7 @@ export const NFL_PLAYERS = [
       "San Diego Chargers"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -469013,7 +468831,7 @@ export const NFL_PLAYERS = [
       "Houston Texans"
     ],
     "college": [
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [
       27,
@@ -469042,7 +468860,7 @@ export const NFL_PLAYERS = [
       "Detroit Lions"
     ],
     "college": [
-      "Grambling State"
+      "Grambling"
     ],
     "numbers": [
       88
@@ -469160,7 +468978,7 @@ export const NFL_PLAYERS = [
     "display_name": "Scott\u00a0Adell",
     "teams": [],
     "college": [
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -469641,7 +469459,7 @@ export const NFL_PLAYERS = [
       "Buffalo Bills"
     ],
     "college": [
-      "C. W. Post"
+      "LIU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -469694,7 +469512,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       90,
@@ -469745,7 +469563,7 @@ export const NFL_PLAYERS = [
       "Minnesota Vikings"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       61,
@@ -469875,7 +469693,7 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "Towson State"
+      "Towson"
     ],
     "numbers": [
       5,
@@ -470395,7 +470213,7 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "Grambling State"
+      "Grambling"
     ],
     "numbers": [
       21
@@ -470410,8 +470228,7 @@ export const NFL_PLAYERS = [
       "Tennessee Titans"
     ],
     "college": [
-      "Miami (FL)",
-      "Miami (Fla.)"
+      "Miami (FL)"
     ],
     "numbers": [
       51,
@@ -470454,7 +470271,7 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       44
@@ -470570,8 +470387,7 @@ export const NFL_PLAYERS = [
       "Houston Texans"
     ],
     "college": [
-      "Miami (FL)",
-      "Miami (Fla.)"
+      "Miami (FL)"
     ],
     "numbers": [
       66,
@@ -471020,7 +470836,7 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "Miami"
+      "Miami (FL)"
     ],
     "numbers": [],
     "league": "NFL"
@@ -471134,7 +470950,6 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "Mississippi",
       "Ole Miss"
     ],
     "numbers": [
@@ -471193,7 +471008,7 @@ export const NFL_PLAYERS = [
       "New York Jets"
     ],
     "college": [
-      "M",
+      "Texas A&M",
       "West Texas A&M",
       "West Texas A&amp"
     ],
@@ -471347,7 +471162,6 @@ export const NFL_PLAYERS = [
       "Philadelphia Eagles"
     ],
     "college": [
-      "Texas-El Paso",
       "UTEP"
     ],
     "numbers": [
@@ -471521,7 +471335,7 @@ export const NFL_PLAYERS = [
       "Dallas Cowboys"
     ],
     "college": [
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [
       45
@@ -471582,7 +471396,7 @@ export const NFL_PLAYERS = [
       "Jacksonville Jaguars"
     ],
     "college": [
-      "Southeast Missouri"
+      "Southeast Missouri State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -471725,7 +471539,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Northwestern State-Louisiana"
+      "Northwestern State"
     ],
     "numbers": [
       12
@@ -471798,7 +471612,7 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       64,
@@ -471846,7 +471660,6 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "Connecticut",
       "UConn"
     ],
     "numbers": [
@@ -471879,7 +471692,7 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       29,
@@ -471983,8 +471796,7 @@ export const NFL_PLAYERS = [
       "Kansas City Chiefs"
     ],
     "college": [
-      "SMU",
-      "Southern Methodist"
+      "SMU"
     ],
     "numbers": [
       6,
@@ -472138,7 +471950,7 @@ export const NFL_PLAYERS = [
       "Los Angeles Chargers"
     ],
     "college": [
-      "Southern California"
+      "USC"
     ],
     "numbers": [
       50
@@ -472370,7 +472182,6 @@ export const NFL_PLAYERS = [
       "Detroit Lions"
     ],
     "college": [
-      "Minn. State-Mankato",
       "Minnesota State"
     ],
     "numbers": [
@@ -472490,7 +472301,7 @@ export const NFL_PLAYERS = [
       "Miami Dolphins"
     ],
     "college": [
-      "Lenoir\u2013Rhyne"
+      "Lenoir-Rhyne"
     ],
     "numbers": [],
     "league": "NFL"
@@ -472718,7 +472529,6 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "Central Florida",
       "UCF"
     ],
     "numbers": [
@@ -472756,7 +472566,6 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "Central Florida",
       "UCF"
     ],
     "numbers": [
@@ -472805,7 +472614,6 @@ export const NFL_PLAYERS = [
       "Los Angeles Chargers"
     ],
     "college": [
-      "Miami",
       "Miami (FL)"
     ],
     "numbers": [
@@ -472947,7 +472755,7 @@ export const NFL_PLAYERS = [
       "Los Angeles Rams"
     ],
     "college": [
-      "Florida Atlantic"
+      "FAU"
     ],
     "numbers": [
       20,
@@ -473253,7 +473061,7 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "Central Florida"
+      "UCF"
     ],
     "numbers": [
       49
@@ -473351,8 +473159,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Bowling Green",
-      "Bowling Green State"
+      "Bowling Green"
     ],
     "numbers": [
       4,
@@ -473704,7 +473511,7 @@ export const NFL_PLAYERS = [
       "San Diego Chargers"
     ],
     "college": [
-      "Central Florida"
+      "UCF"
     ],
     "numbers": [
       84,
@@ -473730,7 +473537,7 @@ export const NFL_PLAYERS = [
       "Indianapolis Colts"
     ],
     "college": [
-      "Northeast Louisiana"
+      "Louisiana-Monroe"
     ],
     "numbers": [
       96
@@ -474090,7 +473897,7 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       36
@@ -474227,7 +474034,7 @@ export const NFL_PLAYERS = [
       "Buffalo Bills"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       49
@@ -474297,7 +474104,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Colorado",
-      "Jackson State University"
+      "Jackson State"
     ],
     "numbers": [
       2,
@@ -474550,7 +474357,6 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Miami",
       "Miami (FL)"
     ],
     "numbers": [
@@ -474691,7 +474497,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Georgia Southern",
-      "Northwestern State (LA)"
+      "Northwestern State"
     ],
     "numbers": [
       25,
@@ -475512,7 +475318,7 @@ export const NFL_PLAYERS = [
       "Houston Oilers"
     ],
     "college": [
-      "Texas A&I"
+      "Texas A&M-Kingsville"
     ],
     "numbers": [],
     "league": "NFL"
@@ -475522,7 +475328,7 @@ export const NFL_PLAYERS = [
     "display_name": "Sid Bond",
     "teams": [],
     "college": [
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -475842,7 +475648,7 @@ export const NFL_PLAYERS = [
     "display_name": "Sid\u00a0Bailey",
     "teams": [],
     "college": [
-      "Texas\u2013Arlington"
+      "Texas-Arlington"
     ],
     "numbers": [],
     "league": "NFL"
@@ -475942,7 +475748,7 @@ export const NFL_PLAYERS = [
       "Baltimore Ravens"
     ],
     "college": [
-      "Incarnate Word (Tex.)"
+      "Incarnate Word"
     ],
     "numbers": [
       59
@@ -475978,7 +475784,7 @@ export const NFL_PLAYERS = [
       "Miami Dolphins"
     ],
     "college": [
-      "Miami",
+      "Miami (FL)",
       "Michigan State"
     ],
     "numbers": [
@@ -476089,7 +475895,7 @@ export const NFL_PLAYERS = [
     "display_name": "Simmie\u00a0Carter",
     "teams": [],
     "college": [
-      "Southern Mississippi"
+      "Southern Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -476182,7 +475988,6 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "Texas-San Antonio",
       "UTSA"
     ],
     "numbers": [
@@ -476231,7 +476036,7 @@ export const NFL_PLAYERS = [
       "Oakland Raiders"
     ],
     "college": [
-      "Connecticut"
+      "UConn"
     ],
     "numbers": [
       51,
@@ -476294,8 +476099,7 @@ export const NFL_PLAYERS = [
       "New England Patriots"
     ],
     "college": [
-      "BYU",
-      "Brigham Young"
+      "BYU"
     ],
     "numbers": [
       16,
@@ -476353,7 +476157,7 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       8
@@ -476489,7 +476293,7 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "Texas\u2013Arlington"
+      "Texas-Arlington"
     ],
     "numbers": [],
     "league": "NFL"
@@ -476608,7 +476412,7 @@ export const NFL_PLAYERS = [
     "display_name": "Skip Wupper",
     "teams": [],
     "college": [
-      "C.W. Post"
+      "LIU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -476966,7 +476770,6 @@ export const NFL_PLAYERS = [
       "Jacksonville Jaguars"
     ],
     "college": [
-      "Mississippi",
       "Ole Miss"
     ],
     "numbers": [
@@ -477117,7 +476920,6 @@ export const NFL_PLAYERS = [
       "Houston Texans"
     ],
     "college": [
-      "Southern California",
       "USC",
       "Wyoming"
     ],
@@ -477667,7 +477469,7 @@ export const NFL_PLAYERS = [
       "Carolina Panthers"
     ],
     "college": [
-      "Alabama-Birmingham"
+      "UAB"
     ],
     "numbers": [
       33,
@@ -477697,7 +477499,6 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "Texas-San Antonio",
       "UTSA"
     ],
     "numbers": [
@@ -477985,7 +477786,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Notre Dame",
-      "University of South Florida"
+      "South Florida"
     ],
     "numbers": [
       3,
@@ -478076,7 +477877,7 @@ export const NFL_PLAYERS = [
       "Minnesota Vikings"
     ],
     "college": [
-      "Southwest Texas State"
+      "Texas State"
     ],
     "numbers": [
       3,
@@ -478296,8 +478097,7 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "Miami (FL)",
-      "Miami (Fla.)"
+      "Miami (FL)"
     ],
     "numbers": [
       13,
@@ -478342,7 +478142,7 @@ export const NFL_PLAYERS = [
       "Minnesota Vikings"
     ],
     "college": [
-      "Alabama-Birmingham"
+      "UAB"
     ],
     "numbers": [
       74,
@@ -478430,7 +478230,7 @@ export const NFL_PLAYERS = [
     "display_name": "Stacy\u00a0Charles",
     "teams": [],
     "college": [
-      "Bethune\u2013Cookman"
+      "Bethune-Cookman"
     ],
     "numbers": [],
     "league": "NFL"
@@ -478440,7 +478240,7 @@ export const NFL_PLAYERS = [
     "display_name": "Stacy\u00a0Rayfield",
     "teams": [],
     "college": [
-      "Texas\u2013Arlington"
+      "Texas-Arlington"
     ],
     "numbers": [],
     "league": "NFL"
@@ -478559,7 +478359,7 @@ export const NFL_PLAYERS = [
     "display_name": "Stan Blackmon",
     "teams": [],
     "college": [
-      "North Texas State"
+      "North Texas"
     ],
     "numbers": [],
     "league": "NFL"
@@ -478571,7 +478371,7 @@ export const NFL_PLAYERS = [
       "New York Jets"
     ],
     "college": [
-      "Sam Houston"
+      "Sam Houston State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -478690,7 +478490,7 @@ export const NFL_PLAYERS = [
       "Philadelphia Eagles"
     ],
     "college": [
-      "Memphis State"
+      "Memphis"
     ],
     "numbers": [],
     "league": "NFL"
@@ -478800,7 +478600,7 @@ export const NFL_PLAYERS = [
     "display_name": "Stan Gervelis",
     "teams": [],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -478854,7 +478654,7 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "Ole 'Miss"
+      "Ole Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -478887,7 +478687,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Northeast Louisiana"
+      "Louisiana-Monroe"
     ],
     "numbers": [
       12
@@ -479459,7 +479259,7 @@ export const NFL_PLAYERS = [
       "Philadelphia Eagles"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -479859,8 +479659,7 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "TCU",
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [
       59,
@@ -479879,8 +479678,7 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "FIU",
-      "Florida International"
+      "FIU"
     ],
     "numbers": [
       23,
@@ -479904,7 +479702,7 @@ export const NFL_PLAYERS = [
     "display_name": "Stan\u00a0Gorski",
     "teams": [],
     "college": [
-      "Saint Mary's (MN)"
+      "St. Mary's (MN)"
     ],
     "numbers": [],
     "league": "NFL"
@@ -480021,7 +479819,6 @@ export const NFL_PLAYERS = [
       "Arizona Cardinals"
     ],
     "college": [
-      "Alabama-Birmingham",
       "UAB"
     ],
     "numbers": [
@@ -480036,7 +479833,6 @@ export const NFL_PLAYERS = [
       "Arizona Cardinals"
     ],
     "college": [
-      "Alabama-Birmingham",
       "UAB"
     ],
     "numbers": [
@@ -480306,7 +480102,7 @@ export const NFL_PLAYERS = [
       "Dallas Cowboys"
     ],
     "college": [
-      "Northeast Louisiana"
+      "Louisiana-Monroe"
     ],
     "numbers": [
       80,
@@ -480608,8 +480404,7 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "NC State",
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [
       3,
@@ -480688,7 +480483,7 @@ export const NFL_PLAYERS = [
       "Houston Texans"
     ],
     "college": [
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [
       12
@@ -480719,7 +480514,7 @@ export const NFL_PLAYERS = [
       "Philadelphia Eagles"
     ],
     "college": [
-      "Miami (Fla.)"
+      "Miami (FL)"
     ],
     "numbers": [
       4,
@@ -480900,8 +480695,7 @@ export const NFL_PLAYERS = [
       "Tennessee Titans"
     ],
     "college": [
-      "NC State",
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [
       50,
@@ -481090,7 +480884,7 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       4,
@@ -481122,8 +480916,7 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "SMU",
-      "Southern Methodist"
+      "SMU"
     ],
     "numbers": [
       24,
@@ -481223,7 +481016,7 @@ export const NFL_PLAYERS = [
     "display_name": "Sterling Wingo",
     "teams": [],
     "college": [
-      "VPI"
+      "Virginia Tech"
     ],
     "numbers": [],
     "league": "NFL"
@@ -481330,7 +481123,7 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -481397,8 +481190,7 @@ export const NFL_PLAYERS = [
       "Los Angeles Rams"
     ],
     "college": [
-      "TCU",
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [
       73
@@ -482049,7 +481841,7 @@ export const NFL_PLAYERS = [
       "Green Bay Packers"
     ],
     "college": [
-      "Bethune\u2013Cookman"
+      "Bethune-Cookman"
     ],
     "numbers": [],
     "league": "NFL"
@@ -482192,7 +481984,7 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "Fullerton",
+      "Cal State Fullerton",
       "San Jose State"
     ],
     "numbers": [
@@ -482684,7 +482476,7 @@ export const NFL_PLAYERS = [
       "San Diego Chargers"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       28
@@ -483104,7 +482896,7 @@ export const NFL_PLAYERS = [
       "Indianapolis Colts"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       3,
@@ -483122,7 +482914,7 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       21,
@@ -483173,7 +482965,7 @@ export const NFL_PLAYERS = [
     "display_name": "Steve Jastrzembski",
     "teams": [],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -483263,7 +483055,7 @@ export const NFL_PLAYERS = [
       "Green Bay Packers"
     ],
     "college": [
-      "Carson\u2013Newman"
+      "Carson-Newman"
     ],
     "numbers": [
       54
@@ -483506,7 +483298,7 @@ export const NFL_PLAYERS = [
     "display_name": "Steve Lewicke",
     "teams": [],
     "college": [
-      "Texas\u2013El Paso"
+      "UTEP"
     ],
     "numbers": [],
     "league": "NFL"
@@ -484200,7 +483992,7 @@ export const NFL_PLAYERS = [
     "display_name": "Steve Parnell",
     "teams": [],
     "college": [
-      "Massachusetts"
+      "UMass"
     ],
     "numbers": [],
     "league": "NFL"
@@ -484227,7 +484019,7 @@ export const NFL_PLAYERS = [
       "Brooklyn Dodgers"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -484378,7 +484170,7 @@ export const NFL_PLAYERS = [
       "New Orleans Saints"
     ],
     "college": [
-      "North Texas State"
+      "North Texas"
     ],
     "numbers": [],
     "league": "NFL"
@@ -485057,7 +484849,7 @@ export const NFL_PLAYERS = [
       "MIL"
     ],
     "college": [
-      "North Texas State"
+      "North Texas"
     ],
     "numbers": [],
     "league": "NFL"
@@ -485711,8 +485503,7 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "NC State",
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [
       3,
@@ -485840,7 +485631,7 @@ export const NFL_PLAYERS = [
       "Houston Texans"
     ],
     "college": [
-      "Southern California"
+      "USC"
     ],
     "numbers": [
       11
@@ -486258,7 +486049,7 @@ export const NFL_PLAYERS = [
     "display_name": "Steve\u00a0Jaggard",
     "teams": [],
     "college": [
-      "Memphis State"
+      "Memphis"
     ],
     "numbers": [],
     "league": "NFL"
@@ -486471,7 +486262,7 @@ export const NFL_PLAYERS = [
       "New York Jets"
     ],
     "college": [
-      "Grambling State"
+      "Grambling"
     ],
     "numbers": [
       82
@@ -486659,7 +486450,7 @@ export const NFL_PLAYERS = [
     "display_name": "Stinson Jones",
     "teams": [],
     "college": [
-      "Virginia Military Inst"
+      "VMI"
     ],
     "numbers": [],
     "league": "NFL"
@@ -486806,7 +486597,6 @@ export const NFL_PLAYERS = [
       "Miami Dolphins"
     ],
     "college": [
-      "Central Florida",
       "UCF"
     ],
     "numbers": [
@@ -486872,7 +486662,7 @@ export const NFL_PLAYERS = [
       "Chicago Bears"
     ],
     "college": [
-      "Texas A&I"
+      "Texas A&M-Kingsville"
     ],
     "numbers": [],
     "league": "NFL"
@@ -486974,7 +486764,7 @@ export const NFL_PLAYERS = [
       "Chicago Bears"
     ],
     "college": [
-      "Wisconsin\u2013Whitewater"
+      "Wisconsin-Whitewater"
     ],
     "numbers": [],
     "league": "NFL"
@@ -487256,7 +487046,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Copiah-Lincoln Junior College",
-      "Southern Mississippi"
+      "Southern Miss"
     ],
     "numbers": [
       47,
@@ -487771,7 +487561,7 @@ export const NFL_PLAYERS = [
       "Los Angeles Rams"
     ],
     "college": [
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [
       20,
@@ -487789,7 +487579,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       68,
@@ -487886,8 +487676,7 @@ export const NFL_PLAYERS = [
       "Tennessee Titans"
     ],
     "college": [
-      "NC State",
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [
       10,
@@ -488397,8 +488186,7 @@ export const NFL_PLAYERS = [
       "Indianapolis Colts"
     ],
     "college": [
-      "FIU",
-      "Florida International"
+      "FIU"
     ],
     "numbers": [
       13,
@@ -488418,7 +488206,7 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [
       63,
@@ -488763,7 +488551,6 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Memphis",
-      "Southern California",
       "USC"
     ],
     "numbers": [
@@ -488843,7 +488630,7 @@ export const NFL_PLAYERS = [
       "Jacksonville Jaguars"
     ],
     "college": [
-      "Central Florida"
+      "UCF"
     ],
     "numbers": [
       33
@@ -488857,7 +488644,7 @@ export const NFL_PLAYERS = [
       "Indianapolis Colts"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       10
@@ -488871,7 +488658,7 @@ export const NFL_PLAYERS = [
       "Atlanta Falcons"
     ],
     "college": [
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [
       16
@@ -488888,7 +488675,6 @@ export const NFL_PLAYERS = [
       "Tennessee Titans"
     ],
     "college": [
-      "Massachusetts",
       "UMass"
     ],
     "numbers": [
@@ -489025,7 +488811,7 @@ export const NFL_PLAYERS = [
       "Minnesota Vikings"
     ],
     "college": [
-      "Nevada-Las Vegas"
+      "UNLV"
     ],
     "numbers": [
       97
@@ -489040,7 +488826,6 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "Southern California",
       "USC"
     ],
     "numbers": [
@@ -489178,7 +488963,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       28,
@@ -489242,8 +489027,7 @@ export const NFL_PLAYERS = [
       "Cleveland Browns"
     ],
     "college": [
-      "TCU",
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [
       59,
@@ -489481,8 +489265,7 @@ export const NFL_PLAYERS = [
       "Los Angeles Rams"
     ],
     "college": [
-      "N.C. State",
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [
       34
@@ -489886,7 +489669,6 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "North Carolina A&T",
-      "North Carolina A&amp",
       "T"
     ],
     "numbers": [
@@ -489965,7 +489747,6 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "Texas-San Antonio",
       "UTSA"
     ],
     "numbers": [
@@ -489980,7 +489761,7 @@ export const NFL_PLAYERS = [
       "Cincinnati Bengals"
     ],
     "college": [
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [
       97
@@ -490097,8 +489878,7 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "Southern Miss",
-      "Southern Mississippi"
+      "Southern Miss"
     ],
     "numbers": [
       30,
@@ -490529,7 +490309,6 @@ export const NFL_PLAYERS = [
       "Baltimore Ravens"
     ],
     "college": [
-      "Mississippi",
       "Ole Miss"
     ],
     "numbers": [
@@ -490669,7 +490448,6 @@ export const NFL_PLAYERS = [
       "Tennessee Titans"
     ],
     "college": [
-      "Central Florida",
       "UCF"
     ],
     "numbers": [
@@ -490736,7 +490514,7 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [
       17
@@ -490780,8 +490558,7 @@ export const NFL_PLAYERS = [
       "New York Jets"
     ],
     "college": [
-      "M",
-      "Texas A&amp"
+      "Texas A&M"
     ],
     "numbers": [
       1,
@@ -490969,7 +490746,6 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "Southern California",
       "USC"
     ],
     "numbers": [
@@ -491155,8 +490931,7 @@ export const NFL_PLAYERS = [
       "Chicago Bears"
     ],
     "college": [
-      "TCU",
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [
       73
@@ -491184,7 +490959,7 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -491196,8 +490971,7 @@ export const NFL_PLAYERS = [
       "New Orleans Saints"
     ],
     "college": [
-      "BYU",
-      "Brigham Young"
+      "BYU"
     ],
     "numbers": [
       7
@@ -491256,7 +491030,7 @@ export const NFL_PLAYERS = [
       "Buffalo Bills"
     ],
     "college": [
-      "Miami"
+      "Miami (FL)"
     ],
     "numbers": [
       33
@@ -491331,8 +491105,7 @@ export const NFL_PLAYERS = [
       "Tennessee Titans"
     ],
     "college": [
-      "FIU",
-      "Florida International"
+      "FIU"
     ],
     "numbers": [
       90,
@@ -491362,7 +491135,7 @@ export const NFL_PLAYERS = [
       "New Orleans Saints"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       24,
@@ -491703,7 +491476,7 @@ export const NFL_PLAYERS = [
     "display_name": "Ted Edmondson",
     "teams": [],
     "college": [
-      "Hardin\u2013Simmons"
+      "Hardin-Simmons"
     ],
     "numbers": [],
     "league": "NFL"
@@ -491715,7 +491488,7 @@ export const NFL_PLAYERS = [
       "New Orleans Saints"
     ],
     "college": [
-      "Mankato State"
+      "Minnesota State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -491750,7 +491523,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "St. Norbert",
-      "UW\u2013Stevens Point"
+      "Wisconsin-Stevens Point"
     ],
     "numbers": [],
     "league": "NFL"
@@ -491780,7 +491553,7 @@ export const NFL_PLAYERS = [
     "display_name": "Ted Geremsky",
     "teams": [],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -491852,7 +491625,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Delaware",
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -492100,8 +491873,7 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "NC State",
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [
       62,
@@ -492659,7 +492431,7 @@ export const NFL_PLAYERS = [
       "St. Louis Cardinals"
     ],
     "college": [
-      "W. Texas State"
+      "West Texas A&M"
     ],
     "numbers": [],
     "league": "NFL"
@@ -492810,7 +492582,7 @@ export const NFL_PLAYERS = [
       "New England Patriots"
     ],
     "college": [
-      "Northeast Louisiana"
+      "Louisiana-Monroe"
     ],
     "numbers": [],
     "league": "NFL"
@@ -492876,7 +492648,7 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "Texas-San Antonio"
+      "UTSA"
     ],
     "numbers": [
       10,
@@ -492946,7 +492718,7 @@ export const NFL_PLAYERS = [
     "display_name": "Ted\u00a0Andrus",
     "teams": [],
     "college": [
-      "Southwestern Louisiana"
+      "Louisiana-Lafayette"
     ],
     "numbers": [],
     "league": "NFL"
@@ -493098,7 +492870,7 @@ export const NFL_PLAYERS = [
       "Kansas City Chiefs"
     ],
     "college": [
-      "Brigham Young"
+      "BYU"
     ],
     "numbers": [
       73
@@ -493112,7 +492884,6 @@ export const NFL_PLAYERS = [
       "Arizona Cardinals"
     ],
     "college": [
-      "Alabama-Birmingham",
       "UAB"
     ],
     "numbers": [
@@ -493174,7 +492945,7 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "Virginia Military Inst."
+      "VMI"
     ],
     "numbers": [
       82,
@@ -493221,7 +492992,7 @@ export const NFL_PLAYERS = [
       "Green Bay Packers"
     ],
     "college": [
-      "Bowling Green State"
+      "Bowling Green"
     ],
     "numbers": [
       10,
@@ -493254,7 +493025,7 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "Memphis State"
+      "Memphis"
     ],
     "numbers": [],
     "league": "NFL"
@@ -493410,7 +493181,7 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "Florida Atlantic",
+      "FAU",
       "Missouri State"
     ],
     "numbers": [
@@ -493477,7 +493248,7 @@ export const NFL_PLAYERS = [
       "Oakland Raiders"
     ],
     "college": [
-      "Stephen F. Austin St."
+      "Stephen F. Austin"
     ],
     "numbers": [
       68,
@@ -493861,7 +493632,7 @@ export const NFL_PLAYERS = [
       "Los Angeles Chargers"
     ],
     "college": [
-      "Southern California"
+      "USC"
     ],
     "numbers": [
       34,
@@ -493937,8 +493708,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Florida A&M",
-      "Florida A&amp",
-      "M"
+      "Texas A&M"
     ],
     "numbers": [
       26
@@ -493986,8 +493756,7 @@ export const NFL_PLAYERS = [
       "San Diego Chargers"
     ],
     "college": [
-      "NC State",
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [
       53,
@@ -494632,7 +494401,7 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       39
@@ -494647,9 +494416,7 @@ export const NFL_PLAYERS = [
       "New Orleans Saints"
     ],
     "college": [
-      "Arkansas-Pine Bluff",
-      "Arkansas\u2013Pine Bluff",
-      "University of Arkansas at Pine Bluff"
+      "Arkansas-Pine Bluff"
     ],
     "numbers": [
       72
@@ -495173,7 +494940,7 @@ export const NFL_PLAYERS = [
       "New Orleans Saints"
     ],
     "college": [
-      "Gardner\u2013Webb"
+      "Gardner-Webb"
     ],
     "numbers": [
       18
@@ -495200,7 +494967,7 @@ export const NFL_PLAYERS = [
       "Arizona Cardinals"
     ],
     "college": [
-      "Southern Mississippi"
+      "Southern Miss"
     ],
     "numbers": [
       80
@@ -495330,7 +495097,7 @@ export const NFL_PLAYERS = [
       "St. Louis Cardinals"
     ],
     "college": [
-      "Missouri Southern State"
+      "Missouri Southern"
     ],
     "numbers": [],
     "league": "NFL"
@@ -495475,7 +495242,7 @@ export const NFL_PLAYERS = [
     "display_name": "Terry May",
     "teams": [],
     "college": [
-      "Southern Methodist"
+      "SMU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -495591,7 +495358,7 @@ export const NFL_PLAYERS = [
       "Los Angeles Rams"
     ],
     "college": [
-      "Arkansas\u2013Pine Bluff"
+      "Arkansas-Pine Bluff"
     ],
     "numbers": [],
     "league": "NFL"
@@ -496092,7 +495859,7 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       57,
@@ -496131,7 +495898,7 @@ export const NFL_PLAYERS = [
     "display_name": "Terry\u00a0Bagsby",
     "teams": [],
     "college": [
-      "East Texas State"
+      "East Texas A&M"
     ],
     "numbers": [],
     "league": "NFL"
@@ -496181,7 +495948,7 @@ export const NFL_PLAYERS = [
     "display_name": "Terry\u00a0Strouf",
     "teams": [],
     "college": [
-      "Wisconsin\u2013La Crosse"
+      "Wisconsin-La Crosse"
     ],
     "numbers": [],
     "league": "NFL"
@@ -496191,7 +495958,7 @@ export const NFL_PLAYERS = [
     "display_name": "Terry\u00a0Sweeney",
     "teams": [],
     "college": [
-      "Middle Tennessee State"
+      "Middle Tennessee"
     ],
     "numbers": [],
     "league": "NFL"
@@ -496216,7 +495983,6 @@ export const NFL_PLAYERS = [
     "college": [
       "Missouri S&T",
       "Missouri S&amp",
-      "Missouri-Rolla",
       "T"
     ],
     "numbers": [
@@ -496329,7 +496095,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Florida Atlantic"
+      "FAU"
     ],
     "numbers": [
       37
@@ -496427,7 +496193,7 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "Central Florida"
+      "UCF"
     ],
     "numbers": [
       38
@@ -496868,8 +496634,7 @@ export const NFL_PLAYERS = [
       "Minnesota Vikings"
     ],
     "college": [
-      "N.C. State",
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [
       89
@@ -496951,7 +496716,8 @@ export const NFL_PLAYERS = [
     "display_name": "The Oakland Raiders forfeited their 1980 fourth round pick for \"evasion of the player limit\" and \"stashing an unspecified number of players\"",
     "teams": [],
     "college": [
-      "The Oakland Raiders forfeited their 1980 fourth round pick for \"evasion of the player limit\" and \"stashing an unspecified number of players\""
+      "\"stashing an unspecified number of players\"",
+      "The Oakland Raiders forfeited their 1980 fourth round pick for \"evasion of the player limit\""
     ],
     "numbers": [],
     "league": "NFL"
@@ -497040,9 +496806,8 @@ export const NFL_PLAYERS = [
       "Chicago Bears"
     ],
     "college": [
-      "British Columbia, Can.",
-      "UBC",
-      "University of British Columbia"
+      "British Columbia",
+      "British Columbia, Can."
     ],
     "numbers": [
       62,
@@ -497417,7 +497182,7 @@ export const NFL_PLAYERS = [
       "Los Angeles Chargers"
     ],
     "college": [
-      "Bryant University"
+      "Bryant"
     ],
     "numbers": [
       73
@@ -497897,8 +497662,7 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "SMU",
-      "Southern Methodist"
+      "SMU"
     ],
     "numbers": [
       4,
@@ -498158,7 +497922,7 @@ export const NFL_PLAYERS = [
     "display_name": "Thomas\u00a0King",
     "teams": [],
     "college": [
-      "Southwestern Louisiana"
+      "Louisiana-Lafayette"
     ],
     "numbers": [],
     "league": "NFL"
@@ -498319,7 +498083,7 @@ export const NFL_PLAYERS = [
     "display_name": "Thurman Randle",
     "teams": [],
     "college": [
-      "Texas\u2013El Paso"
+      "UTEP"
     ],
     "numbers": [],
     "league": "NFL"
@@ -498378,7 +498142,7 @@ export const NFL_PLAYERS = [
       "Jacksonville Jaguars"
     ],
     "college": [
-      "Miami (Fla.)"
+      "Miami (FL)"
     ],
     "numbers": [
       50,
@@ -498649,7 +498413,7 @@ export const NFL_PLAYERS = [
       "Baltimore Colts"
     ],
     "college": [
-      "Massachusetts"
+      "UMass"
     ],
     "numbers": [],
     "league": "NFL"
@@ -498796,7 +498560,7 @@ export const NFL_PLAYERS = [
     "display_name": "Tim Carr",
     "teams": [],
     "college": [
-      "C.W. Post"
+      "LIU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -498889,7 +498653,7 @@ export const NFL_PLAYERS = [
       "St. Louis Cardinals"
     ],
     "college": [
-      "East Texas State"
+      "East Texas A&M"
     ],
     "numbers": [],
     "league": "NFL"
@@ -499143,7 +498907,7 @@ export const NFL_PLAYERS = [
       "Cleveland Browns"
     ],
     "college": [
-      "Carson\u2013Newman"
+      "Carson-Newman"
     ],
     "numbers": [],
     "league": "NFL"
@@ -499211,7 +498975,7 @@ export const NFL_PLAYERS = [
       "Atlanta Falcons"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -499296,7 +499060,7 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "Memphis State"
+      "Memphis"
     ],
     "numbers": [],
     "league": "NFL"
@@ -499551,7 +499315,6 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Southern Miss",
-      "Southern Mississippi",
       "Weber State"
     ],
     "numbers": [
@@ -499733,7 +499496,7 @@ export const NFL_PLAYERS = [
       "Green Bay Packers"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -499745,7 +499508,7 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "Memphis State"
+      "Memphis"
     ],
     "numbers": [],
     "league": "NFL"
@@ -499895,8 +499658,7 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "Texas\u2013Arlington",
-      "University of Texas-Arlington"
+      "Texas-Arlington"
     ],
     "numbers": [
       22,
@@ -499979,7 +499741,7 @@ export const NFL_PLAYERS = [
       "New York Jets"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -500067,7 +499829,7 @@ export const NFL_PLAYERS = [
       "Miami Dolphins"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -500995,7 +500757,7 @@ export const NFL_PLAYERS = [
     "display_name": "Tim\u00a0Borcky",
     "teams": [],
     "college": [
-      "Memphis State"
+      "Memphis"
     ],
     "numbers": [],
     "league": "NFL"
@@ -501175,7 +500937,7 @@ export const NFL_PLAYERS = [
     "display_name": "Tim\u00a0Ries",
     "teams": [],
     "college": [
-      "SW Missouri State"
+      "Missouri State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -501225,7 +500987,7 @@ export const NFL_PLAYERS = [
     "display_name": "Tim\u00a0Vesling",
     "teams": [],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -501468,7 +501230,7 @@ export const NFL_PLAYERS = [
       "Minnesota Vikings"
     ],
     "college": [
-      "Miami (Fla.)"
+      "Miami (FL)"
     ],
     "numbers": [
       60
@@ -501564,7 +501326,7 @@ export const NFL_PLAYERS = [
       "Philadelphia Eagles"
     ],
     "college": [
-      "Troy State"
+      "Troy"
     ],
     "numbers": [],
     "league": "NFL"
@@ -502029,7 +501791,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Carson\u2013Newman",
+      "Carson-Newman",
       "Michigan"
     ],
     "numbers": [
@@ -502064,7 +501826,7 @@ export const NFL_PLAYERS = [
       "Denver Broncos"
     ],
     "college": [
-      "Central Missouri State"
+      "Central Missouri"
     ],
     "numbers": [
       14
@@ -502088,7 +501850,7 @@ export const NFL_PLAYERS = [
     "display_name": "Todd Eckerson",
     "teams": [],
     "college": [
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -502288,7 +502050,6 @@ export const NFL_PLAYERS = [
       "Philadelphia Eagles"
     ],
     "college": [
-      "Saginaw Valley",
       "Saginaw Valley State"
     ],
     "numbers": [
@@ -502593,7 +502354,7 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       5,
@@ -502695,7 +502456,7 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "Southwestern Louisiana"
+      "Louisiana-Lafayette"
     ],
     "numbers": [
       38,
@@ -503283,7 +503044,7 @@ export const NFL_PLAYERS = [
       "New York Jets"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       71,
@@ -503503,7 +503264,7 @@ export const NFL_PLAYERS = [
     "display_name": "Tom Black",
     "teams": [],
     "college": [
-      "East Texas State"
+      "East Texas A&M"
     ],
     "numbers": [],
     "league": "NFL"
@@ -503592,7 +503353,7 @@ export const NFL_PLAYERS = [
     "display_name": "Tom Boutwell",
     "teams": [],
     "college": [
-      "Southern Mississippi"
+      "Southern Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -503701,7 +503462,7 @@ export const NFL_PLAYERS = [
     "display_name": "Tom Broadhead",
     "teams": [],
     "college": [
-      "Santa Barbara"
+      "UC Santa Barbara"
     ],
     "numbers": [],
     "league": "NFL"
@@ -503742,7 +503503,7 @@ export const NFL_PLAYERS = [
       "Augustana (SD)",
       "Maryland",
       "Minnesota",
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -503772,7 +503533,7 @@ export const NFL_PLAYERS = [
     "display_name": "Tom Brzoza",
     "teams": [],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -503958,7 +503719,7 @@ export const NFL_PLAYERS = [
       "Denver Broncos"
     ],
     "college": [
-      "C.W. Post"
+      "LIU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -504841,7 +504602,7 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -505055,7 +504816,7 @@ export const NFL_PLAYERS = [
       "Baltimore Colts"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -505067,7 +504828,7 @@ export const NFL_PLAYERS = [
       "Oakland Raiders"
     ],
     "college": [
-      "North Texas State"
+      "North Texas"
     ],
     "numbers": [],
     "league": "NFL"
@@ -505138,7 +504899,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Baldwin\u2013Wallace"
+      "Baldwin Wallace"
     ],
     "numbers": [],
     "league": "NFL"
@@ -505492,7 +505253,7 @@ export const NFL_PLAYERS = [
     "teams": [],
     "college": [
       "Missouri",
-      "VPI"
+      "Virginia Tech"
     ],
     "numbers": [],
     "league": "NFL"
@@ -505592,7 +505353,7 @@ export const NFL_PLAYERS = [
       "New England Patriots"
     ],
     "college": [
-      "Texas A&I"
+      "Texas A&M-Kingsville"
     ],
     "numbers": [],
     "league": "NFL"
@@ -505647,7 +505408,7 @@ export const NFL_PLAYERS = [
       "New Orleans Saints"
     ],
     "college": [
-      "Southern Mississippi"
+      "Southern Miss"
     ],
     "numbers": [
       92,
@@ -506325,7 +506086,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Hampden\u2013Sydney"
+      "Hampden-Sydney"
     ],
     "numbers": [],
     "league": "NFL"
@@ -506370,7 +506131,7 @@ export const NFL_PLAYERS = [
     "display_name": "Tom Mitrakos",
     "teams": [],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -506464,7 +506225,7 @@ export const NFL_PLAYERS = [
       "St. Louis Cardinals"
     ],
     "college": [
-      "Southwest Missouri State"
+      "Missouri State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -506508,7 +506269,7 @@ export const NFL_PLAYERS = [
       "New Orleans Saints"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -506637,8 +506398,7 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "Wisconsin La Crosse",
-      "Wisconsin\u2013La Crosse"
+      "Wisconsin-La Crosse"
     ],
     "numbers": [],
     "league": "NFL"
@@ -506851,7 +506611,7 @@ export const NFL_PLAYERS = [
     "display_name": "Tom Owens",
     "teams": [],
     "college": [
-      "Missouri-Rolla"
+      "Missouri S&T"
     ],
     "numbers": [],
     "league": "NFL"
@@ -506927,7 +506687,7 @@ export const NFL_PLAYERS = [
       "Green Bay Packers"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -507247,7 +507007,7 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -507389,7 +507149,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Southern Mississippi"
+      "Southern Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -507399,7 +507159,7 @@ export const NFL_PLAYERS = [
     "display_name": "Tom Runnels",
     "teams": [],
     "college": [
-      "North Texas State"
+      "North Texas"
     ],
     "numbers": [],
     "league": "NFL"
@@ -507470,7 +507230,7 @@ export const NFL_PLAYERS = [
     "display_name": "Tom Salwocki",
     "teams": [],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -507498,7 +507258,7 @@ export const NFL_PLAYERS = [
       "Houston Texans"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       3,
@@ -507622,7 +507382,7 @@ export const NFL_PLAYERS = [
       "Kansas City Chiefs"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       95
@@ -507688,7 +507448,7 @@ export const NFL_PLAYERS = [
       "Boston Patriots"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -507872,7 +507632,7 @@ export const NFL_PLAYERS = [
       "Cincinnati Bengals"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       53
@@ -507984,7 +507744,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Southern Mississippi"
+      "Southern Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -508189,7 +507949,7 @@ export const NFL_PLAYERS = [
       "New Orleans Saints"
     ],
     "college": [
-      "Brigham Young"
+      "BYU"
     ],
     "numbers": [
       61,
@@ -508523,7 +508283,7 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -508562,7 +508322,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Illinois",
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       15,
@@ -508727,7 +508487,7 @@ export const NFL_PLAYERS = [
     "display_name": "Tommy Head",
     "teams": [],
     "college": [
-      "Southwest Texas State"
+      "Texas State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -508739,7 +508499,7 @@ export const NFL_PLAYERS = [
       "Miami Dolphins"
     ],
     "college": [
-      "Florida International"
+      "FIU"
     ],
     "numbers": [
       59
@@ -508852,7 +508612,7 @@ export const NFL_PLAYERS = [
     "display_name": "Tommy Joe Coffey",
     "teams": [],
     "college": [
-      "West Texas State"
+      "West Texas A&M"
     ],
     "numbers": [],
     "league": "NFL"
@@ -508884,7 +508644,7 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -508967,7 +508727,7 @@ export const NFL_PLAYERS = [
     "display_name": "Tommy Lucas",
     "teams": [],
     "college": [
-      "Mississippi",
+      "Ole Miss",
       "Texas"
     ],
     "numbers": [],
@@ -508980,7 +508740,7 @@ export const NFL_PLAYERS = [
       "Denver Broncos"
     ],
     "college": [
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -509774,7 +509534,7 @@ export const NFL_PLAYERS = [
     "display_name": "Tom\u00a0Knopp",
     "teams": [],
     "college": [
-      "Kearney State"
+      "Nebraska-Kearney"
     ],
     "numbers": [],
     "league": "NFL"
@@ -510082,7 +509842,7 @@ export const NFL_PLAYERS = [
       "New England Patriots"
     ],
     "college": [
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [
       61,
@@ -510240,7 +510000,7 @@ export const NFL_PLAYERS = [
       "Tennessee Titans"
     ],
     "college": [
-      "UW\u2013Stout"
+      "Wisconsin-Stout"
     ],
     "numbers": [
       24,
@@ -510674,7 +510434,7 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "Middle Tennessee State"
+      "Middle Tennessee"
     ],
     "numbers": [],
     "league": "NFL"
@@ -511106,7 +510866,7 @@ export const NFL_PLAYERS = [
       "Denver Broncos"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       33
@@ -511176,7 +510936,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Central Michigan",
-      "North Texas State"
+      "North Texas"
     ],
     "numbers": [],
     "league": "NFL"
@@ -511186,7 +510946,7 @@ export const NFL_PLAYERS = [
     "display_name": "Tony Esposito",
     "teams": [],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -511200,7 +510960,7 @@ export const NFL_PLAYERS = [
       "Green Bay Packers"
     ],
     "college": [
-      "Saint Mary's"
+      "St. Mary's (CA)"
     ],
     "numbers": [],
     "league": "NFL"
@@ -511214,7 +510974,7 @@ export const NFL_PLAYERS = [
       "Dallas Cowboys"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       24,
@@ -511441,7 +511201,7 @@ export const NFL_PLAYERS = [
     "display_name": "Tony Golmont",
     "teams": [],
     "college": [
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -511977,7 +511737,7 @@ export const NFL_PLAYERS = [
     "display_name": "Tony Kyasky",
     "teams": [],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -512180,7 +511940,7 @@ export const NFL_PLAYERS = [
       "Detroit Lions"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -512302,7 +512062,6 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "North Carolina A&T",
-      "North Carolina A&amp",
       "T"
     ],
     "numbers": [
@@ -513014,7 +512773,7 @@ export const NFL_PLAYERS = [
       "Indianapolis Colts"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       98
@@ -513403,7 +513162,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       98
@@ -513515,7 +513274,7 @@ export const NFL_PLAYERS = [
     "display_name": "Tony\u00a0DeMattea",
     "teams": [],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -514003,7 +513762,7 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       24,
@@ -514033,7 +513792,7 @@ export const NFL_PLAYERS = [
       "St. Louis Rams"
     ],
     "college": [
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [
       81,
@@ -514050,7 +513809,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Nevada-Las Vegas"
+      "UNLV"
     ],
     "numbers": [
       20,
@@ -514083,7 +513842,7 @@ export const NFL_PLAYERS = [
       "New Orleans Saints"
     ],
     "college": [
-      "Memphis State"
+      "Memphis"
     ],
     "numbers": [],
     "league": "NFL"
@@ -514187,8 +513946,7 @@ export const NFL_PLAYERS = [
       "San Diego Chargers"
     ],
     "college": [
-      "FIU",
-      "Florida International"
+      "FIU"
     ],
     "numbers": [
       58
@@ -514371,7 +514129,7 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "Grambling State"
+      "Grambling"
     ],
     "numbers": [],
     "league": "NFL"
@@ -514406,8 +514164,7 @@ export const NFL_PLAYERS = [
       "Jacksonville Jaguars"
     ],
     "college": [
-      "Miami (FL)",
-      "Miami (Fla.)"
+      "Miami (FL)"
     ],
     "numbers": [
       41
@@ -514583,7 +514340,6 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Louisiana",
-      "Louisiana Lafayette",
       "Louisiana-Lafayette"
     ],
     "numbers": [
@@ -514671,7 +514427,7 @@ export const NFL_PLAYERS = [
       "New Orleans Saints"
     ],
     "college": [
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [
       27,
@@ -514771,7 +514527,7 @@ export const NFL_PLAYERS = [
       "Cincinnati Bengals"
     ],
     "college": [
-      "Miami"
+      "Miami (FL)"
     ],
     "numbers": [
       40
@@ -515020,8 +514776,7 @@ export const NFL_PLAYERS = [
       "Los Angeles Rams"
     ],
     "college": [
-      "TCU",
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [
       32,
@@ -515084,7 +514839,6 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "Miami",
       "Miami (FL)"
     ],
     "numbers": [
@@ -515300,7 +515054,7 @@ export const NFL_PLAYERS = [
       "New York Jets"
     ],
     "college": [
-      "Southern California"
+      "USC"
     ],
     "numbers": [
       35
@@ -515482,7 +515236,6 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "Miami",
       "Miami (FL)"
     ],
     "numbers": [
@@ -515510,7 +515263,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Colorado",
-      "Jackson State University"
+      "Jackson State"
     ],
     "numbers": [
       12
@@ -515570,7 +515323,6 @@ export const NFL_PLAYERS = [
       "Baltimore Ravens"
     ],
     "college": [
-      "Connecticut",
       "UConn"
     ],
     "numbers": [
@@ -516102,7 +515854,7 @@ export const NFL_PLAYERS = [
       "Cleveland Browns"
     ],
     "college": [
-      "Miami (Fla.)"
+      "Miami (FL)"
     ],
     "numbers": [
       43
@@ -516118,9 +515870,7 @@ export const NFL_PLAYERS = [
       "Los Angeles Chargers"
     ],
     "college": [
-      "M",
-      "Texas A&M",
-      "Texas A&amp"
+      "Texas A&M"
     ],
     "numbers": [
       32,
@@ -516250,7 +516000,7 @@ export const NFL_PLAYERS = [
       "Cleveland Browns"
     ],
     "college": [
-      "North Carolina-Charlotte"
+      "Charlotte"
     ],
     "numbers": [
       37
@@ -516265,7 +516015,6 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Louisiana Tech",
-      "Mississippi",
       "Ole Miss"
     ],
     "numbers": [
@@ -516448,7 +516197,6 @@ export const NFL_PLAYERS = [
       "New England Patriots"
     ],
     "college": [
-      "Central Florida",
       "UCF"
     ],
     "numbers": [
@@ -516567,8 +516315,7 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "TCU",
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [
       6,
@@ -516655,7 +516402,7 @@ export const NFL_PLAYERS = [
       "Atlanta Falcons"
     ],
     "college": [
-      "Alabama-Birmingham"
+      "UAB"
     ],
     "numbers": [
       49
@@ -516717,7 +516464,6 @@ export const NFL_PLAYERS = [
       "Los Angeles Chargers"
     ],
     "college": [
-      "Central Florida",
       "UCF"
     ],
     "numbers": [
@@ -516748,7 +516494,6 @@ export const NFL_PLAYERS = [
       "New Orleans Saints"
     ],
     "college": [
-      "Central Florida",
       "UCF"
     ],
     "numbers": [
@@ -516826,8 +516571,7 @@ export const NFL_PLAYERS = [
       "Las Vegas Raiders"
     ],
     "college": [
-      "TCU",
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [
       7,
@@ -516888,7 +516632,7 @@ export const NFL_PLAYERS = [
       "Miami Dolphins"
     ],
     "college": [
-      "Memphis State"
+      "Memphis"
     ],
     "numbers": [],
     "league": "NFL"
@@ -517126,7 +516870,6 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "Miami",
       "Miami (FL)"
     ],
     "numbers": [
@@ -517173,7 +516916,7 @@ export const NFL_PLAYERS = [
       "Indianapolis Colts"
     ],
     "college": [
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [
       36
@@ -517220,8 +516963,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Grambling",
-      "Grambling State"
+      "Grambling"
     ],
     "numbers": [
       68,
@@ -517387,9 +517129,7 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "N.C. State",
-      "NC State",
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [
       16,
@@ -517591,7 +517331,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Connecticut"
+      "UConn"
     ],
     "numbers": [
       54
@@ -517737,7 +517477,7 @@ export const NFL_PLAYERS = [
       "Tennessee Titans"
     ],
     "college": [
-      "Florida Atlantic"
+      "FAU"
     ],
     "numbers": [
       70,
@@ -517774,7 +517514,7 @@ export const NFL_PLAYERS = [
       "Cleveland Browns"
     ],
     "college": [
-      "Southwestern Oklahoma State"
+      "Southwestern Oklahoma"
     ],
     "numbers": [
       41,
@@ -517867,8 +517607,7 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "TCU",
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [
       2
@@ -517953,7 +517692,7 @@ export const NFL_PLAYERS = [
       "New Orleans Saints"
     ],
     "college": [
-      "Miami (Fla.)"
+      "Miami (FL)"
     ],
     "numbers": [
       79
@@ -517987,7 +517726,7 @@ export const NFL_PLAYERS = [
       "Indianapolis Colts"
     ],
     "college": [
-      "Southern Methodist"
+      "SMU"
     ],
     "numbers": [
       43
@@ -518049,7 +517788,7 @@ export const NFL_PLAYERS = [
       "Tennessee Titans"
     ],
     "college": [
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [
       10,
@@ -518429,7 +518168,6 @@ export const NFL_PLAYERS = [
     "college": [
       "Alabama",
       "Louisiana",
-      "Mississippi",
       "Ole Miss"
     ],
     "numbers": [
@@ -518492,8 +518230,7 @@ export const NFL_PLAYERS = [
       "Tennessee Titans"
     ],
     "college": [
-      "Louisiana-Monroe",
-      "Louisiana\u2013Monroe"
+      "Louisiana-Monroe"
     ],
     "numbers": [
       31,
@@ -518620,7 +518357,7 @@ export const NFL_PLAYERS = [
       "New Orleans Saints"
     ],
     "college": [
-      "Florida Atlantic"
+      "FAU"
     ],
     "numbers": [
       91
@@ -518841,8 +518578,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "SMU",
-      "Southern Methodist"
+      "SMU"
     ],
     "numbers": [
       14,
@@ -518966,7 +518702,7 @@ export const NFL_PLAYERS = [
       "Atlanta Falcons"
     ],
     "college": [
-      "Minn. State-Mankato"
+      "Minnesota State"
     ],
     "numbers": [
       42
@@ -518980,7 +518716,7 @@ export const NFL_PLAYERS = [
       "Indianapolis Colts"
     ],
     "college": [
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [
       41
@@ -519139,7 +518875,7 @@ export const NFL_PLAYERS = [
       "Miami Dolphins"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       6
@@ -519217,7 +518953,7 @@ export const NFL_PLAYERS = [
       "Minnesota Vikings"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       8,
@@ -519280,7 +519016,7 @@ export const NFL_PLAYERS = [
       "Denver Broncos"
     ],
     "college": [
-      "Brigham Young"
+      "BYU"
     ],
     "numbers": [
       64
@@ -519462,7 +519198,7 @@ export const NFL_PLAYERS = [
       "New York Jets"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -519820,7 +519556,7 @@ export const NFL_PLAYERS = [
       "Atlanta Falcons"
     ],
     "college": [
-      "Ohio U."
+      "Ohio"
     ],
     "numbers": [
       80
@@ -520107,7 +519843,7 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "Brigham Young"
+      "BYU"
     ],
     "numbers": [
       22,
@@ -520298,7 +520034,7 @@ export const NFL_PLAYERS = [
       "San Diego Chargers"
     ],
     "college": [
-      "Grambling State"
+      "Grambling"
     ],
     "numbers": [],
     "league": "NFL"
@@ -520313,7 +520049,6 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "Mississippi",
       "Ole Miss"
     ],
     "numbers": [
@@ -520420,7 +520155,6 @@ export const NFL_PLAYERS = [
       "New England Patriots"
     ],
     "college": [
-      "Central Florida",
       "UCF"
     ],
     "numbers": [
@@ -520450,7 +520184,7 @@ export const NFL_PLAYERS = [
     "display_name": "Tubba Chamberlain",
     "teams": [],
     "college": [
-      "UW\u2013Eau Claire"
+      "Wisconsin-Eau Claire"
     ],
     "numbers": [],
     "league": "NFL"
@@ -520669,7 +520403,6 @@ export const NFL_PLAYERS = [
       "Los Angeles Chargers"
     ],
     "college": [
-      "Southern California",
       "USC"
     ],
     "numbers": [
@@ -521103,7 +520836,6 @@ export const NFL_PLAYERS = [
       "New York Jets"
     ],
     "college": [
-      "Alabama-Birmingham",
       "UAB"
     ],
     "numbers": [
@@ -521268,8 +521000,7 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "TCU",
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [
       42,
@@ -521346,8 +521077,7 @@ export const NFL_PLAYERS = [
       "Baltimore Ravens"
     ],
     "college": [
-      "BYU",
-      "Brigham Young"
+      "BYU"
     ],
     "numbers": [
       22,
@@ -521475,7 +521205,7 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [
       81,
@@ -521534,7 +521264,7 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "Southern Mississippi"
+      "Southern Miss"
     ],
     "numbers": [
       63,
@@ -521549,7 +521279,6 @@ export const NFL_PLAYERS = [
       "Buffalo Bills"
     ],
     "college": [
-      "Central Florida",
       "Jacksonville State",
       "UCF"
     ],
@@ -521607,8 +521336,7 @@ export const NFL_PLAYERS = [
       "Atlanta Falcons"
     ],
     "college": [
-      "BYU",
-      "Brigham Young"
+      "BYU"
     ],
     "numbers": [
       22,
@@ -521638,7 +521366,7 @@ export const NFL_PLAYERS = [
       "Los Angeles Chargers"
     ],
     "college": [
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [
       44
@@ -521652,7 +521380,6 @@ export const NFL_PLAYERS = [
       "New York Jets"
     ],
     "college": [
-      "Miami",
       "Miami (FL)",
       "Tennessee"
     ],
@@ -521744,7 +521471,7 @@ export const NFL_PLAYERS = [
       "Tennessee Titans"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       83
@@ -522017,7 +521744,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Miami"
+      "Miami (FL)"
     ],
     "numbers": [
       51,
@@ -522111,7 +521838,7 @@ export const NFL_PLAYERS = [
       "New York Jets"
     ],
     "college": [
-      "Miami"
+      "Miami (FL)"
     ],
     "numbers": [
       84
@@ -522255,7 +521982,7 @@ export const NFL_PLAYERS = [
       "Denver Broncos"
     ],
     "college": [
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [
       63
@@ -522498,8 +522225,7 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "Campbell",
-      "Campbell University"
+      "Campbell"
     ],
     "numbers": [
       74
@@ -522632,7 +522358,7 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       3,
@@ -522966,7 +522692,7 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "Southern California"
+      "USC"
     ],
     "numbers": [
       80,
@@ -523247,8 +522973,7 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "M",
-      "Texas A&amp"
+      "Texas A&M"
     ],
     "numbers": [
       44
@@ -523304,7 +523029,7 @@ export const NFL_PLAYERS = [
       "Los Angeles Chargers"
     ],
     "college": [
-      "Miami"
+      "Miami (FL)"
     ],
     "numbers": [
       68,
@@ -523477,9 +523202,7 @@ export const NFL_PLAYERS = [
       "Miami Dolphins"
     ],
     "college": [
-      "M",
-      "Texas A&M",
-      "Texas A&amp"
+      "Texas A&M"
     ],
     "numbers": [
       11,
@@ -523706,7 +523429,6 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Independence Comm. College",
-      "Texas-El Paso",
       "UTEP"
     ],
     "numbers": [
@@ -523771,7 +523493,7 @@ export const NFL_PLAYERS = [
       "Denver Broncos"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       98
@@ -523800,7 +523522,6 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Georgia",
-      "Miami",
       "Miami (FL)"
     ],
     "numbers": [
@@ -523890,7 +523611,6 @@ export const NFL_PLAYERS = [
       "New York Jets"
     ],
     "college": [
-      "Southern California",
       "USC"
     ],
     "numbers": [
@@ -524625,7 +524345,7 @@ export const NFL_PLAYERS = [
       "Chicago Bears"
     ],
     "college": [
-      "Mississippi",
+      "Ole Miss",
       "Oregon"
     ],
     "numbers": [
@@ -524891,7 +524611,7 @@ export const NFL_PLAYERS = [
       "Oakland Raiders"
     ],
     "college": [
-      "Connecticut"
+      "UConn"
     ],
     "numbers": [
       27,
@@ -524906,7 +524626,7 @@ export const NFL_PLAYERS = [
       "Arizona Cardinals"
     ],
     "college": [
-      "Mankato State"
+      "Minnesota State"
     ],
     "numbers": [
       83
@@ -524977,7 +524697,6 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "Southern California",
       "USC"
     ],
     "numbers": [
@@ -524996,7 +524715,7 @@ export const NFL_PLAYERS = [
       "New England Patriots"
     ],
     "college": [
-      "Miami (Fla.)"
+      "Miami (FL)"
     ],
     "numbers": [
       94,
@@ -525179,7 +524898,7 @@ export const NFL_PLAYERS = [
       "Indianapolis Colts"
     ],
     "college": [
-      "Mississippi",
+      "Ole Miss",
       "SMU"
     ],
     "numbers": [
@@ -525441,7 +525160,7 @@ export const NFL_PLAYERS = [
       "San Diego Chargers"
     ],
     "college": [
-      "Southern Mississippi"
+      "Southern Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -525468,7 +525187,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Colorado",
-      "Connecticut"
+      "UConn"
     ],
     "numbers": [
       69
@@ -525499,7 +525218,6 @@ export const NFL_PLAYERS = [
       "Tennessee Titans"
     ],
     "college": [
-      "Texas-El Paso",
       "UTEP"
     ],
     "numbers": [
@@ -525589,7 +525307,7 @@ export const NFL_PLAYERS = [
       "St. Louis Cardinals"
     ],
     "college": [
-      "Southwest Texas State"
+      "Texas State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -525619,7 +525337,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Florida",
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [
       11,
@@ -525700,7 +525418,7 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "Carson\u2013Newman"
+      "Carson-Newman"
     ],
     "numbers": [],
     "league": "NFL"
@@ -525870,7 +525588,7 @@ export const NFL_PLAYERS = [
       "Philadelphia Eagles"
     ],
     "college": [
-      "N.C. State"
+      "NC State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -526183,7 +525901,7 @@ export const NFL_PLAYERS = [
     "display_name": "Vere\u00a0Wellman",
     "teams": [],
     "college": [
-      "Wichita"
+      "Wichita State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -526323,7 +526041,7 @@ export const NFL_PLAYERS = [
     "display_name": "Vern Hallbeck",
     "teams": [],
     "college": [
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -526805,7 +526523,7 @@ export const NFL_PLAYERS = [
       "New England Patriots"
     ],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [
       43
@@ -526857,8 +526575,7 @@ export const NFL_PLAYERS = [
       "Green Bay Packers"
     ],
     "college": [
-      "TCU",
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [
       36
@@ -526892,7 +526609,7 @@ export const NFL_PLAYERS = [
     "display_name": "Vernon Studdard",
     "teams": [],
     "college": [
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -526907,7 +526624,7 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "Carson\u2013Newman"
+      "Carson-Newman"
     ],
     "numbers": [],
     "league": "NFL"
@@ -526937,7 +526654,7 @@ export const NFL_PLAYERS = [
     "display_name": "Vernon\u00a0Kirk",
     "teams": [],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -527069,7 +526786,7 @@ export const NFL_PLAYERS = [
     "display_name": "Vester Flanagan",
     "teams": [],
     "college": [
-      "Cal State-Humboldt"
+      "Humboldt State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -527102,8 +526819,7 @@ export const NFL_PLAYERS = [
       "Buffalo Bills"
     ],
     "college": [
-      "Holy Cross",
-      "Holy Cross (Redrafted Colt)"
+      "Holy Cross"
     ],
     "numbers": [],
     "league": "NFL"
@@ -527117,8 +526833,7 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "N.C. State",
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [
       27,
@@ -527190,7 +526905,7 @@ export const NFL_PLAYERS = [
     "display_name": "Vic Bender",
     "teams": [],
     "college": [
-      "Northeast Louisiana"
+      "Louisiana-Monroe"
     ],
     "numbers": [],
     "league": "NFL"
@@ -527394,7 +527109,7 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "Northeast Louisiana"
+      "Louisiana-Monroe"
     ],
     "numbers": [],
     "league": "NFL"
@@ -527689,7 +527404,7 @@ export const NFL_PLAYERS = [
     "display_name": "Vick Clark",
     "teams": [],
     "college": [
-      "Texas Western"
+      "UTEP"
     ],
     "numbers": [],
     "league": "NFL"
@@ -527879,7 +527594,6 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "Massachusetts",
       "UMass"
     ],
     "numbers": [
@@ -528190,7 +527904,7 @@ export const NFL_PLAYERS = [
     "display_name": "Vic\u00a0Paulson",
     "teams": [],
     "college": [
-      "Santa Barbara"
+      "UC Santa Barbara"
     ],
     "numbers": [],
     "league": "NFL"
@@ -528200,7 +527914,7 @@ export const NFL_PLAYERS = [
     "display_name": "Vidal Carlin",
     "teams": [],
     "college": [
-      "North Texas State"
+      "North Texas"
     ],
     "numbers": [],
     "league": "NFL"
@@ -528268,7 +527982,7 @@ export const NFL_PLAYERS = [
       "Los Angeles Rams"
     ],
     "college": [
-      "Wisconsin\u2013Whitewater"
+      "Wisconsin-Whitewater"
     ],
     "numbers": [],
     "league": "NFL"
@@ -528448,7 +528162,7 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "Connecticut"
+      "UConn"
     ],
     "numbers": [],
     "league": "NFL"
@@ -528773,7 +528487,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Loyola (CA)"
+      "Loyola Marymount"
     ],
     "numbers": [],
     "league": "NFL"
@@ -528849,7 +528563,7 @@ export const NFL_PLAYERS = [
     "display_name": "Vince Scorsone",
     "teams": [],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -528916,7 +528630,7 @@ export const NFL_PLAYERS = [
       "Green Bay Packers"
     ],
     "college": [
-      "Bowling Green State"
+      "Bowling Green"
     ],
     "numbers": [],
     "league": "NFL"
@@ -528941,8 +528655,7 @@ export const NFL_PLAYERS = [
       "New England Patriots"
     ],
     "college": [
-      "Miami (FL)",
-      "Miami (Fla.)"
+      "Miami (FL)"
     ],
     "numbers": [
       75
@@ -529071,7 +528784,7 @@ export const NFL_PLAYERS = [
       "New York Jets"
     ],
     "college": [
-      "Northeast Louisiana"
+      "Louisiana-Monroe"
     ],
     "numbers": [
       82
@@ -529485,7 +529198,6 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "Miami",
       "Miami (FL)"
     ],
     "numbers": [
@@ -529563,7 +529275,7 @@ export const NFL_PLAYERS = [
       "San Diego Chargers"
     ],
     "college": [
-      "Brigham Young"
+      "BYU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -529640,7 +529352,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Troy State"
+      "Troy"
     ],
     "numbers": [],
     "league": "NFL"
@@ -529806,7 +529518,6 @@ export const NFL_PLAYERS = [
       "New York Jets"
     ],
     "college": [
-      "Massachusetts",
       "UMass"
     ],
     "numbers": [
@@ -529819,7 +529530,7 @@ export const NFL_PLAYERS = [
     "display_name": "Volly Murphy",
     "teams": [],
     "college": [
-      "Texas\u2013El Paso"
+      "UTEP"
     ],
     "numbers": [],
     "league": "NFL"
@@ -529880,9 +529591,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "M",
-      "Texas A&M",
-      "Texas A&amp"
+      "Texas A&M"
     ],
     "numbers": [
       24,
@@ -529982,7 +529691,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Connecticut"
+      "UConn"
     ],
     "numbers": [
       48
@@ -530206,7 +529915,7 @@ export const NFL_PLAYERS = [
       "Baltimore Colts"
     ],
     "college": [
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -530230,7 +529939,7 @@ export const NFL_PLAYERS = [
       "Philadelphia Eagles"
     ],
     "college": [
-      "Southwest Texas State"
+      "Texas State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -530281,7 +529990,7 @@ export const NFL_PLAYERS = [
     "display_name": "Wade Musgrove",
     "teams": [],
     "college": [
-      "Hardin\u2013Simmons"
+      "Hardin-Simmons"
     ],
     "numbers": [],
     "league": "NFL"
@@ -530387,7 +530096,7 @@ export const NFL_PLAYERS = [
       "Oakland Raiders"
     ],
     "college": [
-      "East Texas State",
+      "East Texas A&M",
       "Texas A&M-Commerce"
     ],
     "numbers": [
@@ -530403,7 +530112,7 @@ export const NFL_PLAYERS = [
     "display_name": "Wade\u00a0Brantley",
     "teams": [],
     "college": [
-      "Troy State"
+      "Troy"
     ],
     "numbers": [],
     "league": "NFL"
@@ -530593,7 +530302,7 @@ export const NFL_PLAYERS = [
       "Denver Broncos"
     ],
     "college": [
-      "Southwest Texas State"
+      "Texas State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -530779,7 +530488,7 @@ export const NFL_PLAYERS = [
     "display_name": "Wally Garard",
     "teams": [],
     "college": [
-      "Saint Mary's (CA)"
+      "St. Mary's (CA)"
     ],
     "numbers": [],
     "league": "NFL"
@@ -530877,7 +530586,7 @@ export const NFL_PLAYERS = [
     "display_name": "Wally Mahle",
     "teams": [],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -531324,7 +531033,7 @@ export const NFL_PLAYERS = [
     "display_name": "Walt Dropo",
     "teams": [],
     "college": [
-      "Connecticut"
+      "UConn"
     ],
     "numbers": [],
     "league": "NFL"
@@ -532076,7 +531785,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -532393,7 +532102,7 @@ export const NFL_PLAYERS = [
     "display_name": "Walter Hartfield",
     "teams": [],
     "college": [
-      "Southwest Texas State"
+      "Texas State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -532543,7 +532252,6 @@ export const NFL_PLAYERS = [
       "Arizona Cardinals"
     ],
     "college": [
-      "Mississippi",
       "Ole Miss",
       "Texas A&M"
     ],
@@ -532911,7 +532619,7 @@ export const NFL_PLAYERS = [
     "display_name": "Walt\u00a0Brown",
     "teams": [],
     "college": [
-      "Pittsburgh"
+      "Pitt"
     ],
     "numbers": [],
     "league": "NFL"
@@ -532961,7 +532669,7 @@ export const NFL_PLAYERS = [
     "display_name": "Walt\u00a0Trojanowski",
     "teams": [],
     "college": [
-      "Connecticut"
+      "UConn"
     ],
     "numbers": [],
     "league": "NFL"
@@ -533784,7 +533492,7 @@ export const NFL_PLAYERS = [
     "display_name": "Waylon\u00a0Buchanan",
     "teams": [],
     "college": [
-      "East Texas State"
+      "East Texas A&M"
     ],
     "numbers": [],
     "league": "NFL"
@@ -534187,7 +533895,7 @@ export const NFL_PLAYERS = [
       "Dallas Cowboys"
     ],
     "college": [
-      "Texas Western"
+      "UTEP"
     ],
     "numbers": [],
     "league": "NFL"
@@ -534311,7 +534019,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Arkansas",
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [
       93
@@ -534340,7 +534048,7 @@ export const NFL_PLAYERS = [
       "Cincinnati Bengals"
     ],
     "college": [
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -534718,7 +534426,7 @@ export const NFL_PLAYERS = [
     "display_name": "Wayne Wood",
     "teams": [],
     "college": [
-      "Memphis State"
+      "Memphis"
     ],
     "numbers": [],
     "league": "NFL"
@@ -535347,7 +535055,7 @@ export const NFL_PLAYERS = [
     "display_name": "Wes Clark",
     "teams": [],
     "college": [
-      "Mississippi Southern"
+      "Southern Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -535369,7 +535077,7 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -535458,7 +535166,6 @@ export const NFL_PLAYERS = [
       "Carolina Panthers"
     ],
     "college": [
-      "Southern California",
       "USC"
     ],
     "numbers": [
@@ -535683,7 +535390,7 @@ export const NFL_PLAYERS = [
       "Green Bay Packers"
     ],
     "college": [
-      "East Texas State"
+      "East Texas A&M"
     ],
     "numbers": [],
     "league": "NFL"
@@ -536013,7 +535720,7 @@ export const NFL_PLAYERS = [
     "display_name": "Whaley Hall",
     "teams": [],
     "college": [
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [],
     "league": "NFL"
@@ -536199,7 +535906,7 @@ export const NFL_PLAYERS = [
       "Atlanta Falcons"
     ],
     "college": [
-      "Southern Mississippi"
+      "Southern Miss"
     ],
     "numbers": [
       79
@@ -536299,7 +536006,7 @@ export const NFL_PLAYERS = [
     "display_name": "Wilbur Aylor",
     "teams": [],
     "college": [
-      "Southwest Texas State"
+      "Texas State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -536560,7 +536267,7 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       25
@@ -536630,7 +536337,7 @@ export const NFL_PLAYERS = [
       "Philadelphia Eagles"
     ],
     "college": [
-      "Connecticut"
+      "UConn"
     ],
     "numbers": [
       65,
@@ -536645,7 +536352,7 @@ export const NFL_PLAYERS = [
       "Philadelphia Eagles"
     ],
     "college": [
-      "La Crosse State"
+      "Wisconsin-La Crosse"
     ],
     "numbers": [],
     "league": "NFL"
@@ -536828,7 +536535,7 @@ export const NFL_PLAYERS = [
       "Cleveland Browns"
     ],
     "college": [
-      "Texas A&M\u2013Commerce"
+      "Texas A&M-Commerce"
     ],
     "numbers": [],
     "league": "NFL"
@@ -537042,7 +536749,6 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "Texas-El Paso",
       "UTEP"
     ],
     "numbers": [
@@ -537192,7 +536898,7 @@ export const NFL_PLAYERS = [
       "Chicago Bears"
     ],
     "college": [
-      "Northeast Louisiana"
+      "Louisiana-Monroe"
     ],
     "numbers": [
       2,
@@ -537233,8 +536939,8 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "Millersville",
-      "Tennessee-Chattanooga"
+      "Chattanooga",
+      "Millersville"
     ],
     "numbers": [],
     "league": "NFL"
@@ -537246,7 +536952,6 @@ export const NFL_PLAYERS = [
       "Indianapolis Colts"
     ],
     "college": [
-      "Miami",
       "Miami (FL)"
     ],
     "numbers": [
@@ -537522,7 +537227,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Memphis State"
+      "Memphis"
     ],
     "numbers": [],
     "league": "NFL"
@@ -537534,8 +537239,7 @@ export const NFL_PLAYERS = [
       "Jacksonville Jaguars"
     ],
     "college": [
-      "NC State",
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [
       76
@@ -537867,7 +537571,7 @@ export const NFL_PLAYERS = [
       "Houston Oilers"
     ],
     "college": [
-      "Southern Methodist"
+      "SMU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -537969,7 +537673,7 @@ export const NFL_PLAYERS = [
     "display_name": "William Beatty",
     "teams": [],
     "college": [
-      "Connecticut"
+      "UConn"
     ],
     "numbers": [
       66
@@ -538501,7 +538205,7 @@ export const NFL_PLAYERS = [
     "display_name": "William Montgomery",
     "teams": [],
     "college": [
-      "Morehouse (Ga)"
+      "Morehouse College"
     ],
     "numbers": [],
     "league": "NFL"
@@ -538580,7 +538284,7 @@ export const NFL_PLAYERS = [
     "display_name": "William Portz",
     "teams": [],
     "college": [
-      "Sterling (KS)"
+      "Sterling University"
     ],
     "numbers": [],
     "league": "NFL"
@@ -538889,7 +538593,7 @@ export const NFL_PLAYERS = [
     "display_name": "William\u00a0Fifer",
     "teams": [],
     "college": [
-      "West Texas State"
+      "West Texas A&M"
     ],
     "numbers": [],
     "league": "NFL"
@@ -538943,7 +538647,7 @@ export const NFL_PLAYERS = [
       "Houston Oilers"
     ],
     "college": [
-      "Alcorn A&M"
+      "Alcorn State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -539157,7 +538861,7 @@ export const NFL_PLAYERS = [
       "Philadelphia Eagles"
     ],
     "college": [
-      "Grambling State",
+      "Grambling",
       "USC"
     ],
     "numbers": [],
@@ -539614,7 +539318,7 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [
       85,
@@ -539927,7 +539631,7 @@ export const NFL_PLAYERS = [
     "teams": [],
     "college": [
       "Johnson C. Smith",
-      "N.E. Oklahoma"
+      "Northeastern Oklahoma"
     ],
     "numbers": [],
     "league": "NFL"
@@ -539979,7 +539683,7 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "Troy State"
+      "Troy"
     ],
     "numbers": [],
     "league": "NFL"
@@ -539994,7 +539698,7 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "Alcorn A&M"
+      "Alcorn State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -540090,7 +539794,7 @@ export const NFL_PLAYERS = [
     "display_name": "Willie Norwood",
     "teams": [],
     "college": [
-      "Alcorn A&M"
+      "Alcorn State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -540165,7 +539869,7 @@ export const NFL_PLAYERS = [
     "display_name": "Willie Peake",
     "teams": [],
     "college": [
-      "Alcorn A&M"
+      "Alcorn State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -540440,7 +540144,7 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [],
     "league": "NFL"
@@ -540538,7 +540242,7 @@ export const NFL_PLAYERS = [
       "New Orleans Saints"
     ],
     "college": [
-      "Troy State"
+      "Troy"
     ],
     "numbers": [],
     "league": "NFL"
@@ -540629,7 +540333,7 @@ export const NFL_PLAYERS = [
       "Washington Commanders"
     ],
     "college": [
-      "Saint Mary's (CA)"
+      "St. Mary's (CA)"
     ],
     "numbers": [],
     "league": "NFL"
@@ -540746,7 +540450,7 @@ export const NFL_PLAYERS = [
       "Detroit Lions"
     ],
     "college": [
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [
       79,
@@ -540763,7 +540467,7 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "Grambling State"
+      "Grambling"
     ],
     "numbers": [
       97
@@ -540983,7 +540687,7 @@ export const NFL_PLAYERS = [
       "Los Angeles Chargers"
     ],
     "college": [
-      "Texas Christian"
+      "TCU"
     ],
     "numbers": [
       66
@@ -541019,7 +540723,7 @@ export const NFL_PLAYERS = [
     "display_name": "Willis\u00a0Towne",
     "teams": [],
     "college": [
-      "Wichita"
+      "Wichita State"
     ],
     "numbers": [],
     "league": "NFL"
@@ -541129,7 +540833,7 @@ export const NFL_PLAYERS = [
     "display_name": "Wilmur\u00a0Levels",
     "teams": [],
     "college": [
-      "North Texas State"
+      "North Texas"
     ],
     "numbers": [],
     "league": "NFL"
@@ -541604,7 +541308,6 @@ export const NFL_PLAYERS = [
       "Tampa Bay Buccaneers"
     ],
     "college": [
-      "Miami",
       "Miami (FL)"
     ],
     "numbers": [
@@ -541778,7 +541481,7 @@ export const NFL_PLAYERS = [
       "New York Giants"
     ],
     "college": [
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [
       78,
@@ -541841,7 +541544,7 @@ export const NFL_PLAYERS = [
       "New York Jets"
     ],
     "college": [
-      "Miami"
+      "Miami (FL)"
     ],
     "numbers": [
       34
@@ -541914,7 +541617,7 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "Grambling State"
+      "Grambling"
     ],
     "numbers": [],
     "league": "NFL"
@@ -542089,7 +541792,7 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "Central Florida"
+      "UCF"
     ],
     "numbers": [
       67,
@@ -542393,8 +542096,7 @@ export const NFL_PLAYERS = [
       "Philadelphia Eagles"
     ],
     "college": [
-      "Stephen F. Austin",
-      "Stephen F. Austin State"
+      "Stephen F. Austin"
     ],
     "numbers": [
       3,
@@ -542412,7 +542114,6 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "Southern California",
       "USC"
     ],
     "numbers": [
@@ -542469,7 +542170,7 @@ export const NFL_PLAYERS = [
       "Los Angeles Rams"
     ],
     "college": [
-      "Southern Methodist"
+      "SMU"
     ],
     "numbers": [
       25,
@@ -542582,7 +542283,7 @@ export const NFL_PLAYERS = [
       "Tennessee Titans"
     ],
     "college": [
-      "Miami"
+      "Miami (FL)"
     ],
     "numbers": [
       87
@@ -542631,8 +542332,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Florida A&M",
-      "Florida A&amp",
-      "M"
+      "Texas A&M"
     ],
     "numbers": [
       19
@@ -542694,7 +542394,7 @@ export const NFL_PLAYERS = [
       "Seattle Seahawks"
     ],
     "college": [
-      "Incarnate Word (Tex.)"
+      "Incarnate Word"
     ],
     "numbers": [
       41
@@ -542733,7 +542433,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Colorado",
-      "University of South Florida"
+      "South Florida"
     ],
     "numbers": [
       89
@@ -542860,8 +542560,7 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "LSU",
-      "LSU (Redrafted Colt)"
+      "LSU"
     ],
     "numbers": [],
     "league": "NFL"
@@ -543292,7 +542991,7 @@ export const NFL_PLAYERS = [
       "Atlanta Falcons"
     ],
     "college": [
-      "Brigham Young"
+      "BYU"
     ],
     "numbers": [
       93
@@ -543320,8 +543019,7 @@ export const NFL_PLAYERS = [
       "Denver Broncos"
     ],
     "college": [
-      "Miami (OH)",
-      "Miami (Ohio)"
+      "Miami (OH)"
     ],
     "numbers": [
       2,
@@ -543446,7 +543144,6 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "Southern California",
       "USC"
     ],
     "numbers": [
@@ -543525,7 +543222,7 @@ export const NFL_PLAYERS = [
       "Indianapolis Colts"
     ],
     "college": [
-      "Stephen F. Austin St."
+      "Stephen F. Austin"
     ],
     "numbers": [
       48,
@@ -543624,7 +543321,6 @@ export const NFL_PLAYERS = [
       "New York Jets"
     ],
     "college": [
-      "Mississippi",
       "Ole Miss"
     ],
     "numbers": [
@@ -543810,8 +543506,7 @@ export const NFL_PLAYERS = [
       "New Orleans Saints"
     ],
     "college": [
-      "SMU",
-      "Southern Methodist"
+      "SMU"
     ],
     "numbers": [
       42,
@@ -543827,7 +543522,7 @@ export const NFL_PLAYERS = [
       "Tennessee Titans"
     ],
     "college": [
-      "Miami"
+      "Miami (FL)"
     ],
     "numbers": [
       51,
@@ -543905,8 +543600,7 @@ export const NFL_PLAYERS = [
       "San Francisco 49ers"
     ],
     "college": [
-      "Concordia-St. Paul",
-      "Concordia\u2013St. Paul"
+      "Concordia-St. Paul"
     ],
     "numbers": [
       56,
@@ -544262,8 +543956,7 @@ export const NFL_PLAYERS = [
       "New York Jets"
     ],
     "college": [
-      "BYU",
-      "Brigham Young"
+      "BYU"
     ],
     "numbers": [
       2,
@@ -544279,8 +543972,7 @@ export const NFL_PLAYERS = [
       "New Orleans Saints"
     ],
     "college": [
-      "SMU",
-      "Southern Methodist"
+      "SMU"
     ],
     "numbers": [
       49,
@@ -544707,7 +544399,6 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Coffeyville CC",
-      "Texas-San Antonio",
       "UTSA"
     ],
     "numbers": [
@@ -544753,7 +544444,7 @@ export const NFL_PLAYERS = [
       "Indianapolis Colts"
     ],
     "college": [
-      "Syracuse"
+      "Rich Manning"
     ],
     "numbers": [
       44
@@ -544769,7 +544460,7 @@ export const NFL_PLAYERS = [
       "New Orleans Saints"
     ],
     "college": [
-      "Florida Atlantic"
+      "FAU"
     ],
     "numbers": [
       83,
@@ -544842,7 +544533,7 @@ export const NFL_PLAYERS = [
       "Los Angeles Chargers"
     ],
     "college": [
-      "Mississippi"
+      "Ole Miss"
     ],
     "numbers": [
       39
@@ -545086,8 +544777,7 @@ export const NFL_PLAYERS = [
       "Kansas City Chiefs"
     ],
     "college": [
-      "BYU",
-      "Brigham Young"
+      "BYU"
     ],
     "numbers": [
       23,
@@ -545261,7 +544951,7 @@ export const NFL_PLAYERS = [
       "Minnesota Vikings"
     ],
     "college": [
-      "N.C. State"
+      "NC State"
     ],
     "numbers": [
       63
@@ -545273,7 +544963,7 @@ export const NFL_PLAYERS = [
     "display_name": "Zeke Martin",
     "teams": [],
     "college": [
-      "North Texas State"
+      "North Texas"
     ],
     "numbers": [],
     "league": "NFL"
@@ -545540,7 +545230,7 @@ export const NFL_PLAYERS = [
     ],
     "college": [
       "Kentucky",
-      "Texas State-San Marcos"
+      "Texas State"
     ],
     "numbers": [
       38,
@@ -545670,8 +545360,7 @@ export const NFL_PLAYERS = [
       "New York Jets"
     ],
     "college": [
-      "NC State",
-      "North Carolina State"
+      "NC State"
     ],
     "numbers": [
       27
@@ -545715,7 +545404,7 @@ export const NFL_PLAYERS = [
       "New England Patriots"
     ],
     "college": [
-      "Texas-El Paso"
+      "UTEP"
     ],
     "numbers": [
       65
@@ -545782,7 +545471,7 @@ export const NFL_PLAYERS = [
       "Pittsburgh Steelers"
     ],
     "college": [
-      "Florida Atlantic"
+      "FAU"
     ],
     "numbers": [
       38,

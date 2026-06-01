@@ -433,17 +433,27 @@ to_process = [
 ]
 print(f"Wikipedia candidates: {len(to_process):,}")
 
-def wiki_get(url, retries=4):
+LAST_429 = [0.0]  # track when we last hit a rate limit
+
+def wiki_get(url, retries=5):
     for attempt in range(retries):
+        # If we recently hit a 429, honour a cooldown
+        wait_needed = LAST_429[0] + 30 - time.time()
+        if wait_needed > 0:
+            time.sleep(wait_needed)
         try:
             req = urllib.request.Request(url, headers=HEADERS)
             with urllib.request.urlopen(req, timeout=15) as r:
                 return json.loads(r.read())
         except Exception as e:
-            if "429" in str(e) and attempt < retries - 1:
-                time.sleep(3 * (2 ** attempt))
+            msg = str(e)
+            if "429" in msg:
+                LAST_429[0] = time.time()
+                wait = 30 * (attempt + 1)
+                print(f"\n  Rate limited — waiting {wait}s...", flush=True)
+                time.sleep(wait)
             elif attempt < retries - 1:
-                time.sleep(2)
+                time.sleep(3)
             else:
                 raise
 
@@ -456,15 +466,9 @@ def name_in_title(player_name, wiki_title):
     title_a = re.sub(r"[^a-z]", "", wiki_title.lower())
     return last in title_a and (first in title_a or len(first) <= 2)
 
-def team_in_wikitext(player_teams, wikitext):
-    if not player_teams:
-        return True
-    for team in player_teams:
-        tokens = TEAM_TOKENS.get(team, [team.split()[-1]])
-        for tok in tokens:
-            if tok in wikitext[:8000]:
-                return True
-    return False
+# Team validation is skipped for MLB — historical team names are too varied
+# (Brooklyn Dodgers, Philadelphia Athletics, etc.) and cause false negatives.
+# Name match + baseball keyword check is sufficient guard against wrong articles.
 
 wiki_found = 0
 checked = 0
@@ -473,35 +477,33 @@ save_every = 100
 try:
     for player in to_process:
         name = player["name"]
-        teams = player.get("teams", [])
         checked += 1
 
         # Live progress counter (overwrites same line)
         print(f"\r  [{checked:,}/{len(to_process):,}] found {wiki_found} so far...  ", end="", flush=True)
 
         try:
-            q = urllib.parse.quote(f"{name} MLB baseball player")
+            q = urllib.parse.quote(f"{name} baseball player")
             url = (f"https://en.wikipedia.org/w/api.php"
                    f"?action=query&list=search&format=json&srlimit=1&srsearch={q}")
             data = wiki_get(url)
             results = data.get("query", {}).get("search", [])
         except Exception as e:
-            progress[name] = f"search_error"
-            time.sleep(2)
+            progress[name] = "search_error"
             continue
 
         if not results:
             progress[name] = "no_results"
-            time.sleep(1)
+            time.sleep(0.5)
             continue
 
         title = results[0]["title"]
         if not name_in_title(name, title):
-            progress[name] = f"name_mismatch"
-            time.sleep(1)
+            progress[name] = "name_mismatch"
+            time.sleep(0.5)
             continue
 
-        time.sleep(1)
+        time.sleep(0.8)
 
         try:
             q2 = urllib.parse.quote(title)
@@ -512,18 +514,12 @@ try:
             page = next(iter(pages.values()))
             wikitext = page.get("revisions", [{}])[0].get("*", "")
         except Exception as e:
-            progress[name] = f"wikitext_error"
-            time.sleep(2)
+            progress[name] = "wikitext_error"
             continue
 
         if not BASEBALL_KEYWORDS.search(wikitext[:5000]):
-            progress[name] = f"not_baseball"
-            time.sleep(1)
-            continue
-
-        if not team_in_wikitext(teams, wikitext):
-            progress[name] = f"team_mismatch"
-            time.sleep(1)
+            progress[name] = "not_baseball"
+            time.sleep(0.5)
             continue
 
         m = re.search(
