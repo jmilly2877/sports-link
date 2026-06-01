@@ -725,18 +725,24 @@ inputMode="text"
           </button>
 
           <div className="tutorial-kicker">HOW TO PLAY</div>
-          <h2>Build a sports chain</h2>
+          <h2>Build A Sports Chain</h2>
 
           <p>Connect teams, players, colleges, and jersey numbers.</p>
 
           <div className="tutorial-example">
-            <span>Chicago Bulls</span>
+            <span>Pirates</span>
             <span>→</span>
-            <span>Michael Jordan (NBA)</span>
+            <span>Paul Skenes</span>
             <span>→</span>
-            <span>UNC</span>
+            <span>LSU</span>
             <span>→</span>
-            <span>Vince Carter</span>
+            <span>Ja'Marr Chase</span>
+            <span>→</span>
+            <span>1</span>
+            <span>→</span>
+            <span>Victor Wembanyama</span>
+            <span>→</span>
+            <span>Spurs</span>
           </div>
 
           <div className="tutorial-rules">
