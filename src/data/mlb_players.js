@@ -240943,7 +240943,7 @@ export const MLB_PLAYERS = [
     "display_name": "Pat Lyons"
   },
   {
-    "name": "Pat Mahomes (MLB)",
+    "name": "Pat Mahomes",
     "teams": [
       "Boston Red Sox",
       "Chicago Cubs",
@@ -240959,7 +240959,7 @@ export const MLB_PLAYERS = [
       "52"
     ],
     "league": "MLB",
-    "display_name": "Pat Mahomes"
+    "display_name": "Pat Mahomes (MLB)"
   },
   {
     "name": "Pat Malone",
