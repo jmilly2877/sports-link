@@ -74320,13 +74320,7 @@ export const NFL_PLAYERS = [
     "numbers": [],
     "league": "NFL"
   },
-  {
-    "name": "Buffalo forfeited their first-round pick after selecting QB Bernie Kosar in the 1985 supplemental draft.",
-    "display_name": "Buffalo forfeited their first-round pick after selecting QB Bernie Kosar in the 1985 supplemental draft.",
-    "teams": [],
-    "college": [
-      "Buffalo forfeited their first-round pick after selecting QB Bernie Kosar in the 1985 supplemental draft."
-    ],
+ 
     "numbers": [],
     "league": "NFL"
   },
@@ -405992,14 +405986,7 @@ export const NFL_PLAYERS = [
     "numbers": [],
     "league": "NFL"
   },
-  {
-    "name": "Oakland traded a second-round selection to Houston in exchange for 2003 third- and seventh-round selections. Houston then forfeited the pick by selecting RB Tony Hollings in the 2003 supplemental draft",
-    "display_name": "Oakland traded a second-round selection to Houston in exchange for 2003 third- and seventh-round selections. Houston then forfeited the pick by selecting RB Tony Hollings in the 2003 supplemental draft",
-    "teams": [],
-    "college": [
-      "Oakland traded a second-round selection to Houston in exchange for 2003 third-",
-      "seventh-round selections. Houston then forfeited the pick by selecting RB Tony Hollings in the 2003 supplemental draft"
-    ],
+ 
     "numbers": [],
     "league": "NFL"
   },
@@ -470760,49 +470747,7 @@ export const NFL_PLAYERS = [
     "numbers": [],
     "league": "NFL"
   },
-  {
-    "name": "Selection forfeited during the 1987 supplemental draft.",
-    "display_name": "Selection forfeited during the 1987 supplemental draft.",
-    "teams": [],
-    "college": [
-      "Selection forfeited during the 1987 supplemental draft.",
-      "Selection forfeited during the 1988 supplemental draft.",
-      "Selection forfeited during the 1989 supplemental draft.",
-      "Selection forfeited during the 1990 supplemental draft.",
-      "Selection forfeited during the 1992 supplemental draft.",
-      "Selection forfeited during the 1994 supplemental draft.",
-      "Selection forfeited during the 1995 supplemental draft.",
-      "Selection forfeited during the 1998 supplemental draft.",
-      "Selection forfeited during the 1999 supplemental draft.",
-      "Selection forfeited during the 2012 supplemental draft.",
-      "Selection forfeited during the 2015 Supplemental draft.",
-      "Selection forfeited during the 2018 supplemental draft.",
-      "Selection forfeited during the 2019 supplemental draft.",
-      "selection forfeited during the 2007 Supplemental draft"
-    ],
-    "numbers": [],
-    "league": "NFL"
-  },
-  {
-    "name": "Selection forfeited when the team was found to have practiced with pads during an off-season period when pads were not allowed",
-    "display_name": "Selection forfeited when the team was found to have practiced with pads during an off-season period when pads were not allowed",
-    "teams": [],
-    "college": [
-      "Selection forfeited when the team was found to have practiced with pads during an off-season period when pads were not allowed"
-    ],
-    "numbers": [],
-    "league": "NFL"
-  },
-  {
-    "name": "Selection moved down 12 spots",
-    "display_name": "Selection moved down 12 spots",
-    "teams": [],
-    "college": [
-      "Selection moved down 12 spots"
-    ],
-    "numbers": [],
-    "league": "NFL"
-  },
+  
   {
     "name": "Selvin Young",
     "display_name": "Selvin Young",
@@ -496641,127 +496586,7 @@ export const NFL_PLAYERS = [
     ],
     "league": "NFL"
   },
-  {
-    "name": "The Atlanta Falcons forfeited their 1981 seventh round pick after selecting Matthew Teague in the 1980 Supplemental draft",
-    "display_name": "The Atlanta Falcons forfeited their 1981 seventh round pick after selecting Matthew Teague in the 1980 Supplemental draft",
-    "teams": [],
-    "college": [
-      "The Atlanta Falcons forfeited their 1981 seventh round pick after selecting Matthew Teague in the 1980 Supplemental draft"
-    ],
-    "numbers": [],
-    "league": "NFL"
-  },
-  {
-    "name": "The Buffalo Bills forfeited their 1980 sixth round pick after selecting Rod Stewart in the 1979 Supplemental draft",
-    "display_name": "The Buffalo Bills forfeited their 1980 sixth round pick after selecting Rod Stewart in the 1979 Supplemental draft",
-    "teams": [],
-    "college": [
-      "The Buffalo Bills forfeited their 1980 sixth round pick after selecting Rod Stewart in the 1979 Supplemental draft"
-    ],
-    "numbers": [],
-    "league": "NFL"
-  },
-  {
-    "name": "The Detroit Lions forfeited their 1983 ninth round pick after selecting Kevin Robinson in the 1982 Supplemental draft",
-    "display_name": "The Detroit Lions forfeited their 1983 ninth round pick after selecting Kevin Robinson in the 1982 Supplemental draft",
-    "teams": [],
-    "college": [
-      "The Detroit Lions forfeited their 1983 ninth round pick after selecting Kevin Robinson in the 1982 Supplemental draft"
-    ],
-    "numbers": [],
-    "league": "NFL"
-  },
-  {
-    "name": "The Houston Oilers forfeited their 1979 tenth round pick after selecting Johnnie Dirden in the 1978 Supplemental draft",
-    "display_name": "The Houston Oilers forfeited their 1979 tenth round pick after selecting Johnnie Dirden in the 1978 Supplemental draft",
-    "teams": [],
-    "college": [
-      "The Houston Oilers forfeited their 1979 tenth round pick after selecting Johnnie Dirden in the 1978 Supplemental draft"
-    ],
-    "numbers": [],
-    "league": "NFL"
-  },
-  {
-    "name": "The New England Patriots forfeited their 1979 seventh round pick by the NFL office for an illegal tryout",
-    "display_name": "The New England Patriots forfeited their 1979 seventh round pick by the NFL office for an illegal tryout",
-    "teams": [],
-    "college": [
-      "The New England Patriots forfeited their 1979 seventh round pick by the NFL office for an illegal tryout"
-    ],
-    "numbers": [],
-    "league": "NFL"
-  },
-  {
-    "name": "The New England Patriots forfeited their 1982 11th round pick after selecting Chy Davidson in the 1981 supplemental draft",
-    "display_name": "The New England Patriots forfeited their 1982 11th round pick after selecting Chy Davidson in the 1981 supplemental draft",
-    "teams": [],
-    "college": [
-      "The New England Patriots forfeited their 1982 11th round pick after selecting Chy Davidson in the 1981 supplemental draft"
-    ],
-    "numbers": [],
-    "league": "NFL"
-  },
-  {
-    "name": "The New Orleans Saints forfeited their 1982 first round pick after selecting Dave Wilson in the 1981 supplemental draft.",
-    "display_name": "The New Orleans Saints forfeited their 1982 first round pick after selecting Dave Wilson in the 1981 supplemental draft.",
-    "teams": [],
-    "college": [
-      "The New Orleans Saints forfeited their 1982 first round pick after selecting Dave Wilson in the 1981 supplemental draft."
-    ],
-    "numbers": [],
-    "league": "NFL"
-  },
-  {
-    "name": "The Oakland Raiders forfeited their 1980 fourth round pick for \"evasion of the player limit\" and \"stashing an unspecified number of players\"",
-    "display_name": "The Oakland Raiders forfeited their 1980 fourth round pick for \"evasion of the player limit\" and \"stashing an unspecified number of players\"",
-    "teams": [],
-    "college": [
-      "\"stashing an unspecified number of players\"",
-      "The Oakland Raiders forfeited their 1980 fourth round pick for \"evasion of the player limit\""
-    ],
-    "numbers": [],
-    "league": "NFL"
-  },
-  {
-    "name": "The Philadelphia Eagles forfeited their 1980 third round pick for holding an illegal tryout",
-    "display_name": "The Philadelphia Eagles forfeited their 1980 third round pick for holding an illegal tryout",
-    "teams": [],
-    "college": [
-      "The Philadelphia Eagles forfeited their 1980 third round pick for holding an illegal tryout"
-    ],
-    "numbers": [],
-    "league": "NFL"
-  },
-  {
-    "name": "The San Diego Chargers forfeited their 1981 ninth round pick after selecting Billy Mullins in the 1980 Supplemental draft",
-    "display_name": "The San Diego Chargers forfeited their 1981 ninth round pick after selecting Billy Mullins in the 1980 Supplemental draft",
-    "teams": [],
-    "college": [
-      "The San Diego Chargers forfeited their 1981 ninth round pick after selecting Billy Mullins in the 1980 Supplemental draft"
-    ],
-    "numbers": [],
-    "league": "NFL"
-  },
-  {
-    "name": "The San Francisco 49ers forfeited their 1979 twelth round pick after selecting Rod Conners in the 1978 Supplemental draft",
-    "display_name": "The San Francisco 49ers forfeited their 1979 twelth round pick after selecting Rod Conners in the 1978 Supplemental draft",
-    "teams": [],
-    "college": [
-      "The San Francisco 49ers forfeited their 1979 twelth round pick after selecting Rod Conners in the 1978 Supplemental draft"
-    ],
-    "numbers": [],
-    "league": "NFL"
-  },
-  {
-    "name": "The Seattle Seahawks forfeited their 1978 fourth round pick after selecting Al Hunter in the 1977 Supplemental draft",
-    "display_name": "The Seattle Seahawks forfeited their 1978 fourth round pick after selecting Al Hunter in the 1977 Supplemental draft",
-    "teams": [],
-    "college": [
-      "The Seattle Seahawks forfeited their 1978 fourth round pick after selecting Al Hunter in the 1977 Supplemental draft"
-    ],
-    "numbers": [],
-    "league": "NFL"
-  },
+
   {
     "name": "Theiren Cockran",
     "display_name": "Theiren Cockran",
@@ -545525,65 +545350,4 @@ export const NFL_PLAYERS = [
     "numbers": [],
     "league": "NFL"
   },
-  {
-    "name": "selection forfeited because of use of 3rd round selection in 2006 supplemental draft",
-    "display_name": "selection forfeited because of use of 3rd round selection in 2006 supplemental draft",
-    "teams": [],
-    "college": [
-      "selection forfeited because of use of 3rd round selection in 2006 supplemental draft"
-    ],
-    "numbers": [],
-    "league": "NFL"
-  },
-  {
-    "name": "selection forfeited because of use of fifth-round selection in 2005 Supplemental draft",
-    "display_name": "selection forfeited because of use of fifth-round selection in 2005 Supplemental draft",
-    "teams": [],
-    "college": [
-      "selection forfeited because of use of fifth-round selection in 2005 Supplemental draft"
-    ],
-    "numbers": [],
-    "league": "NFL"
-  },
-  {
-    "name": "selection forfeited due to salary-cap violations.",
-    "display_name": "selection forfeited due to salary-cap violations.",
-    "teams": [],
-    "college": [
-      "selection forfeited due to salary-cap violations."
-    ],
-    "numbers": [],
-    "league": "NFL"
-  },
-  {
-    "name": "selection forfeited due to use of sixth-round selection to choose Milford Brown in 2002 supplemental draft.",
-    "display_name": "selection forfeited due to use of sixth-round selection to choose Milford Brown in 2002 supplemental draft.",
-    "teams": [],
-    "college": [
-      "selection forfeited due to use of sixth-round selection to choose Milford Brown in 2002 supplemental draft."
-    ],
-    "numbers": [],
-    "league": "NFL"
-  },
-  {
-    "name": "selection forfeited in 2010 Supplemental draft",
-    "display_name": "selection forfeited in 2010 Supplemental draft",
-    "teams": [],
-    "college": [
-      "selection forfeited in 2010 Supplemental draft"
-    ],
-    "numbers": [],
-    "league": "NFL"
-  },
-  {
-    "name": "selection forfeited in the 2009 Supplemental draft",
-    "display_name": "selection forfeited in the 2009 Supplemental draft",
-    "teams": [],
-    "college": [
-      "selection forfeited in the 2009 Supplemental draft",
-      "selection forfeited in the 2011 Supplemental draft."
-    ],
-    "numbers": [],
-    "league": "NFL"
-  }
-];
+  
