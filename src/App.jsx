@@ -133,19 +133,19 @@ function Landing({ onFreePlay, onDaily, onRarity }) {
       <div className="how-it-works">
         <div className="how-label">HOW IT WORKS</div>
         <div className="how-chain">
-          <span className="how-pill how-team">Steelers</span>
+          <span className="how-pill how-team">Pirates</span>
           <span className="how-arr">→</span>
-          <span className="how-pill how-player">Polamalu</span>
+          <span className="how-pill how-player">Paul Skenes</span>
           <span className="how-arr">→</span>
-          <span className="how-pill how-college">USC</span>
+          <span className="how-pill how-college">LSU</span>
           <span className="how-arr">→</span>
-          <span className="how-pill how-player">Palmer</span>
+          <span className="how-pill how-player">Ja'Marr Chase</span>
           <span className="how-arr">→</span>
-          <span className="how-pill how-team">Bengals</span>
+          <span className="how-pill how-number">1</span>
           <span className="how-arr">→</span>
-          <span className="how-pill how-player">Burrow</span>
+          <span className="how-pill how-player">Victor Wembanyama</span>
           <span className="how-arr">→</span>
-          <span className="how-pill how-number">9</span>
+          <span className="how-pill how-team">Spurs</span>
         </div>
       </div>
 
