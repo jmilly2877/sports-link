@@ -1,5 +1,6 @@
 import { PLAYERS, TEAMS, COLLEGE_ALIASES } from "./database.js";
-import { TEAM_POPULARITY, PLAYER_FAME } from "./scoring.js";
+import { TEAM_POPULARITY } from "./scoring.js";
+import { getPlayerUsageCount } from "./playerUsage.js";
 
 const norm = (s) => String(s).toLowerCase().trim();
 
@@ -533,17 +534,22 @@ function getTeamPop(teamName) {
   return TEAM_POPULARITY[teamName] || 3;
 }
 
-function getPlayerFame(playerName) {
-  return PLAYER_FAME[playerName] || 3;
+// Higher score = rarer (fewer prior uses). Range: 5–100.
+// Formula: 100 / (uses + 1)^0.65
+// 0 uses → 100, 5 uses → ~46, 50 uses → ~20, 500 uses → ~8
+function playerRarityFromUsage(playerName) {
+  const uses = getPlayerUsageCount(playerName);
+  return Math.max(5, Math.round(100 / Math.pow(uses + 1, 0.65)));
 }
 
 export function getRarityScore(fromItem, fromType, toName, toType) {
   let points = 10;
 
   if (fromType === "team" && toType === "player") {
-    const fame = getPlayerFame(toName);
+    const rarity = playerRarityFromUsage(toName);
     const pop = getTeamPop(fromItem);
-    points = fame * pop * 4;
+    // Scale so max (rarity=100, pop=5) ≈ 100
+    points = Math.round(rarity * pop * 0.2);
   }
 
   else if (fromType === "player" && toType === "team") {
@@ -566,19 +572,19 @@ export function getRarityScore(fromItem, fromType, toName, toType) {
   }
 
   else if (fromType === "college" && toType === "player") {
-    const fame = getPlayerFame(toName);
+    const rarity = playerRarityFromUsage(toName);
     const collegePlayers = collegeToPlayers.get(norm(fromItem));
     const count = collegePlayers ? collegePlayers.length : 1;
     const collegeRarity = Math.round(50 / count);
-    points = fame * 3 + collegeRarity;
+    points = Math.round(rarity * 0.5 + collegeRarity);
   }
 
   else if (fromType === "number" && toType === "player") {
-    const fame = getPlayerFame(toName);
+    const rarity = playerRarityFromUsage(toName);
     const numPlayers = numberToPlayers.get(normalizeNumber(fromItem));
     const count = numPlayers ? numPlayers.length : 1;
     const numRarity = Math.round(50 / count);
-    points = fame * 3 + numRarity;
+    points = Math.round(rarity * 0.5 + numRarity);
   }
 
   return Math.max(1, Math.min(100, points));

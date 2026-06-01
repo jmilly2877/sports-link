@@ -7,6 +7,7 @@ import {
   getRarityScore,
   getSuggestionOptions,
 } from "./data/lookup.js";
+import { loadPlayerUsage, recordPlayerUse } from "./data/playerUsage.js";
 import { getDailyLinkChallenge } from "./data/pathSolver.js";
 
 const TYPE_LABELS = { team: "TEAM", player: "PLAYER", college: "COLLEGE", number: "NUMBER" };
@@ -336,6 +337,10 @@ setSuggestions(matches);
     if (result.valid) {
       const name = result.corrected_name;
       const type = result.type;
+
+      if (type === "player") {
+        recordPlayerUse(name);
+      }
 
       const points = showPoints
         ? getRarityScore(currentItem, currentType, name, type)
@@ -718,16 +723,7 @@ export default function App() {
   }
 
   useEffect(() => {
-    async function testSupabase() {
-      const { data, error } = await supabase
-        .from("relationships")
-        .select("*");
-
-      console.log("SUPABASE DATA:", data);
-      console.log("SUPABASE ERROR:", error);
-    }
-
-    testSupabase();
+    loadPlayerUsage();
   }, []);
 
   let screen;
