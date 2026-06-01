@@ -797,6 +797,141 @@ body {
   }
 }
 
+/* ===== RULES FAB ===== */
+.rules-fab {
+  position: fixed;
+  top: 16px;
+  right: 16px;
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  background: #ffffff;
+  border: 1px solid #e8e8e8;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.10);
+  color: #aaa;
+  font-size: 17px;
+  font-weight: 900;
+  font-family: inherit;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 500;
+  transition: all 0.15s;
+  line-height: 1;
+}
+
+.rules-fab:hover {
+  background: #f8f7f5;
+  border-color: #ccc;
+  color: #666;
+  box-shadow: 0 4px 14px rgba(0,0,0,0.13);
+}
+
+/* ===== RULES OVERLAY ===== */
+.rules-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,0.25);
+  backdrop-filter: blur(6px);
+  z-index: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 24px;
+}
+
+.rules-card {
+  position: relative;
+  width: min(480px, 92vw);
+  background: #ffffff;
+  border: 1px solid #f0f0f0;
+  border-radius: 24px;
+  padding: 36px 32px 32px;
+  box-shadow: 0 24px 64px rgba(0,0,0,0.13);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.rules-close {
+  position: absolute;
+  top: 14px;
+  right: 18px;
+  border: none;
+  background: transparent;
+  color: #ccc;
+  font-size: 30px;
+  cursor: pointer;
+  line-height: 1;
+  transition: color 0.15s;
+}
+
+.rules-close:hover { color: #999; }
+
+.rules-kicker {
+  font-size: 11px;
+  letter-spacing: 0.18em;
+  font-weight: 800;
+  color: #e05a00;
+  margin-bottom: 10px;
+}
+
+.rules-title {
+  font-size: 30px;
+  font-weight: 900;
+  letter-spacing: 0.02em;
+  color: #1a1a2e;
+  margin: 0 0 24px;
+}
+
+.rules-list {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  width: 100%;
+}
+
+.rules-item {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  text-align: left;
+  padding: 14px 16px;
+  background: #fafaf9;
+  border: 1px solid #f0f0f0;
+  border-radius: 14px;
+}
+
+.rules-badge {
+  flex-shrink: 0;
+  padding: 4px 10px;
+  border-radius: 5px;
+  font-size: 10px;
+  font-weight: 800;
+  letter-spacing: 1.5px;
+  color: #fff;
+  min-width: 68px;
+  text-align: center;
+}
+
+.rules-text {
+  font-size: 14px;
+  color: #666;
+  font-family: 'Barlow', sans-serif;
+  font-weight: 500;
+  line-height: 1.4;
+}
+
+@media (max-width: 480px) {
+  .rules-card { padding: 28px 20px 24px; }
+  .rules-title { font-size: 26px; }
+  .rules-item { gap: 10px; padding: 12px 14px; }
+  .rules-badge { min-width: 60px; font-size: 9px; }
+  .rules-text { font-size: 13px; }
+}
+
 /* ===== MOBILE ===== */
 @media (max-width: 480px) {
   .container { padding: 14px; }

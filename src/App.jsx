@@ -177,6 +177,36 @@ function Landing({ onFreePlay, onDaily, onRarity }) {
   );
 }
 
+function RulesOverlay({ onClose }) {
+  return (
+    <div className="rules-overlay" onClick={onClose}>
+      <div className="rules-card" onClick={(e) => e.stopPropagation()}>
+        <button className="rules-close" onClick={onClose}>×</button>
+        <div className="rules-kicker">HOW TO PLAY</div>
+        <h2 className="rules-title">The Rules</h2>
+        <div className="rules-list">
+          <div className="rules-item">
+            <span className="rules-badge" style={{ background: TYPE_COLORS.team }}>TEAM</span>
+            <span className="rules-text">Name a player who played for this team</span>
+          </div>
+          <div className="rules-item">
+            <span className="rules-badge" style={{ background: TYPE_COLORS.player }}>PLAYER</span>
+            <span className="rules-text">Name a team they played on, their college, or a jersey number they wore</span>
+          </div>
+          <div className="rules-item">
+            <span className="rules-badge" style={{ background: TYPE_COLORS.college }}>COLLEGE</span>
+            <span className="rules-text">Name a player who attended this school</span>
+          </div>
+          <div className="rules-item">
+            <span className="rules-badge" style={{ background: TYPE_COLORS.number }}>NUMBER</span>
+            <span className="rules-text">Name a player who wore this jersey number</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+}
+
 function Game({ onBack, modeType = "free", rarityLength = 10 }) {
   const dailyChallenge = modeType === "daily" ? getDailyLinkChallenge() : null;
 
@@ -674,12 +704,13 @@ inputMode="text"
 }
 
 
-  export default function App() {
+export default function App() {
   const [mode, setMode] = useState(null);
   const [rarityLength, setRarityLength] = useState(10);
   const [showTutorial, setShowTutorial] = useState(() => {
     return localStorage.getItem("sportsLinkTutorialSeen") !== "true";
   });
+  const [showRules, setShowRules] = useState(false);
 
   function closeTutorial() {
     localStorage.setItem("sportsLinkTutorialSeen", "true");
@@ -699,75 +730,87 @@ inputMode="text"
     testSupabase();
   }, []);
 
+  let screen;
+
   if (mode === "free") {
-    return <Game onBack={() => setMode(null)} modeType="free" />;
-  }
-
-  if (mode === "daily") {
-    return <Game onBack={() => setMode(null)} modeType="daily" />;
-  }
-
-  if (mode === "rarity") {
-    return (
+    screen = <Game onBack={() => setMode(null)} modeType="free" />;
+  } else if (mode === "daily") {
+    screen = <Game onBack={() => setMode(null)} modeType="daily" />;
+  } else if (mode === "rarity") {
+    screen = (
       <Game
         onBack={() => setMode(null)}
         modeType="rarity"
         rarityLength={rarityLength}
       />
     );
+  } else {
+    screen = (
+      <div className="container">
+        {showTutorial && (
+          <div className="tutorial-overlay">
+            <div className="tutorial-card">
+              <button className="tutorial-close" onClick={closeTutorial}>
+                ×
+              </button>
+
+              <div className="tutorial-kicker">HOW TO PLAY</div>
+              <h2>Build A Sports Chain</h2>
+
+              <p>Connect teams, players, colleges, and jersey numbers.</p>
+
+              <div className="tutorial-example">
+                <span>Pirates</span>
+                <span>→</span>
+                <span>Paul Skenes</span>
+                <span>→</span>
+                <span>LSU</span>
+                <span>→</span>
+                <span>Ja'Marr Chase</span>
+                <span>→</span>
+                <span>1</span>
+                <span>→</span>
+                <span>Victor Wembanyama</span>
+                <span>→</span>
+                <span>Spurs</span>
+              </div>
+
+              <div className="tutorial-rules">
+                <p><strong>Teams</strong> connect to players who played for them.</p>
+                <p><strong>Players</strong> connect to their teams, colleges, or numbers.</p>
+                <p><strong>Colleges and numbers</strong> connect back to players.</p>
+              </div>
+
+              <button className="tutorial-btn" onClick={closeTutorial}>
+                Start Playing
+              </button>
+            </div>
+          </div>
+        )}
+
+        <Landing
+          onFreePlay={() => setMode("free")}
+          onDaily={() => setMode("daily")}
+          onRarity={(len) => {
+            setRarityLength(len);
+            setMode("rarity");
+          }}
+        />
+      </div>
+    );
   }
 
   return (
-  <div className="container">
-    {showTutorial && (
-      <div className="tutorial-overlay">
-        <div className="tutorial-card">
-          <button className="tutorial-close" onClick={closeTutorial}>
-            ×
-          </button>
-
-          <div className="tutorial-kicker">HOW TO PLAY</div>
-          <h2>Build A Sports Chain</h2>
-
-          <p>Connect teams, players, colleges, and jersey numbers.</p>
-
-          <div className="tutorial-example">
-            <span>Pirates</span>
-            <span>→</span>
-            <span>Paul Skenes</span>
-            <span>→</span>
-            <span>LSU</span>
-            <span>→</span>
-            <span>Ja'Marr Chase</span>
-            <span>→</span>
-            <span>1</span>
-            <span>→</span>
-            <span>Victor Wembanyama</span>
-            <span>→</span>
-            <span>Spurs</span>
-          </div>
-
-          <div className="tutorial-rules">
-            <p><strong>Teams</strong> connect to players who played for them.</p>
-            <p><strong>Players</strong> connect to their teams, colleges, or numbers.</p>
-            <p><strong>Colleges and numbers</strong> connect back to players.</p>
-          </div>
-
-          <button className="tutorial-btn" onClick={closeTutorial}>
-            Start Playing
-          </button>
-        </div>
-      </div>
-    )}
-
-    <Landing
-      onFreePlay={() => setMode("free")}
-      onDaily={() => setMode("daily")}
-      onRarity={(len) => {
-        setRarityLength(len);
-        setMode("rarity");
-      }}
-    />
-  </div>
-);
+    <>
+      {screen}
+      <button
+        className="rules-fab"
+        onClick={() => setShowRules(true)}
+        aria-label="Rules"
+      >
+        ?
+      </button>
+      {showRules && <RulesOverlay onClose={() => setShowRules(false)} />}
+    </>
+  );
 }
