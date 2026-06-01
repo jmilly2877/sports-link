@@ -549,6 +549,12 @@ setSuggestions(matches);
             <input
               ref={inputRef}
               className="game-input"
+              autoComplete="off"
+autoCorrect="off"
+autoCapitalize="off"
+spellCheck="false"
+name="sports-link-input"
+inputMode="text"
               style={{ borderColor: "#ff4444", color: "#ff4444" }}
               placeholder="Enter a team..."
               value={input}
@@ -606,6 +612,12 @@ setSuggestions(matches);
                 <input
                   ref={inputRef}
                   className="game-input"
+                  autoComplete="off"
+autoCorrect="off"
+autoCapitalize="off"
+spellCheck="false"
+name="sports-link-input"
+inputMode="text"
                   style={{
                     borderColor: activeColor,
                     color: activeColor,
