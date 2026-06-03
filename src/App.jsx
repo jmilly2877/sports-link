@@ -292,19 +292,24 @@ function Game({ onBack, modeType = "free", rarityLength = 10 }) {
 
     const options = getSuggestionOptions(type);
 
-   const startsWithMatches = options.filter((option) =>
-  option.toLowerCase().startsWith(query)
-);
+    const fuzzyNorm = (s) => s.toLowerCase().replace(/[.\-']/g, "");
+    const normQuery = fuzzyNorm(query);
 
-const includesMatches = options.filter((option) =>
-  !option.toLowerCase().startsWith(query) &&
-  option.toLowerCase().includes(query)
-);
+    const startsWithMatches = options.filter((option) => {
+      const lo = option.toLowerCase();
+      return lo.startsWith(query) || fuzzyNorm(option).startsWith(normQuery);
+    });
 
-const matches = [
-  ...startsWithMatches,
-  ...includesMatches,
-].slice(0, 8);
+    const includesMatches = options.filter((option) => {
+      if (startsWithMatches.includes(option)) return false;
+      const lo = option.toLowerCase();
+      return lo.includes(query) || fuzzyNorm(option).includes(normQuery);
+    });
+
+    const matches = [
+      ...startsWithMatches,
+      ...includesMatches,
+    ].slice(0, 8);
 
 setSuggestions(matches);
   };
@@ -343,6 +348,12 @@ setSuggestions(matches);
     if (result.valid) {
       const name = result.corrected_name;
       const type = result.type;
+
+      const prevItem = history.length >= 2 ? history[history.length - 2] : null;
+      if (prevItem && prevItem.name === name) {
+        setError(`You just came from ${name} — you can't go straight back.`);
+        return;
+      }
 
       if (type === "player") {
         recordPlayerUse(name);
