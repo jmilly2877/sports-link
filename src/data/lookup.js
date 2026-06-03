@@ -60,12 +60,18 @@ function getNumbers(player) {
 }
 
 const teamAliasMap = new Map();
+const teamLeagueMap = new Map();
 TEAMS.forEach((t) => {
   teamAliasMap.set(norm(t.name), t.name);
+  teamLeagueMap.set(norm(t.name), t.league);
   t.aliases.forEach((a) => {
     if (a) teamAliasMap.set(norm(a), t.name);
   });
 });
+
+export function getTeamLeague(teamName) {
+  return teamLeagueMap.get(norm(teamName)) || null;
+}
 
 export const TEAM_ALIASES = {
   // NBA

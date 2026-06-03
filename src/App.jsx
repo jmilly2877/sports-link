@@ -6,6 +6,7 @@ import {
   getStats,
   getRarityScore,
   getSuggestionOptions,
+  getTeamLeague,
 } from "./data/lookup.js";
 import { loadPlayerUsage, recordPlayerUse } from "./data/playerUsage.js";
 import { getDailyLinkChallenge } from "./data/pathSolver.js";
@@ -24,7 +25,12 @@ const TYPE_HINTS = {
   college: "Name a player who went to this school",
   number: "Name a player who wore this number",
 };
-const TYPE_EMOJI = { team: "🔴", player: "🔵", college: "🟡", number: "🟢" };
+const TYPE_EMOJI = { player: "🏃‍♂️", number: "#️⃣", college: "🎓" };
+const TEAM_LEAGUE_EMOJI = { MLB: "⚾️", NFL: "🏈", NBA: "🏀" };
+function getItemEmoji(item) {
+  if (item.type === "team") return TEAM_LEAGUE_EMOJI[getTeamLeague(item.name)] || "🏅";
+  return TYPE_EMOJI[item.type] || "❓";
+}
 
 function History({ history, showPoints }) {
   const ref = useRef(null);
@@ -414,7 +420,7 @@ setSuggestions(matches);
       day: "numeric",
     });
 
-    const chain = history.map((h) => TYPE_EMOJI[h.type]).join("");
+    const chain = history.map((h) => getItemEmoji(h)).join("");
 
     let modeLabel = "Free Play";
     if (isDaily) modeLabel = "Daily Link";
@@ -434,7 +440,7 @@ setSuggestions(matches);
     }
 
     text += wrongAnswer ? " ❌" : " ✅";
-    text += "\n\nsportslink1.vercel.app";
+    text += "\n\nsportslinkgame.com";
 
     try {
       await navigator.clipboard.writeText(text);
