@@ -219,7 +219,7 @@ function Game({ onBack, modeType = "free", rarityLength = 10 }) {
 
   const isDaily = modeType === "daily";
   const isRarity = modeType === "rarity";
-  const showPoints = isDaily || isRarity;
+  const showPoints = isDaily || isRarity || modeType === "free";
 
   const startName = isDaily ? dailyChallenge.startName : null;
   const startType = isDaily ? dailyChallenge.startType : null;
