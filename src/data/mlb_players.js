@@ -28431,7 +28431,7 @@ export const MLB_PLAYERS = [
     "college": [
       "Georgetown"
     ],
-    "numbers": [],
+    "numbers": [1],
     "league": "MLB",
     "display_name": "Billy Martin"
   },
