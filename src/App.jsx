@@ -79,7 +79,7 @@ function History({ history, showPoints }) {
   );
 }
 
-function Landing({ onFreePlay, onDaily, onRarity, onRules }) {
+function Landing({ onFreePlay, onDaily, onRarity, onRules, onPrivacy }) {
   const stats = getStats();
   const today = new Date().toLocaleDateString("en-US", {
     month: "short",
@@ -181,7 +181,67 @@ function Landing({ onFreePlay, onDaily, onRarity, onRules }) {
         <span className="league-tag">MLB</span>
       </p>
 
-      <button className="rules-page-link" onClick={onRules}>How to Play →</button>
+      <div className="landing-footer-links">
+        <button className="rules-page-link" onClick={onRules}>How to Play</button>
+        <span className="landing-footer-sep">·</span>
+        <button className="rules-page-link" onClick={onPrivacy}>Privacy Policy</button>
+      </div>
+    </div>
+  );
+}
+
+function PrivacyPage({ onBack }) {
+  return (
+    <div className="container">
+      <div className="rules-page">
+        <button className="back-btn" onClick={onBack}>← MENU</button>
+
+        <div className="rules-page-header">
+          <div className="rules-kicker">SPORTS LINK</div>
+          <h1 className="rules-page-title">Privacy Policy</h1>
+          <p className="rules-page-p" style={{ marginTop: 8, textAlign: "center" }}>Last updated: June 4, 2026</p>
+        </div>
+
+        <div className="rules-page-section">
+          <h2 className="rules-page-h2">Overview</h2>
+          <p className="rules-page-p">Sports Link is a free, browser-based game. We are committed to keeping your experience simple and your data minimal. We do not sell, share, or monetize any information about our users.</p>
+        </div>
+
+        <div className="rules-page-section">
+          <h2 className="rules-page-h2">Data We Collect</h2>
+          <p className="rules-page-p">We collect limited, anonymous usage data to improve the game. Specifically, we track which players are used in chains in aggregate — no personal information is attached to this data. We also store any error reports you voluntarily submit through the "Report Error" form, which includes only what you type into that form.</p>
+        </div>
+
+        <div className="rules-page-section">
+          <h2 className="rules-page-h2">Local Storage</h2>
+          <p className="rules-page-p">We use your browser's local storage solely to remember whether you have seen the tutorial. This data never leaves your device and is not transmitted to any server.</p>
+        </div>
+
+        <div className="rules-page-section">
+          <h2 className="rules-page-h2">Third-Party Services</h2>
+          <p className="rules-page-p">Sports Link uses Supabase to store aggregate player usage data and error report submissions. Supabase's own privacy policy governs how they handle that data. We do not use advertising networks, tracking pixels, or any other third-party analytics beyond what is inherent to our hosting provider (Vercel).</p>
+        </div>
+
+        <div className="rules-page-section">
+          <h2 className="rules-page-h2">Cookies</h2>
+          <p className="rules-page-p">We do not use cookies.</p>
+        </div>
+
+        <div className="rules-page-section">
+          <h2 className="rules-page-h2">Children's Privacy</h2>
+          <p className="rules-page-p">Sports Link does not knowingly collect any information from children under the age of 13. The game is intended for general audiences and requires no account or personal information to play.</p>
+        </div>
+
+        <div className="rules-page-section">
+          <h2 className="rules-page-h2">Changes to This Policy</h2>
+          <p className="rules-page-p">We may update this policy from time to time. Any changes will be reflected on this page with an updated date.</p>
+        </div>
+
+        <div className="rules-page-section">
+          <h2 className="rules-page-h2">Contact</h2>
+          <p className="rules-page-p">If you have any questions about this privacy policy, you can reach us through the "Report Error" form in the app.</p>
+        </div>
+      </div>
     </div>
   );
 }
@@ -911,6 +971,8 @@ export default function App() {
     );
   } else if (mode === "rules") {
     screen = <RulesPage onBack={() => setMode(null)} onReport={() => { setMode(null); setShowReport(true); }} />;
+  } else if (mode === "privacy") {
+    screen = <PrivacyPage onBack={() => setMode(null)} />;
   } else {
     screen = (
       <div className="container">
@@ -963,6 +1025,7 @@ export default function App() {
             setMode("rarity");
           }}
           onRules={() => setMode("rules")}
+          onPrivacy={() => setMode("privacy")}
         />
       </div>
     );

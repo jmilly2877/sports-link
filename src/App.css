@@ -1051,6 +1051,18 @@ body {
 
 .rules-page-link:hover { color: #888; }
 
+.landing-footer-links {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-top: 4px;
+}
+
+.landing-footer-sep {
+  color: #ddd;
+  font-size: 13px;
+}
+
 @media (max-width: 480px) {
   .rules-page-section { padding: 18px 16px; }
   .rules-page-title { font-size: 28px; }
