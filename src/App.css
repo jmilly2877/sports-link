@@ -947,6 +947,116 @@ body {
   .how-pill { font-size: 13px; padding: 5px 12px; }
 }
 
+/* ===== RULES PAGE ===== */
+.rules-page {
+  width: min(600px, 100%);
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+  padding: 16px 0 48px;
+}
+
+.rules-page-header {
+  text-align: center;
+  padding: 24px 0 32px;
+}
+
+.rules-page-title {
+  font-size: 36px;
+  font-weight: 900;
+  letter-spacing: 0.02em;
+  color: #1a1a2e;
+  margin: 8px 0 0;
+}
+
+.rules-page-h2 {
+  font-size: 14px;
+  font-weight: 800;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: #e05a00;
+  margin: 0 0 10px;
+}
+
+.rules-page-section {
+  padding: 22px 24px;
+  border: 1px solid #f0f0f0;
+  border-radius: 18px;
+  background: #fafaf9;
+  margin-bottom: 12px;
+}
+
+.rules-page-p {
+  font-size: 15px;
+  color: #555;
+  line-height: 1.6;
+  margin: 0;
+  font-family: 'Barlow', sans-serif;
+  font-weight: 500;
+}
+
+.rules-page-rows {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-top: 14px;
+}
+
+.rules-page-row {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.rules-page-arrow {
+  color: #ccc;
+  font-size: 16px;
+  flex-shrink: 0;
+}
+
+.rules-page-text {
+  font-size: 14px;
+  color: #666;
+  font-family: 'Barlow', sans-serif;
+  font-weight: 500;
+  line-height: 1.4;
+}
+
+.rules-page-inline-btn {
+  background: none;
+  border: none;
+  padding: 0;
+  font: inherit;
+  font-size: inherit;
+  color: #e05a00;
+  font-weight: 700;
+  cursor: pointer;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.rules-page-link {
+  background: none;
+  border: none;
+  padding: 4px 0;
+  font-family: inherit;
+  font-size: 13px;
+  font-weight: 700;
+  color: #bbb;
+  cursor: pointer;
+  letter-spacing: 0.05em;
+  margin-top: 4px;
+  transition: color 0.15s;
+}
+
+.rules-page-link:hover { color: #888; }
+
+@media (max-width: 480px) {
+  .rules-page-section { padding: 18px 16px; }
+  .rules-page-title { font-size: 28px; }
+  .rules-page-row { flex-wrap: wrap; }
+}
+
 /* ===== REPORT TAB ===== */
 .report-tab {
   position: fixed;

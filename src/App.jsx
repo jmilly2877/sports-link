@@ -79,7 +79,7 @@ function History({ history, showPoints }) {
   );
 }
 
-function Landing({ onFreePlay, onDaily, onRarity }) {
+function Landing({ onFreePlay, onDaily, onRarity, onRules }) {
   const stats = getStats();
   const today = new Date().toLocaleDateString("en-US", {
     month: "short",
@@ -180,6 +180,75 @@ function Landing({ onFreePlay, onDaily, onRarity }) {
         <span className="league-tag">NBA</span>
         <span className="league-tag">MLB</span>
       </p>
+
+      <button className="rules-page-link" onClick={onRules}>How to Play →</button>
+    </div>
+  );
+}
+
+function RulesPage({ onBack, onReport }) {
+  return (
+    <div className="container">
+      <div className="rules-page">
+        <button className="back-btn" onClick={onBack}>← MENU</button>
+
+        <div className="rules-page-header">
+          <div className="rules-kicker">SPORTS LINK</div>
+          <h1 className="rules-page-title">How to Play</h1>
+        </div>
+
+        <div className="rules-page-section">
+          <h2 className="rules-page-h2">Building a Chain</h2>
+          <p className="rules-page-p">Connect teams, players, colleges, and jersey numbers in a continuous chain. Each link must be valid — a real connection in the data.</p>
+          <div className="rules-page-rows">
+            <div className="rules-page-row">
+              <span className="how-pill how-team">TEAM</span>
+              <span className="rules-page-arrow">→</span>
+              <span className="rules-page-text">Name a player who played for that team</span>
+            </div>
+            <div className="rules-page-row">
+              <span className="how-pill how-player">PLAYER</span>
+              <span className="rules-page-arrow">→</span>
+              <span className="rules-page-text">Name one of their teams, their college, or a jersey number they wore</span>
+            </div>
+            <div className="rules-page-row">
+              <span className="how-pill how-college">COLLEGE</span>
+              <span className="rules-page-arrow">→</span>
+              <span className="rules-page-text">Name a player who attended that school</span>
+            </div>
+            <div className="rules-page-row">
+              <span className="how-pill how-number">NUMBER</span>
+              <span className="rules-page-arrow">→</span>
+              <span className="rules-page-text">Name a player who wore that jersey number</span>
+            </div>
+          </div>
+        </div>
+
+        <div className="rules-page-section">
+          <h2 className="rules-page-h2">Wrong Answers</h2>
+          <p className="rules-page-p">A wrong answer ends the game immediately. The game checks that the connection actually exists in the database, so make sure the link is real before submitting.</p>
+        </div>
+
+        <div className="rules-page-section">
+          <h2 className="rules-page-h2">No Backtracking</h2>
+          <p className="rules-page-p">You cannot go straight back to the item you just came from. For example, if your chain is <strong>Eagles → Jalen Hurts</strong>, you cannot immediately say <strong>Eagles</strong> again. You can revisit a team or player later through a different path.</p>
+        </div>
+
+        <div className="rules-page-section">
+          <h2 className="rules-page-h2">Daily Challenge</h2>
+          <p className="rules-page-p">Each day a new challenge is posted with a fixed start team and a goal team. Your goal is to build a chain from start to goal in as few links as possible. The par score is shown on the menu — try to match or beat it.</p>
+        </div>
+
+        <div className="rules-page-section">
+          <h2 className="rules-page-h2">Free Play</h2>
+          <p className="rules-page-p">Pick any NFL, NBA, or MLB team to start. Build the longest or rarest chain you can — there's no goal and no limit.</p>
+        </div>
+
+        <div className="rules-page-section">
+          <h2 className="rules-page-h2">Data</h2>
+          <p className="rules-page-p">The database covers NFL, NBA, and MLB players and is updated periodically. The most recent update was around <strong>May 23, 2026</strong>. Some data gaps may exist — if a valid connection isn't being accepted, use the <button className="rules-page-inline-btn" onClick={onReport}>Report Error</button> button to let us know and we'll get it fixed.</p>
+        </div>
+      </div>
     </div>
   );
 }
@@ -840,6 +909,8 @@ export default function App() {
         rarityLength={rarityLength}
       />
     );
+  } else if (mode === "rules") {
+    screen = <RulesPage onBack={() => setMode(null)} onReport={() => { setMode(null); setShowReport(true); }} />;
   } else {
     screen = (
       <div className="container">
@@ -891,6 +962,7 @@ export default function App() {
             setRarityLength(len);
             setMode("rarity");
           }}
+          onRules={() => setMode("rules")}
         />
       </div>
     );
