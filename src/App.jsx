@@ -184,6 +184,88 @@ function Landing({ onFreePlay, onDaily, onRarity }) {
   );
 }
 
+function ReportOverlay({ onClose }) {
+  const [searchedFor, setSearchedFor] = useState("");
+  const [correctAnswer, setCorrectAnswer] = useState("");
+  const [note, setNote] = useState("");
+  const [status, setStatus] = useState(null); // "submitting" | "success" | "error"
+
+  const submit = async (e) => {
+    e.preventDefault();
+    if (!searchedFor.trim() || !correctAnswer.trim()) return;
+    setStatus("submitting");
+    const { error } = await supabase.from("data_reports").insert({
+      searched_for: searchedFor.trim(),
+      correct_answer: correctAnswer.trim(),
+      note: note.trim() || null,
+    });
+    setStatus(error ? "error" : "success");
+  };
+
+  return (
+    <div className="rules-overlay" onClick={onClose}>
+      <div className="rules-card report-card" onClick={(e) => e.stopPropagation()}>
+        <button className="rules-close" onClick={onClose}>×</button>
+        <div className="rules-kicker">HELP US IMPROVE</div>
+        <h2 className="rules-title">Report Missing Data</h2>
+
+        {status === "success" ? (
+          <div className="report-success">
+            <div className="report-success-icon">✓</div>
+            <p>Thanks! We'll review your report.</p>
+            <button className="btn-primary" onClick={onClose}>Close</button>
+          </div>
+        ) : (
+          <form className="report-form" onSubmit={submit}>
+            <div className="report-field">
+              <label className="report-label">What did you search for?</label>
+              <input
+                className="report-input"
+                type="text"
+                placeholder="e.g. A.J. Brown, Notre Dame"
+                value={searchedFor}
+                onChange={(e) => setSearchedFor(e.target.value)}
+                required
+              />
+            </div>
+            <div className="report-field">
+              <label className="report-label">What should the correct answer be?</label>
+              <input
+                className="report-input"
+                type="text"
+                placeholder="e.g. Player should link to Eagles"
+                value={correctAnswer}
+                onChange={(e) => setCorrectAnswer(e.target.value)}
+                required
+              />
+            </div>
+            <div className="report-field">
+              <label className="report-label">Additional notes <span className="report-optional">(optional)</span></label>
+              <textarea
+                className="report-input report-textarea"
+                placeholder="Any extra context..."
+                value={note}
+                onChange={(e) => setNote(e.target.value)}
+                rows={3}
+              />
+            </div>
+            {status === "error" && (
+              <p className="report-error">Something went wrong. Please try again.</p>
+            )}
+            <button
+              className="btn-primary"
+              type="submit"
+              disabled={status === "submitting" || !searchedFor.trim() || !correctAnswer.trim()}
+            >
+              {status === "submitting" ? "Submitting..." : "Submit Report"}
+            </button>
+          </form>
+        )}
+      </div>
+    </div>
+  );
+}
+
 function RulesOverlay({ onClose }) {
   return (
     <div className="rules-overlay" onClick={onClose}>
@@ -733,6 +815,7 @@ export default function App() {
     return localStorage.getItem("sportsLinkTutorialSeen") !== "true";
   });
   const [showRules, setShowRules] = useState(false);
+  const [showReport, setShowReport] = useState(false);
 
   function closeTutorial() {
     localStorage.setItem("sportsLinkTutorialSeen", "true");
@@ -823,7 +906,15 @@ export default function App() {
       >
         ?
       </button>
+      <button
+        className="report-fab"
+        onClick={() => setShowReport(true)}
+        aria-label="Report missing data"
+      >
+        !
+      </button>
       {showRules && <RulesOverlay onClose={() => setShowRules(false)} />}
+      {showReport && <ReportOverlay onClose={() => setShowReport(false)} />}
     </>
   );
 }
