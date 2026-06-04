@@ -1042,14 +1042,14 @@ body {
   font-family: inherit;
   font-size: 13px;
   font-weight: 700;
-  color: #bbb;
+  color: #e05a00;
   cursor: pointer;
   letter-spacing: 0.05em;
   margin-top: 4px;
   transition: color 0.15s;
 }
 
-.rules-page-link:hover { color: #888; }
+.rules-page-link:hover { color: #c04800; }
 
 .landing-footer-links {
   display: flex;
