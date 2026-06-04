@@ -907,11 +907,11 @@ export default function App() {
         ?
       </button>
       <button
-        className="report-fab"
+        className="report-tab"
         onClick={() => setShowReport(true)}
         aria-label="Report missing data"
       >
-        !
+        Report Error
       </button>
       {showRules && <RulesOverlay onClose={() => setShowRules(false)} />}
       {showReport && <ReportOverlay onClose={() => setShowReport(false)} />}
