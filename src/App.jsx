@@ -7,6 +7,10 @@ import {
   getRarityScore,
   getSuggestionOptions,
   getTeamLeague,
+  findAnyItem,
+  getRandomChallenge,
+  goalReached,
+  getSetupSuggestions,
 } from "./data/lookup.js";
 import { loadPlayerUsage, recordPlayerUse } from "./data/playerUsage.js";
 import { getDailyLinkChallenge } from "./data/pathSolver.js";
@@ -79,7 +83,7 @@ function History({ history, showPoints }) {
   );
 }
 
-function Landing({ onFreePlay, onDaily, onRarity, onRules, onPrivacy }) {
+function Landing({ onFreePlay, onDaily, onRarity, onChallenge, onRules, onPrivacy }) {
   const stats = getStats();
   const today = new Date().toLocaleDateString("en-US", {
     month: "short",
@@ -137,6 +141,14 @@ function Landing({ onFreePlay, onDaily, onRarity, onRules, onPrivacy }) {
           <div className="mode-btn-title" style={{ marginBottom: 6 }}>Free play</div>
           <div className="mode-btn-desc">Pick any team. No limits.</div>
         </button>
+
+        <button className="mode-btn challenge-btn" onClick={onChallenge}>
+          <div className="mode-btn-top">
+            <span className="mode-btn-icon">🔗</span>
+            <span className="mode-btn-title">CHALLENGE</span>
+          </div>
+          <div className="mode-btn-desc">Set a chain, share the link, challenge a friend.</div>
+        </button>
       </div>
 
       <div className="how-it-works">
@@ -185,6 +197,183 @@ function Landing({ onFreePlay, onDaily, onRarity, onRules, onPrivacy }) {
         <button className="rules-page-link" onClick={onRules}>How to Play</button>
         <span className="landing-footer-sep">·</span>
         <button className="rules-page-link" onClick={onPrivacy}>Privacy Policy</button>
+      </div>
+    </div>
+  );
+}
+
+function ChallengeSetup({ onBack, onPlay }) {
+  const [tab, setTab] = useState("random");
+  const [random, setRandom] = useState(() => getRandomChallenge());
+  const [startInput, setStartInput] = useState("");
+  const [goalInput, setGoalInput] = useState("");
+  const [startItem, setStartItem] = useState(null);
+  const [goalItem, setGoalItem] = useState(null);
+  const [startErr, setStartErr] = useState("");
+  const [goalErr, setGoalErr] = useState("");
+  const [startSugs, setStartSugs] = useState([]);
+  const [goalSugs, setGoalSugs] = useState([]);
+  const [copiedLink, setCopiedLink] = useState(false);
+  const pickedRef = useRef(false);
+
+  const resolveField = (value, setItem, setErr) => {
+    if (!value.trim()) return;
+    const result = findAnyItem(value);
+    if (result) { setItem(result); setErr(""); }
+    else { setItem(null); setErr("Not recognized. Try a team, player, college, or jersey number."); }
+  };
+
+  const pickSuggestion = (sug, setInput, setItem, setErr, setSugs) => {
+    pickedRef.current = true;
+    setInput(sug.name);
+    setItem(sug);
+    setErr("");
+    setSugs([]);
+  };
+
+  const handleBlur = (value, setItem, setErr, setSugs) => {
+    setTimeout(() => {
+      if (!pickedRef.current) resolveField(value, setItem, setErr);
+      pickedRef.current = false;
+      setSugs([]);
+    }, 150);
+  };
+
+  const activeChallenge = tab === "random"
+    ? random
+    : (startItem && goalItem ? { startName: startItem.name, startType: startItem.type, goalName: goalItem.name, goalType: goalItem.type } : null);
+
+  const copyLink = async () => {
+    if (!activeChallenge) return;
+    const params = new URLSearchParams({
+      start: activeChallenge.startName,
+      startType: activeChallenge.startType,
+      goal: activeChallenge.goalName,
+      goalType: activeChallenge.goalType,
+    });
+    const url = `https://sportslinkgame.com?${params}`;
+    try { await navigator.clipboard.writeText(url); }
+    catch {
+      const ta = document.createElement("textarea");
+      ta.value = url; document.body.appendChild(ta); ta.select();
+      document.execCommand("copy"); document.body.removeChild(ta);
+    }
+    setCopiedLink(true);
+    setTimeout(() => setCopiedLink(false), 2500);
+  };
+
+  return (
+    <div className="container">
+      <div className="challenge-setup">
+        <button className="back-btn" onClick={onBack}>← MENU</button>
+
+        <div className="challenge-setup-header">
+          <div className="rules-kicker">SPORTS LINK</div>
+          <h1 className="challenge-setup-title">Challenge</h1>
+          <p className="challenge-setup-desc">Set a chain. Share the link. See who can solve it in fewer links.</p>
+        </div>
+
+        <div className="challenge-tabs">
+          <button className={`challenge-tab-btn${tab === "random" ? " active" : ""}`} onClick={() => setTab("random")}>Random</button>
+          <button className={`challenge-tab-btn${tab === "custom" ? " active" : ""}`} onClick={() => setTab("custom")}>Custom</button>
+        </div>
+
+        {tab === "random" && (
+          <div className="challenge-card">
+            <div className="challenge-route">
+              <div className="challenge-node">
+                <div className="challenge-node-label">{TYPE_LABELS[random.startType]}</div>
+                <div className="challenge-node-name">{random.startName}</div>
+              </div>
+              <div className="challenge-arrow">→</div>
+              <div className="challenge-node">
+                <div className="challenge-node-label">{TYPE_LABELS[random.goalType]}</div>
+                <div className="challenge-node-name">{random.goalName}</div>
+              </div>
+            </div>
+            <button className="challenge-refresh-btn" onClick={() => setRandom(getRandomChallenge())}>🔀 New Random</button>
+          </div>
+        )}
+
+        {tab === "custom" && (
+          <div className="challenge-custom">
+            <div className="challenge-custom-field">
+              <label className="report-label">Start</label>
+              <div className="challenge-input-wrap">
+                <input
+                  className="report-input"
+                  placeholder="Team, player, college, or number"
+                  value={startInput}
+                  onChange={(e) => {
+                    const v = e.target.value;
+                    setStartInput(v); setStartItem(null); setStartErr("");
+                    setStartSugs(getSetupSuggestions(v));
+                  }}
+                  onBlur={() => handleBlur(startInput, setStartItem, setStartErr, setStartSugs)}
+                />
+                {startSugs.length > 0 && (
+                  <div className="suggestions-box">
+                    {startSugs.map((s) => (
+                      <button key={s.name} className="suggestion-item" onMouseDown={() => pickSuggestion(s, setStartInput, setStartItem, setStartErr, setStartSugs)}>
+                        <span className={`sug-type-badge sug-${s.type}`}>{TYPE_LABELS[s.type]}</span>
+                        {s.name}
+                      </button>
+                    ))}
+                  </div>
+                )}
+              </div>
+              {startErr && <p className="report-error">{startErr}</p>}
+              {startItem && (
+                <div className="challenge-resolved">
+                  <span className={`how-pill how-${startItem.type}`}>{TYPE_LABELS[startItem.type]}</span>
+                  <span className="challenge-resolved-name">{startItem.name}</span>
+                </div>
+              )}
+            </div>
+            <div className="challenge-custom-field">
+              <label className="report-label">Goal</label>
+              <div className="challenge-input-wrap">
+                <input
+                  className="report-input"
+                  placeholder="Team, player, college, or number"
+                  value={goalInput}
+                  onChange={(e) => {
+                    const v = e.target.value;
+                    setGoalInput(v); setGoalItem(null); setGoalErr("");
+                    setGoalSugs(getSetupSuggestions(v));
+                  }}
+                  onBlur={() => handleBlur(goalInput, setGoalItem, setGoalErr, setGoalSugs)}
+                />
+                {goalSugs.length > 0 && (
+                  <div className="suggestions-box">
+                    {goalSugs.map((s) => (
+                      <button key={s.name} className="suggestion-item" onMouseDown={() => pickSuggestion(s, setGoalInput, setGoalItem, setGoalErr, setGoalSugs)}>
+                        <span className={`sug-type-badge sug-${s.type}`}>{TYPE_LABELS[s.type]}</span>
+                        {s.name}
+                      </button>
+                    ))}
+                  </div>
+                )}
+              </div>
+              {goalErr && <p className="report-error">{goalErr}</p>}
+              {goalItem && (
+                <div className="challenge-resolved">
+                  <span className={`how-pill how-${goalItem.type}`}>{TYPE_LABELS[goalItem.type]}</span>
+                  <span className="challenge-resolved-name">{goalItem.name}</span>
+                </div>
+              )}
+            </div>
+          </div>
+        )}
+
+        <div className="btn-row" style={{ marginTop: 20 }}>
+          <button className="btn-primary" disabled={!activeChallenge} onClick={() => activeChallenge && onPlay(activeChallenge)}>
+            Play
+          </button>
+          <button className="btn-share" disabled={!activeChallenge} onClick={copyLink}>
+            {copiedLink ? "✓ COPIED!" : "🔗 Share Link"}
+          </button>
+        </div>
       </div>
     </div>
   );
@@ -425,26 +614,28 @@ function RulesOverlay({ onClose }) {
   );
 }
 
-function Game({ onBack, modeType = "free", rarityLength = 10 }) {
+function Game({ onBack, modeType = "free", rarityLength = 10, challengeStart = null, challengeStartType = null, challengeGoal = null, challengeGoalType = null }) {
   const dailyChallenge = modeType === "daily" ? getDailyLinkChallenge() : null;
 
   const isDaily = modeType === "daily";
   const isRarity = modeType === "rarity";
-  const showPoints = isDaily || isRarity || modeType === "free";
+  const isChallenge = modeType === "challenge";
+  const hasGoal = isDaily || isChallenge;
+  const showPoints = true;
 
-  const startName = isDaily ? dailyChallenge.startName : null;
-  const startType = isDaily ? dailyChallenge.startType : null;
-  const goalName = isDaily ? dailyChallenge.goalName : null;
-  const goalType = isDaily ? dailyChallenge.goalType : null;
+  const startName = isDaily ? dailyChallenge.startName : isChallenge ? challengeStart : null;
+  const startType = isDaily ? dailyChallenge.startType : isChallenge ? challengeStartType : null;
+  const goalName = isDaily ? dailyChallenge.goalName : isChallenge ? challengeGoal : null;
+  const goalType = isDaily ? dailyChallenge.goalType : isChallenge ? challengeGoalType : null;
 
   const maxLinks = isRarity ? rarityLength : Infinity;
 
-  const [phase, setPhase] = useState(isDaily ? "playing" : "start");
+  const [phase, setPhase] = useState(hasGoal ? "playing" : "start");
   const [history, setHistory] = useState(
-    isDaily ? [{ name: startName, type: startType, points: 0 }] : []
+    hasGoal ? [{ name: startName, type: startType, points: 0 }] : []
   );
-  const [currentItem, setCurrentItem] = useState(isDaily ? startName : null);
-  const [currentType, setCurrentType] = useState(isDaily ? startType : null);
+  const [currentItem, setCurrentItem] = useState(hasGoal ? startName : null);
+  const [currentType, setCurrentType] = useState(hasGoal ? startType : null);
   const [input, setInput] = useState("");
   const [error, setError] = useState("");
   const [gameOver, setGameOver] = useState(false);
@@ -452,6 +643,7 @@ function Game({ onBack, modeType = "free", rarityLength = 10 }) {
   const [flash, setFlash] = useState(false);
   const [totalScore, setTotalScore] = useState(0);
   const [shared, setShared] = useState(false);
+  const [sharedLink, setSharedLink] = useState(false);
   const [suggestions, setSuggestions] = useState([]);
 
   const inputRef = useRef(null);
@@ -468,11 +660,8 @@ function Game({ onBack, modeType = "free", rarityLength = 10 }) {
   const linksUsed = history.length > 0 ? history.length - 1 : 0;
   const atLimit = isRarity && linksUsed >= maxLinks;
 
-  const reachedGoal =
-    isDaily &&
-    history.length > 0 &&
-    history[history.length - 1].type === goalType &&
-    history[history.length - 1].name === goalName;
+  const lastItem = history.length > 0 ? history[history.length - 1] : null;
+  const reachedGoal = hasGoal && !!lastItem && goalReached(lastItem.name, lastItem.type, goalName, goalType);
 
   const updateSuggestions = (value) => {
     const query = value.trim().toLowerCase();
@@ -584,12 +773,7 @@ setSuggestions(matches);
       setTotalScore((s) => s + points);
       triggerFlash();
 
-      const reachedDailyGoal =
-        isDaily &&
-        type === goalType &&
-        name === goalName;
-
-      if (reachedDailyGoal) {
+      if (hasGoal && goalReached(name, type, goalName, goalType)) {
         setTimeout(() => setGameOver(true), 600);
       }
 
@@ -615,7 +799,7 @@ setSuggestions(matches);
   };
 
   const reset = () => {
-    if (isDaily) {
+    if (hasGoal) {
       setHistory([{ name: startName, type: startType, points: 0 }]);
       setCurrentItem(startName);
       setCurrentType(startType);
@@ -647,10 +831,11 @@ setSuggestions(matches);
     let modeLabel = "Free Play";
     if (isDaily) modeLabel = "Daily Link";
     if (isRarity) modeLabel = `Rarity Run ${rarityLength}`;
+    if (isChallenge) modeLabel = "Challenge";
 
     let text = `🔗 Sports Link ${modeLabel} — ${today}\n\n`;
 
-    if (isDaily) {
+    if (hasGoal) {
       text += `${startName} → ${goalName}\n`;
     }
 
@@ -679,11 +864,34 @@ setSuggestions(matches);
     setTimeout(() => setShared(false), 2500);
   };
 
+  const shareChallengeResult = async () => {
+    const today = new Date().toLocaleDateString("en-US", { month: "short", day: "numeric" });
+    const chain = history.map((h) => getItemEmoji(h)).join("");
+    const params = new URLSearchParams({ start: startName, startType, goal: goalName, goalType });
+    const url = `sportslinkgame.com?${params}`;
+
+    let text = `🔗 Sports Link Challenge — ${today}\n\n`;
+    text += `${startName} → ${goalName}\n`;
+    text += `${chain}\n\n`;
+    text += `${linksUsed} link${linksUsed !== 1 ? "s" : ""} · ${totalScore} pts`;
+    text += wrongAnswer ? " ❌" : " ✅";
+    text += `\n\nCan you beat me? \nhttps://${url}`;
+
+    try { await navigator.clipboard.writeText(text); }
+    catch {
+      const ta = document.createElement("textarea");
+      ta.value = text; document.body.appendChild(ta); ta.select();
+      document.execCommand("copy"); document.body.removeChild(ta);
+    }
+    setSharedLink(true);
+    setTimeout(() => setSharedLink(false), 2500);
+  };
+
   const activeColor = currentType ? TYPE_COLORS[currentType] : "#ff4444";
   const activeBg = currentType ? TYPE_BG[currentType] : "transparent";
 
   if (gameOver) {
-    const completed = !wrongAnswer && (reachedGoal || atLimit || modeType === "free");
+    const completed = !wrongAnswer && (reachedGoal || atLimit || modeType === "free" || isChallenge);
 
     return (
       <div className="container">
@@ -696,15 +904,15 @@ setSuggestions(matches);
             {wrongAnswer ? "GAME OVER" : "COMPLETE!"}
           </div>
 
-          {isDaily && (
+          {hasGoal && (
             <div className="daily-challenge-box">
-              <div className="daily-challenge-label">DAILY LINK</div>
+              <div className="daily-challenge-label">{isChallenge ? "CHALLENGE" : "DAILY LINK"}</div>
               <div className="daily-challenge-route">
                 <span className="daily-node start">{startName}</span>
                 <span className="daily-arrow">→</span>
                 <span className="daily-node goal">{goalName}</span>
               </div>
-              <div className="daily-par">Par: {dailyChallenge.par}</div>
+              {isDaily && <div className="daily-par">Par: {dailyChallenge.par}</div>}
             </div>
           )}
 
@@ -733,9 +941,15 @@ setSuggestions(matches);
           <History history={history} showPoints={showPoints} />
 
           <div className="btn-row">
-            <button className="btn-share" onClick={shareResult}>
-              {shared ? "✓ COPIED!" : "📋 SHARE RESULT"}
-            </button>
+            {isChallenge ? (
+              <button className="btn-share" onClick={shareChallengeResult}>
+                {sharedLink ? "✓ COPIED!" : "🔗 SHARE CHALLENGE"}
+              </button>
+            ) : (
+              <button className="btn-share" onClick={shareResult}>
+                {shared ? "✓ COPIED!" : "📋 SHARE RESULT"}
+              </button>
+            )}
           </div>
 
           <div className="btn-row">
@@ -760,7 +974,7 @@ setSuggestions(matches);
         </button>
 
         <div className="score-area">
-          {(isDaily || isRarity) && (
+          {(isDaily || isRarity || isChallenge) && (
             <div className="score-pill links-pill">
               <span className="score-pill-label">LINKS</span>
               <span className="score-pill-num">
@@ -781,15 +995,15 @@ setSuggestions(matches);
         </div>
       </div>
 
-      {isDaily && (
+      {hasGoal && (
         <div className="daily-challenge-box">
-          <div className="daily-challenge-label">DAILY LINK</div>
+          <div className="daily-challenge-label">{isChallenge ? "CHALLENGE" : "DAILY LINK"}</div>
           <div className="daily-challenge-route">
             <span className="daily-node start">{startName}</span>
             <span className="daily-arrow">→</span>
             <span className="daily-node goal">{goalName}</span>
           </div>
-          <div className="daily-par">Par: {dailyChallenge.par}</div>
+          {isDaily && <div className="daily-par">Par: {dailyChallenge.par}</div>}
         </div>
       )}
 
@@ -938,7 +1152,19 @@ inputMode="text"
 
 
 export default function App() {
-  const [mode, setMode] = useState(null);
+  const [challengeData, setChallengeData] = useState(() => {
+    const p = new URLSearchParams(window.location.search);
+    const start = p.get("start"), startType = p.get("startType");
+    const goal = p.get("goal"), goalType = p.get("goalType");
+    if (start && startType && goal && goalType) {
+      return { startName: decodeURIComponent(start), startType, goalName: decodeURIComponent(goal), goalType };
+    }
+    return null;
+  });
+  const [mode, setMode] = useState(() => {
+    const p = new URLSearchParams(window.location.search);
+    return (p.get("start") && p.get("goal")) ? "challenge" : null;
+  });
   const [rarityLength, setRarityLength] = useState(10);
   const [showTutorial, setShowTutorial] = useState(() => {
     return localStorage.getItem("sportsLinkTutorialSeen") !== "true";
@@ -967,6 +1193,24 @@ export default function App() {
         onBack={() => setMode(null)}
         modeType="rarity"
         rarityLength={rarityLength}
+      />
+    );
+  } else if (mode === "challenge-setup") {
+    screen = (
+      <ChallengeSetup
+        onBack={() => setMode(null)}
+        onPlay={(c) => { setChallengeData(c); setMode("challenge"); }}
+      />
+    );
+  } else if (mode === "challenge") {
+    screen = (
+      <Game
+        onBack={() => setMode(null)}
+        modeType="challenge"
+        challengeStart={challengeData?.startName}
+        challengeStartType={challengeData?.startType}
+        challengeGoal={challengeData?.goalName}
+        challengeGoalType={challengeData?.goalType}
       />
     );
   } else if (mode === "rules") {
@@ -1024,6 +1268,7 @@ export default function App() {
             setRarityLength(len);
             setMode("rarity");
           }}
+          onChallenge={() => setMode("challenge-setup")}
           onRules={() => setMode("rules")}
           onPrivacy={() => setMode("privacy")}
         />

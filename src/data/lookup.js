@@ -50,6 +50,7 @@ function getColleges(player) {
   return raw
     .flatMap((c) => String(c).split(";"))
     .flatMap((c) => String(c).split(" and "))
+    .flatMap((c) => String(c).split(","))
     .map((c) => c.trim())
     .filter(Boolean);
 }
@@ -595,6 +596,176 @@ export function getRarityScore(fromItem, fromType, toName, toType) {
 
   return Math.max(1, Math.min(100, points));
 }
+
+export function findAnyItem(input) {
+  const trimmed = String(input).trim();
+
+  const team = findTeam(trimmed);
+  if (team) return { name: team.name, type: "team" };
+
+  // College before player — prevents e.g. "Alabama" resolving to "Alabama Pitts"
+  const college = findCollege(trimmed);
+  if (college) return { name: college, type: "college" };
+
+  const player = findPlayer(trimmed);
+  if (player) return { name: player.display_name || player.name, type: "player" };
+
+  const numStr = normalizeNumber(trimmed);
+  if (/^\d{1,2}$/.test(numStr) && numberToPlayers.has(numStr)) {
+    return { name: numStr, type: "number" };
+  }
+
+  return null;
+}
+
+// Curated list of well-known players for random challenges — edit freely
+const CHALLENGE_PLAYERS = [
+  // NFL
+  "Tom Brady", "Patrick Mahomes", "Josh Allen", "Lamar Jackson", "Joe Burrow",
+  "Jalen Hurts", "Aaron Rodgers", "Russell Wilson", "Dak Prescott", "Justin Herbert",
+  "Travis Kelce", "Tyreek Hill", "Davante Adams", "Cooper Kupp", "Stefon Diggs",
+  "Odell Beckham Jr.", "Antonio Brown", "Julio Jones", "Calvin Johnson", "DeAndre Hopkins",
+  "Derrick Henry", "Christian McCaffrey", "Saquon Barkley", "Ezekiel Elliott", "Adrian Peterson",
+  "Aaron Donald", "Micah Parsons", "Myles Garrett", "Von Miller", "J.J. Watt",
+  "Peyton Manning", "Eli Manning", "Drew Brees", "Ben Roethlisberger", "Cam Newton",
+  "LaDainian Tomlinson", "Marshawn Lynch", "Ray Lewis", "Ed Reed", "Larry Fitzgerald",
+  "Tua Tagovailoa", "Jordan Love", "CJ Stroud", "Bryce Young", "Drake Maye",
+  "Nick Bosa", "Sauce Gardner", "Justin Jefferson", "Ja'Marr Chase", "Amon-Ra St. Brown",
+  // NBA
+  "LeBron James", "Stephen Curry", "Kevin Durant", "Giannis Antetokounmpo", "Luka Doncic",
+  "Nikola Jokic", "Joel Embiid", "Jayson Tatum", "Ja Morant", "Damian Lillard",
+  "James Harden", "Kawhi Leonard", "Anthony Davis", "Russell Westbrook", "Paul George",
+  "Kobe Bryant", "Dirk Nowitzki", "Dwyane Wade", "Chris Paul", "Carmelo Anthony",
+  "Shaquille O'Neal", "Tim Duncan", "Vince Carter", "Allen Iverson", "Kevin Garnett",
+  "Victor Wembanyama", "Paolo Banchero", "Cade Cunningham", "Evan Mobley", "Scottie Barnes",
+  "Devin Booker", "Donovan Mitchell", "Zion Williamson", "Trae Young", "Shai Gilgeous-Alexander",
+  "Kyrie Irving", "Draymond Green", "Klay Thompson", "Jimmy Butler", "Bam Adebayo",
+  // MLB
+  "Mike Trout", "Mookie Betts", "Bryce Harper", "Freddie Freeman", "Jose Ramirez",
+  "Fernando Tatis Jr.", "Vladimir Guerrero Jr.", "Juan Soto", "Ronald Acuna Jr.", "Aaron Judge",
+  "Shohei Ohtani", "Nolan Arenado", "Paul Goldschmidt", "Trea Turner", "Corey Seager",
+  "Clayton Kershaw", "Max Scherzer", "Gerrit Cole", "Jacob deGrom", "Justin Verlander",
+  "Derek Jeter", "Albert Pujols", "David Ortiz", "Miguel Cabrera", "Chase Utley",
+  "Ichiro Suzuki", "Alex Rodriguez", "Randy Johnson", "Pedro Martinez", "Roy Halladay",
+  "Paul Skenes", "Gunnar Henderson", "Julio Rodriguez", "Bobby Witt Jr.", "Spencer Strider",
+  "Pete Alonso", "Yordan Alvarez", "Kyle Tucker", "Corbin Carroll", "Michael Harris II",
+];
+
+export function getRandomChallenge() {
+  const teamPool = [];
+  const collegePool = [];
+  const playerPool = [];
+
+  TEAMS.forEach((t) => {
+    if ((teamToPlayers.get(norm(t.name)) || []).length > 0) {
+      teamPool.push({ name: t.name, type: "team" });
+    }
+  });
+
+  const seenColleges = new Set();
+  Object.values(COLLEGE_ALIASES).forEach((canonical) => {
+    if (!canonical || seenColleges.has(canonical)) return;
+    seenColleges.add(canonical);
+    const players = collegeToPlayers.get(norm(canonical));
+    if (players && players.length >= 5) {
+      collegePool.push({ name: canonical, type: "college" });
+    }
+  });
+
+  const challengePlayerSet = new Set(CHALLENGE_PLAYERS.map(norm));
+  const seenPlayers = new Set();
+  PLAYERS.forEach((p) => {
+    const name = p.display_name || p.name;
+    if (!seenPlayers.has(name) && challengePlayerSet.has(norm(name))) {
+      seenPlayers.add(name);
+      playerPool.push({ name, type: "player" });
+    }
+  });
+
+  const nonPlayerPool = [...teamPool, ...collegePool];
+
+  const pick = (pool) => pool[Math.floor(Math.random() * pool.length)];
+  const allPool = [...nonPlayerPool, ...playerPool];
+
+  if (allPool.length < 2) {
+    return { startName: "New York Yankees", startType: "team", goalName: "Los Angeles Lakers", goalType: "team" };
+  }
+
+  const start = pick(allPool);
+  let goal;
+  do {
+    // If start is a player, goal must be non-player (and vice versa is fine)
+    goal = start.type === "player" ? pick(nonPlayerPool) : pick(allPool);
+  } while (!goal || goal.name === start.name);
+
+  return {
+    startName: start.name,
+    startType: start.type,
+    goalName: goal.name,
+    goalType: goal.type,
+  };
+}
+
+export function goalReached(name, type, goalName, goalType) {
+  if (type !== goalType) return false;
+  if (type === "college") return normCollegeName(name) === normCollegeName(goalName);
+  if (type === "team") {
+    const r1 = teamAliasMap.get(norm(name)) || name;
+    const r2 = teamAliasMap.get(norm(goalName)) || goalName;
+    return r1 === r2;
+  }
+  if (type === "number") return normalizeNumber(name) === normalizeNumber(goalName);
+  return name === goalName;
+}
+
+export function getSetupSuggestions(query) {
+  if (!query || query.length < 2) return [];
+
+  const fuzzyNorm = (s) => String(s).toLowerCase().replace(/[.\-']/g, "");
+  const q = fuzzyNorm(query);
+  const qRaw = query.toLowerCase();
+
+  const rank = (name) => {
+    const lo = name.toLowerCase();
+    const fn = fuzzyNorm(name);
+    if (lo.startsWith(qRaw) || fn.startsWith(q)) return 0;
+    if (lo.includes(qRaw) || fn.includes(q)) return 1;
+    return -1;
+  };
+
+  const results = [];
+  const seen = new Set();
+
+  const add = (name, type) => {
+    if (seen.has(name)) return;
+    const r = rank(name);
+    if (r >= 0) { results.push({ name, type, r }); seen.add(name); }
+  };
+
+  // Teams first, then colleges, then players — ensures "Alabama" college
+  // beats "Alabama Pitts" the player when typing school names
+  TEAMS.forEach((t) => add(t.name, "team"));
+
+  const seenColleges = new Set();
+  PLAYERS.forEach((p) => {
+    getColleges(p).forEach((c) => {
+      const display = displayCollegeName(c);
+      if (display && !seenColleges.has(display)) {
+        seenColleges.add(display);
+        add(display, "college");
+      }
+    });
+  });
+
+  PLAYERS.forEach((p) => {
+    const name = p.display_name || p.name;
+    add(name, "player");
+  });
+
+  results.sort((a, b) => a.r - b.r);
+  return results.slice(0, 8);
+}
+
 const duplicateDisplayNames = new Set(
   PLAYERS
     .filter((p) => p.display_name && p.display_name !== p.name)
