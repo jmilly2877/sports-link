@@ -83,7 +83,7 @@ function History({ history, showPoints }) {
   );
 }
 
-function Landing({ onFreePlay, onDaily, onRarity, onChallenge, onRules, onPrivacy }) {
+function Landing({ onFreePlay, onDaily, onRarity, onChallenge, onRules, onPrivacy, onReport }) {
   const stats = getStats();
   const today = new Date().toLocaleDateString("en-US", {
     month: "short",
@@ -197,6 +197,8 @@ function Landing({ onFreePlay, onDaily, onRarity, onChallenge, onRules, onPrivac
         <button className="rules-page-link" onClick={onRules}>How to Play</button>
         <span className="landing-footer-sep">·</span>
         <button className="rules-page-link" onClick={onPrivacy}>Privacy Policy</button>
+        <span className="landing-footer-sep">·</span>
+        <button className="rules-page-link" onClick={onReport}>Report Error</button>
       </div>
     </div>
   );
@@ -304,6 +306,11 @@ function ChallengeSetup({ onBack, onPlay }) {
                   className="report-input"
                   placeholder="Team, player, college, or number"
                   value={startInput}
+                  autoComplete="new-password"
+                  autoCorrect="off"
+                  autoCapitalize="off"
+                  spellCheck="false"
+                  inputMode="text"
                   onChange={(e) => {
                     const v = e.target.value;
                     setStartInput(v); setStartItem(null); setStartErr("");
@@ -337,6 +344,11 @@ function ChallengeSetup({ onBack, onPlay }) {
                   className="report-input"
                   placeholder="Team, player, college, or number"
                   value={goalInput}
+                  autoComplete="new-password"
+                  autoCorrect="off"
+                  autoCapitalize="off"
+                  spellCheck="false"
+                  inputMode="text"
                   onChange={(e) => {
                     const v = e.target.value;
                     setGoalInput(v); setGoalItem(null); setGoalErr("");
@@ -1028,12 +1040,11 @@ setSuggestions(matches);
             <input
               ref={inputRef}
               className="game-input"
-              autoComplete="off"
-autoCorrect="off"
-autoCapitalize="off"
-spellCheck="false"
-name="sports-link-input"
-inputMode="text"
+              autoComplete="new-password"
+              autoCorrect="off"
+              autoCapitalize="off"
+              spellCheck="false"
+              inputMode="text"
               style={{ borderColor: "#ff4444", color: "#ff4444" }}
               placeholder="Enter a team..."
               value={input}
@@ -1091,12 +1102,11 @@ inputMode="text"
                 <input
                   ref={inputRef}
                   className="game-input"
-                  autoComplete="off"
-autoCorrect="off"
-autoCapitalize="off"
-spellCheck="false"
-name="sports-link-input"
-inputMode="text"
+                  autoComplete="new-password"
+                  autoCorrect="off"
+                  autoCapitalize="off"
+                  spellCheck="false"
+                  inputMode="text"
                   style={{
                     borderColor: activeColor,
                     color: activeColor,
@@ -1271,6 +1281,7 @@ export default function App() {
           onChallenge={() => setMode("challenge-setup")}
           onRules={() => setMode("rules")}
           onPrivacy={() => setMode("privacy")}
+          onReport={() => setShowReport(true)}
         />
       </div>
     );
@@ -1285,13 +1296,6 @@ export default function App() {
         aria-label="Rules"
       >
         ?
-      </button>
-      <button
-        className="report-tab"
-        onClick={() => setShowReport(true)}
-        aria-label="Report missing data"
-      >
-        Report Error
       </button>
       {showRules && <RulesOverlay onClose={() => setShowRules(false)} />}
       {showReport && <ReportOverlay onClose={() => setShowReport(false)} />}
