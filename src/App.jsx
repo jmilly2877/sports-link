@@ -1035,6 +1035,7 @@ function Game({ onBack, modeType = "free", rarityLength = 10, challengeStart = n
           <div className="input-row">
             <input
               ref={inputRef}
+              type="search"
               className="game-input"
               autoComplete="off"
               autoCorrect="off"
@@ -1097,6 +1098,7 @@ function Game({ onBack, modeType = "free", rarityLength = 10, challengeStart = n
               <div className="input-row">
                 <input
                   ref={inputRef}
+                  type="search"
                   className="game-input"
                   autoComplete="off"
                   autoCorrect="off"

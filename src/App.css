@@ -409,6 +409,10 @@ body {
 
 .game-input::placeholder { color: #ccc; font-weight: 400; }
 .game-input:focus { box-shadow: 0 2px 10px rgba(0,0,0,0.08); }
+.game-input[type="search"]::-webkit-search-decoration,
+.game-input[type="search"]::-webkit-search-cancel-button,
+.game-input[type="search"]::-webkit-search-results-button,
+.game-input[type="search"]::-webkit-search-results-decoration { display: none; }
 
 .btn-submit {
   padding: 14px 22px;
