@@ -24,11 +24,12 @@ const TYPE_BG = {
   college: "rgba(187,119,0,0.05)",
   number: "rgba(26,153,68,0.05)",
 };
-const TYPE_HINTS = {
-  team: "Name a player who played on this team",
-  player: "Name one of their teams, their college, or a jersey number",
-  college: "Name a player who went to this school",
-  number: "Name a player who wore this number",
+const getHint = (type, item) => {
+  if (type === "team") return `Enter a player who played for the ${item}`;
+  if (type === "player") return `Enter ${item}'s team, college, or jersey number`;
+  if (type === "college") return `Enter a player who went to ${item}`;
+  if (type === "number") return `Enter a player who wore #${item}`;
+  return "";
 };
 const TYPE_EMOJI = { player: "🏃‍♂️", number: "#️⃣", college: "🎓" };
 const TEAM_LEAGUE_EMOJI = { MLB: "⚾️", NFL: "🏈", NBA: "🏀" };
@@ -97,58 +98,51 @@ function Landing({ onFreePlay, onDaily, onRarity, onChallenge, onRules, onPrivac
     <div className="landing">
       <div className="logo-area">
         <h1 className="title">SPORTS LINK</h1>
-        <p className="tagline">Chain teams, players, colleges &amp; numbers.</p>
+        <p className="tagline">Connect teams, players, colleges &amp; numbers.</p>
       </div>
 
-      <div className="mode-buttons">
-        <button className="mode-btn daily-btn" onClick={onDaily}>
-          <div className="daily-kicker">
-            <div className="daily-dot" />
-            <span className="daily-kicker-label">DAILY CHALLENGE</span>
+      {/* Hero: Daily Challenge */}
+      <div className="daily-hero">
+        <div className="daily-hero-header">
+          <div className="daily-dot" />
+          <span className="daily-kicker-label">DAILY LINK</span>
+          <span className="daily-hero-date">{today}</span>
+        </div>
+
+        <div className="daily-hero-route">
+          <div className="daily-hero-node">
+            <div className="daily-card-label">START</div>
+            <div className="daily-hero-name">{daily.startName}</div>
           </div>
-          <div className="daily-card-route">
-            <div className="daily-card-node">
-              <div className="daily-card-label">START</div>
-              <div className="daily-card-name">{daily.startName}</div>
-            </div>
-            <div className="daily-card-arrow">→</div>
-            <div className="daily-card-node">
-              <div className="daily-card-label">GOAL</div>
-              <div className="daily-card-name">{daily.goalName}</div>
-            </div>
+          <div className="daily-hero-arrow">→</div>
+          <div className="daily-hero-node">
+            <div className="daily-card-label">GOAL</div>
+            <div className="daily-hero-name">{daily.goalName}</div>
           </div>
-          <div className="daily-card-divider" />
-          <div className="mode-btn-date">{daily.par} links · {today}</div>
+        </div>
+
+        <div className="daily-hero-par">
+          Par: {daily.par} Links
+        </div>
+
+        <button className="play-today-btn" onClick={onDaily}>
+          PLAY TODAY
         </button>
+      </div>
 
-        {/*
-<div className="mode-btn rarity-btn" onClick={() => onRarity(10)}>
-  <div className="mode-btn-top">
-    <span className="mode-btn-icon">💎</span>
-    <span className="mode-btn-title">RARITY RUN</span>
-  </div>
-  <div className="mode-btn-desc">
-    Build the rarest chain possible. Higher score = rarer links. Starting team is free.
-  </div>
-  <div className="rarity-options">
-    <button onClick={(e) => { e.stopPropagation(); onRarity(5); }}>5 LINKS</button>
-    <button onClick={(e) => { e.stopPropagation(); onRarity(10); }}>10 LINKS</button>
-    <button onClick={(e) => { e.stopPropagation(); onRarity(20); }}>20 LINKS</button>
-  </div>
-</div>
-*/}
-
+      {/* Secondary modes */}
+      <div className="secondary-modes">
         <button className="mode-btn free-btn" onClick={onFreePlay}>
-          <div className="mode-btn-title" style={{ marginBottom: 6 }}>Free play</div>
+          <div className="mode-btn-title">FREE PLAY</div>
           <div className="mode-btn-desc">Pick any team. No limits.</div>
         </button>
 
-        <button className="mode-btn challenge-btn" onClick={onChallenge}>
+        <button className="mode-btn challenge-friend-btn" onClick={onChallenge}>
           <div className="mode-btn-top">
             <span className="mode-btn-icon">🔗</span>
-            <span className="mode-btn-title">CHALLENGE</span>
+            <span className="mode-btn-title">CHALLENGE A FRIEND</span>
           </div>
-          <div className="mode-btn-desc">Set a chain, share the link, challenge a friend.</div>
+          <div className="mode-btn-desc">Set a chain, share the link.</div>
         </button>
       </div>
 
@@ -1086,7 +1080,7 @@ function Game({ onBack, modeType = "free", rarityLength = 10, challengeStart = n
               {currentItem}
             </div>
 
-            <div className="hint">{TYPE_HINTS[currentType]}</div>
+            <div className="hint">{getHint(currentType, currentItem)}</div>
           </div>
 
           {history.length > 0 && (
