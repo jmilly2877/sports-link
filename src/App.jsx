@@ -6,6 +6,7 @@ import {
   getStats,
   getRarityScore,
   getSuggestionOptions,
+  getTeamSuggestionsForQuery,
   getTeamLeague,
   findAnyItem,
   getRandomChallenge,
@@ -306,7 +307,7 @@ function ChallengeSetup({ onBack, onPlay }) {
                   className="report-input"
                   placeholder="Team, player, college, or number"
                   value={startInput}
-                  autoComplete="new-password"
+                  autoComplete="off"
                   autoCorrect="off"
                   autoCapitalize="off"
                   spellCheck="false"
@@ -344,7 +345,7 @@ function ChallengeSetup({ onBack, onPlay }) {
                   className="report-input"
                   placeholder="Team, player, college, or number"
                   value={goalInput}
-                  autoComplete="new-password"
+                  autoComplete="off"
                   autoCorrect="off"
                   autoCapitalize="off"
                   spellCheck="false"
@@ -633,7 +634,7 @@ function Game({ onBack, modeType = "free", rarityLength = 10, challengeStart = n
   const isRarity = modeType === "rarity";
   const isChallenge = modeType === "challenge";
   const hasGoal = isDaily || isChallenge;
-  const showPoints = true;
+  const showPoints = false;
 
   const startName = isDaily ? dailyChallenge.startName : isChallenge ? challengeStart : null;
   const startType = isDaily ? dailyChallenge.startType : isChallenge ? challengeStartType : null;
@@ -683,18 +684,34 @@ function Game({ onBack, modeType = "free", rarityLength = 10, challengeStart = n
       return;
     }
 
-    let type = null;
+    const fuzzyNorm = (s) => s.toLowerCase().replace(/[.\-']/g, "");
+    const normQuery = fuzzyNorm(query);
 
-    if (
-      currentType === "team" ||
-      currentType === "college" ||
-      currentType === "number"
-    ) {
-      type = "player";
-    }
+    const filterOptions = (options) => {
+      const sw = options.filter((o) => {
+        const lo = o.toLowerCase();
+        return lo.startsWith(query) || fuzzyNorm(o).startsWith(normQuery);
+      });
+      const inc = options.filter((o) => {
+        if (sw.includes(o)) return false;
+        const lo = o.toLowerCase();
+        return lo.includes(query) || fuzzyNorm(o).includes(normQuery);
+      });
+      return [...sw, ...inc];
+    };
 
     if (currentType === "player") {
-      type = "college";
+      const teamMatches = getTeamSuggestionsForQuery(value.trim());
+      const collegeMatches = filterOptions(getSuggestionOptions("college"));
+      const seen = new Set(teamMatches);
+      const colleges = collegeMatches.filter((c) => !seen.has(c));
+      setSuggestions([...teamMatches, ...colleges].slice(0, 8));
+      return;
+    }
+
+    let type = null;
+    if (currentType === "team" || currentType === "college" || currentType === "number") {
+      type = "player";
     }
 
     if (!type) {
@@ -702,28 +719,7 @@ function Game({ onBack, modeType = "free", rarityLength = 10, challengeStart = n
       return;
     }
 
-    const options = getSuggestionOptions(type);
-
-    const fuzzyNorm = (s) => s.toLowerCase().replace(/[.\-']/g, "");
-    const normQuery = fuzzyNorm(query);
-
-    const startsWithMatches = options.filter((option) => {
-      const lo = option.toLowerCase();
-      return lo.startsWith(query) || fuzzyNorm(option).startsWith(normQuery);
-    });
-
-    const includesMatches = options.filter((option) => {
-      if (startsWithMatches.includes(option)) return false;
-      const lo = option.toLowerCase();
-      return lo.includes(query) || fuzzyNorm(option).includes(normQuery);
-    });
-
-    const matches = [
-      ...startsWithMatches,
-      ...includesMatches,
-    ].slice(0, 8);
-
-setSuggestions(matches);
+    setSuggestions(filterOptions(getSuggestionOptions(type)).slice(0, 8));
   };
 
   const startGame = () => {
@@ -885,7 +881,7 @@ setSuggestions(matches);
     let text = `🔗 Sports Link Challenge — ${today}\n\n`;
     text += `${startName} → ${goalName}\n`;
     text += `${chain}\n\n`;
-    text += `${linksUsed} link${linksUsed !== 1 ? "s" : ""} · ${totalScore} pts`;
+    text += `${linksUsed} link${linksUsed !== 1 ? "s" : ""}`;
     text += wrongAnswer ? " ❌" : " ✅";
     text += `\n\nCan you beat me? \nhttps://${url}`;
 
@@ -1040,7 +1036,7 @@ setSuggestions(matches);
             <input
               ref={inputRef}
               className="game-input"
-              autoComplete="new-password"
+              autoComplete="off"
               autoCorrect="off"
               autoCapitalize="off"
               spellCheck="false"
@@ -1102,7 +1098,7 @@ setSuggestions(matches);
                 <input
                   ref={inputRef}
                   className="game-input"
-                  autoComplete="new-password"
+                  autoComplete="off"
                   autoCorrect="off"
                   autoCapitalize="off"
                   spellCheck="false"

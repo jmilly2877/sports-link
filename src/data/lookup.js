@@ -821,3 +821,31 @@ if (type === "college") {
   return Array.from(colleges).sort();
 }
 }
+
+export function getTeamSuggestionsForQuery(query) {
+  if (!query || query.length < 2) return [];
+  const fuzzyNorm = (s) => s.toLowerCase().replace(/[.\-']/g, "");
+  const q = fuzzyNorm(query.trim());
+  const qRaw = query.trim().toLowerCase();
+
+  const startsWithMatches = [];
+  const includesMatches = [];
+  const seen = new Set();
+
+  TEAMS.forEach((team) => {
+    if (seen.has(team.name)) return;
+    const candidates = [team.name, ...team.aliases].filter(Boolean);
+    const isStartsWith = candidates.some((n) => {
+      const lo = n.toLowerCase();
+      return lo.startsWith(qRaw) || fuzzyNorm(n).startsWith(q);
+    });
+    const isIncludes = !isStartsWith && candidates.some((n) => {
+      const lo = n.toLowerCase();
+      return lo.includes(qRaw) || fuzzyNorm(n).includes(q);
+    });
+    if (isStartsWith) { startsWithMatches.push(team.name); seen.add(team.name); }
+    else if (isIncludes) { includesMatches.push(team.name); seen.add(team.name); }
+  });
+
+  return [...startsWithMatches, ...includesMatches];
+}

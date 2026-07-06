@@ -4,13 +4,13 @@ body {
   background: #f0eeeb;
   color: #1a1a2e;
   font-family: 'Barlow Condensed', 'Impact', 'Arial Narrow', sans-serif;
-  min-height: 100vh;
+  min-height: 100dvh;
   -webkit-font-smoothing: antialiased;
   overflow-x: hidden;
 }
 
 .container {
-  min-height: 100vh;
+  min-height: 100dvh;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -586,6 +586,15 @@ body {
 .history-box::-webkit-scrollbar { width: 4px; }
 .history-box::-webkit-scrollbar-track { background: transparent; }
 .history-box::-webkit-scrollbar-thumb { background: #ddd; border-radius: 2px; }
+
+/* ===== MOBILE KEYBOARD FIX ===== */
+/* On mobile, cap history height so the CURRENT card + input both fit
+   in the viewport area above the keyboard (no page scroll needed). */
+@media (max-width: 600px) {
+  .history-box {
+    max-height: 110px;
+  }
+}
 
 /* ===== DAILY CHALLENGE BOX (in-game) ===== */
 .daily-challenge-box {
