@@ -287,7 +287,7 @@ export function getDailyLinkChallenge() {
     { startType: "team", startName: "Miami Marlins",           goalType: "player", goalName: "Aaron Rodgers"      },
   ];
 
-  const challenge = candidates[Math.max(0, Math.min(dayIndex, candidates.length - 1))];
+  const challenge = candidates[((dayIndex % candidates.length) + candidates.length) % candidates.length];
   const optimalPath = findShortestPath(
     challenge.startType,
     challenge.startName,
